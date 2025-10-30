@@ -19,24 +19,25 @@ class ShieldConfigurationExtension: ShieldConfigurationDataSource {
         // No need to save quote - main app will independently calculate the same quote
         // No IPC needed thanks to deterministic time-based selection!
 
-        // Create the shield configuration with Liquid Glass aesthetics
+        // Create the shield configuration with Opus Liquid Glass aesthetics
+        // Note: ShieldConfiguration API is limited - we can only style with colors/labels
         return ShieldConfiguration(
             backgroundBlurStyle: .systemUltraThinMaterial,
-            backgroundColor: UIColor(white: 0.0, alpha: 0.3),
-            icon: UIImage(systemName: "book.fill"),
+            backgroundColor: UIColor(red: 0.102, green: 0.0, blue: 0.2, alpha: 0.85), // Opus dark purple #1a0033
+            icon: UIImage(systemName: "quote.bubble.fill"),
             title: ShieldConfiguration.Label(
-                text: "\"\(quote.text)\"",
-                color: .white
+                text: quote.text,
+                color: UIColor(white: 1.0, alpha: 0.95)
             ),
             subtitle: ShieldConfiguration.Label(
-                text: "— \(quote.author), \(quote.bookTitle)",
-                color: UIColor(white: 0.8, alpha: 1.0)
+                text: "\(quote.author) • \(quote.bookTitle)",
+                color: UIColor(white: 1.0, alpha: 0.6)
             ),
             primaryButtonLabel: ShieldConfiguration.Label(
-                text: "Open PageInstead to discover this book",
-                color: UIColor(red: 0.4, green: 0.75, blue: 1.0, alpha: 1.0)
+                text: "Discover This Book",
+                color: UIColor(red: 0.424, green: 0.784, blue: 1.0, alpha: 1.0) // Opus blue #6CC8FF
             ),
-            primaryButtonBackgroundColor: UIColor.clear
+            primaryButtonBackgroundColor: UIColor(red: 0.424, green: 0.784, blue: 1.0, alpha: 0.15)
         )
     }
 
@@ -57,21 +58,21 @@ class ShieldConfigurationExtension: ShieldConfigurationDataSource {
 
         return ShieldConfiguration(
             backgroundBlurStyle: .systemUltraThinMaterial,
-            backgroundColor: UIColor(white: 0.0, alpha: 0.3),
-            icon: UIImage(systemName: "book.fill"),
+            backgroundColor: UIColor(red: 0.102, green: 0.0, blue: 0.2, alpha: 0.85), // Opus dark purple #1a0033
+            icon: UIImage(systemName: "quote.bubble.fill"),
             title: ShieldConfiguration.Label(
-                text: "\"\(quote.text)\"",
-                color: .white
+                text: quote.text,
+                color: UIColor(white: 1.0, alpha: 0.95)
             ),
             subtitle: ShieldConfiguration.Label(
-                text: "— \(quote.author), \(quote.bookTitle)",
-                color: UIColor(white: 0.8, alpha: 1.0)
+                text: "\(quote.author) • \(quote.bookTitle)",
+                color: UIColor(white: 1.0, alpha: 0.6)
             ),
             primaryButtonLabel: ShieldConfiguration.Label(
-                text: "Open PageInstead to discover this book",
-                color: UIColor(red: 0.4, green: 0.75, blue: 1.0, alpha: 1.0)
+                text: "Discover This Book",
+                color: UIColor(red: 0.424, green: 0.784, blue: 1.0, alpha: 1.0) // Opus blue #6CC8FF
             ),
-            primaryButtonBackgroundColor: UIColor.clear
+            primaryButtonBackgroundColor: UIColor(red: 0.424, green: 0.784, blue: 1.0, alpha: 0.15)
         )
     }
 
@@ -85,18 +86,21 @@ class ShieldConfigurationExtension: ShieldConfigurationDataSource {
     private func createFallbackConfiguration() -> ShieldConfiguration {
         return ShieldConfiguration(
             backgroundBlurStyle: .systemUltraThinMaterial,
-            backgroundColor: UIColor(white: 0.0, alpha: 0.3),
+            backgroundColor: UIColor(red: 0.102, green: 0.0, blue: 0.2, alpha: 0.85), // Opus dark purple #1a0033
             icon: UIImage(systemName: "book.fill"),
             title: ShieldConfiguration.Label(
                 text: "Time to read instead",
-                color: .white
+                color: UIColor(white: 1.0, alpha: 0.95)
             ),
             subtitle: ShieldConfiguration.Label(
                 text: "Open PageInstead to discover great books",
-                color: UIColor(white: 0.8, alpha: 1.0)
+                color: UIColor(white: 1.0, alpha: 0.6)
             ),
-            primaryButtonLabel: nil,
-            primaryButtonBackgroundColor: UIColor.clear
+            primaryButtonLabel: ShieldConfiguration.Label(
+                text: "Open PageInstead",
+                color: UIColor(red: 0.424, green: 0.784, blue: 1.0, alpha: 1.0)
+            ),
+            primaryButtonBackgroundColor: UIColor(red: 0.424, green: 0.784, blue: 1.0, alpha: 0.15)
         )
     }
 }

@@ -8,50 +8,54 @@ struct QuoteHistoryView: View {
     @State private var windowCount: Int = 50 // Show last ~4 hours
 
     var body: some View {
-        NavigationView {
-            ZStack {
-                if recentWindows.isEmpty {
-                    emptyStateView
-                } else {
-                    historyListView
-                }
+        ZStack {
+            // Animated gradient background
+            AnimatedGradientBackground.standard()
+
+            if recentWindows.isEmpty {
+                emptyStateView
+            } else {
+                historyListView
             }
-            .navigationTitle("Recent Quotes")
-            .navigationBarTitleDisplayMode(.large)
-            .toolbar {
-                ToolbarItem(placement: .navigationBarTrailing) {
-                    Button(action: loadRecentQuotes) {
-                        Image(systemName: "arrow.clockwise")
-                    }
-                }
-            }
-            .onAppear {
-                loadRecentQuotes()
-            }
+        }
+        .onAppear {
+            loadRecentQuotes()
         }
     }
 
     // MARK: - Empty State
     private var emptyStateView: some View {
-        VStack(spacing: 20) {
+        VStack(spacing: 32) {
             Image(systemName: "clock.arrow.circlepath")
                 .font(.system(size: 60))
-                .foregroundColor(.gray)
+                .foregroundColor(Color(hex: "6CC8FF").opacity(0.8))
 
-            Text("Recent Quote Schedule")
-                .font(.title2)
-                .fontWeight(.semibold)
+            VStack(spacing: 12) {
+                Text("Recent Quote Schedule")
+                    .font(.system(size: 28, weight: .bold))
+                    .foregroundColor(.white)
 
-            Text("See which quotes appeared in recent time windows. Every quote changes every 5 minutes.")
-                .font(.body)
-                .foregroundColor(.secondary)
-                .multilineTextAlignment(.center)
-                .padding(.horizontal, 40)
+                Text("See which quotes appeared in recent time windows. Every quote changes every 5 minutes.")
+                    .font(.system(size: 16))
+                    .foregroundColor(.white.opacity(0.7))
+                    .multilineTextAlignment(.center)
+                    .padding(.horizontal, 40)
+            }
 
             Button("Load Recent Quotes") {
                 loadRecentQuotes()
             }
-            .buttonStyle(.borderedProminent)
+            .font(.system(size: 17, weight: .semibold))
+            .foregroundColor(Color(hex: "6CC8FF"))
+            .frame(maxWidth: 200)
+            .padding(.vertical, 18)
+            .background(Color(hex: "6CC8FF").opacity(0.2))
+            .background(.ultraThinMaterial)
+            .cornerRadius(18)
+            .overlay(
+                RoundedRectangle(cornerRadius: 18)
+                    .stroke(Color(hex: "6CC8FF").opacity(0.4), lineWidth: 1)
+            )
         }
         .padding()
     }
@@ -59,73 +63,128 @@ struct QuoteHistoryView: View {
     // MARK: - History List
     private var historyListView: some View {
         ScrollView {
-            LazyVStack(spacing: 0) {
-                // Info header
-                infoHeaderView
-                    .padding(.horizontal, 16)
-                    .padding(.vertical, 12)
+            VStack(spacing: 24) {
+                // Header
+                HStack {
+                    Text("Quote History")
+                        .font(.system(size: 42, weight: .bold))
+                        .foregroundColor(.white)
 
-                // Window list
-                ForEach(Array(groupedByDay.keys.sorted(by: >)), id: \.self) { dateString in
-                    Section {
-                        ForEach(groupedByDay[dateString] ?? [], id: \.time) { window in
-                            WindowRow(time: window.time, quote: window.quote)
+                    Spacer()
 
-                            if window.time != (groupedByDay[dateString]?.last?.time) {
-                                Divider()
-                                    .padding(.leading, 16)
-                            }
-                        }
-                    } header: {
-                        HStack {
-                            Text(dateString)
-                                .font(.headline)
-                                .padding(.horizontal, 16)
-                                .padding(.vertical, 8)
-                            Spacer()
-                        }
-                        .background(.ultraThinMaterial)
+                    Button(action: loadRecentQuotes) {
+                        Image(systemName: "arrow.clockwise")
+                            .font(.system(size: 20))
+                            .foregroundColor(Color(hex: "6CC8FF"))
+                            .frame(width: 44, height: 44)
+                            .background(Color(hex: "6CC8FF").opacity(0.2))
+                            .background(.ultraThinMaterial)
+                            .clipShape(Circle())
+                            .overlay(
+                                Circle()
+                                    .stroke(Color(hex: "6CC8FF").opacity(0.4), lineWidth: 1)
+                            )
                     }
                 }
+                .padding(.horizontal)
+                .padding(.top, 60)
+
+                // Info header
+                infoHeaderView
+                    .padding(.horizontal)
+
+                // Window list
+                VStack(spacing: 20) {
+                    ForEach(Array(groupedByDay.keys.sorted(by: >)), id: \.self) { dateString in
+                        VStack(alignment: .leading, spacing: 12) {
+                            // Day header
+                            Text(dateString)
+                                .font(.system(size: 20, weight: .semibold))
+                                .foregroundColor(.white)
+                                .padding(.horizontal)
+
+                            // Quotes for this day
+                            VStack(spacing: 1) {
+                                ForEach(groupedByDay[dateString] ?? [], id: \.time) { window in
+                                    WindowRow(time: window.time, quote: window.quote)
+                                }
+                            }
+                            .background(Color.white.opacity(0.04))
+                            .background(.ultraThinMaterial)
+                            .cornerRadius(20)
+                            .overlay(
+                                RoundedRectangle(cornerRadius: 20)
+                                    .stroke(Color.white.opacity(0.08), lineWidth: 1)
+                            )
+                            .padding(.horizontal)
+                        }
+                    }
+                }
+
+                Spacer(minLength: 80)
             }
-        }
-        .refreshable {
-            loadRecentQuotes()
         }
     }
 
     // MARK: - Info Header
     private var infoHeaderView: some View {
-        VStack(spacing: 8) {
-            HStack {
-                VStack(alignment: .leading, spacing: 4) {
-                    Text("Recent Windows")
-                        .font(.caption)
-                        .foregroundColor(.secondary)
-                    Text("\(recentWindows.count)")
-                        .font(.title2)
-                        .fontWeight(.bold)
-                }
+        HStack(spacing: 16) {
+            // Recent Windows count
+            VStack(alignment: .leading, spacing: 8) {
+                Image(systemName: "clock.arrow.circlepath")
+                    .font(.system(size: 24))
+                    .foregroundColor(Color(hex: "6CC8FF"))
 
                 Spacer()
 
-                VStack(alignment: .trailing, spacing: 4) {
-                    Text("Showing last")
-                        .font(.caption)
-                        .foregroundColor(.secondary)
-                    Text("~\(windowCount * 5) minutes")
-                        .font(.title3)
-                        .fontWeight(.semibold)
+                VStack(alignment: .leading, spacing: 4) {
+                    Text("\(recentWindows.count)")
+                        .font(.system(size: 32, weight: .bold))
+                        .foregroundColor(.white)
+
+                    Text("windows")
+                        .font(.system(size: 13, weight: .medium))
+                        .foregroundColor(.white.opacity(0.6))
                 }
             }
+            .frame(maxWidth: .infinity, alignment: .leading)
+            .padding(20)
+            .background(Color.white.opacity(0.06))
+            .background(.ultraThinMaterial)
+            .cornerRadius(20)
+            .overlay(
+                RoundedRectangle(cornerRadius: 20)
+                    .stroke(Color.white.opacity(0.08), lineWidth: 1)
+            )
 
-            Text("Quotes change every 5 minutes. This shows which quote appeared in each recent time window.")
-                .font(.caption)
-                .foregroundColor(.secondary)
-                .multilineTextAlignment(.leading)
+            // Time Duration
+            VStack(alignment: .leading, spacing: 8) {
+                Image(systemName: "timer")
+                    .font(.system(size: 24))
+                    .foregroundColor(Color(hex: "6CC8FF"))
+
+                Spacer()
+
+                VStack(alignment: .leading, spacing: 4) {
+                    Text("~\(windowCount * 5)")
+                        .font(.system(size: 32, weight: .bold))
+                        .foregroundColor(.white)
+
+                    Text("minutes")
+                        .font(.system(size: 13, weight: .medium))
+                        .foregroundColor(.white.opacity(0.6))
+                }
+            }
+            .frame(maxWidth: .infinity, alignment: .leading)
+            .padding(20)
+            .background(Color.white.opacity(0.06))
+            .background(.ultraThinMaterial)
+            .cornerRadius(20)
+            .overlay(
+                RoundedRectangle(cornerRadius: 20)
+                    .stroke(Color.white.opacity(0.08), lineWidth: 1)
+            )
         }
-        .padding()
-        .liquidGlassCard(cornerRadius: 16)
     }
 
     // MARK: - Grouped by day
@@ -169,46 +228,18 @@ struct WindowRow: View {
     let quote: BookQuote
 
     var body: some View {
-        HStack(alignment: .top, spacing: 12) {
+        HStack(alignment: .center, spacing: 16) {
             // Time
             VStack(alignment: .leading, spacing: 2) {
                 Text(time, style: .time)
-                    .font(.headline)
-                    .foregroundColor(.blue)
+                    .font(.system(size: 16, weight: .semibold))
+                    .foregroundColor(Color(hex: "6CC8FF"))
 
                 Text("5 min")
-                    .font(.caption2)
-                    .foregroundColor(.secondary)
+                    .font(.system(size: 11, weight: .medium))
+                    .foregroundColor(.white.opacity(0.4))
             }
-            .frame(width: 70, alignment: .leading)
-
-            // Quote Preview
-            VStack(alignment: .leading, spacing: 6) {
-                Text(quote.text)
-                    .font(.body)
-                    .lineLimit(2)
-
-                HStack(spacing: 8) {
-                    Text("— \(quote.author)")
-                        .font(.caption)
-                        .foregroundColor(.secondary)
-
-                    if !quote.tags.isEmpty {
-                        HStack(spacing: 4) {
-                            ForEach(quote.tags.prefix(2), id: \.self) { tag in
-                                Text(tag)
-                                    .font(.caption2)
-                                    .foregroundColor(.blue)
-                                    .padding(.horizontal, 6)
-                                    .padding(.vertical, 2)
-                                    .liquidGlassPill(tintColor: .blue)
-                            }
-                        }
-                    }
-                }
-            }
-
-            Spacer()
+            .frame(width: 60, alignment: .leading)
 
             // Book cover thumbnail
             if let coverURL = quote.coverImageURL, let url = URL(string: coverURL) {
@@ -218,19 +249,39 @@ struct WindowRow: View {
                         image
                             .resizable()
                             .aspectRatio(contentMode: .fit)
-                            .frame(width: 30, height: 45)
+                            .frame(width: 28, height: 42)
                             .cornerRadius(4)
+                            .shadow(color: .black.opacity(0.3), radius: 4)
                     default:
-                        Rectangle()
-                            .fill(Color.gray.opacity(0.2))
-                            .frame(width: 30, height: 45)
-                            .cornerRadius(4)
+                        ZStack {
+                            RoundedRectangle(cornerRadius: 4)
+                                .fill(Color.white.opacity(0.1))
+                                .frame(width: 28, height: 42)
+
+                            Image(systemName: "book.fill")
+                                .font(.system(size: 12))
+                                .foregroundColor(.white.opacity(0.3))
+                        }
                     }
                 }
             }
+
+            // Quote Preview
+            VStack(alignment: .leading, spacing: 6) {
+                Text(quote.text)
+                    .font(.system(size: 15))
+                    .foregroundColor(.white.opacity(0.9))
+                    .lineLimit(2)
+
+                Text(quote.author)
+                    .font(.system(size: 13, weight: .medium))
+                    .foregroundColor(.white.opacity(0.5))
+            }
+
+            Spacer(minLength: 0)
         }
-        .padding(.vertical, 12)
-        .padding(.horizontal, 16)
+        .padding(.vertical, 16)
+        .padding(.horizontal, 20)
         .contentShape(Rectangle())
     }
 }
