@@ -1,0 +1,4262 @@
+{
+  "version": 1,
+  "lastUpdated": "2025-10-30",
+  "quotes": [
+    {
+      "id": 1,
+      "text": "Elon was not one of those eager-beaver types who liked to attract and charm mentors, so the more gregarious Kimbal took the lead in cold-calling the person.",
+      "author": "Walter Isaacson",
+      "bookTitle": "Elon Musk",
+      "bookId": "walter_isaacson_1813",
+      "asin": "B0BW9TRGKV",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B0BW9TRGKV.jpg",
+      "isActive": true,
+      "tags": [
+        "leadership"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 2,
+      "text": "My confidence grew out of knowing that when the spirit was right and the players were attuned to one another, the game was likely to unfold in our favor.",
+      "author": "Phil Jackson",
+      "bookTitle": "Eleven Rings",
+      "bookId": "phil_jackson_2905",
+      "asin": "B00O30HH5Y",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B00O30HH5Y.jpg",
+      "isActive": true,
+      "tags": [
+        "success"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 3,
+      "text": "If time-bucketing your whole life feels a bit overwhelming, just do the exercise with three time buckets covering the next 30 years. Know you can always add more to your list; just do it long before your age and health become a real factor.",
+      "author": "Bill Perkins",
+      "bookTitle": "Die with Zero",
+      "bookId": "bill_perkins_8215",
+      "asin": "B07T5LSF1J",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B07T5LSF1J.jpg",
+      "isActive": true,
+      "tags": [
+        "life"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 4,
+      "text": "We simply need to find the courage to be more creative. The forces that are holding us back have long been unseen, but we can see and understand them and begin to do our work.",
+      "author": "Seth Godin",
+      "bookTitle": "The Practice",
+      "bookId": "seth_godin_2401",
+      "asin": "B088QLT891",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B088QLT891.jpg",
+      "isActive": true,
+      "tags": [
+        "courage",
+        "creativity",
+        "wisdom"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 5,
+      "text": "How was this triple outsider—an East German, a scientist, and a woman of that rare European country to never have a queen—able to achieve all this?",
+      "author": "Kati Marton",
+      "bookTitle": "The Chancellor",
+      "bookId": "kati_marton_1159",
+      "asin": "B08VJMY8KW",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B08VJMY8KW.jpg",
+      "isActive": true,
+      "tags": [
+        "success"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 6,
+      "text": "“If we have to alter the face of the earth before we can fly,” he replied, “we may as well throw up the proposition.” Such was the way of the man, observed a writer who was present. “He never sought to escape by the easy way round.”",
+      "author": "David McCullough",
+      "bookTitle": "The Wright Brothers",
+      "bookId": "david_mccullough_6881",
+      "asin": "B00LD1RWP6",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B00LD1RWP6.jpg",
+      "isActive": true,
+      "tags": [
+        "reading"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 7,
+      "text": "Remember that you are not your tennis game. You are not your body. Trust the body to learn and to play, as you would trust another person to do a job, and in a short time it will perform beyond your expectations. Let the flower grow.",
+      "author": "W. Timothy Gallwey",
+      "bookTitle": "The Inner Game of Tennis",
+      "bookId": "w_timothy_gallwey_3886",
+      "asin": "B003T0G9E4",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B003T0G9E4.jpg",
+      "isActive": true,
+      "tags": [
+        "learning"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 8,
+      "text": "The issue is whether we are ever willing to drop the veil and openly acknowledge, if only to ourselves, that we have freely chosen to face the world through a mask.",
+      "author": "James Carse",
+      "bookTitle": "Finite and Infinite Games",
+      "bookId": "james_carse_7064",
+      "asin": "B004W3FM4A",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B004W3FM4A.jpg",
+      "isActive": true,
+      "tags": [
+        "freedom",
+        "life",
+        "wisdom"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 9,
+      "text": "Whatever qualities the rich may have, they can be acquired by anyone with the tenacity to become rich. The key, I think, is confidence. Confidence and an unshakeable belief it can be done and that you are the one to do it.",
+      "author": "Felix Dennis",
+      "bookTitle": "How to Get Rich",
+      "bookId": "felix_dennis_8651",
+      "asin": "B005CUSEEC",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B005CUSEEC.jpg",
+      "isActive": true,
+      "tags": [
+        "thinking"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 10,
+      "text": "But such feedback should be given on the spot, all year round, and not left unsaid, waiting for the appraisal discussion at the end of the year.",
+      "author": "Frederic Laloux",
+      "bookTitle": "Reinventing Organizations",
+      "bookId": "frederic_laloux_8330",
+      "asin": "B00ICS9VI4",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B00ICS9VI4.jpg",
+      "isActive": true,
+      "tags": [
+        "wisdom"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 11,
+      "text": "You must know that you’re interrupting social norms. You must acknowledge that what you are doing is unusual. If you don’t, you’ll be seen as someone who is out of touch and oblivious, which is not attractive.",
+      "author": "Mark Manson",
+      "bookTitle": "Models",
+      "bookId": "mark_manson_1376",
+      "asin": "B005EOTH24",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B005EOTH24.jpg",
+      "isActive": true,
+      "tags": [
+        "wisdom"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 12,
+      "text": "Remember this: the Gaussian–bell curve variations face a headwind that makes probabilities drop at a faster and faster rate as you move away from the mean, while “scalables,” or Mandelbrotian variations, do not have such a restriction.",
+      "author": "Nassim Nicholas Taleb",
+      "bookTitle": "The Black Swan",
+      "bookId": "nassim_nicholas_taleb_0075",
+      "asin": "B002RI99IM",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B002RI99IM.jpg",
+      "isActive": true,
+      "tags": [
+        "success"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 13,
+      "text": "What you can do is help guide your child back into the flow of the river, into a harmonious state that avoids both chaos and rigidity.",
+      "author": "Daniel J. Siegel, Tina Payne Bryson",
+      "bookTitle": "The Whole-Brain Child",
+      "bookId": "daniel_j_siegel,_tina_payne_bryson_9817",
+      "asin": "B004J4X32U",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B004J4X32U.jpg",
+      "isActive": true,
+      "tags": [
+        "wisdom"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 14,
+      "text": "You also want to be able to hike on a hilly trail? To do that comfortably requires a VO2 max of roughly 30 ml/kg/min.",
+      "author": "Peter  Attia MD",
+      "bookTitle": "Outlive",
+      "bookId": "peter__attia_md_6803",
+      "asin": "B0B1BTJLJN",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B0B1BTJLJN.jpg",
+      "isActive": true,
+      "tags": [
+        "wisdom"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 15,
+      "text": "Using Buffett’s framework: Would you rather people be impressed with your possessions but be miserable inside, or have no one care what you own but wake up happy every morning?",
+      "author": "Morgan Housel",
+      "bookTitle": "The Art of Spending Money",
+      "bookId": "morgan_housel_5747",
+      "asin": "B0F42TZ2FY",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B0F42TZ2FY.jpg",
+      "isActive": true,
+      "tags": [
+        "happiness",
+        "life",
+        "love"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 16,
+      "text": "He seemed to have forgotten the old Tom Perkins dictum: when you invest in a company facing a technical challenge, the first thing you do is take the white-hot risks off the table.",
+      "author": "Sebastian Mallaby",
+      "bookTitle": "The Power Law",
+      "bookId": "sebastian_mallaby_2833",
+      "asin": "B094Q2ZQCV",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B094Q2ZQCV.jpg",
+      "isActive": true,
+      "tags": [
+        "business",
+        "courage"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 17,
+      "text": "In many ways, surrogation is a natural consequence of metrics. It’s because numbers are such a powerful motivating force that, in many cases, they induce tunnel vision—even when we are measuring ourselves.",
+      "author": "Ron Friedman",
+      "bookTitle": "Decoding Greatness",
+      "bookId": "ron_friedman_1208",
+      "asin": "B08BZW5BJ9",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B08BZW5BJ9.jpg",
+      "isActive": true,
+      "tags": [
+        "power",
+        "strategy"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 18,
+      "text": "it also simplifies your life. Your life gets clearer and less complicated because you know what you have to do well and you know what you don’t.",
+      "author": "Gary Keller",
+      "bookTitle": "The One Thing",
+      "bookId": "gary_keller_1817",
+      "asin": "B00D3J2QKW",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B00D3J2QKW.jpg",
+      "isActive": true,
+      "tags": [
+        "life"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 19,
+      "text": "When was the last time you changed your mind about something? We’re afraid of changing our minds because we’re afraid of the consequences of changing our minds. What will people think?",
+      "author": "Austin Kleon",
+      "bookTitle": "Keep Going",
+      "bookId": "austin_kleon_9763",
+      "asin": "B07GNWXTKV",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B07GNWXTKV.jpg",
+      "isActive": true,
+      "tags": [
+        "life",
+        "thinking"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 20,
+      "text": "Midlife is missing out not just on other lives but on the meaning for one’s present life of having them as options. Like the colleague quoted at the start, I want to do my job because I want to do my job, not because I need to pay the bills.",
+      "author": "Kieran Setiya",
+      "bookTitle": "Midlife",
+      "bookId": "kieran_setiya_4860",
+      "asin": "B06ZZRFZ43",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B06ZZRFZ43.jpg",
+      "isActive": true,
+      "tags": [
+        "life"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 21,
+      "text": "(iv) Political purpose (using the word ‘political’ in the widest possible sense): Desire to push the world in a certain direction, to alter other people’s idea of the kind of society that they should strive after.",
+      "author": "George Orwell",
+      "bookTitle": "Why I Write",
+      "bookId": "george_orwell_3282",
+      "asin": "B08S1ZQ856",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B08S1ZQ856.jpg",
+      "isActive": true,
+      "tags": [
+        "life",
+        "thinking"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 22,
+      "text": "They behaved like a collective hedgehog, bending an unfamiliar situation to a familiar comfort zone, as if trying to will it to become something they actually had experienced before. For wildland firefighters, their tools are what they know best.",
+      "author": "David Epstein",
+      "bookTitle": "Range",
+      "bookId": "david_epstein_5394",
+      "asin": "B07H1ZYWTM",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B07H1ZYWTM.jpg",
+      "isActive": true,
+      "tags": [
+        "wisdom"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 23,
+      "text": "There is also the question of when you should make a decision. There are probably only two times to do so – too early and too late. If I was going to err on making one of those mistakes, I far preferred to make the decision earlier rather than later.",
+      "author": "Alex Ferguson",
+      "bookTitle": "Leading",
+      "bookId": "alex_ferguson_9213",
+      "asin": "B00UL8GEAQ",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B00UL8GEAQ.jpg",
+      "isActive": true,
+      "tags": [
+        "wisdom"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 24,
+      "text": "Give a bright recent graduate three months to learn the ropes and he or she could take your place without issue in such a gabfest. So we’ll use three months as our answer.",
+      "author": "Cal Newport",
+      "bookTitle": "Deep Work",
+      "bookId": "cal_newport_1950",
+      "asin": "B013UWFM52",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B013UWFM52.jpg",
+      "isActive": true,
+      "tags": [
+        "learning"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 25,
+      "text": "Causes and effects should be shown rather than told; suggested rather than explained. If they’re not, curiosity will be extinguished and readers and viewers will become bored.",
+      "author": "Will Storr",
+      "bookTitle": "The Science of Storytelling",
+      "bookId": "will_storr_0270",
+      "asin": "B07WXJTR9Q",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B07WXJTR9Q.jpg",
+      "isActive": true,
+      "tags": [
+        "reading"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 26,
+      "text": "The Zone of Excellence In the Zone of Excellence are the activities you do extremely well. You make a good living in your Zone of Excellence. For successful people, this zone is a seductive and even dangerous trap.",
+      "author": "Gay Hendricks PhD",
+      "bookTitle": "The Big Leap",
+      "bookId": "gay_hendricks_phd_2186",
+      "asin": "B0026772QU",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B0026772QU.jpg",
+      "isActive": true,
+      "tags": [
+        "life",
+        "success"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 27,
+      "text": "When you’re studied in multiple areas, you can help your reader learn by making connections between concepts they may never have considered before. That confluence is where creativity, deep learning, and understanding take place.",
+      "author": "Sara Stibitz and Faith Smith-Place",
+      "bookTitle": "Writing on Purpose",
+      "bookId": "sara_stibitz_and_faith_smith-place_0602",
+      "asin": "B0DVMWQ9BC",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B0DVMWQ9BC.jpg",
+      "isActive": true,
+      "tags": [
+        "learning",
+        "reading",
+        "thinking"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 28,
+      "text": "They worked tirelessly on the hardware and software, making sure the device itself was perfect. But we weren’t paying enough attention to what was probably the most important part of the customer experience: the app on your phone.",
+      "author": "Tony Fadell",
+      "bookTitle": "Build",
+      "bookId": "tony_fadell_4596",
+      "asin": "B09BNJ6GBV",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B09BNJ6GBV.jpg",
+      "isActive": true,
+      "tags": [
+        "business"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 29,
+      "text": "Merely stating a truth isn’t enough. The truth has to be made vivid, interesting, dramatic. You have to use showmanship. The movies do it. Television does it. And you will have to do it if you want attention.",
+      "author": "Dale Carnegie",
+      "bookTitle": "How To Win Friends and Influence People",
+      "bookId": "dale_carnegie_7668",
+      "asin": "B08JV3W3VC",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B08JV3W3VC.jpg",
+      "isActive": true,
+      "tags": [
+        "strategy",
+        "wisdom"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 30,
+      "text": "ask yourself this question: If I could complete only one task today before taking a month off, what would that task be? You’ll notice that your most important tasks are often the ones you want to do the least.",
+      "author": "thibaut  meurisse",
+      "bookTitle": "Dopamine Detox",
+      "bookId": "thibaut__meurisse_8629",
+      "asin": "B098MHBF23",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B098MHBF23.jpg",
+      "isActive": true,
+      "tags": [
+        "wisdom"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 31,
+      "text": "When both of these are true, then the individual is perceived to be a net positive in the context of our hyperconflated goal set. The bigger the net positive, the higher the person’s perceived value and the more desire we experience.",
+      "author": "Orion Taraban",
+      "bookTitle": "The Value of Others",
+      "bookId": "orion_taraban_2438",
+      "asin": "B0D1Q5LHNV",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B0D1Q5LHNV.jpg",
+      "isActive": true,
+      "tags": [
+        "strategy"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 32,
+      "text": "When choosing categories, it’s important to choose the ones that will give you the most bang for your buck. The best strategy is to use a mix of categories that have a low, medium, and high range of competitiveness.",
+      "author": "Gracie Weis",
+      "bookTitle": "The $100K Book Strategy",
+      "bookId": "gracie_weis_6449",
+      "asin": "B0BSNZK5TK",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B0BSNZK5TK.jpg",
+      "isActive": true,
+      "tags": [
+        "decision",
+        "strategy"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 33,
+      "text": "Most people will only review your manuscript once. Which means that if a potential beta reader is especially influential — as either a testimonial or an evangelist — then you may want to delay inviting them until your manuscript is fairly strong.",
+      "author": "Rob Fitzpatrick und Adam  Rosen",
+      "bookTitle": "Write Useful Books",
+      "bookId": "rob_fitzpatrick_und_adam__rosen_6409",
+      "asin": "B0983HFQX7",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B0983HFQX7.jpg",
+      "isActive": true,
+      "tags": [
+        "life",
+        "reading"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 34,
+      "text": "Culture is a strategic investment in the company doing things the right way when you are not looking.",
+      "author": "Ben Horowitz",
+      "bookTitle": "What You Do Is Who You Are",
+      "bookId": "ben_horowitz_1476",
+      "asin": "B07NVN4QCM",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B07NVN4QCM.jpg",
+      "isActive": true,
+      "tags": [
+        "business"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 35,
+      "text": "He worked harder than anyone. “Fitness was almost a religion to him,” one teammate would say of him. “I am a slave to baseball,” Gehrig said. A willing slave, a slave who loved the job and remained forever grateful at just the opportunity to play.",
+      "author": "Ryan Holiday",
+      "bookTitle": "Discipline Is Destiny",
+      "bookId": "ryan_holiday_1634",
+      "asin": "B09PB1SB72",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B09PB1SB72.jpg",
+      "isActive": true,
+      "tags": [
+        "communication",
+        "leadership",
+        "love"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 36,
+      "text": "If there’s enough room for error in your savings rate that you can say, “It’d be great if the market returns 8% a year over the next 30 years, but if it only does 4% a year I’ll still be OK,” the more valuable your plan becomes.",
+      "author": "Morgan Housel",
+      "bookTitle": "The Psychology of Money",
+      "bookId": "morgan_housel_0211",
+      "asin": "B084HJSJJ2",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B084HJSJJ2.jpg",
+      "isActive": true,
+      "tags": [
+        "business",
+        "communication",
+        "strategy"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 37,
+      "text": "Ultimately, your money should be used as a tool to create the life that you want. That’s the point. Therefore, the difficulty lies not in spending your money, but figuring out what you truly want out of life.",
+      "author": "Nick Maggiulli",
+      "bookTitle": "Just Keep Buying",
+      "bookId": "nick_maggiulli_2755",
+      "asin": "B09FYHZXBN",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B09FYHZXBN.jpg",
+      "isActive": true,
+      "tags": [
+        "creativity",
+        "life"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 38,
+      "text": "it’s easy to keep track of these halted tasks by moving them to a column labeled waiting to hear back. When you move a task to this column, note on the card who you are waiting to hear back from and what the next step will be when you do hear back.",
+      "author": "Cal Newport",
+      "bookTitle": "A World Without Email",
+      "bookId": "cal_newport_7495",
+      "asin": "B08BKSJX1M",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B08BKSJX1M.jpg",
+      "isActive": true,
+      "tags": [
+        "wisdom"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 39,
+      "text": "We can choose to subordinate work to life, rather than the other way around. It starts with a simple acknowledgment: you aren’t what you do.",
+      "author": "Simone Stolzoff",
+      "bookTitle": "The Good Enough Job",
+      "bookId": "simone_stolzoff_4699",
+      "asin": "B0C4SR8RB5",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B0C4SR8RB5.jpg",
+      "isActive": true,
+      "tags": [
+        "decision",
+        "life"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 40,
+      "text": "there was nothing about an $80 million, low-end market that solved the growth and profit problems of a multibillion dollar company—especially when capable competitors were doing all they could to steal away the customers providing those billions.",
+      "author": "Clayton Christensen",
+      "bookTitle": "The Innovator's Dilemma",
+      "bookId": "clayton_christensen_6056",
+      "asin": "B012BLTM6I",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B012BLTM6I.jpg",
+      "isActive": true,
+      "tags": [
+        "business"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 41,
+      "text": "Hedgehog Concept is not a goal to be the best, a strategy to be the best, an intention to be the best, a plan to be the best. It is an understanding of what you can be the best at. The distinction is absolutely crucial.",
+      "author": "Jim Collins",
+      "bookTitle": "Good to Great",
+      "bookId": "jim_collins_0549",
+      "asin": "B0058DRUV6",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B0058DRUV6.jpg",
+      "isActive": true,
+      "tags": [
+        "strategy",
+        "wisdom"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 42,
+      "text": "The way Munger handled the situation convinced Marshall that Charlie had the ability to think through a future event and come to a conclusion different from what others assumed it would be, \"and I've hardly ever seen him wrong.\"",
+      "author": "Janet Lowe",
+      "bookTitle": "Damn Right!",
+      "bookId": "janet_lowe_4272",
+      "asin": "B000U5KFIC",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B000U5KFIC.jpg",
+      "isActive": true,
+      "tags": [
+        "thinking"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 43,
+      "text": "Quinn had shared a piece of crypto lingo with us while we were at Velocity: WAGMI. It stood for “We Are Gonna Make It,” as in “we’re all gonna get super rich together.” I was starting to feel like it was true. WAGMI.",
+      "author": "Nathaniel Eliason",
+      "bookTitle": "Crypto Confidential",
+      "bookId": "nathaniel_eliason_6246",
+      "asin": "B0CMWWCD75",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B0CMWWCD75.jpg",
+      "isActive": true,
+      "tags": [
+        "wisdom"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 44,
+      "text": "Another method for the Bar Raiser to help get the meeting started is to create a two-column list on a whiteboard of the Leadership Principles where the candidate meets the bar in one column and falls short in the other.",
+      "author": "Colin Bryar and Bill Carr",
+      "bookTitle": "Working Backwards",
+      "bookId": "colin_bryar_and_bill_carr_7950",
+      "asin": "B08BYCQBZN",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B08BYCQBZN.jpg",
+      "isActive": true,
+      "tags": [
+        "creativity",
+        "leadership",
+        "wisdom"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 45,
+      "text": "“What happens if we lose a vehicle to an IED on the drive in?” I asked the leader. “We won’t,” he answered, insisting their armored vehicles and electronic countermeasures would protect his troops from such a scenario.",
+      "author": "Jocko Willink, Leif Babin",
+      "bookTitle": "The Dichotomy of Leadership",
+      "bookId": "jocko_willink,_leif_babin_5464",
+      "asin": "B079Y51FC3",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B079Y51FC3.jpg",
+      "isActive": true,
+      "tags": [
+        "leadership"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 46,
+      "text": "If you lack the motivation to make an important change in your life, do something—anything, really—and then harness the reaction to that action as a way to begin motivating yourself. I call this the “do something” principle.",
+      "author": "Mark Manson",
+      "bookTitle": "The Subtle Art of Not Giving a F*ck",
+      "bookId": "mark_manson_1647",
+      "asin": "B019MMUA8S",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B019MMUA8S.jpg",
+      "isActive": true,
+      "tags": [
+        "life",
+        "wisdom"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 47,
+      "text": "If men are going to pick on you and make you feel less than, then why wouldn’t you want to change your body to be able to protect yourself to discourage future insults and attacks?",
+      "author": "Justin Baldoni",
+      "bookTitle": "Man Enough",
+      "bookId": "justin_baldoni_4888",
+      "asin": "B08CRCGSKM",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B08CRCGSKM.jpg",
+      "isActive": true,
+      "tags": [
+        "courage"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 48,
+      "text": "No one in the sway of envy or jealousy has a chance to think clearly or live peacefully. How can they? It is an endless loop of misery. We’re envious of one person, while they envy somebody else.",
+      "author": "Ryan Holiday",
+      "bookTitle": "Stillness Is the Key",
+      "bookId": "ryan_holiday_2085",
+      "asin": "B07MJ3TDCZ",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B07MJ3TDCZ.jpg",
+      "isActive": true,
+      "tags": [
+        "thinking"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 49,
+      "text": "This is the quadrant you want to be in—selling yourself with no fear—when your competency is not in doubt and the outcome will make a positive difference across the board. Anything less would be regrettable.",
+      "author": "Marshall Goldsmith and Mark Reiter",
+      "bookTitle": "The Earned Life",
+      "bookId": "marshall_goldsmith_and_mark_reiter_2042",
+      "asin": "B09H2NW434",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B09H2NW434.jpg",
+      "isActive": true,
+      "tags": [
+        "courage"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 50,
+      "text": "Write exactly one note for each idea and write as if you were writing for someone else: Use full sentences, disclose your sources, make references and try to be as precise, clear and brief as possible.",
+      "author": "Sönke Ahrens",
+      "bookTitle": "How to Take Smart Notes",
+      "bookId": "sönke_ahrens_9774",
+      "asin": "B06WVYW33Y",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B06WVYW33Y.jpg",
+      "isActive": true,
+      "tags": [
+        "reading",
+        "thinking"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 51,
+      "text": "How was I to know that he had just come from a tough meeting with his boss? The term psychologists use for this phenomenon is “attribution bias,” meaning we observe someone’s cues or behavior and wrongly attribute them to our own emotional state.",
+      "author": "Marc Brackett",
+      "bookTitle": "Permission to Feel",
+      "bookId": "marc_brackett_4613",
+      "asin": "B07N69F1W7",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B07N69F1W7.jpg",
+      "isActive": true,
+      "tags": [
+        "wisdom"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 52,
+      "text": "He paused. “Paul,” he said, “do you think my life has meaning? Did I make the right choices?” It was stunning: even someone I considered a moral exemplar had these questions in the face of mortality.",
+      "author": "Paul Kalanithi",
+      "bookTitle": "When Breath Becomes Air",
+      "bookId": "paul_kalanithi_6631",
+      "asin": "B0165X8WN2",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B0165X8WN2.jpg",
+      "isActive": true,
+      "tags": [
+        "decision",
+        "life",
+        "thinking"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 53,
+      "text": "What good is it to have the greatest dream in the world if others reap the benefits and the glory? Never lose your head over a vague, open-ended dream—plan to the end.",
+      "author": "Robert Greene",
+      "bookTitle": "The 48 Laws of Power",
+      "bookId": "robert_greene_4500",
+      "asin": "B0024CEZR6",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B0024CEZR6.jpg",
+      "isActive": true,
+      "tags": [
+        "life",
+        "strategy"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 54,
+      "text": "One of the most dangerous false beliefs is that faster is always better, that the fast always beat the slow, that you are either the quick or the dead. Sometimes the quick are the dead.",
+      "author": "Jim Collins",
+      "bookTitle": "Great by Choice",
+      "bookId": "jim_collins_1014",
+      "asin": "B005VB99GE",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B005VB99GE.jpg",
+      "isActive": true,
+      "tags": [
+        "wisdom"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 55,
+      "text": "If we hear that one person is smarter than another, we assume that the smarter person is probably going to do better at just about any intellectual task that we set before him or her.",
+      "author": "Todd Rose",
+      "bookTitle": "The End of Average",
+      "bookId": "todd_rose_7706",
+      "asin": "B00R1JU7P6",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B00R1JU7P6.jpg",
+      "isActive": true,
+      "tags": [
+        "communication"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 56,
+      "text": "While a brand name is rarely a reliable guarantee that a product is the best you can buy, it is generally a reliable indicator that the product is not terrible.",
+      "author": "Rory Sutherland",
+      "bookTitle": "Alchemy",
+      "bookId": "rory_sutherland_7598",
+      "asin": "B071DCWRG3",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B071DCWRG3.jpg",
+      "isActive": true,
+      "tags": [
+        "business"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 57,
+      "text": "Sometimes hugs don’t work because the child is too upset to give or receive a hug or any kind of encouragement. You can still try. If the child is unwilling, you can say, “I sure would like a hug whenever you are ready,” and then leave the area.",
+      "author": "Jane Nelsen",
+      "bookTitle": "Positive Discipline",
+      "bookId": "jane_nelsen_7238",
+      "asin": "B004QWZJI6",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B004QWZJI6.jpg",
+      "isActive": true,
+      "tags": [
+        "communication",
+        "courage",
+        "reading"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 58,
+      "text": "Of these points, the margin of safety was most important. A stock might be the right to own a piece of a business, and the intrinsic value of the stock was something you could estimate, but with a margin of safety, you could sleep at night.",
+      "author": "Alice Schroeder",
+      "bookTitle": "The Snowball",
+      "bookId": "alice_schroeder_4602",
+      "asin": "B009MYD9F8",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B009MYD9F8.jpg",
+      "isActive": true,
+      "tags": [
+        "business"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 59,
+      "text": "Maslow saw connection with others as more advanced than using the toilet and having a home but just a step along the way to personal growth and fulfillment.",
+      "author": "Joshua Wolf Shenk",
+      "bookTitle": "Powers of Two",
+      "bookId": "joshua_wolf_shenk_9505",
+      "asin": "B00E9FYT0O",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B00E9FYT0O.jpg",
+      "isActive": true,
+      "tags": [
+        "wisdom"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 60,
+      "text": "“My experience in the NYA,” Johnson recalled, “taught me that when people have a hand in shaping projects, these projects are more likely to be successful than the ones simply handed down from the top.”",
+      "author": "Doris Kearns Goodwin",
+      "bookTitle": "Leadership in Turbulent Times",
+      "bookId": "doris_kearns_goodwin_7911",
+      "asin": "B079RLPFG7",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B079RLPFG7.jpg",
+      "isActive": true,
+      "tags": [
+        "life",
+        "success"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 61,
+      "text": "This whole life has been just a vicious circle: you went on moving in the same circle, around and around and around. And you have not arrived anywhere because by moving in a circle, how you can arrive anywhere?",
+      "author": "Osho",
+      "bookTitle": "Courage",
+      "bookId": "osho_8255",
+      "asin": "B0052Z3GDG",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B0052Z3GDG.jpg",
+      "isActive": true,
+      "tags": [
+        "life"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 62,
+      "text": "He approached his work with a calm determination, always focused and dedicated to seeing his projects through. His steady progress was not fueled by manic bursts of energy or the need for validation but by a genuine passion for his craft.",
+      "author": "Kelly Wilde Miller",
+      "bookTitle": "Creative Dysregulation",
+      "bookId": "kelly_wilde_miller_2475",
+      "asin": "B0CVBM1JTV",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B0CVBM1JTV.jpg",
+      "isActive": true,
+      "tags": [
+        "discipline",
+        "love"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 63,
+      "text": "He didn’t need to have the answers to everything; he stuck to what he called his “circle of competence,” the areas in which he was an expert. In fact, he told us that he preferred to avoid stupidity instead of trying to be intelligent.",
+      "author": "Andrew Wilkinson",
+      "bookTitle": "Never Enough",
+      "bookId": "andrew_wilkinson_6443",
+      "asin": "B0CKVJS17Z",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B0CKVJS17Z.jpg",
+      "isActive": true,
+      "tags": [
+        "communication"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 64,
+      "text": "I made myself a firm promise, on my first evening in camp, that I would not “run into the wire.” This was a phrase used in camp to describe the most popular method of suicide—touching the electrically charged barbed-wire fence.",
+      "author": "Viktor E Frankl",
+      "bookTitle": "Man's Search For Meaning",
+      "bookId": "viktor_e_frankl_3309",
+      "asin": "B00EKOC0HI",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B00EKOC0HI.jpg",
+      "isActive": true,
+      "tags": [
+        "wisdom"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 65,
+      "text": "Lack of Wonder can lead to a team failing to take time to step back and ponder what is going on around them. Cultural issues, market opportunities, and looming problems might get overlooked in the pursuit of more pressing issues.",
+      "author": "Patrick M. Lencioni",
+      "bookTitle": "The 6 Types of Working Genius",
+      "bookId": "patrick_m_lencioni_3375",
+      "asin": "B09XGPCM36",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B09XGPCM36.jpg",
+      "isActive": true,
+      "tags": [
+        "business",
+        "leadership"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 66,
+      "text": "If we feel at a certain point in our lives that our WHY has fundamentally changed, there are a few possible reasons. The most common is that we didn’t truly know or understand our WHY before, often because we were too focused on WHATs.",
+      "author": "Simon Sinek",
+      "bookTitle": "Find Your Why",
+      "bookId": "simon_sinek_6699",
+      "asin": "B073R5Q7CK",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B073R5Q7CK.jpg",
+      "isActive": true,
+      "tags": [
+        "discipline",
+        "wisdom"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 67,
+      "text": "One of Ben Franklin’s best-remembered and most useful aphorisms is “A small leak will sink a great ship.” The utility of the aphorism is large precisely because the brain so often misses the functional equivalent of a small leak in a great ship.",
+      "author": "Charles T. Munger, Peter D. Kaufman, John Collison, and Warren Buffett",
+      "bookTitle": "Poor Charlie’s Almanack",
+      "bookId": "charles_t_munger,_peter_d_kaufman,_john_collison,_and_warren_buffett_0521",
+      "asin": "B0C5TCGPPS",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B0C5TCGPPS.jpg",
+      "isActive": true,
+      "tags": [
+        "wisdom"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 68,
+      "text": "This is the ethos of the pathless path and if you don’t know or understand your own story, you will struggle.",
+      "author": "Paul Millerd",
+      "bookTitle": "The Pathless Path",
+      "bookId": "paul_millerd_5267",
+      "asin": "B09QF1ZCT2",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B09QF1ZCT2.jpg",
+      "isActive": true,
+      "tags": [
+        "reading",
+        "wisdom"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 69,
+      "text": "Jean-Pierre Beugoms has a favorite trick for catching himself when he’s wrong. When he makes a forecast, he also makes a list of the conditions in which it should hold true—as well as the conditions under which he would change his mind.",
+      "author": "Adam Grant",
+      "bookTitle": "Think Again",
+      "bookId": "adam_grant_5098",
+      "asin": "B087ZC68VN",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B087ZC68VN.jpg",
+      "isActive": true,
+      "tags": [
+        "thinking"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 70,
+      "text": "The truly valuable skill is the one the three-to-four-hour rule helps to instill: not the capacity to push yourself harder, but the capacity to stop and recuperate, despite the discomfort of knowing that the work remains unfinished.",
+      "author": "Oliver Burkeman",
+      "bookTitle": "Meditations for Mortals",
+      "bookId": "oliver_burkeman_2907",
+      "asin": "B0CSBPW9F1",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B0CSBPW9F1.jpg",
+      "isActive": true,
+      "tags": [
+        "learning",
+        "success"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 71,
+      "text": "NORMALLY WHEN YOUR most shameful life events have been hidden behind a veil of secrecy, you keep them under the rug, or in the closet, unexcavated. But what if there is nothing to be ashamed of? Then why would they need to be secrets at all?",
+      "author": "Andy Dunn",
+      "bookTitle": "Burn Rate",
+      "bookId": "andy_dunn_7778",
+      "asin": "B09CCP2VWX",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B09CCP2VWX.jpg",
+      "isActive": true,
+      "tags": [
+        "life"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 72,
+      "text": "What will often do the trick is to give the target the sense that you are a challenge, a prize to be won. In possessing you they will get what no other has had.",
+      "author": "Robert Greene",
+      "bookTitle": "The Art Of Seduction",
+      "bookId": "robert_greene_7289",
+      "asin": "B0041G68RI",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B0041G68RI.jpg",
+      "isActive": true,
+      "tags": [
+        "wisdom"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 73,
+      "text": "A secret to being more revered than resented, he learned, was to display (at least when he could muster the discipline) a self-deprecating humor, unpretentious demeanor, and unaggressive style in conversation.9",
+      "author": "Walter Isaacson",
+      "bookTitle": "Benjamin Franklin",
+      "bookId": "walter_isaacson_2941",
+      "asin": "B000FBJG4U",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B000FBJG4U.jpg",
+      "isActive": true,
+      "tags": [
+        "discipline",
+        "learning"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 74,
+      "text": "Each loop was different, yet they shared a deeper pattern: an acknowledgment of limits, a keen awareness of the group nature of the endeavor. The signal being sent was the same: You have a role here. I need you.",
+      "author": "Daniel Coyle",
+      "bookTitle": "The Culture Code",
+      "bookId": "daniel_coyle_6647",
+      "asin": "B019CGXU68",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B019CGXU68.jpg",
+      "isActive": true,
+      "tags": [
+        "wisdom"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 75,
+      "text": "Simple advice for CEOs: make results the most important measure of personal success, or step down from the job. The future of the company you lead is too important for customers, employees, and stockholders to hold it hostage to your ego.",
+      "author": "Patrick M. Lencioni",
+      "bookTitle": "The Five Temptations of a CEO, 10th",
+      "bookId": "patrick_m_lencioni_4053",
+      "asin": "B0062OAEWM",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B0062OAEWM.jpg",
+      "isActive": true,
+      "tags": [
+        "business",
+        "leadership",
+        "success"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 76,
+      "text": "The will to fight, the passion to be great, is an indispensable element of the Warrior Ethos. It is also a primary quality of leadership, because it inspires men and fires their hearts with ambition and the passion to go beyond their own limits.",
+      "author": "Steven Pressfield",
+      "bookTitle": "The Warrior Ethos",
+      "bookId": "steven_pressfield_1564",
+      "asin": "B004S7JHY6",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B004S7JHY6.jpg",
+      "isActive": true,
+      "tags": [
+        "inspiration",
+        "leadership",
+        "love"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 77,
+      "text": "Age 10: The age of roaming. Preteens gain the freedom to roam more widely, perhaps equivalent to what their parents were allowed to do at the age of 8 or 9. They should show good judgment and do more to help their families.",
+      "author": "Jonathan Haidt",
+      "bookTitle": "The Anxious Generation",
+      "bookId": "jonathan_haidt_1243",
+      "asin": "B0CGWS3JQ6",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B0CGWS3JQ6.jpg",
+      "isActive": true,
+      "tags": [
+        "decision",
+        "freedom"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 78,
+      "text": "Even the man whose sole object is to acquire wealth must be prepared to make great personal sacrifices before he can accomplish his object; and how much more so he who would realize a strong and well-poised life?",
+      "author": "James Allen",
+      "bookTitle": "As a Man Thinketh",
+      "bookId": "james_allen_2562",
+      "asin": "B08LX5ZSXR",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B08LX5ZSXR.jpg",
+      "isActive": true,
+      "tags": [
+        "life",
+        "success"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 79,
+      "text": "RescueTime is a program that automatically tracks all the time you spend on the computer, giving you a report at the end of the week (or day) showing exactly what you were doing every minute of every day that your computer was on.",
+      "author": "Claire Diaz-Ortiz",
+      "bookTitle": "Design Your Day",
+      "bookId": "claire_diaz-ortiz_1519",
+      "asin": "B015IBGTBY",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B015IBGTBY.jpg",
+      "isActive": true,
+      "tags": [
+        "success"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 80,
+      "text": "most incredible stories are often not the ones that make the biggest headlines. As a matter of fact, the people who overcome the most are often recognized the least. If I were the investor making bets, I would pick underdogs nine times out of ten.",
+      "author": "Jamie Russo",
+      "bookTitle": "The Underdog Paradox",
+      "bookId": "jamie_russo_6751",
+      "asin": "B08Q76F2SZ",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B08Q76F2SZ.jpg",
+      "isActive": true,
+      "tags": [
+        "life"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 81,
+      "text": "Once I had a final draft, I used Grammarly to edit the book and run a plagiarism checker. I then asked ChatGPT to create a sales page, write an email to announce the book's launch to my readers, and draft social media posts for promotion.",
+      "author": "Hassan Osman",
+      "bookTitle": "ChatGPT for Nonfiction Authors",
+      "bookId": "hassan_osman_1136",
+      "asin": "B0BRMLVT1H",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B0BRMLVT1H.jpg",
+      "isActive": true,
+      "tags": [
+        "creativity",
+        "reading"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 82,
+      "text": "The goal of the Wealth Ladder is to take the complicated world of wealth and provide a straightforward framework to view it through. It’s meant to be a simple solution to one of the most complex problems in our lives—money.",
+      "author": "Nick Maggiulli",
+      "bookTitle": "The Wealth Ladder",
+      "bookId": "nick_maggiulli_1981",
+      "asin": "B0DKXPRH5X",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B0DKXPRH5X.jpg",
+      "isActive": true,
+      "tags": [
+        "life",
+        "strategy"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 83,
+      "text": "Network Economies occur when the value of a product to a customer is increased by the use of the product by others.",
+      "author": "Hamilton Helmer",
+      "bookTitle": "7 Powers",
+      "bookId": "hamilton_helmer_8520",
+      "asin": "B01MRLFFQ7",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B01MRLFFQ7.jpg",
+      "isActive": true,
+      "tags": [
+        "business"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 84,
+      "text": "But data are about the past, and strategic inflection points are about the future. By the time the data showed that the Japanese memory producers were becoming a major factor, we were in the midst of a fight for our survival.",
+      "author": "Andrew S. Grove",
+      "bookTitle": "Only the Paranoid Survive",
+      "bookId": "andrew_s_grove_2457",
+      "asin": "B0036S4B2G",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B0036S4B2G.jpg",
+      "isActive": true,
+      "tags": [
+        "wisdom"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 85,
+      "text": "This was the first time in my life I had ever read a whole book in one day: Pema Chödrön’s When Things Fall Apart.",
+      "author": "Will Smith and Mark Manson",
+      "bookTitle": "Will",
+      "bookId": "will_smith_and_mark_manson_2913",
+      "asin": "B093PF9F5G",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B093PF9F5G.jpg",
+      "isActive": true,
+      "tags": [
+        "life",
+        "reading"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 86,
+      "text": "Because the designers of the flying machines could not fly for more than a minute, they were locked into a vicious cycle—they were never airborne long enough to learn how to fly and properly test out their designs, or get a feel for what might work.",
+      "author": "Robert Greene",
+      "bookTitle": "Mastery",
+      "bookId": "robert_greene_1094",
+      "asin": "B009U1U2IU",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B009U1U2IU.jpg",
+      "isActive": true,
+      "tags": [
+        "creativity",
+        "learning"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 87,
+      "text": "if we can just set up the right circumstances – the right message, in the right space, with the right programming – then people will flock to our communities. It's that “if you build it they will come” energy.",
+      "author": "David Spinks",
+      "bookTitle": "The Business of Belonging",
+      "bookId": "david_spinks_6787",
+      "asin": "B08ZJZM57W",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B08ZJZM57W.jpg",
+      "isActive": true,
+      "tags": [
+        "life"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 88,
+      "text": "if you see both 15 games a year, there is a 40% chance that the .275 hitter will have more hits than the .300 hitter in the games that you see. The difference between a good hitter and an average hitter is simply not visible—it is a matter of record.",
+      "author": "Michael Lewis",
+      "bookTitle": "Moneyball",
+      "bookId": "michael_lewis_2611",
+      "asin": "B000RH0C8G",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B000RH0C8G.jpg",
+      "isActive": true,
+      "tags": [
+        "wisdom"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 89,
+      "text": "if that idea happens to succeed, you’re more likely to have an emotional love affair with that idea and stick with it too long, when the company should be moving vigorously on to other things.",
+      "author": "Jim Collins, Jerry I. Porras",
+      "bookTitle": "Built to Last",
+      "bookId": "jim_collins,_jerry_i_porras_9664",
+      "asin": "B0058DRSHW",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B0058DRSHW.jpg",
+      "isActive": true,
+      "tags": [
+        "business",
+        "love",
+        "thinking"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 90,
+      "text": "The smaller you can make your ego, the less conditioned you can make your reactions, the less desires you can have about the outcome you want, the easier it will be to see the reality.",
+      "author": "Eric Jorgenson, Jack Butcher, and Tim Ferriss",
+      "bookTitle": "The Almanack of Naval Ravikant",
+      "bookId": "eric_jorgenson,_jack_butcher,_and_tim_ferriss_2016",
+      "asin": "B08FF8MTM6",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B08FF8MTM6.jpg",
+      "isActive": true,
+      "tags": [
+        "wisdom"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 91,
+      "text": "While delivery is how you say a joke, timing is when you say it. A proper pause can help create curiosity within an audience. Give them a chance to catch their breath, build tension, and then, BANG!",
+      "author": "David Nihill",
+      "bookTitle": "Do You Talk Funny?",
+      "bookId": "david_nihill_3904",
+      "asin": "B017MWHCVI",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B017MWHCVI.jpg",
+      "isActive": true,
+      "tags": [
+        "communication",
+        "creativity"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 92,
+      "text": "The stone wall Williams ran into illustrates the hard truth that our ability to persuade others depends not simply on the strength of our message but on how we build our arguments and the persuasive techniques we employ.",
+      "author": "Erin Meyer",
+      "bookTitle": "The Culture Map",
+      "bookId": "erin_meyer_9016",
+      "asin": "B06XCJ125R",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B06XCJ125R.jpg",
+      "isActive": true,
+      "tags": [
+        "courage",
+        "wisdom"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 93,
+      "text": "If your fundamental worldview, by contrast, assumes that your status in the eyes of others is of negligible importance, then it follows that you should be beyond the reach of social anxiety.",
+      "author": "Donald Robertson",
+      "bookTitle": "How to Think Like a Roman Emperor",
+      "bookId": "donald_robertson_4878",
+      "asin": "B07D2C5NNV",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B07D2C5NNV.jpg",
+      "isActive": true,
+      "tags": [
+        "life"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 94,
+      "text": "It is not that we have a short space of time, but that we waste much of it. Life is long enough, and it has been given in sufficiently generous measure to allow the accomplishment of the very greatest things if the whole of it is well invested.",
+      "author": "Lucius Seneca",
+      "bookTitle": "On the Shortness of Life",
+      "bookId": "lucius_seneca_8599",
+      "asin": "B075THP2VL",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B075THP2VL.jpg",
+      "isActive": true,
+      "tags": [
+        "life",
+        "success"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 95,
+      "text": "Speed is everything when it comes to recall: you have only a limited amount of time and energy, and the faster you can move through your notes, the more diverse and interesting ideas you can connect together.",
+      "author": "Tiago Forte",
+      "bookTitle": "Building a Second Brain",
+      "bookId": "tiago_forte_2991",
+      "asin": "B09MDNDYYF",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B09MDNDYYF.jpg",
+      "isActive": true,
+      "tags": [
+        "thinking"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 96,
+      "text": "When I quit, it wasn’t an exciting step. It felt like giving up. But now I know it was just the start of reclaiming my inner ambition, snatching it back from the achievement culture in which I had been drowning.",
+      "author": "Paul Millerd",
+      "bookTitle": "Good Work",
+      "bookId": "paul_millerd_0627",
+      "asin": "B0D4H86X1D",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B0D4H86X1D.jpg",
+      "isActive": true,
+      "tags": [
+        "success"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 97,
+      "text": "The key is to know which situation you are in, not to have a bias for “always fast” or “always slow.” You need to be good at both. The right decision made in the wrong time frame is a bad decision.",
+      "author": "Jim Collins",
+      "bookTitle": "BE 2.0",
+      "bookId": "jim_collins_2647",
+      "asin": "B08FZLMZDZ",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B08FZLMZDZ.jpg",
+      "isActive": true,
+      "tags": [
+        "wisdom"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 98,
+      "text": "Sunk-cost bias is the tendency to continue to invest time, money, or energy into something we know is a losing proposition simply because we have already incurred, or sunk, a cost that cannot be recouped.",
+      "author": "Greg McKeown",
+      "bookTitle": "Essentialism",
+      "bookId": "greg_mckeown_7917",
+      "asin": "B00HELB6XI",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B00HELB6XI.jpg",
+      "isActive": true,
+      "tags": [
+        "reading"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 99,
+      "text": "Productivity is a trap. Becoming more efficient just makes you more rushed, and trying to clear the decks simply makes them fill up again faster.",
+      "author": "Oliver Burkeman",
+      "bookTitle": "Four Thousand Weeks",
+      "bookId": "oliver_burkeman_6497",
+      "asin": "B07X3DH41F",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B07X3DH41F.jpg",
+      "isActive": true,
+      "tags": [
+        "business"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 100,
+      "text": "If you feel guilty about this decision, it helps to remember all of the extra hours you’ve spent checking email in the evening or working on your laptop over the weekend. Missing the occasional weekday afternoon only balances this ledger.",
+      "author": "Cal Newport",
+      "bookTitle": "Slow Productivity",
+      "bookId": "cal_newport_8516",
+      "asin": "B0CF16GTW9",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B0CF16GTW9.jpg",
+      "isActive": true,
+      "tags": [
+        "wisdom"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 101,
+      "text": "What Scotty offered were systems. If Apple were a family, Scotty would have handled the nuts and bolts of the household, setting up bank accounts, closing on a mortgage, and so on.",
+      "author": "Brent Schlender and Rick Tetzeli",
+      "bookTitle": "Becoming Steve Jobs",
+      "bookId": "brent_schlender_and_rick_tetzeli_2710",
+      "asin": "B00P6URK66",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B00P6URK66.jpg",
+      "isActive": true,
+      "tags": [
+        "wisdom"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 102,
+      "text": "The second problem of accepting bad meetings at the executive level is that it sets the precedent for the rest of the organization. What is tolerated at the top of a company is often the ceiling of what can be expected deeper within it.",
+      "author": "Patrick M. Lencioni",
+      "bookTitle": "The Motive",
+      "bookId": "patrick_m_lencioni_7405",
+      "asin": "B0851K989D",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B0851K989D.jpg",
+      "isActive": true,
+      "tags": [
+        "business",
+        "leadership"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 103,
+      "text": "What we’ve found is that TOMS has succeeded precisely because we have created a new model. The giving component of TOMS makes our shoes more than a product. They’re part of a story, a mission, and a movement anyone can join.",
+      "author": "Blake Mycoskie",
+      "bookTitle": "Start Something That Matters",
+      "bookId": "blake_mycoskie_2901",
+      "asin": "B006VTPCP2",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B006VTPCP2.jpg",
+      "isActive": true,
+      "tags": [
+        "business",
+        "creativity",
+        "reading"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 104,
+      "text": "Shackleton realized that this connection could provide him with a route to the King himself, bypassing the Royal Geographical Society. The royal stamp of approval would be his passport to further sponsorship, media publicity and success.",
+      "author": "Sir Ranulph Fiennes",
+      "bookTitle": "Shackleton",
+      "bookId": "sir_ranulph_fiennes_1339",
+      "asin": "B088SYMXJV",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B088SYMXJV.jpg",
+      "isActive": true,
+      "tags": [
+        "success"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 105,
+      "text": "Our task is like Deep Thought’s task when it began constructing its own successor: to develop an appreciation for the “merest operational parameters” of the new planet-sized computer to which we are migrating all our civilizational software and data.",
+      "author": "Venkatesh Rao",
+      "bookTitle": "Breaking Smart",
+      "bookId": "venkatesh_rao_2006",
+      "asin": "B079Q77446",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B079Q77446.jpg",
+      "isActive": true,
+      "tags": [
+        "strategy",
+        "success",
+        "thinking"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 106,
+      "text": "when you figure out who the jackasses are, you tell them that the only way they can stay, the only way they should want to stay, is if they can stop being a jackass. Or more constructively, if they can be a team player.",
+      "author": "Patrick M. Lencioni",
+      "bookTitle": "The Ideal Team Player",
+      "bookId": "patrick_m_lencioni_7585",
+      "asin": "B01B6AEJJ0",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B01B6AEJJ0.jpg",
+      "isActive": true,
+      "tags": [
+        "communication",
+        "leadership"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 107,
+      "text": "You can’t win a battle like this. You might say, “Until you are eighteen, you have to do it my way!” But your child knows she will turn eighteen, and she has every right to her opinions. Don’t win a battle while losing a war.",
+      "author": "Esther Wojcicki",
+      "bookTitle": "How to Raise Successful People",
+      "bookId": "esther_wojcicki_2347",
+      "asin": "B07FKDX2C6",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B07FKDX2C6.jpg",
+      "isActive": true,
+      "tags": [
+        "communication",
+        "success"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 108,
+      "text": "Teaching is a relationship, not a transaction, and Gustafson believed that relationships could be built only on a foundation of collaboration and mutual respect.",
+      "author": "Jim Collins",
+      "bookTitle": "Turning the Flywheel",
+      "bookId": "jim_collins_0597",
+      "asin": "B07JFT5G7N",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B07JFT5G7N.jpg",
+      "isActive": true,
+      "tags": [
+        "learning"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 109,
+      "text": "Once I jotted in a book the question: \"Why does every man hope his first child will be a boy?\" Five years later it became the headline and idea for one of the most successful advertisements I ever produced.",
+      "author": "James Webb Young",
+      "bookTitle": "A Technique for Producing Ideas",
+      "bookId": "james_webb_young_6704",
+      "asin": "B07J2QSKRB",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B07J2QSKRB.jpg",
+      "isActive": true,
+      "tags": [
+        "inspiration",
+        "reading",
+        "success"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 110,
+      "text": "If we want to forecast whether the originators of a novel idea will make it successful, we need to look beyond the enthusiasm they express about their ideas and focus on the enthusiasm for execution that they reveal through their actions.",
+      "author": "Adam Grant and Sheryl Sandberg",
+      "bookTitle": "Originals",
+      "bookId": "adam_grant_and_sheryl_sandberg_6261",
+      "asin": "B01626YWJ0",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B01626YWJ0.jpg",
+      "isActive": true,
+      "tags": [
+        "discipline",
+        "success",
+        "thinking"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 111,
+      "text": "Guidance has a short half-life. If you wait to tell somebody for a week or a quarter, the incident is so far in the past that they can’t fix the problem or build on the success.",
+      "author": "Kim Scott",
+      "bookTitle": "Radical Candor",
+      "bookId": "kim_scott_0304",
+      "asin": "B01LW1LESC",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B01LW1LESC.jpg",
+      "isActive": true,
+      "tags": [
+        "communication",
+        "life",
+        "success"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 112,
+      "text": "people have power. A company’s job isn’t to empower people; it’s to remind people that they walk in the door with power and to create the conditions for them to exercise it. Do that, and you will be astonished by the great work they will do for you.",
+      "author": "Patty McCord",
+      "bookTitle": "Powerful",
+      "bookId": "patty_mccord_0095",
+      "asin": "B077Y4WVPT",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B077Y4WVPT.jpg",
+      "isActive": true,
+      "tags": [
+        "business",
+        "creativity",
+        "life"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 113,
+      "text": "We are so much the poorer if all we can do is agree with the books we read.",
+      "author": "The School of Life",
+      "bookTitle": "How to Think More Effectively",
+      "bookId": "the_school_of_life_7327",
+      "asin": "B08429QPMN",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B08429QPMN.jpg",
+      "isActive": true,
+      "tags": [
+        "reading"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 114,
+      "text": "Ojama means ‘hindrance’ or ‘intrusion’, and shimasu is the verb meaning ‘to do’. When you say ‘ojama-shimasu’ as you enter a house, you're acknowledging that you're disturbing the flow and the atmosphere of the house.",
+      "author": "Nicholas Kemp",
+      "bookTitle": "IKIGAI-KAN",
+      "bookId": "nicholas_kemp_0643",
+      "asin": "B0BB5DG3ZG",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B0BB5DG3ZG.jpg",
+      "isActive": true,
+      "tags": [
+        "communication"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 115,
+      "text": "When is the right time to start a new firm and raise a venture capital fund? Market timing plays a role, but raising a venture capital fund should be more about the right time for you, the venture capitalist, than the right time for the market.",
+      "author": "Winter Mead",
+      "bookTitle": "How To Raise A Venture Capital Fund",
+      "bookId": "winter_mead_6691",
+      "asin": "B08S9DTFVQ",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B08S9DTFVQ.jpg",
+      "isActive": true,
+      "tags": [
+        "business"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 116,
+      "text": "What you fear is consequences. So you keep deliberating, hoping you can put them off. Can’t lose if you don’t choose? Of course you can. You lose the moment. You lose the momentum. You lose your ability to look yourself in the mirror.",
+      "author": "Ryan Holiday",
+      "bookTitle": "Courage Is Calling",
+      "bookId": "ryan_holiday_0250",
+      "asin": "B08Q25N6R4",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B08Q25N6R4.jpg",
+      "isActive": true,
+      "tags": [
+        "courage",
+        "decision"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 117,
+      "text": "because he already had a family, the high-risk startup world was not his best option. On the other hand, the creative environment combined with the safety that Betaworks provided was the ideal playground for him.",
+      "author": "Attila Szigeti",
+      "bookTitle": "Startup Studio Playbook",
+      "bookId": "attila_szigeti_1863",
+      "asin": "B07NVNYM4C",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B07NVNYM4C.jpg",
+      "isActive": true,
+      "tags": [
+        "business",
+        "courage",
+        "creativity"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 118,
+      "text": "For me the most fascinating thing about the column is not the medical mysteries or their solutions but rather the insights that the column offers into the diagnostic thought process.",
+      "author": "Anders Ericsson and Robert Pool",
+      "bookTitle": "Peak",
+      "bookId": "anders_ericsson_and_robert_pool_2084",
+      "asin": "B019CH3M10",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B019CH3M10.jpg",
+      "isActive": true,
+      "tags": [
+        "thinking",
+        "wisdom"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 119,
+      "text": "It’s good that we recoil when we hear it, as we do when we look at an old map and learn that just a few generations ago, our ancestors divvied up an entire continent by what they could take from it— the Gold Coast, the Ivory Ghost, the Slave Coast.",
+      "author": "Ryan Holiday",
+      "bookTitle": "Right Thing, Right Now",
+      "bookId": "ryan_holiday_3232",
+      "asin": "B0BS771Y46",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B0BS771Y46.jpg",
+      "isActive": true,
+      "tags": [
+        "learning"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 120,
+      "text": "One of the first questions I often ask when I begin a workshop or a class is, “Do you think entrepreneurship can be taught?” Invariably a silence comes over the group.",
+      "author": "Bill Aulet",
+      "bookTitle": "Disciplined Entrepreneurship",
+      "bookId": "bill_aulet_3874",
+      "asin": "B00DQ97TWO",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B00DQ97TWO.jpg",
+      "isActive": true,
+      "tags": [
+        "business",
+        "thinking"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 121,
+      "text": "After several weeks of observing, your COS can start to take tasks off your plate. Within several months, your COS will be able to do all the tasks that don’t give you energy, or that you simply don’t have the bandwidth to do.",
+      "author": "Matt Mochary, Alex MacCaw, and Misha Talavera",
+      "bookTitle": "The Great CEO Within",
+      "bookId": "matt_mochary,_alex_maccaw,_and_misha_talavera_1536",
+      "asin": "B07ZLGQZYC",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B07ZLGQZYC.jpg",
+      "isActive": true,
+      "tags": [
+        "wisdom"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 122,
+      "text": "when employees are denied a raise or a bonus, they need to understand that it is because they did not behave or perform in a way that is consistent with all those things.",
+      "author": "Patrick M. Lencioni",
+      "bookTitle": "The Advantage",
+      "bookId": "patrick_m_lencioni_2610",
+      "asin": "B006ORWT3Y",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B006ORWT3Y.jpg",
+      "isActive": true,
+      "tags": [
+        "discipline",
+        "wisdom"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 123,
+      "text": "There was a saying in the 1960s that went: “Becoming is better than being.” The fixed mindset does not allow people the luxury of becoming. They have to already be.",
+      "author": "Carol S. Dweck",
+      "bookTitle": "Mindset",
+      "bookId": "carol_s_dweck_0253",
+      "asin": "B000FCKPHG",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B000FCKPHG.jpg",
+      "isActive": true,
+      "tags": [
+        "communication",
+        "life",
+        "reading"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 124,
+      "text": "why was Nick the Greek, who had been playing for years, unable to learn from his mistakes? Why was a novice like me cleaning up in the game? The answer is that while experience is necessary to becoming an expert, it’s not sufficient.",
+      "author": "Annie Duke",
+      "bookTitle": "Thinking in Bets",
+      "bookId": "annie_duke_5499",
+      "asin": "B074DG9LQF",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B074DG9LQF.jpg",
+      "isActive": true,
+      "tags": [
+        "learning"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 125,
+      "text": "Investing in your long-term future is of course great, because the odds that the economy will become more productive and more valuable are pretty good. But trying to predict the exact path we’ll take to get there can be such a waste of resources.",
+      "author": "Morgan Housel",
+      "bookTitle": "Same as Ever",
+      "bookId": "morgan_housel_2087",
+      "asin": "B0C1685PDK",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B0C1685PDK.jpg",
+      "isActive": true,
+      "tags": [
+        "business"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 126,
+      "text": "Attachment styles form as a result of the young mind trying to understand one thing: Will I be loved for who I am, or do I have to earn love?",
+      "author": "Adam Smith",
+      "bookTitle": "Slaying Your Fear",
+      "bookId": "adam_smith_7068",
+      "asin": "B07S33YGJZ",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B07S33YGJZ.jpg",
+      "isActive": true,
+      "tags": [
+        "love",
+        "thinking",
+        "wisdom"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 127,
+      "text": "It’s so important to have a hobby. A hobby is something creative that’s just for you. You don’t try to make money or get famous off it, you just do it because it makes you happy.",
+      "author": "Austin Kleon",
+      "bookTitle": "Steal Like an Artist",
+      "bookId": "austin_kleon_0532",
+      "asin": "B0074QGGK6",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B0074QGGK6.jpg",
+      "isActive": true,
+      "tags": [
+        "creativity",
+        "happiness"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 128,
+      "text": "A man of great logic, he truly believed that in the end, your ultimate assignment as a leader is getting those on your team totally ready for the battle. After that, you have to let winning take care of itself.",
+      "author": "Bill Walsh, Steve Jamison, Craig Walsh",
+      "bookTitle": "The Score Takes Care of Itself",
+      "bookId": "bill_walsh,_steve_jamison,_craig_walsh_4622",
+      "asin": "B002G54Y04",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B002G54Y04.jpg",
+      "isActive": true,
+      "tags": [
+        "leadership",
+        "love",
+        "reading"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 129,
+      "text": "On both sides of the Atlantic bright Englishmen of obscure origins could have spectacular rises, but they needed patrons and sponsors to do so.",
+      "author": "Gordon S. Wood",
+      "bookTitle": "The Americanization of Benjamin Franklin",
+      "bookId": "gordon_s_wood_0601",
+      "asin": "B000OCXGHS",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B000OCXGHS.jpg",
+      "isActive": true,
+      "tags": [
+        "wisdom"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 130,
+      "text": "If you want to be more effective when sharing yourself and your work, you need to become a better storyteller. You need to know what a good story is and how to tell one.",
+      "author": "Austin Kleon",
+      "bookTitle": "Show Your Work!",
+      "bookId": "austin_kleon_1096",
+      "asin": "B00GU2RGGI",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B00GU2RGGI.jpg",
+      "isActive": true,
+      "tags": [
+        "communication",
+        "reading"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 131,
+      "text": "And he would say “Shut up Hugo. [claps hands] Come on Tollers.” And The Lord of the Rings would begin with Hugo lying on the couch, and lolling and shouting and saying, “Oh God, no more Elves.” The Inklings was a bit like that.",
+      "author": "Diana Pavlac Glyer",
+      "bookTitle": "Bandersnatch",
+      "bookId": "diana_pavlac_glyer_4943",
+      "asin": "B018RB6FNY",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B018RB6FNY.jpg",
+      "isActive": true,
+      "tags": [
+        "communication"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 132,
+      "text": "In the process of our becoming, the admonitions of our parents, the __rules by which our families operated and created a sense of belonging__, become the rules upon which our survival depends.",
+      "author": "Jerry Colonna",
+      "bookTitle": "Reboot",
+      "bookId": "jerry_colonna_4855",
+      "asin": "B0796SNDSK",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B0796SNDSK.jpg",
+      "isActive": true,
+      "tags": [
+        "creativity"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 133,
+      "text": "The task of clearance, or settling transfers between depositors, was the foundation of central banking.",
+      "author": "Nik Bhatia",
+      "bookTitle": "Layered Money",
+      "bookId": "nik_bhatia_6862",
+      "asin": "B08PS293NT",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B08PS293NT.jpg",
+      "isActive": true,
+      "tags": [
+        "wisdom"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 134,
+      "text": "If I had to pick just one, it would probably be “Create more value than you capture,” because so much of what’s wrong with our economy comes from a failure to do that. In a rich society, or a rich, complex ecosystem . . .",
+      "author": "Timothy Ferriss",
+      "bookTitle": "Tribe of Mentors",
+      "bookId": "timothy_ferriss_7472",
+      "asin": "B071KJ7PTB",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B071KJ7PTB.jpg",
+      "isActive": true,
+      "tags": [
+        "creativity"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 135,
+      "text": "One of RFK’s great qualities as a leader was his disdain for yes-men. He had never regarded himself as a visionary. He was a doer, an implementer. But he had the presence and wisdom to hire thinkers who would challenge and stir him.",
+      "author": "Evan Thomas",
+      "bookTitle": "Robert Kennedy",
+      "bookId": "evan_thomas_4739",
+      "asin": "B00AHE265Q",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B00AHE265Q.jpg",
+      "isActive": true,
+      "tags": [
+        "leadership",
+        "strategy",
+        "thinking"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 136,
+      "text": "The sweet spot is when people are proactive and growth oriented. That’s when they become sponges. They consistently take the initiative to expand themselves and adapt.",
+      "author": "Adam Grant",
+      "bookTitle": "Hidden Potential",
+      "bookId": "adam_grant_2343",
+      "asin": "B0C5SPWYWD",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B0C5SPWYWD.jpg",
+      "isActive": true,
+      "tags": [
+        "discipline",
+        "life"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 137,
+      "text": "Wealth is supposed to liberate us from the dangers of dependency but quickly becomes a dependency in its own right. The wealthier we are, the higher our standard of living and the more—not less—we depend on society for our safety and comfort.",
+      "author": "Sebastian Junger",
+      "bookTitle": "Freedom",
+      "bookId": "sebastian_junger_9095",
+      "asin": "B08LD1SXYY",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B08LD1SXYY.jpg",
+      "isActive": true,
+      "tags": [
+        "life"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 138,
+      "text": "It simply means they are able to tolerate that vague sense of discomfort that we all feel, when some important decision is left open, because they know that an answer will eventually present itself.",
+      "author": "John Cleese",
+      "bookTitle": "Creativity",
+      "bookId": "john_cleese_7448",
+      "asin": "B088KRWLKZ",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B088KRWLKZ.jpg",
+      "isActive": true,
+      "tags": [
+        "wisdom"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 139,
+      "text": "Many extras put on their resumes that they own a uniform. Hire them and you get the costume for a nominal (set) fee. If it’s a significant role, however, rent the costume separately because most extras can’t act.",
+      "author": "Christine Vachon",
+      "bookTitle": "Shooting to Kill",
+      "bookId": "christine_vachon_4117",
+      "asin": "B000W94FL4",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B000W94FL4.jpg",
+      "isActive": true,
+      "tags": [
+        "wisdom"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 140,
+      "text": "It is revealing that later, as queen, Isabel of Castile enjoyed keeping about her elderly women of good repute and good family.",
+      "author": "Peggy K. Liss",
+      "bookTitle": "Isabel the Queen",
+      "bookId": "peggy_k_liss_7578",
+      "asin": "B017SGHREU",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B017SGHREU.jpg",
+      "isActive": true,
+      "tags": [
+        "happiness"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 141,
+      "text": "Since then, I've stopped trying to understand what will work and what won't, and instead I use my Jedi powers to understand how strong the Force is in the founder.",
+      "author": "Jason Calacanis",
+      "bookTitle": "Angel",
+      "bookId": "jason_calacanis_6884",
+      "asin": "B01M9C1Y3S",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B01M9C1Y3S.jpg",
+      "isActive": true,
+      "tags": [
+        "power",
+        "wisdom"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 142,
+      "text": "Cook was drawn to the poles as if by magnetism. His wanderlust, his insatiable thirst for adventure and glory, kept him from being satisfied with the comfortable, sedentary life of a family doctor.",
+      "author": "Julian Sancton",
+      "bookTitle": "Madhouse at the End of the Earth",
+      "bookId": "julian_sancton_5459",
+      "asin": "B08NWWKNVF",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B08NWWKNVF.jpg",
+      "isActive": true,
+      "tags": [
+        "life"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 143,
+      "text": "One of the best ways to notice, value, and express your own growth is to reflect on a difficult time in your life as if you were a journalist writing a restorative narrative. How would a storyteller describe the challenges you have faced?",
+      "author": "Kelly McGonigal",
+      "bookTitle": "The Upside of Stress",
+      "bookId": "kelly_mcgonigal_6778",
+      "asin": "B00RWKN8T6",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B00RWKN8T6.jpg",
+      "isActive": true,
+      "tags": [
+        "communication",
+        "life",
+        "reading"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 144,
+      "text": "At Netflix, it is tantamount to being disloyal to the company if you fail to speak up when you disagree with a colleague or have feedback that could be helpful. After all, you could help the business—but you are choosing not to.",
+      "author": "Reed Hastings and Erin Meyer",
+      "bookTitle": "No Rules Rules",
+      "bookId": "reed_hastings_and_erin_meyer_0752",
+      "asin": "B082261K3F",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B082261K3F.jpg",
+      "isActive": true,
+      "tags": [
+        "business",
+        "communication"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 145,
+      "text": "my job as a host is to shuffle the room and encourage new conversations. If guests want to continue their conversation later, they will. Your loyalty as a host is not to a single guest but to the party as a whole.",
+      "author": "Nick Gray",
+      "bookTitle": "The 2-Hour Cocktail Party",
+      "bookId": "nick_gray_7955",
+      "asin": "B0B2KW6T7J",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B0B2KW6T7J.jpg",
+      "isActive": true,
+      "tags": [
+        "courage"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 146,
+      "text": "You might see other cars where it looks as if one person’s designed the front end of the car and somebody else did the back end. If there’s one thing I hope to be remembered for it’s that the cars I’ve been overall responsible for look cohesive.",
+      "author": "Adrian Newey",
+      "bookTitle": "How to Build a Car",
+      "bookId": "adrian_newey_7070",
+      "asin": "B073TS2ZWN",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B073TS2ZWN.jpg",
+      "isActive": true,
+      "tags": [
+        "creativity",
+        "inspiration"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 147,
+      "text": "When you know what you need in a person to do the job well and you know what the person you’re putting into it is like, you can pretty well visualize how things will go.",
+      "author": "Ray Dalio",
+      "bookTitle": "Principles",
+      "bookId": "ray_dalio_0485",
+      "asin": "B071CTK28D",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B071CTK28D.jpg",
+      "isActive": true,
+      "tags": [
+        "wisdom"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 148,
+      "text": "“Few will have the greatness to bend history itself; but each of us can work to change a small portion of events, and in the total of all those acts will be written the history of this generation.",
+      "author": "Evan Thomas",
+      "bookTitle": "Robert Kennedy",
+      "bookId": "evan_thomas_4739",
+      "asin": "B00AHE265Q",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B00AHE265Q.jpg",
+      "isActive": true,
+      "tags": [
+        "reading"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 149,
+      "text": "Potential is not a matter of where you start, but of how far you travel. We need to focus less on starting points and more on distance traveled.",
+      "author": "Adam Grant",
+      "bookTitle": "Hidden Potential",
+      "bookId": "adam_grant_2343",
+      "asin": "B0C5SPWYWD",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B0C5SPWYWD.jpg",
+      "isActive": true,
+      "tags": [
+        "discipline"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 150,
+      "text": "My aim for this book is to create a guide to show a new way of living for all the insecure individuals and detached partners who need help. Let’s get started.",
+      "author": "Adam Smith",
+      "bookTitle": "Slaying Your Fear",
+      "bookId": "adam_smith_7068",
+      "asin": "B07S33YGJZ",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B07S33YGJZ.jpg",
+      "isActive": true,
+      "tags": [
+        "creativity",
+        "life",
+        "reading"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 151,
+      "text": "(i) Sheer egoism: Desire to seem clever, to be talked about, to be remembered after death, to get your own back on the grown-ups who snubbed you in childhood, etc., etc.",
+      "author": "George Orwell",
+      "bookTitle": "Why I Write",
+      "bookId": "george_orwell_3282",
+      "asin": "B08S1ZQ856",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B08S1ZQ856.jpg",
+      "isActive": true,
+      "tags": [
+        "communication"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 152,
+      "text": "Third, the future will unfold through a gradual and continuous improvement of well-being and quality of life across the world, not through sudden emergence of a utopian software-enabled world (or sudden collapse into a dystopian world).",
+      "author": "Venkatesh Rao",
+      "bookTitle": "Breaking Smart",
+      "bookId": "venkatesh_rao_2006",
+      "asin": "B079Q77446",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B079Q77446.jpg",
+      "isActive": true,
+      "tags": [
+        "life"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 153,
+      "text": "If you can recognize the differences between those roles and that it is much more important that you are a good designer/manager of your life than a good worker in it, you will be on the right path.",
+      "author": "Ray Dalio",
+      "bookTitle": "Principles",
+      "bookId": "ray_dalio_0485",
+      "asin": "B071CTK28D",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B071CTK28D.jpg",
+      "isActive": true,
+      "tags": [
+        "creativity",
+        "leadership",
+        "life"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 154,
+      "text": "You can make do without a cofounder. You can survive for a while without a team. But you can’t make it without a mentor.",
+      "author": "Tony Fadell",
+      "bookTitle": "Build",
+      "bookId": "tony_fadell_4596",
+      "asin": "B09BNJ6GBV",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B09BNJ6GBV.jpg",
+      "isActive": true,
+      "tags": [
+        "leadership"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 155,
+      "text": "When MacKinnon talks about ‘play’, he means the ability to get enjoyably absorbed in a puzzle: not just to try to solve it so that you can get on to the next problem, but to become really curious about it for its own sake.",
+      "author": "John Cleese",
+      "bookTitle": "Creativity",
+      "bookId": "john_cleese_7448",
+      "asin": "B088KRWLKZ",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B088KRWLKZ.jpg",
+      "isActive": true,
+      "tags": [
+        "communication",
+        "happiness"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 156,
+      "text": "Although the Dunning-Kruger effect is often amusing in everyday life, it was no laughing matter in Iceland. Despite serving as governor of the central bank, Davíð Oddsson had no training in finance or economics.",
+      "author": "Adam Grant",
+      "bookTitle": "Think Again",
+      "bookId": "adam_grant_5098",
+      "asin": "B087ZC68VN",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B087ZC68VN.jpg",
+      "isActive": true,
+      "tags": [
+        "life"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 157,
+      "text": "Ultimately, I found it better to search for conventional people with everyday jobs who score highly under three criteria: levelheadedness, patience and good nature towards others.",
+      "author": "Sir Ranulph Fiennes",
+      "bookTitle": "Shackleton",
+      "bookId": "sir_ranulph_fiennes_1339",
+      "asin": "B088SYMXJV",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B088SYMXJV.jpg",
+      "isActive": true,
+      "tags": [
+        "life"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 158,
+      "text": "But if you want to do more than just make a lot of money—if you want to build an enduring, great company—then you need a vision.",
+      "author": "Jim Collins",
+      "bookTitle": "BE 2.0",
+      "bookId": "jim_collins_2647",
+      "asin": "B08FZLMZDZ",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B08FZLMZDZ.jpg",
+      "isActive": true,
+      "tags": [
+        "business",
+        "strategy"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 159,
+      "text": "Add intricacy: simply adding coloured flecks to a plain white powder will make people believe it is more effective, even if they do not know what role these flecks perform.",
+      "author": "Rory Sutherland",
+      "bookTitle": "Alchemy",
+      "bookId": "rory_sutherland_7598",
+      "asin": "B071DCWRG3",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B071DCWRG3.jpg",
+      "isActive": true,
+      "tags": [
+        "life"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 160,
+      "text": "in the conditions of modernity – where we are surrounded by acute choices as to what to do with our lives and when our aim is happiness rather than basic survival – have strategic questions become at once necessary and costly to avoid.",
+      "author": "The School of Life",
+      "bookTitle": "How to Think More Effectively",
+      "bookId": "the_school_of_life_7327",
+      "asin": "B08429QPMN",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B08429QPMN.jpg",
+      "isActive": true,
+      "tags": [
+        "decision"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 161,
+      "text": "Freedom and safety seemed to exist on a continuum where the more you had of one, the less you had of the other.",
+      "author": "Sebastian Junger",
+      "bookTitle": "Freedom",
+      "bookId": "sebastian_junger_9095",
+      "asin": "B08LD1SXYY",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B08LD1SXYY.jpg",
+      "isActive": true,
+      "tags": [
+        "freedom"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 162,
+      "text": "Building a Relationship Just as in fundraising, building a relationship with a recruit will vastly increase the likelihood that they will want to join your company. The best candidates can work anywhere. Make sure that they want to work with you.",
+      "author": "Matt Mochary, Alex MacCaw, and Misha Talavera",
+      "bookTitle": "The Great CEO Within",
+      "bookId": "matt_mochary,_alex_maccaw,_and_misha_talavera_1536",
+      "asin": "B07ZLGQZYC",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B07ZLGQZYC.jpg",
+      "isActive": true,
+      "tags": [
+        "business"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 163,
+      "text": "Being aware that your time is limited can clearly motivate you to make the most of the time you do have.",
+      "author": "Bill Perkins",
+      "bookTitle": "Die with Zero",
+      "bookId": "bill_perkins_8215",
+      "asin": "B07T5LSF1J",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B07T5LSF1J.jpg",
+      "isActive": true,
+      "tags": [
+        "inspiration"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 164,
+      "text": "when your sleep is truncated or disturbed, you’re more likely to become depressed and develop behavioral problems. The effects were larger for girls.",
+      "author": "Jonathan Haidt",
+      "bookTitle": "The Anxious Generation",
+      "bookId": "jonathan_haidt_1243",
+      "asin": "B0CGWS3JQ6",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B0CGWS3JQ6.jpg",
+      "isActive": true,
+      "tags": [
+        "wisdom"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 165,
+      "text": "They agreed to take the Working Genius Assessment, and I must admit that I think their expectations were low. Many executives are skeptical about personality assessments, and I wasn’t sure how they would respond.",
+      "author": "Patrick M. Lencioni",
+      "bookTitle": "The 6 Types of Working Genius",
+      "bookId": "patrick_m_lencioni_3375",
+      "asin": "B09XGPCM36",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B09XGPCM36.jpg",
+      "isActive": true,
+      "tags": [
+        "leadership",
+        "thinking"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 166,
+      "text": "Baseball, to Blalock’s way of thinking, at least at the beginning of his career, was more of an individual than a team sport, and more of an instinctive athletic event than a learned skill.",
+      "author": "Michael Lewis",
+      "bookTitle": "Moneyball",
+      "bookId": "michael_lewis_2611",
+      "asin": "B000RH0C8G",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B000RH0C8G.jpg",
+      "isActive": true,
+      "tags": [
+        "leadership",
+        "learning",
+        "love"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 167,
+      "text": "Example 2: Repurpose on Twitter Prompt: Please generate a tweet based on the following key points: [list of key points you want to cover]. The tweet should be no longer than 280 characters and should be suitable for sharing on Twitter.",
+      "author": "Hassan Osman",
+      "bookTitle": "ChatGPT for Nonfiction Authors",
+      "bookId": "hassan_osman_1136",
+      "asin": "B0BRMLVT1H",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B0BRMLVT1H.jpg",
+      "isActive": true,
+      "tags": [
+        "success"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 168,
+      "text": "there was a third lesson, which was about investing other people’s money. If he made a mistake, it might get somebody upset at him. So he didn’t want to have responsibility for anyone else’s money unless he was sure he could succeed.",
+      "author": "Alice Schroeder",
+      "bookTitle": "The Snowball",
+      "bookId": "alice_schroeder_4602",
+      "asin": "B009MYD9F8",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B009MYD9F8.jpg",
+      "isActive": true,
+      "tags": [
+        "life"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 169,
+      "text": "Sculley made clear that he would take the company in a more “market-driven” direction. Apple would now respond to the demands of its customers, instead of dictating to the market, as Steve had tried to do.",
+      "author": "Brent Schlender and Rick Tetzeli",
+      "bookTitle": "Becoming Steve Jobs",
+      "bookId": "brent_schlender_and_rick_tetzeli_2710",
+      "asin": "B00P6URK66",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B00P6URK66.jpg",
+      "isActive": true,
+      "tags": [
+        "business"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 170,
+      "text": "If I were running a company, I would always want to listen to the thoughts of its most talented youngsters, because they are the people most in touch with the realities of today and the prospects for tomorrow.",
+      "author": "Alex Ferguson",
+      "bookTitle": "Leading",
+      "bookId": "alex_ferguson_9213",
+      "asin": "B00UL8GEAQ",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B00UL8GEAQ.jpg",
+      "isActive": true,
+      "tags": [
+        "business",
+        "communication",
+        "life"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 171,
+      "text": "Even if it is only as a side activity, you should find a way to work with your hands, or to learn more about the inner workings of the machines and pieces of technology around you.",
+      "author": "Robert Greene",
+      "bookTitle": "Mastery",
+      "bookId": "robert_greene_1094",
+      "asin": "B009U1U2IU",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B009U1U2IU.jpg",
+      "isActive": true,
+      "tags": [
+        "learning"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 172,
+      "text": "You can’t fully prevent bad reviews from ever happening, but you can certainly make them a rare exception by plainly stating who your book is for and what they’re going to get out of reading it.",
+      "author": "Rob Fitzpatrick und Adam  Rosen",
+      "bookTitle": "Write Useful Books",
+      "bookId": "rob_fitzpatrick_und_adam__rosen_6409",
+      "asin": "B0983HFQX7",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B0983HFQX7.jpg",
+      "isActive": true,
+      "tags": [
+        "reading"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 173,
+      "text": "A mood is more diffuse and less intense than an emotion or a feeling but longer lasting. Most typically, we don’t quite know why we’re feeling the way we are during a mood, but we are very certain when feeling an emotion.",
+      "author": "Marc Brackett",
+      "bookTitle": "Permission to Feel",
+      "bookId": "marc_brackett_4613",
+      "asin": "B07N69F1W7",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B07N69F1W7.jpg",
+      "isActive": true,
+      "tags": [
+        "wisdom"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 174,
+      "text": "As Russo suggests, you could accurately measure the success or failure of your college years by how recognizable you were at graduation compared to the person who had entered the scene four years earlier. You did it once; you can do it again.",
+      "author": "Marshall Goldsmith and Mark Reiter",
+      "bookTitle": "The Earned Life",
+      "bookId": "marshall_goldsmith_and_mark_reiter_2042",
+      "asin": "B09H2NW434",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B09H2NW434.jpg",
+      "isActive": true,
+      "tags": [
+        "success"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 175,
+      "text": "What factors turned out to be crucial to success that you weren’t expecting? If you had to do it today, what would you do differently?",
+      "author": "Ron Friedman",
+      "bookTitle": "Decoding Greatness",
+      "bookId": "ron_friedman_1208",
+      "asin": "B08BZW5BJ9",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B08BZW5BJ9.jpg",
+      "isActive": true,
+      "tags": [
+        "success"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 176,
+      "text": "You squander time as if you drew from a full and abundant supply, though all the while that day which you bestow on some person or thing is perhaps your last.  You have all the fears of mortals and all the desires of immortals.",
+      "author": "Lucius Seneca",
+      "bookTitle": "On the Shortness of Life",
+      "bookId": "lucius_seneca_8599",
+      "asin": "B075THP2VL",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B075THP2VL.jpg",
+      "isActive": true,
+      "tags": [
+        "courage"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 177,
+      "text": "work comes from being deeply engaged in solving a problem with talented people you know are also deeply engaged in solving it, and from knowing that the customer loves the product or service you all have worked so hard to make.",
+      "author": "Patty McCord",
+      "bookTitle": "Powerful",
+      "bookId": "patty_mccord_0095",
+      "asin": "B077Y4WVPT",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B077Y4WVPT.jpg",
+      "isActive": true,
+      "tags": [
+        "business",
+        "life",
+        "love"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 178,
+      "text": "Unpredictable humans. This is the stuff of story. For modern humans, controlling the world means controlling other people, and that means understanding them. We’re wired to be fascinated by others and get valuable information from their faces.",
+      "author": "Will Storr",
+      "bookTitle": "The Science of Storytelling",
+      "bookId": "will_storr_0270",
+      "asin": "B07WXJTR9Q",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B07WXJTR9Q.jpg",
+      "isActive": true,
+      "tags": [
+        "life",
+        "power",
+        "reading"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 179,
+      "text": "This is not a failure of analysis. It’s a failure of imagination. Realizing the future might not look anything like the past is a special kind of skill that is not generally looked highly upon by the financial forecasting community.",
+      "author": "Morgan Housel",
+      "bookTitle": "The Psychology of Money",
+      "bookId": "morgan_housel_0211",
+      "asin": "B084HJSJJ2",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B084HJSJJ2.jpg",
+      "isActive": true,
+      "tags": [
+        "learning"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 180,
+      "text": "For those of us who have to get ourselves out of bed and make our own breakfasts—impose order on our own lives—the fantasy of the mad artist is alluring.",
+      "author": "Joshua Wolf Shenk",
+      "bookTitle": "Powers of Two",
+      "bookId": "joshua_wolf_shenk_9505",
+      "asin": "B00E9FYT0O",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B00E9FYT0O.jpg",
+      "isActive": true,
+      "tags": [
+        "wisdom"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 181,
+      "text": "To those who say “We have no proof that we are harming nature,” a sound response is “We have no proof that we are not harming nature, either”; the burden of the proof is not on the ecological conservationist, but on someone disrupting an old system.",
+      "author": "Nassim Nicholas Taleb",
+      "bookTitle": "The Black Swan",
+      "bookId": "nassim_nicholas_taleb_0075",
+      "asin": "B002RI99IM",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B002RI99IM.jpg",
+      "isActive": true,
+      "tags": [
+        "communication"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 182,
+      "text": "In England and Wales, adults were more likely to get divorced from the careers they had invested in because they settled down too early. If we treated careers more like dating, nobody would settle down so quickly.",
+      "author": "David Epstein",
+      "bookTitle": "Range",
+      "bookId": "david_epstein_5394",
+      "asin": "B07H1ZYWTM",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B07H1ZYWTM.jpg",
+      "isActive": true,
+      "tags": [
+        "love"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 183,
+      "text": "His mind was thousands of miles away, drifting over the icescapes of Antarctica, a destination he’d never stopped fantasizing about.",
+      "author": "Julian Sancton",
+      "bookTitle": "Madhouse at the End of the Earth",
+      "bookId": "julian_sancton_5459",
+      "asin": "B08NWWKNVF",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B08NWWKNVF.jpg",
+      "isActive": true,
+      "tags": [
+        "thinking"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 184,
+      "text": "How is it possible, after we finally raised real money, that this job could get harder this year? Then I came to a classic mistaken conclusion of an immature founder: if the business isn’t working, we must not be working hard enough.",
+      "author": "Andy Dunn",
+      "bookTitle": "Burn Rate",
+      "bookId": "andy_dunn_7778",
+      "asin": "B09CCP2VWX",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B09CCP2VWX.jpg",
+      "isActive": true,
+      "tags": [
+        "business"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 185,
+      "text": "Whenever you check your email, you’re expecting a reward, which could be a message from a friend or some exciting news.",
+      "author": "thibaut  meurisse",
+      "bookTitle": "Dopamine Detox",
+      "bookId": "thibaut__meurisse_8629",
+      "asin": "B098MHBF23",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B098MHBF23.jpg",
+      "isActive": true,
+      "tags": [
+        "wisdom"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 186,
+      "text": "Sixth, go make something. Remember, you are creative! Almost everyone has a desire to create something and to put their energy into the world in a positive way.",
+      "author": "Paul Millerd",
+      "bookTitle": "The Pathless Path",
+      "bookId": "paul_millerd_5267",
+      "asin": "B09QF1ZCT2",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B09QF1ZCT2.jpg",
+      "isActive": true,
+      "tags": [
+        "creativity",
+        "life"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 187,
+      "text": "here are three questions I sometimes ask people: If you did not have to worry about money, what would you do with your time? What kind of work would you want to do? What cause would you serve?",
+      "author": "Blake Mycoskie",
+      "bookTitle": "Start Something That Matters",
+      "bookId": "blake_mycoskie_2901",
+      "asin": "B006VTPCP2",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B006VTPCP2.jpg",
+      "isActive": true,
+      "tags": [
+        "life"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 188,
+      "text": "Brad, my brother, you taught me the value of a good walk and showed me the value of wisdom by having the incredible good sense to have married Amy Batchelor. We need to sit again on your porch, my friend, and watch the sun set.",
+      "author": "Jerry Colonna",
+      "bookTitle": "Reboot",
+      "bookId": "jerry_colonna_4855",
+      "asin": "B0796SNDSK",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B0796SNDSK.jpg",
+      "isActive": true,
+      "tags": [
+        "wisdom"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 189,
+      "text": "As an angel investor, you are going to need to invest in fifty startups (diversification!) in Silicon Valley (location!) over three years in order to have a chance at an outsize return. That's one to two startups a month.",
+      "author": "Jason Calacanis",
+      "bookTitle": "Angel",
+      "bookId": "jason_calacanis_6884",
+      "asin": "B01M9C1Y3S",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B01M9C1Y3S.jpg",
+      "isActive": true,
+      "tags": [
+        "business"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 190,
+      "text": "When and where I was growing up, you were valuable if you were athletic, tall, big, muscular, super funny, or loud in perceived confidence—in other words, the “alpha,” the guy every other guy thought he wanted to be.",
+      "author": "Justin Baldoni",
+      "bookTitle": "Man Enough",
+      "bookId": "justin_baldoni_4888",
+      "asin": "B08CRCGSKM",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B08CRCGSKM.jpg",
+      "isActive": true,
+      "tags": [
+        "success",
+        "thinking"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 191,
+      "text": "For students with the growth mindset, it doesn’t make sense to stop trying. For them, adolescence is a time of opportunity: a time to learn new subjects, a time to find out what they like and what they want to become in the future.",
+      "author": "Carol S. Dweck",
+      "bookTitle": "Mindset",
+      "bookId": "carol_s_dweck_0253",
+      "asin": "B000FCKPHG",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B000FCKPHG.jpg",
+      "isActive": true,
+      "tags": [
+        "learning",
+        "thinking"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 192,
+      "text": "You need to plan the way a fire department plans: It cannot anticipate where the next fire will be, so it has to shape an energetic and efficient team that is capable of responding to the unanticipated as well as to any ordinary event.",
+      "author": "Andrew S. Grove",
+      "bookTitle": "Only the Paranoid Survive",
+      "bookId": "andrew_s_grove_2457",
+      "asin": "B0036S4B2G",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B0036S4B2G.jpg",
+      "isActive": true,
+      "tags": [
+        "leadership",
+        "strategy"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 193,
+      "text": "Many people will try to get a job even if they don't fit the company's stated values, but very few will do so if they know that they're going to be held accountable, day in and day out, for behavior that violates the values.",
+      "author": "Patrick M. Lencioni",
+      "bookTitle": "The Ideal Team Player",
+      "bookId": "patrick_m_lencioni_7585",
+      "asin": "B01B6AEJJ0",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B01B6AEJJ0.jpg",
+      "isActive": true,
+      "tags": [
+        "business",
+        "life"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 194,
+      "text": "What to copy is a little bit trickier. Don’t just steal the style, steal the thinking behind the style. You don’t want to look like your heroes, you want to see like your heroes.",
+      "author": "Austin Kleon",
+      "bookTitle": "Steal Like an Artist",
+      "bookId": "austin_kleon_0532",
+      "asin": "B0074QGGK6",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B0074QGGK6.jpg",
+      "isActive": true,
+      "tags": [
+        "thinking"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 195,
+      "text": "Productive change begins when you have the discipline to confront the brutal facts.",
+      "author": "Jim Collins",
+      "bookTitle": "Turning the Flywheel",
+      "bookId": "jim_collins_0597",
+      "asin": "B07JFT5G7N",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B07JFT5G7N.jpg",
+      "isActive": true,
+      "tags": [
+        "business",
+        "discipline"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 196,
+      "text": "“Once you start getting desperate, you start thinking outside the box,” the Upworthy team writes. “#24 will suck. Then #25 will be a gift from the headline gods and will make you a legend.”",
+      "author": "Adam Grant and Sheryl Sandberg",
+      "bookTitle": "Originals",
+      "bookId": "adam_grant_and_sheryl_sandberg_6261",
+      "asin": "B01626YWJ0",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B01626YWJ0.jpg",
+      "isActive": true,
+      "tags": [
+        "leadership",
+        "reading",
+        "thinking"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 197,
+      "text": "If there is any way at all you can play ‘pass the parcel’ with a venture you believe is destined to fail and in which you are a principal, then do not hesitate. Pass the damn parcel and move on to the next opportunity.",
+      "author": "Felix Dennis",
+      "bookTitle": "How to Get Rich",
+      "bookId": "felix_dennis_8651",
+      "asin": "B005CUSEEC",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B005CUSEEC.jpg",
+      "isActive": true,
+      "tags": [
+        "wisdom"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 198,
+      "text": "Hands down, it would be “Be the change you want to see in the world.” We spend far too much time complaining about the way things are, and forget that we have the power to change anything and everything.",
+      "author": "Timothy Ferriss",
+      "bookTitle": "Tribe of Mentors",
+      "bookId": "timothy_ferriss_7472",
+      "asin": "B071KJ7PTB",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B071KJ7PTB.jpg",
+      "isActive": true,
+      "tags": [
+        "life",
+        "power"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 199,
+      "text": "After you have been introduced and the floor is yours, we recommend you begin by sharing a short WHY story. Sharing a personal WHY experience can go a long way toward forging a bond with your audience.",
+      "author": "Simon Sinek",
+      "bookTitle": "Find Your Why",
+      "bookId": "simon_sinek_6699",
+      "asin": "B073R5Q7CK",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B073R5Q7CK.jpg",
+      "isActive": true,
+      "tags": [
+        "reading"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 200,
+      "text": "But it seems to me that the important point for our purpose is that the speculators, or reconstructors of this world, are a very large group. Theirs at least the inherent capacity to produce ideas, and it is by no means such a rare capacity.",
+      "author": "James Webb Young",
+      "bookTitle": "A Technique for Producing Ideas",
+      "bookId": "james_webb_young_6704",
+      "asin": "B07J2QSKRB",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B07J2QSKRB.jpg",
+      "isActive": true,
+      "tags": [
+        "life",
+        "thinking"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 201,
+      "text": "Let’s face it, people aren’t going to buy your book just because you have a sexy author bio. The only thing they care about is how your book can improve their current situation.",
+      "author": "Gracie Weis",
+      "bookTitle": "The $100K Book Strategy",
+      "bookId": "gracie_weis_6449",
+      "asin": "B0BSNZK5TK",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B0BSNZK5TK.jpg",
+      "isActive": true,
+      "tags": [
+        "life",
+        "love",
+        "reading"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 202,
+      "text": "Bitcoin is nothing like the Dutch tulip mania. Bubbles don’t burst three times in a decade and come back stronger each resurgence, and the investing public is finally waking up to this fact.",
+      "author": "Nik Bhatia",
+      "bookTitle": "Layered Money",
+      "bookId": "nik_bhatia_6862",
+      "asin": "B08PS293NT",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B08PS293NT.jpg",
+      "isActive": true,
+      "tags": [
+        "wisdom"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 203,
+      "text": "We want people to see what we’re doing. We want to be the city on the hill. We should be the kind of person who the more they hear about us, the more they respect and admire us.",
+      "author": "Ryan Holiday",
+      "bookTitle": "Right Thing, Right Now",
+      "bookId": "ryan_holiday_3232",
+      "asin": "B0BS771Y46",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B0BS771Y46.jpg",
+      "isActive": true,
+      "tags": [
+        "life"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 204,
+      "text": "You must be mindful of the other types of wealth in your life. That’s how you ensure that your journey up the Wealth Ladder will have been worth it.",
+      "author": "Nick Maggiulli",
+      "bookTitle": "The Wealth Ladder",
+      "bookId": "nick_maggiulli_1981",
+      "asin": "B0DKXPRH5X",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B0DKXPRH5X.jpg",
+      "isActive": true,
+      "tags": [
+        "life",
+        "thinking"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 205,
+      "text": "While some might consider publicly criticizing the policies of the country you’re about to visit awkward, for Merkel the move was intentional; she has always preferred not to spring the unexpected on her interlocutors.",
+      "author": "Kati Marton",
+      "bookTitle": "The Chancellor",
+      "bookId": "kati_marton_1159",
+      "asin": "B08VJMY8KW",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B08VJMY8KW.jpg",
+      "isActive": true,
+      "tags": [
+        "thinking"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 206,
+      "text": "Think about the times when you feel best. It’s not when you are pining away. It’s not when you get what you pined for either. There is always a tinge of disappointment or loss at the moment of acquisition.",
+      "author": "Ryan Holiday",
+      "bookTitle": "Stillness Is the Key",
+      "bookId": "ryan_holiday_2085",
+      "asin": "B07MJ3TDCZ",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B07MJ3TDCZ.jpg",
+      "isActive": true,
+      "tags": [
+        "thinking"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 207,
+      "text": "Hidden Barrier no. 4: The Crime of Outshining The unconscious mantra of the outshining barrier goes like this: I must not expand to my full success, because if I did I would outshine _____________________ and make him or her look or feel bad.",
+      "author": "Gay Hendricks PhD",
+      "bookTitle": "The Big Leap",
+      "bookId": "gay_hendricks_phd_2186",
+      "asin": "B0026772QU",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B0026772QU.jpg",
+      "isActive": true,
+      "tags": [
+        "success"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 208,
+      "text": "TIMELY: Goals must be timely. Let’s say I want to write some ebooks, and I have a goal to self-publish two in a given year. It’s best to put more of a timeline on that goal. The first book when? The second book when? Put a date by those numbers.",
+      "author": "Claire Diaz-Ortiz",
+      "bookTitle": "Design Your Day",
+      "bookId": "claire_diaz-ortiz_1519",
+      "asin": "B015IBGTBY",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B015IBGTBY.jpg",
+      "isActive": true,
+      "tags": [
+        "communication",
+        "reading",
+        "strategy"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 209,
+      "text": "Hey Derek, I’m thinking of hosting a little cocktail party on Wednesday the 8th at 7 p.m. If I do it, would you come? Can I send you some more info?",
+      "author": "Nick Gray",
+      "bookTitle": "The 2-Hour Cocktail Party",
+      "bookId": "nick_gray_7955",
+      "asin": "B0B2KW6T7J",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B0B2KW6T7J.jpg",
+      "isActive": true,
+      "tags": [
+        "thinking"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 210,
+      "text": "because you and I and everybody else all have differing needs and personal histories and life circumstances, we will all inevitably come to differing “correct” answers about what our lives mean and how they should be lived.",
+      "author": "Mark Manson",
+      "bookTitle": "The Subtle Art of Not Giving a F*ck",
+      "bookId": "mark_manson_1647",
+      "asin": "B019MMUA8S",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B019MMUA8S.jpg",
+      "isActive": true,
+      "tags": [
+        "life"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 211,
+      "text": "I recommend having at least one self-centered why and at least one service-based why. This means you are clarifying why this matters to you and why it matters to others.",
+      "author": "Kelly Wilde Miller",
+      "bookTitle": "Creative Dysregulation",
+      "bookId": "kelly_wilde_miller_2475",
+      "asin": "B0CVBM1JTV",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B0CVBM1JTV.jpg",
+      "isActive": true,
+      "tags": [
+        "wisdom"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 212,
+      "text": "For many, the expression of self has become the purpose of the self, and if not expressed life feels unfulfilling.",
+      "author": "Nicholas Kemp",
+      "bookTitle": "IKIGAI-KAN",
+      "bookId": "nicholas_kemp_0643",
+      "asin": "B0BB5DG3ZG",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B0BB5DG3ZG.jpg",
+      "isActive": true,
+      "tags": [
+        "life"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 213,
+      "text": "“This is a day of national consecration.” Clearly, the address he was about to deliver was a civil sermon designed to provide “the larger purposes” that would bind the people together “as a sacred obligation.”",
+      "author": "Doris Kearns Goodwin",
+      "bookTitle": "Leadership in Turbulent Times",
+      "bookId": "doris_kearns_goodwin_7911",
+      "asin": "B079RLPFG7",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B079RLPFG7.jpg",
+      "isActive": true,
+      "tags": [
+        "creativity",
+        "life"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 214,
+      "text": "What I got from Abbott was the idea that when you set your objectives for the year, you record them in concrete. You can change your plans through the year, but you never change what you measure yourself against.",
+      "author": "Jim Collins",
+      "bookTitle": "Good to Great",
+      "bookId": "jim_collins_0549",
+      "asin": "B0058DRUV6",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B0058DRUV6.jpg",
+      "isActive": true,
+      "tags": [
+        "strategy",
+        "thinking"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 215,
+      "text": "PRINCIPLE #3: OBSESS OVER QUALITY Obsess over the quality of what you produce, even if this means missing opportunities in the short term. Leverage the value of these results to gain more and more freedom in your efforts over the long term.",
+      "author": "Cal Newport",
+      "bookTitle": "Slow Productivity",
+      "bookId": "cal_newport_8516",
+      "asin": "B0CF16GTW9",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B0CF16GTW9.jpg",
+      "isActive": true,
+      "tags": [
+        "freedom",
+        "wisdom"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 216,
+      "text": "They had different interests and personalities. They came from different religious traditions. And they had different academic specialties. Lewis was an expert in literature and philosophy; Tolkien was a philologist, an expert in languages.",
+      "author": "Diana Pavlac Glyer",
+      "bookTitle": "Bandersnatch",
+      "bookId": "diana_pavlac_glyer_4943",
+      "asin": "B018RB6FNY",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B018RB6FNY.jpg",
+      "isActive": true,
+      "tags": [
+        "wisdom"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 217,
+      "text": "Some of the questions I’ve been asked by readers recently are why I think my ideas have been so well received and what I’ve learned about the model over the past ten years. Two things stand out.",
+      "author": "Patrick M. Lencioni",
+      "bookTitle": "The Five Temptations of a CEO, 10th",
+      "bookId": "patrick_m_lencioni_4053",
+      "asin": "B0062OAEWM",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B0062OAEWM.jpg",
+      "isActive": true,
+      "tags": [
+        "learning",
+        "reading",
+        "thinking"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 218,
+      "text": "If I'm a software engineer, and I'm already a part of an engineering community that I love, I don't have a need for another community. It'll be difficult to get me to participate in a new community for engineers.",
+      "author": "David Spinks",
+      "bookTitle": "The Business of Belonging",
+      "bookId": "david_spinks_6787",
+      "asin": "B08ZJZM57W",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B08ZJZM57W.jpg",
+      "isActive": true,
+      "tags": [
+        "love",
+        "reading"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 219,
+      "text": "\"I never went back to the high-tech mode. I tried it once and found it to have many problems. I was like Mark Twain's cat that, after a bad experience, never again sat on a hot stove or on a cold stove either.\"",
+      "author": "Janet Lowe",
+      "bookTitle": "Damn Right!",
+      "bookId": "janet_lowe_4272",
+      "asin": "B000U5KFIC",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B000U5KFIC.jpg",
+      "isActive": true,
+      "tags": [
+        "wisdom"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 220,
+      "text": "In order to effectively lead, I had to detach. But I must never become too detached. I couldn’t obsess over the details, but I should nevertheless be attentive to them. It was a humbling lesson learned that I would never forget.",
+      "author": "Jocko Willink, Leif Babin",
+      "bookTitle": "The Dichotomy of Leadership",
+      "bookId": "jocko_willink,_leif_babin_5464",
+      "asin": "B079Y51FC3",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B079Y51FC3.jpg",
+      "isActive": true,
+      "tags": [
+        "leadership",
+        "learning"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 221,
+      "text": "the game of competitive life often requires maximizing the experience of the people who have the most aptitude and the most determination as learning machines. If you want the very highest reaches of human achievement, that’s where you have to go.",
+      "author": "Charles T. Munger, Peter D. Kaufman, John Collison, and Warren Buffett",
+      "bookTitle": "Poor Charlie’s Almanack",
+      "bookId": "charles_t_munger,_peter_d_kaufman,_john_collison,_and_warren_buffett_0521",
+      "asin": "B0C5TCGPPS",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B0C5TCGPPS.jpg",
+      "isActive": true,
+      "tags": [
+        "learning",
+        "life",
+        "success"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 222,
+      "text": "Kids need to be allowed to take the lead. That means you follow them. Children know who they are. Your job is to honor and respect that.",
+      "author": "Esther Wojcicki",
+      "bookTitle": "How to Raise Successful People",
+      "bookId": "esther_wojcicki_2347",
+      "asin": "B07FKDX2C6",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B07FKDX2C6.jpg",
+      "isActive": true,
+      "tags": [
+        "leadership"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 223,
+      "text": "To simply wait and be bored has become a novel experience in modern life, but from the perspective of concentration training, it’s incredibly valuable.",
+      "author": "Cal Newport",
+      "bookTitle": "Deep Work",
+      "bookId": "cal_newport_1950",
+      "asin": "B013UWFM52",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B013UWFM52.jpg",
+      "isActive": true,
+      "tags": [
+        "life"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 224,
+      "text": "Can you . . . keep a secret? bite your tongue about someone or something you dislike? get someone else to deliver the news? put up with being misunderstood?",
+      "author": "Ryan Holiday",
+      "bookTitle": "Discipline Is Destiny",
+      "bookId": "ryan_holiday_1634",
+      "asin": "B09PB1SB72",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B09PB1SB72.jpg",
+      "isActive": true,
+      "tags": [
+        "wisdom"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 225,
+      "text": "Training repeats a completed past in the future. Education continues an unfinished past into the future.",
+      "author": "James Carse",
+      "bookTitle": "Finite and Infinite Games",
+      "bookId": "james_carse_7064",
+      "asin": "B004W3FM4A",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B004W3FM4A.jpg",
+      "isActive": true,
+      "tags": [
+        "learning"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 226,
+      "text": "When you need to take a leap and want to do well, don’t worry about forcing yourself to relax. Instead, embrace the nerves, tell yourself you’re excited, and know that your heart is in it.",
+      "author": "Kelly McGonigal",
+      "bookTitle": "The Upside of Stress",
+      "bookId": "kelly_mcgonigal_6778",
+      "asin": "B00RWKN8T6",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B00RWKN8T6.jpg",
+      "isActive": true,
+      "tags": [
+        "communication",
+        "love"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 227,
+      "text": "If we had thousands of years in which to live, all those would be far less agonising, too, since there’d be sufficient time to spend decades trying out each kind of possible existence.",
+      "author": "Oliver Burkeman",
+      "bookTitle": "Four Thousand Weeks",
+      "bookId": "oliver_burkeman_6497",
+      "asin": "B07X3DH41F",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B07X3DH41F.jpg",
+      "isActive": true,
+      "tags": [
+        "wisdom"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 228,
+      "text": "My recommendation is to block four hours a day. This isn’t a typo. I repeat: four hours a day. Honestly, that’s the minimum. If you can do more, then do it.",
+      "author": "Gary Keller",
+      "bookTitle": "The One Thing",
+      "bookId": "gary_keller_1817",
+      "asin": "B00D3J2QKW",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B00D3J2QKW.jpg",
+      "isActive": true,
+      "tags": [
+        "wisdom"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 229,
+      "text": "I could hear Emma’s voice again: You have to flgure out what’s most important to you. If I no longer sought to fly on the highest trajectory of neurosurgeon and neuroscientist, what did I want?",
+      "author": "Paul Kalanithi",
+      "bookTitle": "When Breath Becomes Air",
+      "bookId": "paul_kalanithi_6631",
+      "asin": "B0165X8WN2",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B0165X8WN2.jpg",
+      "isActive": true,
+      "tags": [
+        "wisdom"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 230,
+      "text": "Common soldiers captured in war were imprisoned; captured officers, however, could be released “on parole,” after giving their word to their fellow gentleman officers that they would not flee the area or return to their troops.",
+      "author": "Gordon S. Wood",
+      "bookTitle": "The Americanization of Benjamin Franklin",
+      "bookId": "gordon_s_wood_0601",
+      "asin": "B000OCXGHS",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B000OCXGHS.jpg",
+      "isActive": true,
+      "tags": [
+        "wisdom"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 231,
+      "text": "I have more important things to do than wade through that kind of junk. And yet…I keep on accepting all scripts (sometimes over my staff’s objections) because I know that the next one could be amazing…",
+      "author": "Christine Vachon",
+      "bookTitle": "Shooting to Kill",
+      "bookId": "christine_vachon_4117",
+      "asin": "B000W94FL4",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B000W94FL4.jpg",
+      "isActive": true,
+      "tags": [
+        "wisdom"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 232,
+      "text": "This had led me to the epiphany that there is always somebody else who loves the job you hate.",
+      "author": "Andrew Wilkinson",
+      "bookTitle": "Never Enough",
+      "bookId": "andrew_wilkinson_6443",
+      "asin": "B0CKVJS17Z",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B0CKVJS17Z.jpg",
+      "isActive": true,
+      "tags": [
+        "love"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 233,
+      "text": "When I paused to contemplate the life I had worked so hard to build, I felt a disconcerting mixture of nostalgia, regret, claustrophobia, emptiness, and fear. Was I having a midlife crisis?",
+      "author": "Kieran Setiya",
+      "bookTitle": "Midlife",
+      "bookId": "kieran_setiya_4860",
+      "asin": "B06ZZRFZ43",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B06ZZRFZ43.jpg",
+      "isActive": true,
+      "tags": [
+        "courage",
+        "life"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 234,
+      "text": "in my own children. When they are stressed and things feel out of control, I get them to draw. When they do, the change is almost immediate. The stress melts away and their ability to explore is regained.",
+      "author": "Greg McKeown",
+      "bookTitle": "Essentialism",
+      "bookId": "greg_mckeown_7917",
+      "asin": "B00HELB6XI",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B00HELB6XI.jpg",
+      "isActive": true,
+      "tags": [
+        "power"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 235,
+      "text": "To sum it up: The quality of a paper and the ease with which it is written depends more than anything on what you have done in writing before you even made a decision on the topic.",
+      "author": "Sönke Ahrens",
+      "bookTitle": "How to Take Smart Notes",
+      "bookId": "sönke_ahrens_9774",
+      "asin": "B06WVYW33Y",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B06WVYW33Y.jpg",
+      "isActive": true,
+      "tags": [
+        "wisdom"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 236,
+      "text": "Meituan survived the first phase of the war easily. Most of the contenders were underfunded and naive; they were killed off quickly.",
+      "author": "Sebastian Mallaby",
+      "bookTitle": "The Power Law",
+      "bookId": "sebastian_mallaby_2833",
+      "asin": "B094Q2ZQCV",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B094Q2ZQCV.jpg",
+      "isActive": true,
+      "tags": [
+        "wisdom"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 237,
+      "text": "With those who have lived righteously, age is calm, peaceful, and softly mellowed, like the setting sun. I have recently seen a philosopher on his deathbed. He was not old except in years. He died as sweetly and peacefully as he had lived.",
+      "author": "James Allen",
+      "bookTitle": "As a Man Thinketh",
+      "bookId": "james_allen_2562",
+      "asin": "B08LX5ZSXR",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B08LX5ZSXR.jpg",
+      "isActive": true,
+      "tags": [
+        "wisdom"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 238,
+      "text": "Once you understand that apoB particles—LDL, VLDL, Lp(a)—are causally linked to ASCVD, the game completely changes. The only way to stop the disease is to remove the cause, and the best time to do that is now.",
+      "author": "Peter  Attia MD",
+      "bookTitle": "Outlive",
+      "bookId": "peter__attia_md_6803",
+      "asin": "B0B1BTJLJN",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B0B1BTJLJN.jpg",
+      "isActive": true,
+      "tags": [
+        "wisdom"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 239,
+      "text": "Only by shifting the underlying attitude about what it means to be a parent can that dad become a good one.",
+      "author": "Patrick M. Lencioni",
+      "bookTitle": "The Motive",
+      "bookId": "patrick_m_lencioni_7405",
+      "asin": "B0851K989D",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B0851K989D.jpg",
+      "isActive": true,
+      "tags": [
+        "wisdom"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 240,
+      "text": "We’re all waiting until we have deep knowledge, wisdom, and a sense of certainty before we venture forth. But we’ve got it backward—venturing forth is how we gain the knowledge.",
+      "author": "Will Smith and Mark Manson",
+      "bookTitle": "Will",
+      "bookId": "will_smith_and_mark_manson_2913",
+      "asin": "B093PF9F5G",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B093PF9F5G.jpg",
+      "isActive": true,
+      "tags": [
+        "wisdom"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 241,
+      "text": "the benefit to using the power in your voice and experiences is far greater than any payoff you might get from staying quiet. Your authenticity is what makes perfect strangers read your words and realize how much they love your writing.",
+      "author": "Sara Stibitz and Faith Smith-Place",
+      "bookTitle": "Writing on Purpose",
+      "bookId": "sara_stibitz_and_faith_smith-place_0602",
+      "asin": "B0DVMWQ9BC",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B0DVMWQ9BC.jpg",
+      "isActive": true,
+      "tags": [
+        "love",
+        "power",
+        "reading"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 242,
+      "text": "The best way to get started on the path to sharing your work is to think about what you want to learn, and make a commitment to learning it in front of others.",
+      "author": "Austin Kleon",
+      "bookTitle": "Show Your Work!",
+      "bookId": "austin_kleon_1096",
+      "asin": "B00GU2RGGI",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B00GU2RGGI.jpg",
+      "isActive": true,
+      "tags": [
+        "learning",
+        "thinking"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 243,
+      "text": "Share your real feelings: “I honestly want you to get better grades because I think you would benefit. I know it can seem like a drag now, but a good education opens many doors to you in the future and offers you more choices.”",
+      "author": "Jane Nelsen",
+      "bookTitle": "Positive Discipline",
+      "bookId": "jane_nelsen_7238",
+      "asin": "B004QWZJI6",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B004QWZJI6.jpg",
+      "isActive": true,
+      "tags": [
+        "decision",
+        "learning",
+        "thinking"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 244,
+      "text": "Has the VC in the past returned money to his/her LPs? The LPs will have greater confidence in backing a VC that has returned capital to LPs in the past.",
+      "author": "Winter Mead",
+      "bookTitle": "How To Raise A Venture Capital Fund",
+      "bookId": "winter_mead_6691",
+      "asin": "B08S9DTFVQ",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B08S9DTFVQ.jpg",
+      "isActive": true,
+      "tags": [
+        "wisdom"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 245,
+      "text": "Asking questions not only makes an order more palatable; it often stimulates the creativity of the persons whom you ask. People are more likely to accept an order if they have had a part in the decision that caused the order to be issued.",
+      "author": "Dale Carnegie",
+      "bookTitle": "How To Win Friends and Influence People",
+      "bookId": "dale_carnegie_7668",
+      "asin": "B08JV3W3VC",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B08JV3W3VC.jpg",
+      "isActive": true,
+      "tags": [
+        "life"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 246,
+      "text": "I prefer owning index funds and ETFs over individual stocks for a host of reasons (many of which will be discussed in the following chapter), but mainly because index funds are an easy way to get cheap diversification.",
+      "author": "Nick Maggiulli",
+      "bookTitle": "Just Keep Buying",
+      "bookId": "nick_maggiulli_2755",
+      "asin": "B09FYHZXBN",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B09FYHZXBN.jpg",
+      "isActive": true,
+      "tags": [
+        "success"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 247,
+      "text": "“It’s a big theme for him to never have his decisions guided by fear,” Peter recalls. “That was definitely present even when he was a child.”",
+      "author": "Walter Isaacson",
+      "bookTitle": "Elon Musk",
+      "bookId": "walter_isaacson_1813",
+      "asin": "B0BW9TRGKV",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B0BW9TRGKV.jpg",
+      "isActive": true,
+      "tags": [
+        "courage"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 248,
+      "text": "If a business has important complements and these complements are somehow exclusive to each offering, then a leader will attract more and/or better complements.",
+      "author": "Hamilton Helmer",
+      "bookTitle": "7 Powers",
+      "bookId": "hamilton_helmer_8520",
+      "asin": "B01MRLFFQ7",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B01MRLFFQ7.jpg",
+      "isActive": true,
+      "tags": [
+        "business",
+        "leadership"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 249,
+      "text": "...people become the culture they live in and do what they have to do to survive and thrive.",
+      "author": "Ben Horowitz",
+      "bookTitle": "What You Do Is Who You Are",
+      "bookId": "ben_horowitz_1476",
+      "asin": "B07NVN4QCM",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B07NVN4QCM.jpg",
+      "isActive": true,
+      "tags": [
+        "life"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 250,
+      "text": "We could get in a car crash because we didn’t stop at a red light (skill) or because another driver ran a red light (luck). A student could do poorly on a test because they didn’t study (skill) or because the teacher is mean (luck).",
+      "author": "Annie Duke",
+      "bookTitle": "Thinking in Bets",
+      "bookId": "annie_duke_5499",
+      "asin": "B074DG9LQF",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B074DG9LQF.jpg",
+      "isActive": true,
+      "tags": [
+        "learning"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 251,
+      "text": "Love should be one of the most natural things, but it is not. On the contrary, it has become the most difficult thing—almost the impossible thing. Hate has become easy; you are trained, you are prepared for hate.",
+      "author": "Osho",
+      "bookTitle": "Courage",
+      "bookId": "osho_8255",
+      "asin": "B0052Z3GDG",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B0052Z3GDG.jpg",
+      "isActive": true,
+      "tags": [
+        "love"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 252,
+      "text": "When we do the work for the audience, we open the door to giving up our attachment to how the audience will receive the work. That’s up to them. Our job is to be generous, as generous as we know how to be, with our work.",
+      "author": "Seth Godin",
+      "bookTitle": "The Practice",
+      "bookId": "seth_godin_2401",
+      "asin": "B088QLT891",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B088QLT891.jpg",
+      "isActive": true,
+      "tags": [
+        "wisdom"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 253,
+      "text": "The first two steps of CODE, Capture and Organize, make up divergence. They are about gathering seeds of imagination carried on the wind and storing them in a secure place. This is where you research, explore, and add ideas.",
+      "author": "Tiago Forte",
+      "bookTitle": "Building a Second Brain",
+      "bookId": "tiago_forte_2991",
+      "asin": "B09MDNDYYF",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B09MDNDYYF.jpg",
+      "isActive": true,
+      "tags": [
+        "success",
+        "thinking"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 254,
+      "text": "Afterward, when I debriefed with several of them, they said, “You told us it was part of our job. You told us what to do and how to do it. We prepared and some of us even rehearsed. We wanted to make sure we met your and Netflix’s expectations.”",
+      "author": "Reed Hastings and Erin Meyer",
+      "bookTitle": "No Rules Rules",
+      "bookId": "reed_hastings_and_erin_meyer_0752",
+      "asin": "B082261K3F",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B082261K3F.jpg",
+      "isActive": true,
+      "tags": [
+        "wisdom"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 255,
+      "text": "The only two questions, at any moment of choice in life, is what the price is, and whether or not it’s worth paying.",
+      "author": "Oliver Burkeman",
+      "bookTitle": "Meditations for Mortals",
+      "bookId": "oliver_burkeman_2907",
+      "asin": "B0CSBPW9F1",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B0CSBPW9F1.jpg",
+      "isActive": true,
+      "tags": [
+        "decision",
+        "life"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 256,
+      "text": "Reading a book isn’t a race—the better the book, the more slowly it should be absorbed.",
+      "author": "Eric Jorgenson, Jack Butcher, and Tim Ferriss",
+      "bookTitle": "The Almanack of Naval Ravikant",
+      "bookId": "eric_jorgenson,_jack_butcher,_and_tim_ferriss_2016",
+      "asin": "B08FF8MTM6",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B08FF8MTM6.jpg",
+      "isActive": true,
+      "tags": [
+        "reading"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 257,
+      "text": "The hen hawk can rise faster than the buzzard and its motion is steadier. It displays less effort in maintaining its balance.",
+      "author": "David McCullough",
+      "bookTitle": "The Wright Brothers",
+      "bookId": "david_mccullough_6881",
+      "asin": "B00LD1RWP6",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B00LD1RWP6.jpg",
+      "isActive": true,
+      "tags": [
+        "wisdom"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 258,
+      "text": "I couldn’t believe what I was hearing. Everyone in the group had lost tens of thousands of dollars or more to hacks, scams, careless errors, and bad investments. But they were still here. And they were making money.",
+      "author": "Nathaniel Eliason",
+      "bookTitle": "Crypto Confidential",
+      "bookId": "nathaniel_eliason_6246",
+      "asin": "B0CMWWCD75",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B0CMWWCD75.jpg",
+      "isActive": true,
+      "tags": [
+        "love"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 259,
+      "text": "A CALL TO ACTION I believe that searching for, finding, and embracing good work is one of the most noble quests of our age. My goal with this book is to convince you that finding good work is possible and that searching for it is worth it.",
+      "author": "Paul Millerd",
+      "bookTitle": "Good Work",
+      "bookId": "paul_millerd_0627",
+      "asin": "B0D4H86X1D",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B0D4H86X1D.jpg",
+      "isActive": true,
+      "tags": [
+        "reading",
+        "strategy"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 260,
+      "text": "Roles: Successful teams were explicitly told by the team leader why their individual and collective skills were important for the team’s success, and why it was important for them to perform as a team. Unsuccessful teams were not.",
+      "author": "Daniel Coyle",
+      "bookTitle": "The Culture Code",
+      "bookId": "daniel_coyle_6647",
+      "asin": "B019CGXU68",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B019CGXU68.jpg",
+      "isActive": true,
+      "tags": [
+        "leadership",
+        "learning",
+        "success"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 261,
+      "text": "Advocacy is the kind of communication that most people are accustomed to, and it is all about stating your case or making your point. I think we should change our advertising approach.",
+      "author": "Patrick M. Lencioni",
+      "bookTitle": "The Advantage",
+      "bookId": "patrick_m_lencioni_2610",
+      "asin": "B006ORWT3Y",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B006ORWT3Y.jpg",
+      "isActive": true,
+      "tags": [
+        "life",
+        "thinking"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 262,
+      "text": "The Warrior Archetype is not the be-all and end-all of life. It is only one identity, one stage on the path to maturity. But it is the greatest stage—and the most powerful. It is the foundation upon which all succeeding stages are laid.",
+      "author": "Steven Pressfield",
+      "bookTitle": "The Warrior Ethos",
+      "bookId": "steven_pressfield_1564",
+      "asin": "B004S7JHY6",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B004S7JHY6.jpg",
+      "isActive": true,
+      "tags": [
+        "life",
+        "power"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 263,
+      "text": "When your child is upset, make sure to acknowledge his feelings. This should always be your first move. But then, as quickly as possible, get him moving.",
+      "author": "Daniel J. Siegel, Tina Payne Bryson",
+      "bookTitle": "The Whole-Brain Child",
+      "bookId": "daniel_j_siegel,_tina_payne_bryson_9817",
+      "asin": "B004J4X32U",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B004J4X32U.jpg",
+      "isActive": true,
+      "tags": [
+        "wisdom"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 264,
+      "text": "Isabel would see to it that Granada’s mosques came to bear those same holy names, and she would not forget those particular cults in her own devotions.",
+      "author": "Peggy K. Liss",
+      "bookTitle": "Isabel the Queen",
+      "bookId": "peggy_k_liss_7578",
+      "asin": "B017SGHREU",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B017SGHREU.jpg",
+      "isActive": true,
+      "tags": [
+        "wisdom"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 265,
+      "text": "These reactions, as I have described them, began to change in a few days. The prisoner passed from the first to the second phase; the phase of relative apathy, in which he achieved a kind of emotional death.",
+      "author": "Viktor E Frankl",
+      "bookTitle": "Man's Search For Meaning",
+      "bookId": "viktor_e_frankl_3309",
+      "asin": "B00EKOC0HI",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B00EKOC0HI.jpg",
+      "isActive": true,
+      "tags": [
+        "success"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 266,
+      "text": "So what are the three prerogatives of the passenger? As stated previously, they get to inspect the ship, test the captain, and examine the itinerary. Each prerogative provides the basis for one of the captain’s challenges.",
+      "author": "Orion Taraban",
+      "bookTitle": "The Value of Others",
+      "bookId": "orion_taraban_2438",
+      "asin": "B0D1Q5LHNV",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B0D1Q5LHNV.jpg",
+      "isActive": true,
+      "tags": [
+        "wisdom"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 267,
+      "text": "ended up deploying an extreme solution known as Thrive Away: if you send an email to a colleague who’s on vacation, you receive a note informing you that your message has been automatically deleted—you can resend it when they return.",
+      "author": "Cal Newport",
+      "bookTitle": "A World Without Email",
+      "bookId": "cal_newport_7495",
+      "asin": "B08BKSJX1M",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B08BKSJX1M.jpg",
+      "isActive": true,
+      "tags": [
+        "wisdom"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 268,
+      "text": "But a visionary company does not necessarily die, not if it has the organizational strength to transcend any individual leader and remain visionary and vibrant decade after decade and through multiple generations.",
+      "author": "Jim Collins, Jerry I. Porras",
+      "bookTitle": "Built to Last",
+      "bookId": "jim_collins,_jerry_i_porras_9664",
+      "asin": "B0058DRSHW",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B0058DRSHW.jpg",
+      "isActive": true,
+      "tags": [
+        "business",
+        "courage",
+        "leadership"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 269,
+      "text": "To learn how to die, according to the Stoics, is to unlearn how to be a slave.",
+      "author": "Donald Robertson",
+      "bookTitle": "How to Think Like a Roman Emperor",
+      "bookId": "donald_robertson_4878",
+      "asin": "B07D2C5NNV",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B07D2C5NNV.jpg",
+      "isActive": true,
+      "tags": [
+        "learning"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 270,
+      "text": "What Makes You Happy A good life is everything you need and some of what you want. If you have everything you want, you appreciate none of what you have.",
+      "author": "Morgan Housel",
+      "bookTitle": "The Art of Spending Money",
+      "bookId": "morgan_housel_5747",
+      "asin": "B0F42TZ2FY",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B0F42TZ2FY.jpg",
+      "isActive": true,
+      "tags": [
+        "happiness",
+        "life"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 271,
+      "text": "Once there is green light for a project, Betaworks spends little money on it, to build a beta, put it out there and see how it works.",
+      "author": "Attila Szigeti",
+      "bookTitle": "Startup Studio Playbook",
+      "bookId": "attila_szigeti_1863",
+      "asin": "B07NVNYM4C",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B07NVNYM4C.jpg",
+      "isActive": true,
+      "tags": [
+        "wisdom"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 272,
+      "text": "On those occasions I would say to the team in various ways, “Fellas, I guess we’re gonna lose today. How do you want to do it?” They knew what I meant. I was asking them to stand up and fight and if they lost, at least to lose with dignity.",
+      "author": "Bill Walsh, Steve Jamison, Craig Walsh",
+      "bookTitle": "The Score Takes Care of Itself",
+      "bookId": "bill_walsh,_steve_jamison,_craig_walsh_4622",
+      "asin": "B002G54Y04",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B002G54Y04.jpg",
+      "isActive": true,
+      "tags": [
+        "communication",
+        "leadership"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 273,
+      "text": "When a change of role is discussed, it begs the question: How will this role serve the organization’s purpose? A new client or supplier can trigger the question: Will working with this client/this supplier further the organization’s purpose?",
+      "author": "Frederic Laloux",
+      "bookTitle": "Reinventing Organizations",
+      "bookId": "frederic_laloux_8330",
+      "asin": "B00ICS9VI4",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B00ICS9VI4.jpg",
+      "isActive": true,
+      "tags": [
+        "leadership"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 274,
+      "text": "How do you hope to be remembered in two hundred years? It might sound outrageous, but we should ask ourselves this question more often. Society is obsessed with the here and now.",
+      "author": "Jamie Russo",
+      "bookTitle": "The Underdog Paradox",
+      "bookId": "jamie_russo_6751",
+      "asin": "B08Q76F2SZ",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B08Q76F2SZ.jpg",
+      "isActive": true,
+      "tags": [
+        "inspiration"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 275,
+      "text": "As a productive paranoid, you want to be cognizant of lurking dangers and vigilant about possible disruptions, but this is very different from taking quick, immediate action because you want the anxiety and uncertainty to go away.",
+      "author": "Jim Collins",
+      "bookTitle": "Great by Choice",
+      "bookId": "jim_collins_1014",
+      "asin": "B005VB99GE",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B005VB99GE.jpg",
+      "isActive": true,
+      "tags": [
+        "business"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 276,
+      "text": "No matter how you have become interested in entrepreneurship, you need to start by first answering the following question: What can I do well that I would love to do for an extended period of time?",
+      "author": "Bill Aulet",
+      "bookTitle": "Disciplined Entrepreneurship",
+      "bookId": "bill_aulet_3874",
+      "asin": "B00DQ97TWO",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B00DQ97TWO.jpg",
+      "isActive": true,
+      "tags": [
+        "business",
+        "love",
+        "success"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 277,
+      "text": "You can be the richest guy in the world, but if you behave like a timid, negative and weak chump, then women will still be repelled.",
+      "author": "Mark Manson",
+      "bookTitle": "Models",
+      "bookId": "mark_manson_1376",
+      "asin": "B005EOTH24",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B005EOTH24.jpg",
+      "isActive": true,
+      "tags": [
+        "life"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 278,
+      "text": "Many large companies adopt a strategy of waiting until new markets are “large enough to be interesting.’’ But the evidence presented in chapter shows why this is not often a successful strategy.",
+      "author": "Clayton Christensen",
+      "bookTitle": "The Innovator's Dilemma",
+      "bookId": "clayton_christensen_6056",
+      "asin": "B012BLTM6I",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B012BLTM6I.jpg",
+      "isActive": true,
+      "tags": [
+        "business",
+        "strategy",
+        "success"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 279,
+      "text": "obsessing about winning is a loser’s game: The most we can hope for is to create the best possible conditions for success, then let go of the outcome. The ride is a lot more fun that way.",
+      "author": "Phil Jackson",
+      "bookTitle": "Eleven Rings",
+      "bookId": "phil_jackson_2905",
+      "asin": "B00O30HH5Y",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B00O30HH5Y.jpg",
+      "isActive": true,
+      "tags": [
+        "creativity",
+        "inspiration",
+        "success"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 280,
+      "text": "Symbol: The Lamp. Invisible to the eye, a current flowing through a wire in a glass vessel generates a heat that turns into candescence. All we see is the glow. In the prevailing darkness, the Lamp lights the way.",
+      "author": "Robert Greene",
+      "bookTitle": "The Art Of Seduction",
+      "bookId": "robert_greene_7289",
+      "asin": "B0041G68RI",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B0041G68RI.jpg",
+      "isActive": true,
+      "tags": [
+        "success"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 281,
+      "text": "In today’s global business environment it is not enough to be either an egalitarian leader or a hierarchical leader. You need to be both—to develop the flexibility to manage up and down the cultural scales.",
+      "author": "Erin Meyer",
+      "bookTitle": "The Culture Map",
+      "bookId": "erin_meyer_9016",
+      "asin": "B06XCJ125R",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B06XCJ125R.jpg",
+      "isActive": true,
+      "tags": [
+        "business",
+        "leadership"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 282,
+      "text": "One way to avoid this tension is to separate debate meetings and decision meetings. Another way to ease the anxiety of the people who want to know when the decision will get made is to have a “decide by” date next to each item being debated.",
+      "author": "Kim Scott",
+      "bookTitle": "Radical Candor",
+      "bookId": "kim_scott_0304",
+      "asin": "B01LW1LESC",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B01LW1LESC.jpg",
+      "isActive": true,
+      "tags": [
+        "decision",
+        "life"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 283,
+      "text": "“Work will always be work. Some people work doing what they love. Other people work so that they can do what they love when they’re not working. Neither is more noble.”",
+      "author": "Simone Stolzoff",
+      "bookTitle": "The Good Enough Job",
+      "bookId": "simone_stolzoff_4699",
+      "asin": "B0C4SR8RB5",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B0C4SR8RB5.jpg",
+      "isActive": true,
+      "tags": [
+        "life",
+        "love"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 284,
+      "text": "This is the essence of human nature and what people want to hear. They are quite happy to hear what a fool you have been before opening up to your success, and happier still if you never achieve it.",
+      "author": "David Nihill",
+      "bookTitle": "Do You Talk Funny?",
+      "bookId": "david_nihill_3904",
+      "asin": "B017MWHCVI",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B017MWHCVI.jpg",
+      "isActive": true,
+      "tags": [
+        "happiness",
+        "life",
+        "success"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 285,
+      "text": "Expert writers do it very differently. Consider how my coauthor and I put this book together. First we had to figure out what we wanted the book to do.",
+      "author": "Anders Ericsson and Robert Pool",
+      "bookTitle": "Peak",
+      "bookId": "anders_ericsson_and_robert_pool_2084",
+      "asin": "B019CH3M10",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B019CH3M10.jpg",
+      "isActive": true,
+      "tags": [
+        "reading",
+        "thinking"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 286,
+      "text": "better to be pessimistic and prepared than the alternative. It was Aristotle who said that the optimistic are the most vulnerable, because “when the result does not turn out as expected, they run away.”",
+      "author": "Ryan Holiday",
+      "bookTitle": "Courage Is Calling",
+      "bookId": "ryan_holiday_0250",
+      "asin": "B08Q25N6R4",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B08Q25N6R4.jpg",
+      "isActive": true,
+      "tags": [
+        "wisdom"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 287,
+      "text": "A good question to ask is, “Which of my current views would change if my incentives were different?” If you answer “none,” you are likely not only persuaded but blinded by your incentives.",
+      "author": "Morgan Housel",
+      "bookTitle": "Same as Ever",
+      "bookId": "morgan_housel_2087",
+      "asin": "B0C1685PDK",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B0C1685PDK.jpg",
+      "isActive": true,
+      "tags": [
+        "wisdom"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 288,
+      "text": "Learn to give before you take. It softens the ground, takes the bite out of a future request, or simply creates a distraction. And the giving can take many forms: an actual gift, a generous act, a kind favor, an “honest” admission—whatever it takes.",
+      "author": "Robert Greene",
+      "bookTitle": "The 48 Laws of Power",
+      "bookId": "robert_greene_4500",
+      "asin": "B0024CEZR6",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B0024CEZR6.jpg",
+      "isActive": true,
+      "tags": [
+        "creativity",
+        "learning",
+        "strategy"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 289,
+      "text": "if you want to make art is to pretend you’re starring in your own remake of Groundhog Day: Yesterday’s over, tomorrow may never come, there’s just today and what you can do with it.",
+      "author": "Austin Kleon",
+      "bookTitle": "Keep Going",
+      "bookId": "austin_kleon_9763",
+      "asin": "B07GNWXTKV",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B07GNWXTKV.jpg",
+      "isActive": true,
+      "tags": [
+        "wisdom"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 290,
+      "text": "While this approach can be rewarding, there is a fundamental problem with it: the company will never be driven to master new skills and develop new competencies, hire new kinds of leaders, or create different types of organizations.",
+      "author": "Colin Bryar and Bill Carr",
+      "bookTitle": "Working Backwards",
+      "bookId": "colin_bryar_and_bill_carr_7950",
+      "asin": "B08BYCQBZN",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B08BYCQBZN.jpg",
+      "isActive": true,
+      "tags": [
+        "business",
+        "creativity",
+        "leadership"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 291,
+      "text": "During such experiences, the mind does not act like a separate entity telling you what you should do or criticizing how you do it. It is quiet; you are “together,” and the action flows as free as a river.",
+      "author": "W. Timothy Gallwey",
+      "bookTitle": "The Inner Game of Tennis",
+      "bookId": "w_timothy_gallwey_3886",
+      "asin": "B003T0G9E4",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B003T0G9E4.jpg",
+      "isActive": true,
+      "tags": [
+        "communication",
+        "freedom",
+        "thinking"
+      ],
+      "dateAdded": "2025-10-30"
+    },
+    {
+      "id": 292,
+      "text": "it fits.”11 This is the lesson of Kim Campbell: fit creates opportunity. If the environment is a bad match with our individuality—if we cannot reach the controls in the cockpit—our performance will always be artificially impaired.",
+      "author": "Todd Rose",
+      "bookTitle": "The End of Average",
+      "bookId": "todd_rose_7706",
+      "asin": "B00R1JU7P6",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B00R1JU7P6.jpg",
+      "isActive": true,
+      "tags": [
+        "creativity",
+        "power"
+      ],
+      "dateAdded": "2025-10-30"
+    }
+  ]
+}

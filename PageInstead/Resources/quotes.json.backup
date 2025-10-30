@@ -1,0 +1,2501 @@
+{
+  "version": 1,
+  "lastUpdated": "2025-10-29",
+  "quotes": [
+    {
+      "id": 1,
+      "text": "Show me a family of readers, and I will show you the people who move the world.",
+      "author": "Napoleon Bonaparte",
+      "bookTitle": "Napoleon: A Life",
+      "bookId": "napoleon_bonaparte_7852",
+      "asin": "0143127853",
+      "coverImageURL": "https://m.media-amazon.com/images/P/0143127853.jpg",
+      "isActive": true,
+      "tags": [
+        "reading"
+      ],
+      "dateAdded": "2025-10-29"
+    },
+    {
+      "id": 2,
+      "text": "Once you learn to read, you will be forever free.",
+      "author": "Frederick Douglass",
+      "bookTitle": "Narrative of the Life",
+      "bookId": "frederick_douglass_1963",
+      "asin": "1503290735",
+      "coverImageURL": "https://m.media-amazon.com/images/P/1503290735.jpg",
+      "isActive": true,
+      "tags": [
+        "freedom",
+        "learning",
+        "reading"
+      ],
+      "dateAdded": "2025-10-29"
+    },
+    {
+      "id": 3,
+      "text": "That's the thing about books. They let you travel without moving your feet.",
+      "author": "Jhumpa Lahiri",
+      "bookTitle": "The Namesake",
+      "bookId": "jhumpa_lahiri_6218",
+      "asin": "0618485228",
+      "coverImageURL": "https://m.media-amazon.com/images/P/0618485228.jpg",
+      "isActive": true,
+      "tags": [
+        "adventure",
+        "books"
+      ],
+      "dateAdded": "2025-10-29"
+    },
+    {
+      "id": 4,
+      "text": "We read to know we are not alone.",
+      "author": "William Nicholson",
+      "bookTitle": "Shadowlands",
+      "bookId": "william_nicholson_6860",
+      "asin": "0452269520",
+      "coverImageURL": "https://m.media-amazon.com/images/P/0452269520.jpg",
+      "isActive": true,
+      "tags": [
+        "reading"
+      ],
+      "dateAdded": "2025-10-29"
+    },
+    {
+      "id": 5,
+      "text": "Reading is an exercise in empathy.",
+      "author": "Malorie Blackman",
+      "bookTitle": "Noughts & Crosses",
+      "bookId": "malorie_blackman_4281",
+      "asin": "0385733119",
+      "coverImageURL": "https://m.media-amazon.com/images/P/0385733119.jpg",
+      "isActive": true,
+      "tags": [
+        "reading"
+      ],
+      "dateAdded": "2025-10-29"
+    },
+    {
+      "id": 6,
+      "text": "I enjoy long, romantic walks through the bookstore.",
+      "author": "Unknown",
+      "bookTitle": "Collected Quotes",
+      "bookId": "unknown_1033",
+      "asin": "B99XXXXXX0",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B99XXXXXX0.jpg",
+      "isActive": true,
+      "tags": [
+        "books"
+      ],
+      "dateAdded": "2025-10-29"
+    },
+    {
+      "id": 7,
+      "text": "Be careful about reading health books. You may die of a misprint.",
+      "author": "Mark Twain",
+      "bookTitle": "The Adventures of Tom Sawyer",
+      "bookId": "mark_twain_2680",
+      "asin": "B00IWUKUVE",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B00IWUKUVE.jpg",
+      "isActive": true,
+      "tags": [
+        "books",
+        "reading"
+      ],
+      "dateAdded": "2025-10-29"
+    },
+    {
+      "id": 8,
+      "text": "Some day you will be old enough to start reading fairy tales again.",
+      "author": "C.S. Lewis",
+      "bookTitle": "The Chronicles of Narnia",
+      "bookId": "cs_lewis_0615",
+      "asin": "0066238501",
+      "coverImageURL": "https://m.media-amazon.com/images/P/0066238501.jpg",
+      "isActive": true,
+      "tags": [
+        "reading"
+      ],
+      "dateAdded": "2025-10-29"
+    },
+    {
+      "id": 9,
+      "text": "The person, be it gentleman or lady, who has not pleasure in a good novel, must be intolerably stupid.",
+      "author": "Jane Austen",
+      "bookTitle": "Pride and Prejudice",
+      "bookId": "jane_austen_8688",
+      "asin": "1503290565",
+      "coverImageURL": "https://m.media-amazon.com/images/P/1503290565.jpg",
+      "isActive": true,
+      "tags": [
+        "reading"
+      ],
+      "dateAdded": "2025-10-29"
+    },
+    {
+      "id": 10,
+      "text": "You're never too old, too wacky, too wild, to pick up a book and read to a child.",
+      "author": "Dr. Seuss",
+      "bookTitle": "The Cat in the Hat",
+      "bookId": "dr_seuss_7875",
+      "asin": "B077BLF2QW",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B077BLF2QW.jpg",
+      "isActive": true,
+      "tags": [
+        "books",
+        "reading"
+      ],
+      "dateAdded": "2025-10-29"
+    },
+    {
+      "id": 11,
+      "text": "Take a good book to bed with you—books do not snore.",
+      "author": "Thea Dorn",
+      "bookTitle": "The German House",
+      "bookId": "thea_dorn_0634",
+      "asin": "B04XXXXXX8",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B04XXXXXX8.jpg",
+      "isActive": true,
+      "tags": [
+        "books"
+      ],
+      "dateAdded": "2025-10-29"
+    },
+    {
+      "id": 12,
+      "text": "Where is human nature so weak as in the bookstore?",
+      "author": "Henry Ward Beecher",
+      "bookTitle": "Life Thoughts",
+      "bookId": "henry_ward_beecher_4299",
+      "asin": "B05XXXXXX9",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B05XXXXXX9.jpg",
+      "isActive": true,
+      "tags": [
+        "books"
+      ],
+      "dateAdded": "2025-10-29"
+    },
+    {
+      "id": 13,
+      "text": "If you are going to get anywhere in life you have to read a lot of books.",
+      "author": "Roald Dahl",
+      "bookTitle": "Charlie and the Chocolate Factory",
+      "bookId": "roald_dahl_3639",
+      "asin": "0142410314",
+      "coverImageURL": "https://m.media-amazon.com/images/P/0142410314.jpg",
+      "isActive": true,
+      "tags": [
+        "books",
+        "life",
+        "reading"
+      ],
+      "dateAdded": "2025-10-29"
+    },
+    {
+      "id": 14,
+      "text": "If you're going to binge, literature is definitely the way to do it.",
+      "author": "Oprah Winfrey",
+      "bookTitle": "What I Know For Sure",
+      "bookId": "oprah_winfrey_8942",
+      "asin": "B00IW89CKA",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B00IW89CKA.jpg",
+      "isActive": true,
+      "tags": [
+        "reading"
+      ],
+      "dateAdded": "2025-10-29"
+    },
+    {
+      "id": 15,
+      "text": "I can't imagine a man really enjoying a book and reading it only once.",
+      "author": "C.S. Lewis",
+      "bookTitle": "The Chronicles of Narnia",
+      "bookId": "cs_lewis_0615",
+      "asin": "0066238501",
+      "coverImageURL": "https://m.media-amazon.com/images/P/0066238501.jpg",
+      "isActive": true,
+      "tags": [
+        "books",
+        "imagination",
+        "reading"
+      ],
+      "dateAdded": "2025-10-29"
+    },
+    {
+      "id": 16,
+      "text": "We never tire of the friendships we form with books.",
+      "author": "Charles Dickens",
+      "bookTitle": "Great Expectations",
+      "bookId": "charles_dickens_3900",
+      "asin": "0141439564",
+      "coverImageURL": "https://m.media-amazon.com/images/P/0141439564.jpg",
+      "isActive": true,
+      "tags": [
+        "books",
+        "friendship"
+      ],
+      "dateAdded": "2025-10-29"
+    },
+    {
+      "id": 17,
+      "text": "I never need to find time to read.",
+      "author": "J.K. Rowling",
+      "bookTitle": "Harry Potter and the Sorcerer's Stone",
+      "bookId": "jk_rowling_9958",
+      "asin": "059035342X",
+      "coverImageURL": "https://m.media-amazon.com/images/P/059035342X.jpg",
+      "isActive": true,
+      "tags": [
+        "reading"
+      ],
+      "dateAdded": "2025-10-29"
+    },
+    {
+      "id": 18,
+      "text": "I have often reflected upon the new vistas that reading has opened to me.",
+      "author": "Malcolm X",
+      "bookTitle": "The Autobiography of Malcolm X",
+      "bookId": "malcolm_x_3833",
+      "asin": "0345350685",
+      "coverImageURL": "https://m.media-amazon.com/images/P/0345350685.jpg",
+      "isActive": true,
+      "tags": [
+        "reading"
+      ],
+      "dateAdded": "2025-10-29"
+    },
+    {
+      "id": 19,
+      "text": "Get books, sit yourself down anywhere, and go to reading them yourself.",
+      "author": "Abraham Lincoln",
+      "bookTitle": "Lincoln's Speeches",
+      "bookId": "abraham_lincoln_2401",
+      "asin": "0486261727",
+      "coverImageURL": "https://m.media-amazon.com/images/P/0486261727.jpg",
+      "isActive": true,
+      "tags": [
+        "books",
+        "reading"
+      ],
+      "dateAdded": "2025-10-29"
+    },
+    {
+      "id": 20,
+      "text": "I read for pleasure and that is the moment I learn the most.",
+      "author": "Margaret Atwood",
+      "bookTitle": "The Handmaid's Tale",
+      "bookId": "margaret_atwood_0417",
+      "asin": "038549081X",
+      "coverImageURL": "https://m.media-amazon.com/images/P/038549081X.jpg",
+      "isActive": true,
+      "tags": [
+        "learning",
+        "reading"
+      ],
+      "dateAdded": "2025-10-29"
+    },
+    {
+      "id": 21,
+      "text": "Read anything I write for the pleasure of reading it.",
+      "author": "Ernest Hemingway",
+      "bookTitle": "The Old Man and the Sea",
+      "bookId": "ernest_hemingway_1826",
+      "asin": "B00P42WY5S",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B00P42WY5S.jpg",
+      "isActive": true,
+      "tags": [
+        "reading"
+      ],
+      "dateAdded": "2025-10-29"
+    },
+    {
+      "id": 22,
+      "text": "When I look back, I am so impressed again with the life-giving power of literature.",
+      "author": "Maya Angelou",
+      "bookTitle": "I Know Why the Caged Bird Sings",
+      "bookId": "maya_angelou_8463",
+      "asin": "0345514408",
+      "coverImageURL": "https://m.media-amazon.com/images/P/0345514408.jpg",
+      "isActive": true,
+      "tags": [
+        "life"
+      ],
+      "dateAdded": "2025-10-29"
+    },
+    {
+      "id": 23,
+      "text": "To travel far, there is no better ship than a book.",
+      "author": "Emily Dickinson",
+      "bookTitle": "The Complete Poems",
+      "bookId": "emily_dickinson_4464",
+      "asin": "0571226655",
+      "coverImageURL": "https://m.media-amazon.com/images/P/0571226655.jpg",
+      "isActive": true,
+      "tags": [
+        "adventure",
+        "books"
+      ],
+      "dateAdded": "2025-10-29"
+    },
+    {
+      "id": 24,
+      "text": "A book is a version of the world. If you don't like it, offer your own.",
+      "author": "Salman Rushdie",
+      "bookTitle": "Midnight's Children",
+      "bookId": "salman_rushdie_2632",
+      "asin": "0812976533",
+      "coverImageURL": "https://m.media-amazon.com/images/P/0812976533.jpg",
+      "isActive": true,
+      "tags": [
+        "books"
+      ],
+      "dateAdded": "2025-10-29"
+    },
+    {
+      "id": 25,
+      "text": "Good friends, good books and a sleepy conscience: this is the ideal life.",
+      "author": "Mark Twain",
+      "bookTitle": "The Adventures of Tom Sawyer",
+      "bookId": "mark_twain_2680",
+      "asin": "B00IWUKUVE",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B00IWUKUVE.jpg",
+      "isActive": true,
+      "tags": [
+        "books",
+        "friendship",
+        "life"
+      ],
+      "dateAdded": "2025-10-29"
+    },
+    {
+      "id": 26,
+      "text": "You know you've read a good book when you turn the last page and feel a little as if you have lost a friend.",
+      "author": "Paul Sweeney",
+      "bookTitle": "Collected Wisdom",
+      "bookId": "paul_sweeney_3190",
+      "asin": "B02XXXXXX6",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B02XXXXXX6.jpg",
+      "isActive": true,
+      "tags": [
+        "books",
+        "friendship",
+        "reading"
+      ],
+      "dateAdded": "2025-10-29"
+    },
+    {
+      "id": 27,
+      "text": "I lived in books more than I lived anywhere else.",
+      "author": "Neil Gaiman",
+      "bookTitle": "The Sandman Vol. 1",
+      "bookId": "neil_gaiman_8140",
+      "asin": "1401225756",
+      "coverImageURL": "https://m.media-amazon.com/images/P/1401225756.jpg",
+      "isActive": true,
+      "tags": [
+        "books"
+      ],
+      "dateAdded": "2025-10-29"
+    },
+    {
+      "id": 28,
+      "text": "My alma mater was books, a good library.",
+      "author": "Malcolm X",
+      "bookTitle": "The Autobiography of Malcolm X",
+      "bookId": "malcolm_x_3833",
+      "asin": "0345350685",
+      "coverImageURL": "https://m.media-amazon.com/images/P/0345350685.jpg",
+      "isActive": true,
+      "tags": [
+        "books"
+      ],
+      "dateAdded": "2025-10-29"
+    },
+    {
+      "id": 29,
+      "text": "You can find magic wherever you look. Sit back and relax, all you need is a book.",
+      "author": "Dr. Seuss",
+      "bookTitle": "The Cat in the Hat",
+      "bookId": "dr_seuss_7875",
+      "asin": "B077BLF2QW",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B077BLF2QW.jpg",
+      "isActive": true,
+      "tags": [
+        "books",
+        "magic"
+      ],
+      "dateAdded": "2025-10-29"
+    },
+    {
+      "id": 30,
+      "text": "Rainy days should be spent at home with a cup of tea and a good book.",
+      "author": "Bill Patterson",
+      "bookTitle": "In Search of Wonder",
+      "bookId": "bill_patterson_0694",
+      "asin": "B01XXXXXX5",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B01XXXXXX5.jpg",
+      "isActive": true,
+      "tags": [
+        "books"
+      ],
+      "dateAdded": "2025-10-29"
+    },
+    {
+      "id": 31,
+      "text": "We don't need a list of rights and wrongs, tables of dos and don'ts: we need books, time, and silence.",
+      "author": "Philip Pullman",
+      "bookTitle": "The Golden Compass",
+      "bookId": "philip_pullman_9838",
+      "asin": "0440238137",
+      "coverImageURL": "https://m.media-amazon.com/images/P/0440238137.jpg",
+      "isActive": true,
+      "tags": [
+        "books"
+      ],
+      "dateAdded": "2025-10-29"
+    },
+    {
+      "id": 32,
+      "text": "Wear the old coat and buy the new book.",
+      "author": "Austin Phelps",
+      "bookTitle": "The Theory of Preaching",
+      "bookId": "austin_phelps_3940",
+      "asin": "B00XXXXXX4",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B00XXXXXX4.jpg",
+      "isActive": true,
+      "tags": [
+        "books"
+      ],
+      "dateAdded": "2025-10-29"
+    },
+    {
+      "id": 33,
+      "text": "There is no friend as loyal as a book.",
+      "author": "Ernest Hemingway",
+      "bookTitle": "The Old Man and the Sea",
+      "bookId": "ernest_hemingway_1826",
+      "asin": "B00P42WY5S",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B00P42WY5S.jpg",
+      "isActive": true,
+      "tags": [
+        "books",
+        "friendship"
+      ],
+      "dateAdded": "2025-10-29"
+    },
+    {
+      "id": 34,
+      "text": "A library is not a luxury but one of the necessities of life.",
+      "author": "Henry Ward Beecher",
+      "bookTitle": "Life Thoughts",
+      "bookId": "henry_ward_beecher_4299",
+      "asin": "B05XXXXXX9",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B05XXXXXX9.jpg",
+      "isActive": true,
+      "tags": [
+        "books",
+        "life"
+      ],
+      "dateAdded": "2025-10-29"
+    },
+    {
+      "id": 35,
+      "text": "Books are the perfect entertainment: no commercials, no batteries, hours of enjoyment for each dollar spent.",
+      "author": "Stephen King",
+      "bookTitle": "On Writing",
+      "bookId": "stephen_king_1002",
+      "asin": "B000FC0SIM",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B000FC0SIM.jpg",
+      "isActive": true,
+      "tags": [
+        "books"
+      ],
+      "dateAdded": "2025-10-29"
+    },
+    {
+      "id": 36,
+      "text": "We tell ourselves stories in order to live.",
+      "author": "Joan Didion",
+      "bookTitle": "The Year of Magical Thinking",
+      "bookId": "joan_didion_9022",
+      "asin": "1400078431",
+      "coverImageURL": "https://m.media-amazon.com/images/P/1400078431.jpg",
+      "isActive": true,
+      "tags": [
+        "reading"
+      ],
+      "dateAdded": "2025-10-29"
+    },
+    {
+      "id": 37,
+      "text": "People say that life is the thing, but I prefer reading.",
+      "author": "Logan Pearsall Smith",
+      "bookTitle": "Trivia",
+      "bookId": "logan_pearsall_smith_5993",
+      "asin": "B03XXXXXX7",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B03XXXXXX7.jpg",
+      "isActive": true,
+      "tags": [
+        "life",
+        "reading"
+      ],
+      "dateAdded": "2025-10-29"
+    },
+    {
+      "id": 38,
+      "text": "People can lose their lives in libraries. They ought to be warned.",
+      "author": "Saul Bellow",
+      "bookTitle": "The Adventures of Augie March",
+      "bookId": "saul_bellow_1939",
+      "asin": "0143039571",
+      "coverImageURL": "https://m.media-amazon.com/images/P/0143039571.jpg",
+      "isActive": true,
+      "tags": [
+        "books",
+        "life"
+      ],
+      "dateAdded": "2025-10-29"
+    },
+    {
+      "id": 39,
+      "text": "It is better to know one book intimately than a hundred superficially.",
+      "author": "Donna Tartt",
+      "bookTitle": "The Secret History",
+      "bookId": "donna_tartt_6236",
+      "asin": "1400031702",
+      "coverImageURL": "https://m.media-amazon.com/images/P/1400031702.jpg",
+      "isActive": true,
+      "tags": [
+        "books"
+      ],
+      "dateAdded": "2025-10-29"
+    },
+    {
+      "id": 40,
+      "text": "The America I love still exists at the front desks of our public libraries.",
+      "author": "Kurt Vonnegut",
+      "bookTitle": "Slaughterhouse-Five",
+      "bookId": "kurt_vonnegut_3658",
+      "asin": "0385333846",
+      "coverImageURL": "https://m.media-amazon.com/images/P/0385333846.jpg",
+      "isActive": true,
+      "tags": [
+        "books"
+      ],
+      "dateAdded": "2025-10-29"
+    },
+    {
+      "id": 41,
+      "text": "Books shouldn't be daunting, they should be funny, exciting, and wonderful.",
+      "author": "Roald Dahl",
+      "bookTitle": "Charlie and the Chocolate Factory",
+      "bookId": "roald_dahl_3639",
+      "asin": "0142410314",
+      "coverImageURL": "https://m.media-amazon.com/images/P/0142410314.jpg",
+      "isActive": true,
+      "tags": [
+        "books"
+      ],
+      "dateAdded": "2025-10-29"
+    },
+    {
+      "id": 42,
+      "text": "Books break the shackles of time, proof that humans can work magic.",
+      "author": "Carl Sagan",
+      "bookTitle": "Cosmos",
+      "bookId": "carl_sagan_5992",
+      "asin": "0345539435",
+      "coverImageURL": "https://m.media-amazon.com/images/P/0345539435.jpg",
+      "isActive": true,
+      "tags": [
+        "books",
+        "magic"
+      ],
+      "dateAdded": "2025-10-29"
+    },
+    {
+      "id": 43,
+      "text": "When you lose yourself in a book, the hours grow wings and fly.",
+      "author": "Chloe Thurlow",
+      "bookTitle": "The Secret Lives of Girls",
+      "bookId": "chloe_thurlow_2868",
+      "asin": "B00K2EQCJ8",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B00K2EQCJ8.jpg",
+      "isActive": true,
+      "tags": [
+        "books"
+      ],
+      "dateAdded": "2025-10-29"
+    },
+    {
+      "id": 44,
+      "text": "If I were a young person today, I would gain a sense of myself by reading.",
+      "author": "Maya Angelou",
+      "bookTitle": "I Know Why the Caged Bird Sings",
+      "bookId": "maya_angelou_8463",
+      "asin": "0345514408",
+      "coverImageURL": "https://m.media-amazon.com/images/P/0345514408.jpg",
+      "isActive": true,
+      "tags": [
+        "reading"
+      ],
+      "dateAdded": "2025-10-29"
+    },
+    {
+      "id": 45,
+      "text": "A mind needs books as a sword needs a whetstone, if it is to keep its edge.",
+      "author": "George R.R. Martin",
+      "bookTitle": "A Dance with Dragons",
+      "bookId": "george_rr_martin_9574",
+      "asin": "B004XISI4A",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B004XISI4A.jpg",
+      "isActive": true,
+      "tags": [
+        "books"
+      ],
+      "dateAdded": "2025-10-29"
+    },
+    {
+      "id": 46,
+      "text": "You can never get a cup of tea large enough or a book long enough to suit me.",
+      "author": "C.S. Lewis",
+      "bookTitle": "The Chronicles of Narnia",
+      "bookId": "cs_lewis_0615",
+      "asin": "0066238501",
+      "coverImageURL": "https://m.media-amazon.com/images/P/0066238501.jpg",
+      "isActive": true,
+      "tags": [
+        "books"
+      ],
+      "dateAdded": "2025-10-29"
+    },
+    {
+      "id": 47,
+      "text": "Never trust anyone who has not brought a book with them.",
+      "author": "Lemony Snicket",
+      "bookTitle": "The Bad Beginning",
+      "bookId": "lemony_snicket_7978",
+      "asin": "0061146307",
+      "coverImageURL": "https://m.media-amazon.com/images/P/0061146307.jpg",
+      "isActive": true,
+      "tags": [
+        "books"
+      ],
+      "dateAdded": "2025-10-29"
+    },
+    {
+      "id": 48,
+      "text": "You discover that your longings are universal longings, that you're not alone.",
+      "author": "F. Scott Fitzgerald",
+      "bookTitle": "The Great Gatsby",
+      "bookId": "f_scott_fitzgerald_1646",
+      "asin": "0743273567",
+      "coverImageURL": "https://m.media-amazon.com/images/P/0743273567.jpg",
+      "isActive": true,
+      "tags": [
+        "reading"
+      ],
+      "dateAdded": "2025-10-29"
+    },
+    {
+      "id": 49,
+      "text": "Employ your time in improving yourself by other men's writings.",
+      "author": "Socrates",
+      "bookTitle": "The Dialogues",
+      "bookId": "socrates_3041",
+      "asin": "0553213717",
+      "coverImageURL": "https://m.media-amazon.com/images/P/0553213717.jpg",
+      "isActive": true,
+      "tags": [
+        "reading"
+      ],
+      "dateAdded": "2025-10-29"
+    },
+    {
+      "id": 50,
+      "text": "Books are a uniquely portable magic.",
+      "author": "Stephen King",
+      "bookTitle": "On Writing",
+      "bookId": "stephen_king_1002",
+      "asin": "B000FC0SIM",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B000FC0SIM.jpg",
+      "isActive": true,
+      "tags": [
+        "books",
+        "magic"
+      ],
+      "dateAdded": "2025-10-29"
+    },
+    {
+      "id": 51,
+      "text": "There are worse crimes than burning books. One of them is not reading them.",
+      "author": "Joseph Brodsky",
+      "bookTitle": "Less Than One",
+      "bookId": "joseph_brodsky_8622",
+      "asin": "0374521344",
+      "coverImageURL": "https://m.media-amazon.com/images/P/0374521344.jpg",
+      "isActive": true,
+      "tags": [
+        "books",
+        "reading"
+      ],
+      "dateAdded": "2025-10-29"
+    },
+    {
+      "id": 52,
+      "text": "We live for books.",
+      "author": "Umberto Eco",
+      "bookTitle": "The Name of the Rose",
+      "bookId": "umberto_eco_2620",
+      "asin": "0544176561",
+      "coverImageURL": "https://m.media-amazon.com/images/P/0544176561.jpg",
+      "isActive": true,
+      "tags": [
+        "books"
+      ],
+      "dateAdded": "2025-10-29"
+    },
+    {
+      "id": 53,
+      "text": "I am a part of everything I have read.",
+      "author": "Theodore Roosevelt",
+      "bookTitle": "The Rough Riders",
+      "bookId": "theodore_roosevelt_7456",
+      "asin": "1420954253",
+      "coverImageURL": "https://m.media-amazon.com/images/P/1420954253.jpg",
+      "isActive": true,
+      "tags": [
+        "reading"
+      ],
+      "dateAdded": "2025-10-29"
+    },
+    {
+      "id": 54,
+      "text": "Books may well be the only true magic.",
+      "author": "Alice Hoffman",
+      "bookTitle": "Practical Magic",
+      "bookId": "alice_hoffman_3589",
+      "asin": "0425190374",
+      "coverImageURL": "https://m.media-amazon.com/images/P/0425190374.jpg",
+      "isActive": true,
+      "tags": [
+        "books",
+        "magic"
+      ],
+      "dateAdded": "2025-10-29"
+    },
+    {
+      "id": 55,
+      "text": "If a book is well written, I always find it too short.",
+      "author": "Jane Austen",
+      "bookTitle": "Pride and Prejudice",
+      "bookId": "jane_austen_8688",
+      "asin": "1503290565",
+      "coverImageURL": "https://m.media-amazon.com/images/P/1503290565.jpg",
+      "isActive": true,
+      "tags": [
+        "books"
+      ],
+      "dateAdded": "2025-10-29"
+    },
+    {
+      "id": 56,
+      "text": "Literacy is a bridge from misery to hope.",
+      "author": "Kofi Annan",
+      "bookTitle": "Interventions",
+      "bookId": "kofi_annan_9434",
+      "asin": "0713998768",
+      "coverImageURL": "https://m.media-amazon.com/images/P/0713998768.jpg",
+      "isActive": true,
+      "tags": [
+        "reading"
+      ],
+      "dateAdded": "2025-10-29"
+    },
+    {
+      "id": 57,
+      "text": "Reading for me is spending time with a friend.",
+      "author": "Gary Paulsen",
+      "bookTitle": "Hatchet",
+      "bookId": "gary_paulsen_3004",
+      "asin": "1416936475",
+      "coverImageURL": "https://m.media-amazon.com/images/P/1416936475.jpg",
+      "isActive": true,
+      "tags": [
+        "friendship",
+        "reading"
+      ],
+      "dateAdded": "2025-10-29"
+    },
+    {
+      "id": 58,
+      "text": "There is no mistaking a real book when one meets it. It is like falling in love.",
+      "author": "Christopher Morley",
+      "bookTitle": "Parnassus on Wheels",
+      "bookId": "christopher_morley_9461",
+      "asin": "1420954253",
+      "coverImageURL": "https://m.media-amazon.com/images/P/1420954253.jpg",
+      "isActive": true,
+      "tags": [
+        "books"
+      ],
+      "dateAdded": "2025-10-29"
+    },
+    {
+      "id": 59,
+      "text": "I declare after all there is no enjoyment like reading!",
+      "author": "Jane Austen",
+      "bookTitle": "Pride and Prejudice",
+      "bookId": "jane_austen_8688",
+      "asin": "1503290565",
+      "coverImageURL": "https://m.media-amazon.com/images/P/1503290565.jpg",
+      "isActive": true,
+      "tags": [
+        "reading"
+      ],
+      "dateAdded": "2025-10-29"
+    },
+    {
+      "id": 60,
+      "text": "There are two motives for reading a book: one enjoyment, one boasting.",
+      "author": "Bertrand Russell",
+      "bookTitle": "A History of Western Philosophy",
+      "bookId": "bertrand_russell_6839",
+      "asin": "0671201581",
+      "coverImageURL": "https://m.media-amazon.com/images/P/0671201581.jpg",
+      "isActive": true,
+      "tags": [
+        "books",
+        "reading"
+      ],
+      "dateAdded": "2025-10-29"
+    },
+    {
+      "id": 61,
+      "text": "A book is a gift you can open again and again.",
+      "author": "Garrison Keillor",
+      "bookTitle": "Lake Wobegon Days",
+      "bookId": "garrison_keillor_0275",
+      "asin": "0143118587",
+      "coverImageURL": "https://m.media-amazon.com/images/P/0143118587.jpg",
+      "isActive": true,
+      "tags": [
+        "books"
+      ],
+      "dateAdded": "2025-10-29"
+    },
+    {
+      "id": 62,
+      "text": "Keep reading. It's one of the most marvelous adventures anyone can have.",
+      "author": "Lloyd Alexander",
+      "bookTitle": "The Book of Three",
+      "bookId": "lloyd_alexander_6656",
+      "asin": "0805080503",
+      "coverImageURL": "https://m.media-amazon.com/images/P/0805080503.jpg",
+      "isActive": true,
+      "tags": [
+        "adventure",
+        "reading"
+      ],
+      "dateAdded": "2025-10-29"
+    },
+    {
+      "id": 63,
+      "text": "Reading all good books is like a conversation with the finest minds of past centuries.",
+      "author": "René Descartes",
+      "bookTitle": "Meditations on First Philosophy",
+      "bookId": "rené_descartes_8074",
+      "asin": "1107665736",
+      "coverImageURL": "https://m.media-amazon.com/images/P/1107665736.jpg",
+      "isActive": true,
+      "tags": [
+        "books",
+        "reading"
+      ],
+      "dateAdded": "2025-10-29"
+    },
+    {
+      "id": 64,
+      "text": "I have always imagined that Paradise will be a kind of library.",
+      "author": "Jorge Luis Borges",
+      "bookTitle": "Ficciones",
+      "bookId": "jorge_luis_borges_8133",
+      "asin": "0802130305",
+      "coverImageURL": "https://m.media-amazon.com/images/P/0802130305.jpg",
+      "isActive": true,
+      "tags": [
+        "books",
+        "imagination"
+      ],
+      "dateAdded": "2025-10-29"
+    },
+    {
+      "id": 65,
+      "text": "Reading is an exercise in empathy; walking in someone else's shoes.",
+      "author": "Malorie Blackman",
+      "bookTitle": "Noughts & Crosses",
+      "bookId": "malorie_blackman_4281",
+      "asin": "0385733119",
+      "coverImageURL": "https://m.media-amazon.com/images/P/0385733119.jpg",
+      "isActive": true,
+      "tags": [
+        "reading"
+      ],
+      "dateAdded": "2025-10-29"
+    },
+    {
+      "id": 66,
+      "text": "I have never known any distress that an hour's reading did not relieve.",
+      "author": "Charles de Montesquieu",
+      "bookTitle": "The Spirit of Laws",
+      "bookId": "charles_de_montesquieu_0906",
+      "asin": "0521369746",
+      "coverImageURL": "https://m.media-amazon.com/images/P/0521369746.jpg",
+      "isActive": true,
+      "tags": [
+        "reading"
+      ],
+      "dateAdded": "2025-10-29"
+    },
+    {
+      "id": 67,
+      "text": "Reading is a conversation. A good book listens as well.",
+      "author": "Mark Haddon",
+      "bookTitle": "The Curious Incident",
+      "bookId": "mark_haddon_7264",
+      "asin": "1400032717",
+      "coverImageURL": "https://m.media-amazon.com/images/P/1400032717.jpg",
+      "isActive": true,
+      "tags": [
+        "books",
+        "reading"
+      ],
+      "dateAdded": "2025-10-29"
+    },
+    {
+      "id": 68,
+      "text": "I guess there are never enough books.",
+      "author": "John Steinbeck",
+      "bookTitle": "The Grapes of Wrath",
+      "bookId": "john_steinbeck_3232",
+      "asin": "0143039431",
+      "coverImageURL": "https://m.media-amazon.com/images/P/0143039431.jpg",
+      "isActive": true,
+      "tags": [
+        "books"
+      ],
+      "dateAdded": "2025-10-29"
+    },
+    {
+      "id": 69,
+      "text": "Reading is a basic tool in the living of a good life.",
+      "author": "Mortimer J. Adler",
+      "bookTitle": "How to Read a Book",
+      "bookId": "mortimer_j_adler_1301",
+      "asin": "0671212095",
+      "coverImageURL": "https://m.media-amazon.com/images/P/0671212095.jpg",
+      "isActive": true,
+      "tags": [
+        "life",
+        "reading"
+      ],
+      "dateAdded": "2025-10-29"
+    },
+    {
+      "id": 70,
+      "text": "I read a book one day and my whole life was changed.",
+      "author": "Orhan Pamuk",
+      "bookTitle": "My Name is Red",
+      "bookId": "orhan_pamuk_4886",
+      "asin": "0375406956",
+      "coverImageURL": "https://m.media-amazon.com/images/P/0375406956.jpg",
+      "isActive": true,
+      "tags": [
+        "books",
+        "life",
+        "reading"
+      ],
+      "dateAdded": "2025-10-29"
+    },
+    {
+      "id": 71,
+      "text": "Once you have read a book you care about, some part of it is always with you.",
+      "author": "Louis L'Amour",
+      "bookTitle": "The Walking Drum",
+      "bookId": "louis_l'amour_1847",
+      "asin": "0553280074",
+      "coverImageURL": "https://m.media-amazon.com/images/P/0553280074.jpg",
+      "isActive": true,
+      "tags": [
+        "books",
+        "reading"
+      ],
+      "dateAdded": "2025-10-29"
+    },
+    {
+      "id": 72,
+      "text": "Readers are lucky—they will never be bored or lonely.",
+      "author": "Natalie Babbitt",
+      "bookTitle": "Tuck Everlasting",
+      "bookId": "natalie_babbitt_6611",
+      "asin": "0312369816",
+      "coverImageURL": "https://m.media-amazon.com/images/P/0312369816.jpg",
+      "isActive": true,
+      "tags": [
+        "reading"
+      ],
+      "dateAdded": "2025-10-29"
+    },
+    {
+      "id": 73,
+      "text": "You know you've read a good book when you feel you've lost a friend.",
+      "author": "Paul Sweeney",
+      "bookTitle": "Collected Wisdom",
+      "bookId": "paul_sweeney_3190",
+      "asin": "B02XXXXXX6",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B02XXXXXX6.jpg",
+      "isActive": true,
+      "tags": [
+        "books",
+        "friendship",
+        "reading"
+      ],
+      "dateAdded": "2025-10-29"
+    },
+    {
+      "id": 74,
+      "text": "A reader lives a thousand lives before he dies. The man who never reads lives only one.",
+      "author": "George R.R. Martin",
+      "bookTitle": "A Dance with Dragons",
+      "bookId": "george_rr_martin_9574",
+      "asin": "B004XISI4A",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B004XISI4A.jpg",
+      "isActive": true,
+      "tags": [
+        "life",
+        "reading"
+      ],
+      "dateAdded": "2025-10-29"
+    },
+    {
+      "id": 75,
+      "text": "So many books, so little time.",
+      "author": "Frank Zappa",
+      "bookTitle": "The Real Frank Zappa Book",
+      "bookId": "frank_zappa_4534",
+      "asin": "0671705725",
+      "coverImageURL": "https://m.media-amazon.com/images/P/0671705725.jpg",
+      "isActive": true,
+      "tags": [
+        "books"
+      ],
+      "dateAdded": "2025-10-29"
+    },
+    {
+      "id": 76,
+      "text": "A room without books is like a body without a soul.",
+      "author": "Marcus Tullius Cicero",
+      "bookTitle": "On the Good Life",
+      "bookId": "marcus_tullius_cicero_6749",
+      "asin": "0140442448",
+      "coverImageURL": "https://m.media-amazon.com/images/P/0140442448.jpg",
+      "isActive": true,
+      "tags": [
+        "books"
+      ],
+      "dateAdded": "2025-10-29"
+    },
+    {
+      "id": 77,
+      "text": "The more that you read, the more things you will know. The more that you learn, the more places you'll go.",
+      "author": "Dr. Seuss",
+      "bookTitle": "The Cat in the Hat",
+      "bookId": "dr_seuss_7875",
+      "asin": "B077BLF2QW",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B077BLF2QW.jpg",
+      "isActive": true,
+      "tags": [
+        "learning",
+        "reading"
+      ],
+      "dateAdded": "2025-10-29"
+    },
+    {
+      "id": 78,
+      "text": "Reading is to the mind what exercise is to the body.",
+      "author": "Joseph Addison",
+      "bookTitle": "The Tatler",
+      "bookId": "joseph_addison_6310",
+      "asin": "B09QBSS8NB",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B09QBSS8NB.jpg",
+      "isActive": true,
+      "tags": [
+        "reading"
+      ],
+      "dateAdded": "2025-10-29"
+    },
+    {
+      "id": 79,
+      "text": "Not all readers are leaders, but all leaders are readers.",
+      "author": "Harry S. Truman",
+      "bookTitle": "Memoirs Vol. 1",
+      "bookId": "harry_s_truman_4808",
+      "asin": "0306809788",
+      "coverImageURL": "https://m.media-amazon.com/images/P/0306809788.jpg",
+      "isActive": true,
+      "tags": [
+        "reading"
+      ],
+      "dateAdded": "2025-10-29"
+    },
+    {
+      "id": 80,
+      "text": "Think before you speak. Read before you think.",
+      "author": "Fran Lebowitz",
+      "bookTitle": "The Fran Lebowitz Reader",
+      "bookId": "fran_lebowitz_5817",
+      "asin": "0679733922",
+      "coverImageURL": "https://m.media-amazon.com/images/P/0679733922.jpg",
+      "isActive": true,
+      "tags": [
+        "reading"
+      ],
+      "dateAdded": "2025-10-29"
+    },
+    {
+      "id": 81,
+      "text": "Reading one book is like eating one potato chip.",
+      "author": "Diane Duane",
+      "bookTitle": "So You Want to Be a Wizard",
+      "bookId": "diane_duane_0650",
+      "asin": "0152049401",
+      "coverImageURL": "https://m.media-amazon.com/images/P/0152049401.jpg",
+      "isActive": true,
+      "tags": [
+        "books",
+        "reading"
+      ],
+      "dateAdded": "2025-10-29"
+    },
+    {
+      "id": 82,
+      "text": "If there's a book you want to read but it hasn't been written yet, then you must write it.",
+      "author": "Toni Morrison",
+      "bookTitle": "Beloved",
+      "bookId": "toni_morrison_2438",
+      "asin": "1400033411",
+      "coverImageURL": "https://m.media-amazon.com/images/P/1400033411.jpg",
+      "isActive": true,
+      "tags": [
+        "books",
+        "reading"
+      ],
+      "dateAdded": "2025-10-29"
+    },
+    {
+      "id": 83,
+      "text": "If you only read what everyone else reads, you can only think what everyone else is thinking.",
+      "author": "Haruki Murakami",
+      "bookTitle": "Norwegian Wood",
+      "bookId": "haruki_murakami_7268",
+      "asin": "0375704027",
+      "coverImageURL": "https://m.media-amazon.com/images/P/0375704027.jpg",
+      "isActive": true,
+      "tags": [
+        "reading"
+      ],
+      "dateAdded": "2025-10-29"
+    },
+    {
+      "id": 84,
+      "text": "Never allow yourself another new book till you've read an old one first.",
+      "author": "C.S. Lewis",
+      "bookTitle": "The Chronicles of Narnia",
+      "bookId": "cs_lewis_0615",
+      "asin": "0066238501",
+      "coverImageURL": "https://m.media-amazon.com/images/P/0066238501.jpg",
+      "isActive": true,
+      "tags": [
+        "books",
+        "reading"
+      ],
+      "dateAdded": "2025-10-29"
+    },
+    {
+      "id": 85,
+      "text": "A well-read woman is a dangerous creature.",
+      "author": "Lisa Kleypas",
+      "bookTitle": "Devil in Winter",
+      "bookId": "lisa_kleypas_9869",
+      "asin": "0060562536",
+      "coverImageURL": "https://m.media-amazon.com/images/P/0060562536.jpg",
+      "isActive": true,
+      "tags": [
+        "reading"
+      ],
+      "dateAdded": "2025-10-29"
+    },
+    {
+      "id": 86,
+      "text": "I can survive well enough on my own—if given the proper reading material.",
+      "author": "Sarah J. Maas",
+      "bookTitle": "A Court of Thorns and Roses",
+      "bookId": "sarah_j_maas_6745",
+      "asin": "1619634449",
+      "coverImageURL": "https://m.media-amazon.com/images/P/1619634449.jpg",
+      "isActive": true,
+      "tags": [
+        "reading"
+      ],
+      "dateAdded": "2025-10-29"
+    },
+    {
+      "id": 87,
+      "text": "A good bookshop is just a genteel Black Hole that knows how to read.",
+      "author": "Terry Pratchett",
+      "bookTitle": "The Colour of Magic",
+      "bookId": "terry_pratchett_0066",
+      "asin": "0552166596",
+      "coverImageURL": "https://m.media-amazon.com/images/P/0552166596.jpg",
+      "isActive": true,
+      "tags": [
+        "books",
+        "reading"
+      ],
+      "dateAdded": "2025-10-29"
+    },
+    {
+      "id": 88,
+      "text": "Books were safer than other people anyway.",
+      "author": "Neil Gaiman",
+      "bookTitle": "The Sandman Vol. 1",
+      "bookId": "neil_gaiman_8140",
+      "asin": "1401225756",
+      "coverImageURL": "https://m.media-amazon.com/images/P/1401225756.jpg",
+      "isActive": true,
+      "tags": [
+        "books"
+      ],
+      "dateAdded": "2025-10-29"
+    },
+    {
+      "id": 89,
+      "text": "Reality doesn't always give us the life that we desire, but we can always find what we desire between the pages of books.",
+      "author": "Adelise M. Cullens",
+      "bookTitle": "Book of Poetry",
+      "bookId": "adelise_m_cullens_8715",
+      "asin": "B08XXXXXX1",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B08XXXXXX1.jpg",
+      "isActive": true,
+      "tags": [
+        "books",
+        "life"
+      ],
+      "dateAdded": "2025-10-29"
+    },
+    {
+      "id": 90,
+      "text": "Maybe this is why we read, and why in moments of darkness we return to books: to find words for what we already know.",
+      "author": "Alberto Manguel",
+      "bookTitle": "A History of Reading",
+      "bookId": "alberto_manguel_5370",
+      "asin": "0670882917",
+      "coverImageURL": "https://m.media-amazon.com/images/P/0670882917.jpg",
+      "isActive": true,
+      "tags": [
+        "books",
+        "reading"
+      ],
+      "dateAdded": "2025-10-29"
+    },
+    {
+      "id": 91,
+      "text": "You can get lost in any library, no matter the size. But the more lost you are, the more things you'll find.",
+      "author": "Millie Florence",
+      "bookTitle": "Lost in the Library",
+      "bookId": "millie_florence_1547",
+      "asin": "B07XXXXXX2",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B07XXXXXX2.jpg",
+      "isActive": true,
+      "tags": [
+        "books"
+      ],
+      "dateAdded": "2025-10-29"
+    },
+    {
+      "id": 92,
+      "text": "Reading is an act of civilization; it's one of the greatest acts of civilization because it takes the free raw material of the mind and builds castles of possibilities.",
+      "author": "Ben Okri",
+      "bookTitle": "The Famished Road",
+      "bookId": "ben_okri_3535",
+      "asin": "0385425139",
+      "coverImageURL": "https://m.media-amazon.com/images/P/0385425139.jpg",
+      "isActive": true,
+      "tags": [
+        "freedom",
+        "reading"
+      ],
+      "dateAdded": "2025-10-29"
+    },
+    {
+      "id": 93,
+      "text": "I love the sound of the pages flicking against my fingers. Print against fingerprints. Books make people quiet, yet they are so loud.",
+      "author": "Nnedi Okorafor",
+      "bookTitle": "Who Fears Death",
+      "bookId": "nnedi_okorafor_1813",
+      "asin": "0756407303",
+      "coverImageURL": "https://m.media-amazon.com/images/P/0756407303.jpg",
+      "isActive": true,
+      "tags": [
+        "books"
+      ],
+      "dateAdded": "2025-10-29"
+    },
+    {
+      "id": 94,
+      "text": "Books are mirrors: you only see in them what you already have inside you.",
+      "author": "Carlos Ruiz Zafón",
+      "bookTitle": "The Shadow of the Wind",
+      "bookId": "carlos_ruiz_zafón_3874",
+      "asin": "0143034901",
+      "coverImageURL": "https://m.media-amazon.com/images/P/0143034901.jpg",
+      "isActive": true,
+      "tags": [
+        "books",
+        "reading"
+      ],
+      "dateAdded": "2025-10-29"
+    },
+    {
+      "id": 95,
+      "text": "The whole world opened to me when I learned to read.",
+      "author": "Mary McLeod Bethune",
+      "bookTitle": "Building a Better World",
+      "bookId": "mary_mcleod_bethune_6023",
+      "asin": "0253349753",
+      "coverImageURL": "https://m.media-amazon.com/images/P/0253349753.jpg",
+      "isActive": true,
+      "tags": [
+        "learning",
+        "reading"
+      ],
+      "dateAdded": "2025-10-29"
+    },
+    {
+      "id": 96,
+      "text": "I believe there is power in words, power in asserting our existence, our experience, our lives, through words.",
+      "author": "Jesmyn Ward",
+      "bookTitle": "Salvage the Bones",
+      "bookId": "jesmyn_ward_1272",
+      "asin": "1608195228",
+      "coverImageURL": "https://m.media-amazon.com/images/P/1608195228.jpg",
+      "isActive": true,
+      "tags": [
+        "life"
+      ],
+      "dateAdded": "2025-10-29"
+    },
+    {
+      "id": 97,
+      "text": "Once I began to read, I began to exist. I am what I read.",
+      "author": "Walter Dean Myers",
+      "bookTitle": "Monster",
+      "bookId": "walter_dean_myers_2332",
+      "asin": "0064407331",
+      "coverImageURL": "https://m.media-amazon.com/images/P/0064407331.jpg",
+      "isActive": true,
+      "tags": [
+        "reading"
+      ],
+      "dateAdded": "2025-10-29"
+    },
+    {
+      "id": 98,
+      "text": "Books don't offer real escape, but they can stop a mind scratching itself raw.",
+      "author": "David Mitchell",
+      "bookTitle": "Cloud Atlas",
+      "bookId": "david_mitchell_3515",
+      "asin": "0375507256",
+      "coverImageURL": "https://m.media-amazon.com/images/P/0375507256.jpg",
+      "isActive": true,
+      "tags": [
+        "books"
+      ],
+      "dateAdded": "2025-10-29"
+    },
+    {
+      "id": 99,
+      "text": "I love the solitude of reading. I love the deep dive into someone else's story, the delicious ache of a last page.",
+      "author": "Naomi Shihab Nye",
+      "bookTitle": "Habibi",
+      "bookId": "naomi_shihab_nye_6765",
+      "asin": "1416924736",
+      "coverImageURL": "https://m.media-amazon.com/images/P/1416924736.jpg",
+      "isActive": true,
+      "tags": [
+        "reading"
+      ],
+      "dateAdded": "2025-10-29"
+    },
+    {
+      "id": 100,
+      "text": "It is well known that reading quickens the growth of a heart like nothing else.",
+      "author": "Catherynne M. Valente",
+      "bookTitle": "The Girl Who Circumnavigated Fairyland",
+      "bookId": "catherynne_m_valente_5537",
+      "asin": "1250010195",
+      "coverImageURL": "https://m.media-amazon.com/images/P/1250010195.jpg",
+      "isActive": true,
+      "tags": [
+        "reading"
+      ],
+      "dateAdded": "2025-10-29"
+    },
+    {
+      "id": 101,
+      "text": "The problem with books is that they end.",
+      "author": "Caroline Kepnes",
+      "bookTitle": "You",
+      "bookId": "caroline_kepnes_5767",
+      "asin": "1476785600",
+      "coverImageURL": "https://m.media-amazon.com/images/P/1476785600.jpg",
+      "isActive": true,
+      "tags": [
+        "books"
+      ],
+      "dateAdded": "2025-10-29"
+    },
+    {
+      "id": 102,
+      "text": "In principle and reality, libraries are life-enhancing palaces of wonder.",
+      "author": "Gail Honeyman",
+      "bookTitle": "Eleanor Oliphant Is Completely Fine",
+      "bookId": "gail_honeyman_3706",
+      "asin": "0735220689",
+      "coverImageURL": "https://m.media-amazon.com/images/P/0735220689.jpg",
+      "isActive": true,
+      "tags": [
+        "books",
+        "life"
+      ],
+      "dateAdded": "2025-10-29"
+    },
+    {
+      "id": 103,
+      "text": "You see, unlike in the movies, there is no THE END sign flashing at the end of books. When I've read a book, I don't feel like I've finished anything. So I start a new one.",
+      "author": "Elif Shafak",
+      "bookTitle": "The Bastard of Istanbul",
+      "bookId": "elif_shafak_7679",
+      "asin": "0143112716",
+      "coverImageURL": "https://m.media-amazon.com/images/P/0143112716.jpg",
+      "isActive": true,
+      "tags": [
+        "books",
+        "reading"
+      ],
+      "dateAdded": "2025-10-29"
+    },
+    {
+      "id": 104,
+      "text": "Read. Read. Read. Just don't read one type of book. Read different books by various authors so that you develop different style.",
+      "author": "R.L. Stine",
+      "bookTitle": "Goosebumps",
+      "bookId": "rl_stine_4696",
+      "asin": "0545298385",
+      "coverImageURL": "https://m.media-amazon.com/images/P/0545298385.jpg",
+      "isActive": true,
+      "tags": [
+        "books",
+        "reading"
+      ],
+      "dateAdded": "2025-10-29"
+    },
+    {
+      "id": 105,
+      "text": "I find television very educating. Every time somebody turns on the set, I go into the other room and read a book.",
+      "author": "Groucho Marx",
+      "bookTitle": "The Groucho Letters",
+      "bookId": "groucho_marx_6559",
+      "asin": "0306806894",
+      "coverImageURL": "https://m.media-amazon.com/images/P/0306806894.jpg",
+      "isActive": true,
+      "tags": [
+        "books",
+        "reading"
+      ],
+      "dateAdded": "2025-10-29"
+    },
+    {
+      "id": 106,
+      "text": "'Classic' – a book which people praise and don't read.",
+      "author": "Mark Twain",
+      "bookTitle": "The Adventures of Tom Sawyer",
+      "bookId": "mark_twain_2680",
+      "asin": "B00IWUKUVE",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B00IWUKUVE.jpg",
+      "isActive": true,
+      "tags": [
+        "books",
+        "reading"
+      ],
+      "dateAdded": "2025-10-29"
+    },
+    {
+      "id": 107,
+      "text": "You don't have to burn books to destroy a culture. Just get people to stop reading them.",
+      "author": "Ray Bradbury",
+      "bookTitle": "Fahrenheit 451",
+      "bookId": "ray_bradbury_9376",
+      "asin": "1451673310",
+      "coverImageURL": "https://m.media-amazon.com/images/P/1451673310.jpg",
+      "isActive": true,
+      "tags": [
+        "books",
+        "reading"
+      ],
+      "dateAdded": "2025-10-29"
+    },
+    {
+      "id": 108,
+      "text": "Let's be reasonable and add an eighth day to the week devoted exclusively to reading.",
+      "author": "Lena Dunham",
+      "bookTitle": "Not That Kind of Girl",
+      "bookId": "lena_dunham_2945",
+      "asin": "0812985176",
+      "coverImageURL": "https://m.media-amazon.com/images/P/0812985176.jpg",
+      "isActive": true,
+      "tags": [
+        "reading"
+      ],
+      "dateAdded": "2025-10-29"
+    },
+    {
+      "id": 109,
+      "text": "In the case of good books, the point is not to see how many of them you can get through, but rather how many can get through to you.",
+      "author": "Mortimer J. Adler",
+      "bookTitle": "How to Read a Book",
+      "bookId": "mortimer_j_adler_1301",
+      "asin": "0671212095",
+      "coverImageURL": "https://m.media-amazon.com/images/P/0671212095.jpg",
+      "isActive": true,
+      "tags": [
+        "books"
+      ],
+      "dateAdded": "2025-10-29"
+    },
+    {
+      "id": 110,
+      "text": "A good book is an event in my life.",
+      "author": "Stendhal",
+      "bookTitle": "The Red and the Black",
+      "bookId": "stendhal_1367",
+      "asin": "0140447644",
+      "coverImageURL": "https://m.media-amazon.com/images/P/0140447644.jpg",
+      "isActive": true,
+      "tags": [
+        "books",
+        "life"
+      ],
+      "dateAdded": "2025-10-29"
+    },
+    {
+      "id": 111,
+      "text": "Reading brings us unknown friends.",
+      "author": "Honoré de Balzac",
+      "bookTitle": "Père Goriot",
+      "bookId": "honoré_de_balzac_1157",
+      "asin": "0140449221",
+      "coverImageURL": "https://m.media-amazon.com/images/P/0140449221.jpg",
+      "isActive": true,
+      "tags": [
+        "friendship",
+        "reading"
+      ],
+      "dateAdded": "2025-10-29"
+    },
+    {
+      "id": 112,
+      "text": "The world was hers for the reading.",
+      "author": "Betty Smith",
+      "bookTitle": "A Tree Grows in Brooklyn",
+      "bookId": "betty_smith_3915",
+      "asin": "0062736264",
+      "coverImageURL": "https://m.media-amazon.com/images/P/0062736264.jpg",
+      "isActive": true,
+      "tags": [
+        "reading"
+      ],
+      "dateAdded": "2025-10-29"
+    },
+    {
+      "id": 113,
+      "text": "I kept always two books in my pocket, one to read, one to write in.",
+      "author": "Robert Louis Stevenson",
+      "bookTitle": "Treasure Island",
+      "bookId": "robert_louis_stevenson_4845",
+      "asin": "0141321008",
+      "coverImageURL": "https://m.media-amazon.com/images/P/0141321008.jpg",
+      "isActive": true,
+      "tags": [
+        "books",
+        "reading"
+      ],
+      "dateAdded": "2025-10-29"
+    },
+    {
+      "id": 114,
+      "text": "The person who deserves most pity is a lonesome one on a rainy day who doesn't know how to read.",
+      "author": "Benjamin Franklin",
+      "bookTitle": "The Autobiography",
+      "bookId": "benjamin_franklin_3731",
+      "asin": "0486290735",
+      "coverImageURL": "https://m.media-amazon.com/images/P/0486290735.jpg",
+      "isActive": true,
+      "tags": [
+        "reading"
+      ],
+      "dateAdded": "2025-10-29"
+    },
+    {
+      "id": 115,
+      "text": "Literature is the most agreeable way of ignoring life.",
+      "author": "Fernando Pessoa",
+      "bookTitle": "The Book of Disquiet",
+      "bookId": "fernando_pessoa_0526",
+      "asin": "0141183047",
+      "coverImageURL": "https://m.media-amazon.com/images/P/0141183047.jpg",
+      "isActive": true,
+      "tags": [
+        "life"
+      ],
+      "dateAdded": "2025-10-29"
+    },
+    {
+      "id": 116,
+      "text": "There is more treasure in books than in all the pirate's loot on Treasure Island.",
+      "author": "Walt Disney",
+      "bookTitle": "Walt Disney Biography",
+      "bookId": "walt_disney_6102",
+      "asin": "1423175395",
+      "coverImageURL": "https://m.media-amazon.com/images/P/1423175395.jpg",
+      "isActive": true,
+      "tags": [
+        "books"
+      ],
+      "dateAdded": "2025-10-29"
+    },
+    {
+      "id": 117,
+      "text": "We are of opinion that instead of letting books grow moldy behind an iron grating, far from the vulgar gaze, it is better to let them wear out by being read.",
+      "author": "Jules Verne",
+      "bookTitle": "Twenty Thousand Leagues Under the Sea",
+      "bookId": "jules_verne_3788",
+      "asin": "0553213113",
+      "coverImageURL": "https://m.media-amazon.com/images/P/0553213113.jpg",
+      "isActive": true,
+      "tags": [
+        "books",
+        "reading"
+      ],
+      "dateAdded": "2025-10-29"
+    },
+    {
+      "id": 118,
+      "text": "It's not that I don't like people. It's just that when I'm in the company of others – even my nearest and dearest – there always comes a moment when I'd rather be reading a book.",
+      "author": "Maureen Corrigan",
+      "bookTitle": "So We Read On",
+      "bookId": "maureen_corrigan_2444",
+      "asin": "031626297X",
+      "coverImageURL": "https://m.media-amazon.com/images/P/031626297X.jpg",
+      "isActive": true,
+      "tags": [
+        "books",
+        "reading"
+      ],
+      "dateAdded": "2025-10-29"
+    },
+    {
+      "id": 119,
+      "text": "Books to the ceiling, Books to the sky, My pile of books is a mile high.",
+      "author": "Arnold Lobel",
+      "bookTitle": "Frog and Toad Are Friends",
+      "bookId": "arnold_lobel_3520",
+      "asin": "0064440206",
+      "coverImageURL": "https://m.media-amazon.com/images/P/0064440206.jpg",
+      "isActive": true,
+      "tags": [
+        "books"
+      ],
+      "dateAdded": "2025-10-29"
+    },
+    {
+      "id": 120,
+      "text": "There is nothing more luxurious than eating while you read.",
+      "author": "E. Nesbit",
+      "bookTitle": "The Railway Children",
+      "bookId": "e_nesbit_5124",
+      "asin": "0140367161",
+      "coverImageURL": "https://m.media-amazon.com/images/P/0140367161.jpg",
+      "isActive": true,
+      "tags": [
+        "reading"
+      ],
+      "dateAdded": "2025-10-29"
+    },
+    {
+      "id": 121,
+      "text": "One glance at a book and you hear the voice of another person, perhaps someone dead for 1,000 years.",
+      "author": "Carl Sagan",
+      "bookTitle": "Cosmos",
+      "bookId": "carl_sagan_5992",
+      "asin": "0345539435",
+      "coverImageURL": "https://m.media-amazon.com/images/P/0345539435.jpg",
+      "isActive": true,
+      "tags": [
+        "books"
+      ],
+      "dateAdded": "2025-10-29"
+    },
+    {
+      "id": 122,
+      "text": "Man reading should be man intensely alive. The book should be a ball of light in one's hand.",
+      "author": "Ezra Pound",
+      "bookTitle": "The Cantos",
+      "bookId": "ezra_pound_9803",
+      "asin": "0811213269",
+      "coverImageURL": "https://m.media-amazon.com/images/P/0811213269.jpg",
+      "isActive": true,
+      "tags": [
+        "books",
+        "reading"
+      ],
+      "dateAdded": "2025-10-29"
+    },
+    {
+      "id": 123,
+      "text": "If we encounter a man of rare intellect, we should ask him what books he reads.",
+      "author": "Ralph Waldo Emerson",
+      "bookTitle": "Collected Works",
+      "bookId": "ralph_waldo_emerson_7274",
+      "asin": "B00XXXXXX0",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B00XXXXXX0.jpg",
+      "isActive": true,
+      "tags": [
+        "books",
+        "reading"
+      ],
+      "dateAdded": "2025-10-29"
+    },
+    {
+      "id": 124,
+      "text": "Always read something that will make you look good if you die in the middle of it.",
+      "author": "P.J. O'Rourke",
+      "bookTitle": "Parliament of Whores",
+      "bookId": "pj_o'rourke_2634",
+      "asin": "0802142180",
+      "coverImageURL": "https://m.media-amazon.com/images/P/0802142180.jpg",
+      "isActive": true,
+      "tags": [
+        "reading"
+      ],
+      "dateAdded": "2025-10-29"
+    },
+    {
+      "id": 125,
+      "text": "Many people, myself among them, feel better at the mere sight of a book.",
+      "author": "Jane Smiley",
+      "bookTitle": "A Thousand Acres",
+      "bookId": "jane_smiley_4839",
+      "asin": "1400033837",
+      "coverImageURL": "https://m.media-amazon.com/images/P/1400033837.jpg",
+      "isActive": true,
+      "tags": [
+        "books"
+      ],
+      "dateAdded": "2025-10-29"
+    },
+    {
+      "id": 126,
+      "text": "Beware of the person of one book.",
+      "author": "Thomas Aquinas",
+      "bookTitle": "Summa Theologica",
+      "bookId": "thomas_aquinas_9723",
+      "asin": "1981549552",
+      "coverImageURL": "https://m.media-amazon.com/images/P/1981549552.jpg",
+      "isActive": true,
+      "tags": [
+        "books"
+      ],
+      "dateAdded": "2025-10-29"
+    },
+    {
+      "id": 127,
+      "text": "Read the best books first, or you may not have a chance to read them at all.",
+      "author": "Henry David Thoreau",
+      "bookTitle": "Collected Works",
+      "bookId": "henry_david_thoreau_7274",
+      "asin": "B00XXXXXX0",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B00XXXXXX0.jpg",
+      "isActive": true,
+      "tags": [
+        "books",
+        "reading"
+      ],
+      "dateAdded": "2025-10-29"
+    },
+    {
+      "id": 128,
+      "text": "Make it a rule never to give a child a book you would not read yourself.",
+      "author": "George Bernard Shaw",
+      "bookTitle": "Pygmalion",
+      "bookId": "george_bernard_shaw_9941",
+      "asin": "0486282228",
+      "coverImageURL": "https://m.media-amazon.com/images/P/0486282228.jpg",
+      "isActive": true,
+      "tags": [
+        "books",
+        "reading"
+      ],
+      "dateAdded": "2025-10-29"
+    },
+    {
+      "id": 129,
+      "text": "Books serve to show a man that those original thoughts of his aren't very new after all.",
+      "author": "Abraham Lincoln",
+      "bookTitle": "Lincoln's Speeches",
+      "bookId": "abraham_lincoln_2401",
+      "asin": "0486261727",
+      "coverImageURL": "https://m.media-amazon.com/images/P/0486261727.jpg",
+      "isActive": true,
+      "tags": [
+        "books"
+      ],
+      "dateAdded": "2025-10-29"
+    },
+    {
+      "id": 130,
+      "text": "There are many little ways to enlarge your child's world. Love of books is the best of all.",
+      "author": "Jacqueline Kennedy Onassis",
+      "bookTitle": "In Her Own Words",
+      "bookId": "jacqueline_kennedy_onassis_3925",
+      "asin": "0786886676",
+      "coverImageURL": "https://m.media-amazon.com/images/P/0786886676.jpg",
+      "isActive": true,
+      "tags": [
+        "books"
+      ],
+      "dateAdded": "2025-10-29"
+    },
+    {
+      "id": 131,
+      "text": "You may have tangible wealth untold. Caskets of jewels and coffers of gold. Richer than I you can never be — I had a mother who read to me.",
+      "author": "Strickland Gillilan",
+      "bookTitle": "Finnigin and His Family",
+      "bookId": "strickland_gillilan_7816",
+      "asin": "B00XXXXXX6",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B00XXXXXX6.jpg",
+      "isActive": true,
+      "tags": [
+        "reading"
+      ],
+      "dateAdded": "2025-10-29"
+    },
+    {
+      "id": 132,
+      "text": "The man who does not read good books is no better than the man who can't.",
+      "author": "Mark Twain",
+      "bookTitle": "The Adventures of Tom Sawyer",
+      "bookId": "mark_twain_2680",
+      "asin": "B00IWUKUVE",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B00IWUKUVE.jpg",
+      "isActive": true,
+      "tags": [
+        "books",
+        "reading"
+      ],
+      "dateAdded": "2025-10-29"
+    },
+    {
+      "id": 133,
+      "text": "To learn to read is to light a fire; every syllable that is spelled out is a spark.",
+      "author": "Victor Hugo",
+      "bookTitle": "Les Misérables",
+      "bookId": "victor_hugo_1700",
+      "asin": "0451419677",
+      "coverImageURL": "https://m.media-amazon.com/images/P/0451419677.jpg",
+      "isActive": true,
+      "tags": [
+        "learning",
+        "reading"
+      ],
+      "dateAdded": "2025-10-29"
+    },
+    {
+      "id": 134,
+      "text": "Oh, magic hour, when a child first knows she can read printed words!",
+      "author": "Betty Smith",
+      "bookTitle": "A Tree Grows in Brooklyn",
+      "bookId": "betty_smith_3915",
+      "asin": "0062736264",
+      "coverImageURL": "https://m.media-amazon.com/images/P/0062736264.jpg",
+      "isActive": true,
+      "tags": [
+        "magic",
+        "reading"
+      ],
+      "dateAdded": "2025-10-29"
+    },
+    {
+      "id": 135,
+      "text": "Fill your house with stacks of books, in all the crannies and all the nooks.",
+      "author": "Dr. Seuss",
+      "bookTitle": "The Cat in the Hat",
+      "bookId": "dr_seuss_7875",
+      "asin": "B077BLF2QW",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B077BLF2QW.jpg",
+      "isActive": true,
+      "tags": [
+        "books"
+      ],
+      "dateAdded": "2025-10-29"
+    },
+    {
+      "id": 136,
+      "text": "A classic is a book that has never finished saying what it has to say.",
+      "author": "Italo Calvino",
+      "bookTitle": "If on a winter's night a traveler",
+      "bookId": "italo_calvino_5571",
+      "asin": "0156439611",
+      "coverImageURL": "https://m.media-amazon.com/images/P/0156439611.jpg",
+      "isActive": true,
+      "tags": [
+        "books"
+      ],
+      "dateAdded": "2025-10-29"
+    },
+    {
+      "id": 137,
+      "text": "Reading is a discount ticket to everywhere.",
+      "author": "Mary Schmich",
+      "bookTitle": "Wear Sunscreen",
+      "bookId": "mary_schmich_7557",
+      "asin": "0312261632",
+      "coverImageURL": "https://m.media-amazon.com/images/P/0312261632.jpg",
+      "isActive": true,
+      "tags": [
+        "reading"
+      ],
+      "dateAdded": "2025-10-29"
+    },
+    {
+      "id": 138,
+      "text": "No entertainment is so cheap as reading, nor any pleasure so lasting.",
+      "author": "Mary Wortley Montagu",
+      "bookTitle": "Selected Letters",
+      "bookId": "mary_wortley_montagu_7382",
+      "asin": "0140437509",
+      "coverImageURL": "https://m.media-amazon.com/images/P/0140437509.jpg",
+      "isActive": true,
+      "tags": [
+        "reading"
+      ],
+      "dateAdded": "2025-10-29"
+    },
+    {
+      "id": 139,
+      "text": "I think books are like people, in the sense that they'll turn up in your life when you most need them.",
+      "author": "Emma Thompson",
+      "bookTitle": "The Sense and Sensibility Screenplay",
+      "bookId": "emma_thompson_4900",
+      "asin": "1557043795",
+      "coverImageURL": "https://m.media-amazon.com/images/P/1557043795.jpg",
+      "isActive": true,
+      "tags": [
+        "books",
+        "life"
+      ],
+      "dateAdded": "2025-10-29"
+    },
+    {
+      "id": 140,
+      "text": "That perfect tranquility of life, which is nowhere to be found but in retreat, a faithful friend and a good library.",
+      "author": "Aphra Behn",
+      "bookTitle": "Oroonoko",
+      "bookId": "aphra_behn_5271",
+      "asin": "0140439889",
+      "coverImageURL": "https://m.media-amazon.com/images/P/0140439889.jpg",
+      "isActive": true,
+      "tags": [
+        "books",
+        "friendship",
+        "life"
+      ],
+      "dateAdded": "2025-10-29"
+    },
+    {
+      "id": 141,
+      "text": "To acquire the habit of reading is to construct for yourself a refuge from almost all the miseries of life.",
+      "author": "W. Somerset Maugham",
+      "bookTitle": "Of Human Bondage",
+      "bookId": "w_somerset_maugham_3174",
+      "asin": "0099284960",
+      "coverImageURL": "https://m.media-amazon.com/images/P/0099284960.jpg",
+      "isActive": true,
+      "tags": [
+        "life",
+        "reading"
+      ],
+      "dateAdded": "2025-10-29"
+    },
+    {
+      "id": 142,
+      "text": "These books gave Matilda a hopeful and comforting message: You are not alone.",
+      "author": "Roald Dahl",
+      "bookTitle": "Charlie and the Chocolate Factory",
+      "bookId": "roald_dahl_3639",
+      "asin": "0142410314",
+      "coverImageURL": "https://m.media-amazon.com/images/P/0142410314.jpg",
+      "isActive": true,
+      "tags": [
+        "books"
+      ],
+      "dateAdded": "2025-10-29"
+    },
+    {
+      "id": 143,
+      "text": "Despite the enormous quantity of books, how few people read!",
+      "author": "Voltaire",
+      "bookTitle": "Collected Works",
+      "bookId": "voltaire_7274",
+      "asin": "B00XXXXXX0",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B00XXXXXX0.jpg",
+      "isActive": true,
+      "tags": [
+        "books",
+        "reading"
+      ],
+      "dateAdded": "2025-10-29"
+    },
+    {
+      "id": 144,
+      "text": "If you don't like to read, you haven't found the right book.",
+      "author": "J.K. Rowling",
+      "bookTitle": "Harry Potter and the Sorcerer's Stone",
+      "bookId": "jk_rowling_9958",
+      "asin": "059035342X",
+      "coverImageURL": "https://m.media-amazon.com/images/P/059035342X.jpg",
+      "isActive": true,
+      "tags": [
+        "books",
+        "reading"
+      ],
+      "dateAdded": "2025-10-29"
+    },
+    {
+      "id": 145,
+      "text": "Ah, how good it is to be among people who are reading.",
+      "author": "Rainer Maria Rilke",
+      "bookTitle": "Letters to a Young Poet",
+      "bookId": "rainer_maria_rilke_5950",
+      "asin": "0393310396",
+      "coverImageURL": "https://m.media-amazon.com/images/P/0393310396.jpg",
+      "isActive": true,
+      "tags": [
+        "reading"
+      ],
+      "dateAdded": "2025-10-29"
+    },
+    {
+      "id": 146,
+      "text": "Children are made readers on the laps of their parents.",
+      "author": "Emilie Buchwald",
+      "bookTitle": "Gildaen",
+      "bookId": "emilie_buchwald_5703",
+      "asin": "1571316736",
+      "coverImageURL": "https://m.media-amazon.com/images/P/1571316736.jpg",
+      "isActive": true,
+      "tags": [
+        "reading"
+      ],
+      "dateAdded": "2025-10-29"
+    },
+    {
+      "id": 147,
+      "text": "I couldn't live a week without a private library – indeed, I'd part with all my furniture and squat and sleep on the floor before I'd let go of the 1500 or so books I possess.",
+      "author": "H.P. Lovecraft",
+      "bookTitle": "The Call of Cthulhu",
+      "bookId": "hp_lovecraft_5901",
+      "asin": "0143129457",
+      "coverImageURL": "https://m.media-amazon.com/images/P/0143129457.jpg",
+      "isActive": true,
+      "tags": [
+        "books"
+      ],
+      "dateAdded": "2025-10-29"
+    },
+    {
+      "id": 148,
+      "text": "Books are good company, in sad times and happy times, for books are people.",
+      "author": "E.B. White",
+      "bookTitle": "Charlotte's Web",
+      "bookId": "eb_white_8558",
+      "asin": "0064400557",
+      "coverImageURL": "https://m.media-amazon.com/images/P/0064400557.jpg",
+      "isActive": true,
+      "tags": [
+        "books"
+      ],
+      "dateAdded": "2025-10-29"
+    },
+    {
+      "id": 149,
+      "text": "Luckily, I always travel with a book, just in case I have to wait on line for Santa, or some such inconvenience.",
+      "author": "David Levithan",
+      "bookTitle": "Every Day",
+      "bookId": "david_levithan_4848",
+      "asin": "0307931889",
+      "coverImageURL": "https://m.media-amazon.com/images/P/0307931889.jpg",
+      "isActive": true,
+      "tags": [
+        "adventure",
+        "books"
+      ],
+      "dateAdded": "2025-10-29"
+    },
+    {
+      "id": 150,
+      "text": "Outside of a dog, a book is a man's best friend. Inside of a dog, it's too dark to read.",
+      "author": "Groucho Marx",
+      "bookTitle": "The Groucho Letters",
+      "bookId": "groucho_marx_6559",
+      "asin": "0306806894",
+      "coverImageURL": "https://m.media-amazon.com/images/P/0306806894.jpg",
+      "isActive": true,
+      "tags": [
+        "books",
+        "friendship",
+        "reading"
+      ],
+      "dateAdded": "2025-10-29"
+    },
+    {
+      "id": 151,
+      "text": "Somebody who only reads newspapers and at best books of contemporary authors looks to me like an extremely near-sighted person who scorns eyeglasses.",
+      "author": "Albert Einstein",
+      "bookTitle": "Relativity",
+      "bookId": "albert_einstein_7252",
+      "asin": "0517029618",
+      "coverImageURL": "https://m.media-amazon.com/images/P/0517029618.jpg",
+      "isActive": true,
+      "tags": [
+        "books",
+        "reading"
+      ],
+      "dateAdded": "2025-10-29"
+    },
+    {
+      "id": 152,
+      "text": "I always read. You know how sharks have to keep swimming or they die? I'm like that.",
+      "author": "Patrick Rothfuss",
+      "bookTitle": "The Name of the Wind",
+      "bookId": "patrick_rothfuss_1283",
+      "asin": "0756404746",
+      "coverImageURL": "https://m.media-amazon.com/images/P/0756404746.jpg",
+      "isActive": true,
+      "tags": [
+        "reading"
+      ],
+      "dateAdded": "2025-10-29"
+    },
+    {
+      "id": 153,
+      "text": "There is no Frigate like a Book To take us Lands away.",
+      "author": "Emily Dickinson",
+      "bookTitle": "The Complete Poems",
+      "bookId": "emily_dickinson_4464",
+      "asin": "0571226655",
+      "coverImageURL": "https://m.media-amazon.com/images/P/0571226655.jpg",
+      "isActive": true,
+      "tags": [
+        "books"
+      ],
+      "dateAdded": "2025-10-29"
+    },
+    {
+      "id": 154,
+      "text": "I intend to put up with nothing that I can put down.",
+      "author": "Edgar Allan Poe",
+      "bookTitle": "The Raven and Other Poems",
+      "bookId": "edgar_allan_poe_5564",
+      "asin": "0486266850",
+      "coverImageURL": "https://m.media-amazon.com/images/P/0486266850.jpg",
+      "isActive": true,
+      "tags": [
+        "reading"
+      ],
+      "dateAdded": "2025-10-29"
+    },
+    {
+      "id": 155,
+      "text": "Books are not made for furniture, but there is nothing else that so beautifully furnishes a house.",
+      "author": "Henry Ward Beecher",
+      "bookTitle": "Life Thoughts",
+      "bookId": "henry_ward_beecher_4299",
+      "asin": "B05XXXXXX9",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B05XXXXXX9.jpg",
+      "isActive": true,
+      "tags": [
+        "books"
+      ],
+      "dateAdded": "2025-10-29"
+    },
+    {
+      "id": 156,
+      "text": "I took a speed-reading course and read War and Peace in twenty minutes. It involves Russia.",
+      "author": "Woody Allen",
+      "bookTitle": "Without Feathers",
+      "bookId": "woody_allen_2364",
+      "asin": "0345336976",
+      "coverImageURL": "https://m.media-amazon.com/images/P/0345336976.jpg",
+      "isActive": true,
+      "tags": [
+        "reading"
+      ],
+      "dateAdded": "2025-10-29"
+    },
+    {
+      "id": 157,
+      "text": "For my whole life, my favorite activity was reading. It's not the most social pastime.",
+      "author": "Audrey Hepburn",
+      "bookTitle": "Audrey Hepburn: An Elegant Spirit",
+      "bookId": "audrey_hepburn_4390",
+      "asin": "074325410X",
+      "coverImageURL": "https://m.media-amazon.com/images/P/074325410X.jpg",
+      "isActive": true,
+      "tags": [
+        "life",
+        "reading"
+      ],
+      "dateAdded": "2025-10-29"
+    },
+    {
+      "id": 158,
+      "text": "From the reading of 'good books' there comes a richness of life that can be obtained in no other way.",
+      "author": "Gordon B. Hinckley",
+      "bookTitle": "Standing for Something",
+      "bookId": "gordon_b_hinckley_3402",
+      "asin": "0609609890",
+      "coverImageURL": "https://m.media-amazon.com/images/P/0609609890.jpg",
+      "isActive": true,
+      "tags": [
+        "books",
+        "life",
+        "reading"
+      ],
+      "dateAdded": "2025-10-29"
+    },
+    {
+      "id": 159,
+      "text": "Fools have a habit of believing that everything written by a famous author is admirable.",
+      "author": "Voltaire",
+      "bookTitle": "Collected Works",
+      "bookId": "voltaire_7274",
+      "asin": "B00XXXXXX0",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B00XXXXXX0.jpg",
+      "isActive": true,
+      "tags": [
+        "reading"
+      ],
+      "dateAdded": "2025-10-29"
+    },
+    {
+      "id": 160,
+      "text": "How many a man has dated a new era in his life from the reading of a book.",
+      "author": "Henry David Thoreau",
+      "bookTitle": "Collected Works",
+      "bookId": "henry_david_thoreau_7274",
+      "asin": "B00XXXXXX0",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B00XXXXXX0.jpg",
+      "isActive": true,
+      "tags": [
+        "books",
+        "life",
+        "reading"
+      ],
+      "dateAdded": "2025-10-29"
+    },
+    {
+      "id": 161,
+      "text": "A children's story that can only be enjoyed by children is not a good children's story in the slightest.",
+      "author": "C.S. Lewis",
+      "bookTitle": "The Chronicles of Narnia",
+      "bookId": "cs_lewis_0615",
+      "asin": "0066238501",
+      "coverImageURL": "https://m.media-amazon.com/images/P/0066238501.jpg",
+      "isActive": true,
+      "tags": [
+        "reading"
+      ],
+      "dateAdded": "2025-10-29"
+    },
+    {
+      "id": 162,
+      "text": "It is a great thing to start life with a small number of really good books which are your very own.",
+      "author": "Arthur Conan Doyle",
+      "bookTitle": "The Complete Sherlock Holmes",
+      "bookId": "arthur_conan_doyle_5640",
+      "asin": "0553328255",
+      "coverImageURL": "https://m.media-amazon.com/images/P/0553328255.jpg",
+      "isActive": true,
+      "tags": [
+        "books",
+        "life"
+      ],
+      "dateAdded": "2025-10-29"
+    },
+    {
+      "id": 163,
+      "text": "Finally, from so little sleeping and so much reading, his brain dried up and he went completely out of his mind.",
+      "author": "Miguel de Cervantes Saavedra",
+      "bookTitle": "Don Quixote",
+      "bookId": "miguel_de_cervantes_saavedra_7832",
+      "asin": "0060934344",
+      "coverImageURL": "https://m.media-amazon.com/images/P/0060934344.jpg",
+      "isActive": true,
+      "tags": [
+        "reading"
+      ],
+      "dateAdded": "2025-10-29"
+    },
+    {
+      "id": 164,
+      "text": "What better occupation, really, than to spend the evening at the fireside with a book, with the wind beating on the windows and the lamp burning bright.",
+      "author": "Gustave Flaubert",
+      "bookTitle": "Madame Bovary",
+      "bookId": "gustave_flaubert_3315",
+      "asin": "0140449124",
+      "coverImageURL": "https://m.media-amazon.com/images/P/0140449124.jpg",
+      "isActive": true,
+      "tags": [
+        "books"
+      ],
+      "dateAdded": "2025-10-29"
+    },
+    {
+      "id": 165,
+      "text": "I'm old-fashioned and think that reading books is the most glorious pastime that humankind has yet devised.",
+      "author": "Wisława Szymborska",
+      "bookTitle": "View with a Grain of Sand",
+      "bookId": "wisława_szymborska_6528",
+      "asin": "0156004968",
+      "coverImageURL": "https://m.media-amazon.com/images/P/0156004968.jpg",
+      "isActive": true,
+      "tags": [
+        "books",
+        "reading"
+      ],
+      "dateAdded": "2025-10-29"
+    },
+    {
+      "id": 166,
+      "text": "Never put off till tomorrow the book you can read today.",
+      "author": "Holbrook Jackson",
+      "bookTitle": "The Reading of Books",
+      "bookId": "holbrook_jackson_4007",
+      "asin": "B01XXXXXX7",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B01XXXXXX7.jpg",
+      "isActive": true,
+      "tags": [
+        "books",
+        "reading"
+      ],
+      "dateAdded": "2025-10-29"
+    },
+    {
+      "id": 167,
+      "text": "Of course anyone who truly loves books buys more of them than he or she can hope to read in one fleeting lifetime.",
+      "author": "David Quammen",
+      "bookTitle": "The Song of the Dodo",
+      "bookId": "david_quammen_7761",
+      "asin": "0684827123",
+      "coverImageURL": "https://m.media-amazon.com/images/P/0684827123.jpg",
+      "isActive": true,
+      "tags": [
+        "books",
+        "life",
+        "reading"
+      ],
+      "dateAdded": "2025-10-29"
+    },
+    {
+      "id": 168,
+      "text": "Reading should not be presented to children as a chore or a duty. It should be offered as a gift.",
+      "author": "Kate DiCamillo",
+      "bookTitle": "The Tale of Despereaux",
+      "bookId": "kate_dicamillo_9602",
+      "asin": "0763680893",
+      "coverImageURL": "https://m.media-amazon.com/images/P/0763680893.jpg",
+      "isActive": true,
+      "tags": [
+        "reading"
+      ],
+      "dateAdded": "2025-10-29"
+    },
+    {
+      "id": 169,
+      "text": "Sometimes I think heaven must be one continuous unexhausted reading.",
+      "author": "Virginia Woolf",
+      "bookTitle": "Mrs Dalloway",
+      "bookId": "virginia_woolf_2267",
+      "asin": "0156628708",
+      "coverImageURL": "https://m.media-amazon.com/images/P/0156628708.jpg",
+      "isActive": true,
+      "tags": [
+        "reading"
+      ],
+      "dateAdded": "2025-10-29"
+    },
+    {
+      "id": 170,
+      "text": "A book must be the axe for the frozen sea within us.",
+      "author": "Franz Kafka",
+      "bookTitle": "The Metamorphosis",
+      "bookId": "franz_kafka_8530",
+      "asin": "0553213695",
+      "coverImageURL": "https://m.media-amazon.com/images/P/0553213695.jpg",
+      "isActive": true,
+      "tags": [
+        "books"
+      ],
+      "dateAdded": "2025-10-29"
+    },
+    {
+      "id": 171,
+      "text": "Rest, nature, books, music…such is my idea of happiness.",
+      "author": "Leo Tolstoy",
+      "bookTitle": "Anna Karenina",
+      "bookId": "leo_tolstoy_1043",
+      "asin": "0143035002",
+      "coverImageURL": "https://m.media-amazon.com/images/P/0143035002.jpg",
+      "isActive": true,
+      "tags": [
+        "books"
+      ],
+      "dateAdded": "2025-10-29"
+    },
+    {
+      "id": 172,
+      "text": "All great literature is one of two stories; a man goes on a journey or a stranger comes to town.",
+      "author": "Leo Tolstoy",
+      "bookTitle": "Anna Karenina",
+      "bookId": "leo_tolstoy_1043",
+      "asin": "0143035002",
+      "coverImageURL": "https://m.media-amazon.com/images/P/0143035002.jpg",
+      "isActive": true,
+      "tags": [
+        "adventure"
+      ],
+      "dateAdded": "2025-10-29"
+    }
+  ]
+}

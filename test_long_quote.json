@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "lastUpdated": "2025-10-30",
+  "quotes": [
+    {
+      "id": 1,
+      "text": "it's easy to keep track of these halted tasks by moving them to a column labeled waiting to hear back. When you move a task to this column, note on the card who you are waiting to hear back from and what the next step will be when you do hear back.",
+      "author": "Cal Newport",
+      "bookTitle": "A World Without Email",
+      "bookId": "cal_newport_1234",
+      "asin": "B08BKSJX1M",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B08BKSJX1M.jpg",
+      "isActive": true,
+      "tags": ["productivity", "communication"],
+      "dateAdded": "2025-10-30"
+    }
+  ]
+}

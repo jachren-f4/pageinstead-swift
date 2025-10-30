@@ -1,0 +1,6201 @@
+================================================================================
+KINDLE QUOTES - MANUAL CURATION
+================================================================================
+
+INSTRUCTIONS:
+1. Review the 6 quotes for each book (sorted shortest first)
+2. Edit/approve the suggested TAGS for each quote
+3. DELETE the 4 quotes you don't want (keep only 2 per book)
+4. Save this file
+5. Run: python3 finalize_quotes.py QUOTES_TO_CURATE.txt
+
+TAG OPTIONS:
+business, leadership, strategy, creativity, success, wisdom, life,
+learning, courage, discipline, inspiration, reading, thinking,
+communication, power, decision, freedom, love, happiness
+
+================================================================================
+
+BOOK: $100M Money Models: How To Make Money
+AUTHOR: Alex Hormozi
+ASIN: B0FMXTZ4MH
+
+QUOTE 1:
+First Up: Attraction Offers
+
+LENGTH: 27 chars
+TAGS: wisdom
+
+QUOTE 2:
+Ask “are you here for free stuff or lasting results?” for permission to offer the premium thing first.
+
+LENGTH: 102 chars
+TAGS: freedom
+
+QUOTE 3:
+In this section, I go over my five favorite ways to make money by offering free stuff: Win Your Money Back Giveaways Decoy Offer Buy X Get Y Free Pay Less Now or Pay More Later
+
+LENGTH: 176 chars
+TAGS: freedom, success
+
+QUOTE 4:
+Here are the steps to make a Decoy Offer: Advertise a lesser, smaller, or simpler version of your premium offer as a decoy. When leads engage, offer both options, but emphasize the premium one.
+
+LENGTH: 193 chars
+TAGS: leadership
+
+QUOTE 5:
+Attraction Offers turn strangers into customers. Upsell Offers get people to spend more cash. Downsell Offers get people to say yes when they would have said no. Continuity Offers keep people buying.
+
+LENGTH: 199 chars
+TAGS: business, life
+
+QUOTE 6:
+FREE GIFT: Bonus Tutorial On The Four Types Of Offers If you want a more in depth look at how we think through layering different offers, go to acquisition.com/training/money. It’s free and publicly available.
+
+LENGTH: 209 chars
+TAGS: freedom, thinking
+
+--------------------------------------------------------------------------------
+
+BOOK: 7 Powers: The Foundations of Business Strategy
+AUTHOR: Hamilton Helmer
+ASIN: B01MRLFFQ7
+
+QUOTE 1:
+Scale Economies quickly receded.
+
+LENGTH: 32 chars
+TAGS: business
+
+QUOTE 2:
+“What Power types do I now have?
+
+LENGTH: 32 chars
+TAGS: power
+
+QUOTE 3:
+rational response to the circumstances.
+
+LENGTH: 39 chars
+TAGS: business
+
+QUOTE 4:
+Lasseter + Catmull together as the real
+
+LENGTH: 39 chars
+TAGS: business
+
+QUOTE 5:
+were on an inevitable path to commodization.
+
+LENGTH: 44 chars
+TAGS: business
+
+QUOTE 6:
+strategy: a route to continuing Power in significant markets
+
+LENGTH: 60 chars
+TAGS: power, strategy
+
+--------------------------------------------------------------------------------
+
+BOOK: A Technique for Producing Ideas - the simple five-step formula anyone can use to be more creative in business and in life!
+AUTHOR: James Webb Young
+ASIN: B07J2QSKRB
+
+QUOTE 1:
+The first of these steps is for the mind to gather its raw material.
+
+LENGTH: 68 chars
+TAGS: thinking
+
+QUOTE 2:
+an idea is nothing more nor less than a new combination of old elements.
+
+LENGTH: 72 chars
+TAGS: thinking
+
+QUOTE 3:
+The materials which must be gathered are of two kinds: they are specific and they are general.
+
+LENGTH: 94 chars
+TAGS: business
+
+QUOTE 4:
+In learning any art the important things to learn are, first, Principles; and second, Method. This is true of the art of producing ideas.
+
+LENGTH: 137 chars
+TAGS: learning, thinking, wisdom
+YOUR NOTE: Using this to making better games
+
+QUOTE 5:
+What you are seeking now is the relationship, a synthesis where everything will come together in a neat combination, like a jig-saw puzzle.
+
+LENGTH: 139 chars
+TAGS: business
+
+QUOTE 6:
+To some minds each fact is a separate bit of knowledge, To others it is a link in a chain of knowledge. It has relationships and similarities.
+
+LENGTH: 142 chars
+TAGS: thinking, wisdom
+
+--------------------------------------------------------------------------------
+
+BOOK: A World Without Email: Reimagining Work in an Age of Communication Overload
+AUTHOR: Cal Newport
+ASIN: B08BKSJX1M
+
+QUOTE 1:
+Office Hour Protocols
+
+LENGTH: 21 chars
+TAGS: wisdom
+
+QUOTE 2:
+Short-Message Protocols
+
+LENGTH: 23 chars
+TAGS: wisdom
+
+QUOTE 3:
+Status Meeting Protocols
+
+LENGTH: 24 chars
+TAGS: wisdom
+
+QUOTE 4:
+Nonpersonal Email Protocols
+
+LENGTH: 27 chars
+TAGS: wisdom
+
+QUOTE 5:
+Case Study: Working at the Extremes
+
+LENGTH: 35 chars
+TAGS: wisdom
+
+QUOTE 6:
+Supercharging Idea #1: Structure Support
+
+LENGTH: 40 chars
+TAGS: thinking
+
+--------------------------------------------------------------------------------
+
+BOOK: Alchemy: The Dark Art and Curious Science of Creating Magic in Brands, Business, and Life
+AUTHOR: Rory Sutherland
+ASIN: B071DCWRG3
+
+QUOTE 1:
+Context is everything: strangely, the
+
+LENGTH: 37 chars
+TAGS: business
+
+QUOTE 2:
+Create a name, and you’ve created a norm.*
+
+LENGTH: 42 chars
+TAGS: creativity
+
+QUOTE 3:
+Bad maths is the palmistry of the twenty-first century.
+
+LENGTH: 55 chars
+TAGS: business
+
+QUOTE 4:
+Scarcity and ubiquity can both matter, depending on the context.
+
+LENGTH: 64 chars
+TAGS: business
+
+QUOTE 5:
+solver are valued above the practicality of an idea. If a problem
+
+LENGTH: 65 chars
+TAGS: thinking
+
+QUOTE 6:
+We should test counterintuitive things – because no one else will.
+
+LENGTH: 66 chars
+TAGS: business
+
+--------------------------------------------------------------------------------
+
+BOOK: Angel: How to Invest in Technology Startups—Timeless Advice from an Angel Investor Who Turned $100,000 into $100,000,000
+AUTHOR: Jason Calacanis
+ASIN: B01M9C1Y3S
+
+QUOTE 1:
+Since then, I've stopped trying to understand what will work and what won't, and instead I use my Jedi powers to understand how strong the Force is in the founder.
+
+LENGTH: 163 chars
+TAGS: power, wisdom
+YOUR NOTE: Again, only bet on founders
+
+QUOTE 2:
+At $2,500 per company, that's four bets a year-twenty bets over five years-during your self-imposed boob-tube ban.
+
+What if you got a hundred times your return on one? What if you got a thousand times your return on one?
+
+LENGTH: 220 chars
+TAGS: business
+
+QUOTE 3:
+As an angel investor, you are going to need to invest in fifty startups (diversification!) in Silicon Valley (location!) over three years in order to have a chance at an outsize return. That's one to two startups a month.
+
+LENGTH: 221 chars
+TAGS: business
+
+QUOTE 4:
+What if you could invest in ten startups in the next thirty days, but instead of having to pick them yourself, you could simply invest alongside other angels who have been doing this for many more years than you. Might that interest you?
+
+LENGTH: 237 chars
+TAGS: business
+
+--------------------------------------------------------------------------------
+
+BOOK: As a Man Thinketh
+AUTHOR: James Allen
+ASIN: B08LX5ZSXR
+
+QUOTE 1:
+Even the man whose sole object is to acquire wealth must be prepared to make great personal sacrifices before he can accomplish his object; and how much more so he who would realize a strong and well-poised life?
+
+LENGTH: 212 chars
+TAGS: life, success
+
+QUOTE 2:
+Men do not attract that which they want, but that which they are. Their whims, fancies, and ambitions are thwarted at every step, but their inmost thoughts and desires are fed with their own food, be it foul or clean.
+
+LENGTH: 217 chars
+TAGS: thinking
+
+QUOTE 3:
+man has but to right himself to find that the universe is right. And during the process of putting himself right, he will find that as he alters his thoughts towards things and other people, things and other people will alter towards him.
+
+LENGTH: 238 chars
+TAGS: life, thinking
+
+QUOTE 4:
+With those who have lived righteously, age is calm, peaceful, and softly mellowed, like the setting sun. I have recently seen a philosopher on his deathbed. He was not old except in years. He died as sweetly and peacefully as he had lived.
+
+LENGTH: 239 chars
+TAGS: wisdom
+
+QUOTE 5:
+If you would perfect your body, guard your mind. If you would renew your body, beautify your mind. Thoughts of malice, envy, and disappointment, despondency, rob the body of its health and grace. A sour face does not come by chance; it is made by sour thoughts.
+
+LENGTH: 261 chars
+TAGS: thinking
+
+QUOTE 6:
+At the end of his entire research, he drives to the conclusion that a man is the result of his or her own thoughts. Your positive and constructive thoughts can make you touch epitome of success while negative and destructive thoughts can land you at the zenith of failure and depression.
+
+LENGTH: 287 chars
+TAGS: success, thinking
+
+--------------------------------------------------------------------------------
+
+BOOK: BE 2.0 (Beyond Entrepreneurship 2.0): Turning Your Business into an Enduring Great Company
+AUTHOR: Jim Collins
+ASIN: B08FZLMZDZ
+
+QUOTE 1:
+Vision Component 3: Mission
+
+LENGTH: 27 chars
+TAGS: strategy
+
+QUOTE 2:
+10x MULTIPLIER—RETURN ON LUCK
+
+LENGTH: 29 chars
+TAGS: business
+
+QUOTE 3:
+Leadership Style Element 3: Focus
+
+LENGTH: 33 chars
+TAGS: discipline, leadership
+
+QUOTE 4:
+The Collins-Porras Vision Framework
+
+LENGTH: 35 chars
+TAGS: strategy
+
+QUOTE 5:
+Leadership Style Element 7: Ever Forward
+
+LENGTH: 40 chars
+TAGS: leadership
+
+QUOTE 6:
+Leadership Style Element 6: Communication
+
+LENGTH: 41 chars
+TAGS: leadership
+
+--------------------------------------------------------------------------------
+
+BOOK: Bandersnatch: C. S. Lewis, J. R. R. Tolkien, and the Creative Collaboration of the Inklings
+AUTHOR: Diana Pavlac Glyer
+ASIN: B018RB6FNY
+
+QUOTE 1:
+Remember: two is a magic number.
+
+LENGTH: 32 chars
+TAGS: wisdom
+
+QUOTE 2:
+Lewis took the next step and shared some poems of his own.
+
+LENGTH: 58 chars
+TAGS: wisdom
+
+QUOTE 3:
+Takeaway: It’s never too early—or too late—to contribute to the success of a project.
+
+LENGTH: 85 chars
+TAGS: success
+
+QUOTE 4:
+When the Inklings gathered, substantial intellect, enormous talent, and powerful personality met.
+
+LENGTH: 97 chars
+TAGS: power
+
+QUOTE 5:
+Takeaway: Learn to tell the difference between “I don’t like this” and “This doesn’t have any potential.”
+
+LENGTH: 105 chars
+TAGS: learning
+
+QUOTE 6:
+sharing this poem, Tolkien had taken a substantial risk, and Lewis had offered a generous, detailed response.
+
+LENGTH: 109 chars
+TAGS: courage
+
+--------------------------------------------------------------------------------
+
+BOOK: Becoming Steve Jobs: The evolution of a reckless upstart into a visionary leader
+AUTHOR: Brent Schlender and Rick Tetzeli
+ASIN: B00P6URK66
+
+QUOTE 1:
+What Scotty offered were systems. If Apple were a family, Scotty would have handled the nuts and bolts of the household, setting up bank accounts, closing on a mortgage, and so on.
+
+LENGTH: 180 chars
+TAGS: leadership
+
+QUOTE 2:
+It was February 1977, and Steve, all of twenty-one years old, had turned Apple over to adult supervision. Unfortunately, neither Markkula nor Scotty could ever become the mentor he needed.
+
+LENGTH: 188 chars
+TAGS: strategy
+
+QUOTE 3:
+While he was an introspective guy, he was not inclined to retrospection: “What’s the point in looking back,” he told me in one email. “I’d rather look forward to all the good things to come.”
+
+LENGTH: 191 chars
+TAGS: leadership
+
+QUOTE 4:
+Sculley made clear that he would take the company in a more “market-driven” direction. Apple would now respond to the demands of its customers, instead of dictating to the market, as Steve had tried to do.
+
+LENGTH: 205 chars
+TAGS: business
+
+QUOTE 5:
+Over the three and a half years since his return, he had come to recognize that taking this more incremental approach to computer development can result in the kind of equilibrium that allows you to build a business designed to thrive over the long haul.
+
+LENGTH: 254 chars
+TAGS: business, creativity
+
+QUOTE 6:
+He had the ability to see around corners, to envision how the seeds of existing ideas could be combined to create something unimaginable to others. The challenge he faced was to become an effective visionary—that’s what turns a dreamer into someone who changes the world.
+
+LENGTH: 271 chars
+TAGS: creativity, strategy, thinking
+
+--------------------------------------------------------------------------------
+
+BOOK: Benjamin Franklin: An American Life
+AUTHOR: Walter Isaacson
+ASIN: B000FBJG4U
+
+QUOTE 1:
+A secret to being more revered than resented, he learned, was to display (at least when he could muster the discipline) a self-deprecating humor, unpretentious demeanor, and unaggressive style in conversation.9
+
+LENGTH: 210 chars
+TAGS: discipline, learning
+
+QUOTE 2:
+Franklin was always better at practical applications than theoretical analysis. Rather than speculate about the size of molecules, he looked for uses for his oil-and-water experiments. Might it be possible to save ships from dangerous waves by dumping oil into the ocean?
+
+LENGTH: 271 chars
+TAGS: wisdom
+
+QUOTE 3:
+“I would rather have it said,” he wrote his mother, “ ‘He lived usefully,’ than, ‘He died rich.’ ” So, in 1748 at age 42—which would turn out to be precisely the midpoint of his life—he retired and turned over the operation of his printing business to his foreman, David Hall.
+
+LENGTH: 276 chars
+TAGS: business, life
+
+QUOTE 4:
+the reflection gave me more chagrin than the whistle gave me pleasure.” Frugality became for him not only a virtue but also a pleasure. “Industry and frugality,” he wrote in describing the theme of Poor Richard’s almanacs, are “the means of procuring wealth and thereby securing virtue.”20
+
+LENGTH: 289 chars
+TAGS: wisdom
+
+QUOTE 5:
+In addition to such topics of debate, Franklin laid out a guide for the type of conversational contributions each member could usefully make. There were twenty-four in all, and because their practicality is so revealing of Franklin’s purposeful approach, they are worth excerpting at length:
+
+LENGTH: 291 chars
+TAGS: wisdom
+
+--------------------------------------------------------------------------------
+
+BOOK: Breaking Smart: Season One: How Software is Eating the World
+AUTHOR: Venkatesh Rao
+ASIN: B079Q77446
+
+QUOTE 1:
+Second, we have shifted gears
+
+LENGTH: 29 chars
+TAGS: wisdom
+
+QUOTE 2:
+The networked world blurs the distinction between wealth and waste.
+
+LENGTH: 67 chars
+TAGS: wisdom
+
+QUOTE 3:
+any sufficiently advanced kind of work is indistinguishable from play.
+
+LENGTH: 70 chars
+TAGS: wisdom
+
+QUOTE 4:
+any sufficiently advanced civilization is indistinguishable from nature.
+
+LENGTH: 72 chars
+TAGS: wisdom
+
+QUOTE 5:
+To “break smart” is to adapt intelligently to new technological possibilities.
+
+LENGTH: 78 chars
+TAGS: wisdom
+
+QUOTE 6:
+Third, a great deal of the impact of software today appears in a disguised form.
+
+LENGTH: 80 chars
+TAGS: wisdom
+
+--------------------------------------------------------------------------------
+
+BOOK: Build: An Unorthodox Guide to Making Things Worth Making
+AUTHOR: Tony Fadell
+ASIN: B09BNJ6GBV
+
+QUOTE 1:
+Part 1 Build Yourself
+
+LENGTH: 21 chars
+TAGS: wisdom
+
+QUOTE 2:
+10% was installation:
+
+LENGTH: 21 chars
+TAGS: wisdom
+
+QUOTE 3:
+Part V Build Your Team
+
+LENGTH: 22 chars
+TAGS: leadership
+
+QUOTE 4:
+Part II Build Your Career
+
+LENGTH: 25 chars
+TAGS: wisdom
+
+QUOTE 5:
+Part III Build Your Product
+
+LENGTH: 27 chars
+TAGS: business
+
+QUOTE 6:
+Part IV Build Your Business
+
+LENGTH: 27 chars
+TAGS: business
+
+--------------------------------------------------------------------------------
+
+BOOK: Building a Second Brain: A Proven Method to Organise Your Digital Life and Unlock Your Creative Potential
+AUTHOR: Tiago Forte
+ASIN: B09MDNDYYF
+
+QUOTE 1:
+Checklist #2: Project Completion
+
+LENGTH: 32 chars
+TAGS: wisdom
+
+QUOTE 2:
+Capture Criteria #2: Is It Useful?
+
+LENGTH: 34 chars
+TAGS: wisdom
+
+QUOTE 3:
+Capture Criteria #3: Is It Personal?
+
+LENGTH: 36 chars
+TAGS: wisdom
+
+QUOTE 4:
+Capture Criteria #4: Is It Surprising?
+
+LENGTH: 38 chars
+TAGS: wisdom
+YOUR NOTE: Also a novelty factor can be involved
+
+QUOTE 5:
+Capture Criteria #1: Does It Inspire Me?
+
+LENGTH: 40 chars
+TAGS: inspiration
+
+QUOTE 6:
+A Weekly Review Template: Reset to Avoid Overwhelm
+
+LENGTH: 50 chars
+TAGS: wisdom
+
+--------------------------------------------------------------------------------
+
+BOOK: Built to Last: Successful Habits of Visionary Companies (Harper Business Essentials)
+AUTHOR: Jim Collins, Jerry I. Porras
+ASIN: B0058DRSHW
+
+QUOTE 1:
+3M is famous; McKnight is not. We suspect he would have wanted it exactly that way.
+
+LENGTH: 83 chars
+TAGS: business
+
+QUOTE 2:
+Ideological control preserves the core while operational autonomy stimulates progress.
+
+LENGTH: 86 chars
+TAGS: power
+
+QUOTE 3:
+these companies don’t exist just to “be a company”; they exist to do something useful.
+
+LENGTH: 86 chars
+TAGS: business
+
+QUOTE 4:
+Failure is our most important product. R. W. JOHNSON, JR., FORMER CEO, JOHNSON & JOHNSON
+
+LENGTH: 88 chars
+TAGS: business, leadership
+YOUR NOTE: #EGDQuote
+
+QUOTE 5:
+Visionary companies do not ask, “What should we value?” They ask, “What do we actually value deep down to our toes?”
+
+LENGTH: 116 chars
+TAGS: strategy
+
+QUOTE 6:
+some executives make more progress by starting first with the vivid description and backing from there into the BHAG.
+
+LENGTH: 117 chars
+TAGS: leadership
+
+--------------------------------------------------------------------------------
+
+BOOK: Burn Rate: Launching a Startup and Losing My Mind
+AUTHOR: Andy Dunn
+ASIN: B09CCP2VWX
+
+QUOTE 1:
+Only some dads survive the son’s journey intact. Before they do, they all fall down.
+
+LENGTH: 84 chars
+TAGS: wisdom
+
+QUOTE 2:
+“Can I have an equity refresh grant?” I asked the board in mid-2016. “Sure,” said the board.
+
+LENGTH: 92 chars
+TAGS: wisdom
+YOUR NOTE: Equity refresh grant?
+
+QUOTE 3:
+This is the most disappointing phase of mania: returning to Earth, becoming an ordinary person once again.
+
+LENGTH: 106 chars
+TAGS: wisdom
+YOUR NOTE: Does this happen  in other situations than just mania?
+
+QUOTE 4:
+What I learned later is that it is the absence of the back-and-forth that spells the end of the beginning.
+
+LENGTH: 106 chars
+TAGS: learning
+
+QUOTE 5:
+The old saying is true: we buy things we don’t need, with money we don’t have, to impress people we don’t like.
+
+LENGTH: 111 chars
+TAGS: life
+YOUR NOTE: Wasted life
+
+QUOTE 6:
+She would get us unstuck. We saw her a dozen times over the course of two years of building, and rebuilding, our lives.
+
+LENGTH: 119 chars
+TAGS: wisdom
+YOUR NOTE: Are people always better off if they see a therapist?
+
+--------------------------------------------------------------------------------
+
+BOOK: ChatGPT for Nonfiction Authors: How to Use ChatGPT to Write Better, Faster, and More Effectively (Tips and examples that help you generate ideas, research topics, and maximize your productivity)
+AUTHOR: Hassan Osman
+ASIN: B0BRMLVT1H
+
+QUOTE 1:
+Example 1: Identify errors
+
+LENGTH: 26 chars
+TAGS: wisdom
+
+QUOTE 2:
+Using ChatGPT for Text Summarization
+
+LENGTH: 36 chars
+TAGS: wisdom
+
+QUOTE 3:
+Example 2: Rewrite in alternate voices
+
+LENGTH: 38 chars
+TAGS: wisdom
+
+QUOTE 4:
+ChatGPT helped me with the how of writing versus the what of writing.
+
+LENGTH: 69 chars
+TAGS: wisdom
+
+QUOTE 5:
+Example 1: Identify sources Prompt: Generate a list of reliable sources for researching the causes of climate change.
+
+LENGTH: 117 chars
+TAGS: wisdom
+
+QUOTE 6:
+Next, I started feeding ChatGPT the chapter headings and bullets from the outline to help me draft the content of each chapter.
+
+LENGTH: 127 chars
+TAGS: wisdom
+
+--------------------------------------------------------------------------------
+
+BOOK: Courage Is Calling: Fortune Favours the Brave
+AUTHOR: Ryan Holiday
+ASIN: B08Q25N6R4
+
+QUOTE 1:
+All Growth Is a Leap
+
+LENGTH: 20 chars
+TAGS: wisdom
+
+QUOTE 2:
+Don’t Fear Decisions
+
+LENGTH: 20 chars
+TAGS: courage
+
+QUOTE 3:
+The Call We Answer …
+
+LENGTH: 20 chars
+TAGS: wisdom
+
+QUOTE 4:
+The World Wants to Know
+
+LENGTH: 23 chars
+TAGS: wisdom
+
+QUOTE 5:
+We Are Afraid to Believe
+
+LENGTH: 24 chars
+TAGS: wisdom
+
+QUOTE 6:
+We Defeat Fear with Logic
+
+LENGTH: 25 chars
+TAGS: courage
+
+--------------------------------------------------------------------------------
+
+BOOK: Courage: The Joy of Living Dangerously (Osho Insights for a New Way of Living)
+AUTHOR: Osho
+ASIN: B0052Z3GDG
+
+QUOTE 1:
+IN SEARCH OF FEARLESSNESS
+
+LENGTH: 25 chars
+TAGS: courage
+
+QUOTE 2:
+THE JOY OF LIVING DANGEROUSLY
+
+LENGTH: 29 chars
+TAGS: happiness, life
+
+QUOTE 3:
+TAKE YOURSELF OUT OF THE CROWD
+
+LENGTH: 30 chars
+TAGS: wisdom
+
+QUOTE 4:
+memory is the whole life energy of the ego.
+
+LENGTH: 43 chars
+TAGS: life
+
+QUOTE 5:
+MEDITATION FOR DISSOLVING OLD PATTERNS OF FEAR
+
+LENGTH: 46 chars
+TAGS: courage
+
+QUOTE 6:
+Risk is the only guarantee for being truly alive.
+
+LENGTH: 49 chars
+TAGS: courage
+
+--------------------------------------------------------------------------------
+
+BOOK: Creative Dysregulation: Why Your Creativity Is Chaotic &amp; What to Do About It
+AUTHOR: Kelly Wilde Miller
+ASIN: B0CVBM1JTV
+
+QUOTE 1:
+3 Creative Dysregulation
+
+LENGTH: 24 chars
+TAGS: creativity
+
+QUOTE 2:
+Get Clear on Your Why(s):
+
+LENGTH: 25 chars
+TAGS: wisdom
+
+QUOTE 3:
+Embrace a Fluid Identity:
+
+LENGTH: 25 chars
+TAGS: wisdom
+
+QUOTE 4:
+Build a Supportive Community:
+
+LENGTH: 29 chars
+TAGS: wisdom
+
+QUOTE 5:
+Three Journal Prompts for Mental
+
+LENGTH: 32 chars
+TAGS: wisdom
+
+QUOTE 6:
+Define Success on Your Own Terms:
+
+LENGTH: 33 chars
+TAGS: success
+
+--------------------------------------------------------------------------------
+
+BOOK: Creativity: A Short and Cheerful Guide
+AUTHOR: John Cleese
+ASIN: B088KRWLKZ
+
+QUOTE 1:
+Let me reassure you. When you’re being creative there is no such thing as a mistake.
+
+LENGTH: 84 chars
+TAGS: creativity
+
+QUOTE 2:
+So I began to realise that my unconscious was working on stuff all the time, without my being consciously aware of it.
+
+LENGTH: 118 chars
+TAGS: wisdom
+
+QUOTE 3:
+this basic rule applies everywhere: you are most likely to be creative in an area that you already know and care about.
+
+LENGTH: 119 chars
+TAGS: creativity, reading
+
+QUOTE 4:
+creative people are much better at tolerating the vague sense of worry that we all get when we leave something unresolved.
+
+LENGTH: 122 chars
+TAGS: creativity, life
+
+QUOTE 5:
+Guy Claxton talks about two different ways of thinking. The first, he says, involves ‘figuring matters out, weighing up the pros and cons, constructing arguments and solving problems’.
+
+LENGTH: 184 chars
+TAGS: communication, thinking
+
+QUOTE 6:
+It simply means they are able to tolerate that vague sense of discomfort that we all feel, when some important decision is left open, because they know that an answer will eventually present itself.
+
+LENGTH: 198 chars
+TAGS: wisdom
+
+--------------------------------------------------------------------------------
+
+BOOK: Crypto Confidential: Winning and Losing Millions in the New Frontier of Finance
+AUTHOR: Nathaniel Eliason
+ASIN: B0CMWWCD75
+
+QUOTE 1:
+HOW TO TELL REAL PROJECTS FROM RISKY ONES
+
+LENGTH: 41 chars
+TAGS: courage
+
+QUOTE 2:
+I hadn’t even thought about tracking what I was making and losing for taxes. Did getting hacked count as a write-off?
+
+LENGTH: 117 chars
+TAGS: thinking
+
+QUOTE 3:
+there are real, interesting pieces of technology being built…and there’s plenty of dogshit. Here’s how to tell them apart:
+
+LENGTH: 122 chars
+TAGS: wisdom
+
+QUOTE 4:
+“We need to find the next Dogecoin,” I said. “Yeah, well, if you find any more free money, please let me know,” Johnny said.
+
+LENGTH: 124 chars
+TAGS: freedom
+
+QUOTE 5:
+I finally understood what got Quinn so hooked last year. If the wins had been this easy, no wonder she’d gotten consumed by the crypto casino.
+
+LENGTH: 142 chars
+TAGS: success
+
+QUOTE 6:
+What I needed was “alpha,” insider knowledge about what was launching before it went public. I had no alpha, but I had a couple of ideas about where to get it.
+
+LENGTH: 159 chars
+TAGS: thinking, wisdom
+
+--------------------------------------------------------------------------------
+
+BOOK: Damn Right!: Behind the Scenes with Berkshire Hathaway Billionaire Charlie Munger
+AUTHOR: Janet Lowe
+ASIN: B000U5KFIC
+
+QUOTE 1:
+The investment game always involves considering both quality and price, and the trick is to get more quality than you pay for in price. It's just that simple."
+
+LENGTH: 159 chars
+TAGS: wisdom
+
+QUOTE 2:
+"I never went back to the high-tech mode. I tried it once and found it to have many problems. I was like Mark Twain's cat that, after a bad experience, never again sat on a hot stove or on a cold stove either."
+
+LENGTH: 210 chars
+TAGS: wisdom
+
+QUOTE 3:
+The way Munger handled the situation convinced Marshall that Charlie had the ability to think through a future event and come to a conclusion different from what others assumed it would be, "and I've hardly ever seen him wrong."
+
+LENGTH: 228 chars
+TAGS: thinking
+
+QUOTE 4:
+"Charlie shoved me in the direction of not just buying bargains, as Ben Graham had taught me. This was the real impact he had on me. It took a powerful force to move me on from Graham's limiting view. It was the power of Charlie's mind. He expanded my horizons."
+
+LENGTH: 262 chars
+TAGS: power, thinking
+
+--------------------------------------------------------------------------------
+
+BOOK: Decoding Greatness: How the Best in the World Reverse Engineer Success
+AUTHOR: Ron Friedman
+ASIN: B08BZW5BJ9
+
+QUOTE 1:
+Algorithmic Thinking
+
+LENGTH: 20 chars
+TAGS: thinking
+
+QUOTE 2:
+The Mastery Detectives
+
+LENGTH: 22 chars
+TAGS: wisdom
+
+QUOTE 3:
+How to Talk to Experts
+
+LENGTH: 22 chars
+TAGS: communication
+
+QUOTE 4:
+The Curse of Creativity
+
+LENGTH: 23 chars
+TAGS: wisdom
+
+QUOTE 5:
+The Scoreboard Principle
+
+LENGTH: 24 chars
+TAGS: wisdom
+
+QUOTE 6:
+Part II The Vision-Ability Gap
+
+LENGTH: 30 chars
+TAGS: strategy
+
+--------------------------------------------------------------------------------
+
+BOOK: Deep Work: Rules for Focused Success in a Distracted World
+AUTHOR: Cal Newport
+ASIN: B013UWFM52
+
+QUOTE 1:
+You have a finite amount of willpower that becomes depleted as you use it.
+
+LENGTH: 74 chars
+TAGS: power
+
+QUOTE 2:
+To leave the distracted masses to join the focused few, I’m arguing, is a transformative experience.
+
+LENGTH: 100 chars
+TAGS: discipline
+
+QUOTE 3:
+perhaps the single best piece of advice I can offer to anyone trying to do creative work is to ignore inspiration.
+
+LENGTH: 114 chars
+TAGS: creativity
+
+QUOTE 4:
+attention restoration theory (ART), which claims that spending time in nature can improve your ability to concentrate.
+
+LENGTH: 118 chars
+TAGS: wisdom
+
+QUOTE 5:
+The simple strategy proposed here of scheduling Internet blocks goes a long way toward helping you regain this attention autonomy.
+
+LENGTH: 130 chars
+TAGS: strategy
+
+QUOTE 6:
+it’s instead the grand gesture represented in the design and building of the cabin for the sole purpose of enabling better writing.
+
+LENGTH: 131 chars
+TAGS: creativity
+
+--------------------------------------------------------------------------------
+
+BOOK: Design Your Day: Be More Productive, Set Better Goals, and Live Life On Purpose
+AUTHOR: Claire Diaz-Ortiz
+ASIN: B015IBGTBY
+
+QUOTE 1:
+SPECIFIC: A goal should never be vague.
+
+LENGTH: 39 chars
+TAGS: strategy
+
+QUOTE 2:
+ACTIONABLE: With an actionable goal, you know what to do next.
+
+LENGTH: 62 chars
+TAGS: strategy
+
+QUOTE 3:
+RELEVANT: Goals should be relevant to you and the year before you.
+
+LENGTH: 66 chars
+TAGS: strategy
+
+QUOTE 4:
+Here are some key things to remember when considering a digital break:
+
+LENGTH: 70 chars
+TAGS: wisdom
+
+QUOTE 5:
+Here are some key ways to find your oasis to recharge during the day-to-day:
+
+LENGTH: 76 chars
+TAGS: wisdom
+
+QUOTE 6:
+“How we spend our days is, of course, how we spend our lives.” —Annie Dillard
+
+LENGTH: 77 chars
+TAGS: wisdom
+YOUR NOTE: #EGDQuote
+
+--------------------------------------------------------------------------------
+
+BOOK: Die with Zero: Getting All You Can from Your Money and Your Life
+AUTHOR: Bill Perkins
+ASIN: B07T5LSF1J
+
+QUOTE 1:
+3 Why Die with Zero?
+
+LENGTH: 20 chars
+TAGS: wisdom
+
+QUOTE 2:
+9 Be Bold—Not Foolish
+
+LENGTH: 21 chars
+TAGS: wisdom
+
+QUOTE 3:
+5 What About the Kids?
+
+LENGTH: 22 chars
+TAGS: wisdom
+
+QUOTE 4:
+2 Invest in Experiences
+
+LENGTH: 23 chars
+TAGS: wisdom
+
+QUOTE 5:
+7 Start to Time-Bucket Your Life
+
+LENGTH: 32 chars
+TAGS: life
+
+QUOTE 6:
+Rule No. 6: Don’t live your life on autopilot.
+
+LENGTH: 46 chars
+TAGS: life
+
+--------------------------------------------------------------------------------
+
+BOOK: Discipline Is Destiny: The Power of Self-Control (The Stoic Virtues Series)
+AUTHOR: Ryan Holiday
+ASIN: B09PB1SB72
+
+QUOTE 1:
+Unchanged by Success
+
+LENGTH: 20 chars
+TAGS: success
+
+QUOTE 2:
+Grace Under Pressure
+
+LENGTH: 20 chars
+TAGS: leadership
+
+QUOTE 3:
+Turn the Other Cheek
+
+LENGTH: 20 chars
+TAGS: leadership
+
+QUOTE 4:
+Endure the Unendurable
+
+LENGTH: 22 chars
+TAGS: leadership
+
+QUOTE 5:
+Flexibility Is Strength
+
+LENGTH: 23 chars
+TAGS: courage
+
+QUOTE 6:
+Carry the Load for Others
+
+LENGTH: 25 chars
+TAGS: leadership
+
+--------------------------------------------------------------------------------
+
+BOOK: Disciplined Entrepreneurship: 24 Steps to a Successful Startup
+AUTHOR: Bill Aulet
+ASIN: B00DQ97TWO
+
+QUOTE 1:
+Market Characteristics:
+
+LENGTH: 23 chars
+TAGS: wisdom
+
+QUOTE 2:
+glasses that are better than others to view the situation. Once
+
+LENGTH: 63 chars
+TAGS: wisdom
+
+QUOTE 3:
+The main categories you are trying to obtain information on for each market are:
+
+LENGTH: 80 chars
+TAGS: wisdom
+
+QUOTE 4:
+“Is this something the world could benefit from, and is it something I do well and would love to do for an extended period?
+
+LENGTH: 123 chars
+TAGS: love
+
+QUOTE 5:
+Actions are more important than words, because people sometimes say things that are contrary to how they actually do things.
+
+LENGTH: 124 chars
+TAGS: life
+
+QUOTE 6:
+There are a few key factors that are integral to collecting accurate information: You must have a high level of intellectual curiosity.
+
+LENGTH: 135 chars
+TAGS: wisdom
+
+--------------------------------------------------------------------------------
+
+BOOK: Do You Talk Funny?: 7 Comedy Habits to Become a Better (and Funnier) Public Speaker
+AUTHOR: David Nihill
+ASIN: B017MWHCVI
+
+QUOTE 1:
+#1 Start with a Story
+
+LENGTH: 21 chars
+TAGS: reading
+
+QUOTE 2:
+#6 Control the Audience
+
+LENGTH: 23 chars
+TAGS: power
+
+QUOTE 3:
+Use inherently funny words.
+
+LENGTH: 27 chars
+TAGS: wisdom
+
+QUOTE 4:
+#2 Add Humor—Find the Funny
+
+LENGTH: 27 chars
+TAGS: wisdom
+
+QUOTE 5:
+Remember, “brevity is levity.”
+
+LENGTH: 30 chars
+TAGS: wisdom
+
+QUOTE 6:
+Know your story well enough so you can have fun!
+
+LENGTH: 48 chars
+TAGS: reading
+
+--------------------------------------------------------------------------------
+
+BOOK: Dopamine Detox : A Short Guide to Remove Distractions and Get Your Brain to Do Hard Things (Productivity Series Book 1)
+AUTHOR: thibaut  meurisse
+ASIN: B098MHBF23
+
+QUOTE 1:
+Whenever you visit YouTube, you expect to watch interesting or exciting videos.
+
+LENGTH: 79 chars
+TAGS: wisdom
+YOUR NOTE: The secret is to make Youtube non-exciting. Make it harder to access,
+
+QUOTE 2:
+To learn more on how to develop laser-sharp focus, refer to book three in this series, Powerful Focus.
+
+LENGTH: 102 chars
+TAGS: discipline, learning, power
+
+QUOTE 3:
+Whenever you check your email, you’re expecting a reward, which could be a message from a friend or some exciting news.
+
+LENGTH: 119 chars
+TAGS: wisdom
+
+QUOTE 4:
+Dopamine gives us the desire to take action to earn the exciting reward that’s waiting for us. It is the force that makes us act.
+
+LENGTH: 129 chars
+TAGS: wisdom
+
+QUOTE 5:
+Although we still need to feed ourselves, the feeling of anticipation that drove our ancestors to search for food has become irrelevant.
+
+LENGTH: 136 chars
+TAGS: wisdom
+
+QUOTE 6:
+what you do first thing in the morning matters far more than you think. Just one tiny decision can have a dramatic effect on your day’s productivity.
+
+LENGTH: 149 chars
+TAGS: business, thinking
+
+--------------------------------------------------------------------------------
+
+BOOK: Eleven Rings
+AUTHOR: Phil Jackson
+ASIN: B00O30HH5Y
+
+QUOTE 1:
+12 AS THE WORM TURNS
+
+LENGTH: 20 chars
+TAGS: wisdom
+
+QUOTE 2:
+11 BASKETBALL POETRY
+
+LENGTH: 20 chars
+TAGS: wisdom
+
+QUOTE 3:
+2 THE JACKSON ELEVEN
+
+LENGTH: 20 chars
+TAGS: wisdom
+
+QUOTE 4:
+7 HEARING THE UNHEARD
+
+LENGTH: 21 chars
+TAGS: wisdom
+
+QUOTE 5:
+9 BITTERSWEET VICTORY
+
+LENGTH: 21 chars
+TAGS: wisdom
+
+QUOTE 6:
+20 DESTINY’S CHILDREN
+
+LENGTH: 21 chars
+TAGS: wisdom
+
+--------------------------------------------------------------------------------
+
+BOOK: Elon Musk
+AUTHOR: Walter Isaacson
+ASIN: B0BW9TRGKV
+
+QUOTE 1:
+“It’s a big theme for him to never have his decisions guided by fear,” Peter recalls. “That was definitely present even when he was a child.”
+
+LENGTH: 141 chars
+TAGS: courage
+
+QUOTE 2:
+Elon was not one of those eager-beaver types who liked to attract and charm mentors, so the more gregarious Kimbal took the lead in cold-calling the person.
+
+LENGTH: 156 chars
+TAGS: leadership
+
+--------------------------------------------------------------------------------
+
+BOOK: Essentialism: The Disciplined Pursuit of Less
+AUTHOR: Greg McKeown
+ASIN: B00HELB6XI
+
+QUOTE 1:
+Appendix Leadership Essentials
+
+LENGTH: 30 chars
+TAGS: leadership
+
+QUOTE 2:
+If it isn’t a clear yes, then it’s a clear no.
+
+LENGTH: 46 chars
+TAGS: wisdom
+
+QUOTE 3:
+the right thing the right way at the right time.
+
+LENGTH: 48 chars
+TAGS: wisdom
+
+QUOTE 4:
+In order to have focus we need to escape to focus.
+
+LENGTH: 50 chars
+TAGS: discipline
+
+QUOTE 5:
+If you don’t prioritise your life, someone else will.
+
+LENGTH: 53 chars
+TAGS: life
+
+QUOTE 6:
+creating the space to explore one hundred questions and possibilities.
+
+LENGTH: 70 chars
+TAGS: wisdom
+
+--------------------------------------------------------------------------------
+
+BOOK: Find Your Why: A Practical Guide for Discovering Purpose for You and Your Team
+AUTHOR: Simon Sinek
+ASIN: B073R5Q7CK
+
+QUOTE 1:
+Identify Your Themes
+
+LENGTH: 20 chars
+TAGS: wisdom
+
+QUOTE 2:
+Keep it confidential.
+
+LENGTH: 21 chars
+TAGS: wisdom
+
+QUOTE 3:
+Frequently Asked Questions
+
+LENGTH: 26 chars
+TAGS: wisdom
+
+QUOTE 4:
+What if I don’t have a WHY?
+
+LENGTH: 27 chars
+TAGS: wisdom
+
+QUOTE 5:
+Method 1: Peaks and Valleys
+
+LENGTH: 27 chars
+TAGS: wisdom
+
+QUOTE 6:
+Method 2: The Memory Prompt
+
+LENGTH: 27 chars
+TAGS: wisdom
+
+--------------------------------------------------------------------------------
+
+BOOK: Finite and Infinite Games
+AUTHOR: James Carse
+ASIN: B004W3FM4A
+
+QUOTE 1:
+Finite players play within boundaries; infinite players play with boundaries.
+
+LENGTH: 77 chars
+TAGS: wisdom
+YOUR NOTE: #EGDQuotd
+
+QUOTE 2:
+a person cannot go to school to be an artist, but can only go to school as an artist.
+
+LENGTH: 85 chars
+TAGS: wisdom
+
+QUOTE 3:
+The joyfulness of infinite play, its laughter, lies in learning to start something we cannot finish.
+
+LENGTH: 100 chars
+TAGS: happiness, learning
+
+QUOTE 4:
+Training repeats a completed past in the future. Education continues an unfinished past into the future.
+
+LENGTH: 104 chars
+TAGS: learning
+YOUR NOTE: Going to university shouln't be about getting a degree. It's about learning about yourself
+
+QUOTE 5:
+The rules of an infinite game are changed to prevent anyone from winning the game and to bring as many persons as possible into the play.
+
+LENGTH: 137 chars
+TAGS: success
+
+QUOTE 6:
+Deviancy, however, is the very essence of culture. Whoever merely follows the script, merely repeating the past, is culturally impoverished.
+
+LENGTH: 140 chars
+TAGS: wisdom
+
+--------------------------------------------------------------------------------
+
+BOOK: Four Thousand Weeks: Time and How to Use It
+AUTHOR: Oliver Burkeman
+ASIN: B07X3DH41F
+
+QUOTE 1:
+9. Rediscovering Rest
+
+LENGTH: 21 chars
+TAGS: wisdom
+
+QUOTE 2:
+14. The Human Disease
+
+LENGTH: 21 chars
+TAGS: life
+
+QUOTE 3:
+2. The Efficiency Trap
+
+LENGTH: 22 chars
+TAGS: wisdom
+
+QUOTE 4:
+11. Staying on the Bus
+
+LENGTH: 22 chars
+TAGS: wisdom
+
+QUOTE 5:
+Part I CHOOSING TO CHOOSE
+
+LENGTH: 25 chars
+TAGS: decision
+
+QUOTE 6:
+5. The Watermelon Problem
+
+LENGTH: 25 chars
+TAGS: wisdom
+
+--------------------------------------------------------------------------------
+
+BOOK: Freedom
+AUTHOR: Sebastian Junger
+ASIN: B08LD1SXYY
+
+QUOTE 1:
+We took ten-minute breaks every hour and walked all afternoon.
+
+LENGTH: 62 chars
+TAGS: wisdom
+
+QUOTE 2:
+We got so attuned out there that we’d know a train was coming without even knowing how we knew—but we knew.
+
+LENGTH: 107 chars
+TAGS: success
+
+QUOTE 3:
+Freedom and safety seemed to exist on a continuum where the more you had of one, the less you had of the other.
+
+LENGTH: 111 chars
+TAGS: freedom
+
+QUOTE 4:
+An important part of freedom is not having to make sacrifices for people who don’t have to make sacrifices for you.
+
+LENGTH: 115 chars
+TAGS: freedom, life
+
+QUOTE 5:
+For most of human history, freedom had to be at least suffered for, if not died for, and that raised its value to something almost sacred.
+
+LENGTH: 138 chars
+TAGS: freedom, life, reading
+
+QUOTE 6:
+The result was that nomadic society was far more appealing to the settled world than vice versa—particularly among the poor and disenfranchised.
+
+LENGTH: 144 chars
+TAGS: wisdom
+
+--------------------------------------------------------------------------------
+
+BOOK: Good Work : Reclaiming Your Inner Ambition
+AUTHOR: Paul Millerd
+ASIN: B0D4H86X1D
+
+QUOTE 1:
+9 DO WHAT FEELS RIGHT
+
+LENGTH: 21 chars
+TAGS: wisdom
+
+QUOTE 2:
+1 EMBRACE THE UNKNOWN
+
+LENGTH: 21 chars
+TAGS: wisdom
+
+QUOTE 3:
+7 QUESTION YOUR WORK SCRIPTS
+
+LENGTH: 28 chars
+TAGS: wisdom
+
+QUOTE 4:
+PART ONE AWAKEN TO GOOD WORK
+
+LENGTH: 28 chars
+TAGS: wisdom
+
+QUOTE 5:
+8 SOLVE THE PUZZLE OF GOOD WORK
+
+LENGTH: 31 chars
+TAGS: wisdom
+
+QUOTE 6:
+As I wander around the streets and alleys of Taipei, the question comes with me, “Am I ambitious?”
+
+LENGTH: 98 chars
+TAGS: wisdom
+
+--------------------------------------------------------------------------------
+
+BOOK: Good to Great: Why Some Companies Make the Leap...And Others Don't
+AUTHOR: Jim Collins
+ASIN: B0058DRUV6
+
+QUOTE 1:
+Under his stewardship,
+
+LENGTH: 22 chars
+TAGS: wisdom
+YOUR NOTE: TW CEO as steward. Not leader
+
+QUOTE 2:
+HOW TO TELL IF YOU’RE ON THE FLYWHEEL OR IN THE DOOM LOOP
+
+LENGTH: 57 chars
+TAGS: wisdom
+YOUR NOTE: List below
+
+QUOTE 3:
+People are not your most important asset. The right people are.
+
+LENGTH: 63 chars
+TAGS: life
+
+QUOTE 4:
+It is your Work in life that is the ultimate seduction. —PABLO PICASSO
+
+LENGTH: 70 chars
+TAGS: life
+
+QUOTE 5:
+Ash turned a blind eye to any reality inconsistent with his own vision of the world.
+
+LENGTH: 84 chars
+TAGS: strategy
+
+QUOTE 6:
+Yes, they produced a truly revolutionary leap in results, but not by a revolutionary process.
+
+LENGTH: 93 chars
+TAGS: wisdom
+
+--------------------------------------------------------------------------------
+
+BOOK: Great by Choice: Uncertainty, Chaos and Luck - Why Some Thrive Despite Them All
+AUTHOR: Jim Collins
+ASIN: B005VB99GE
+
+QUOTE 1:
+THRIVING IN UNCERTAINTY
+
+LENGTH: 23 chars
+TAGS: wisdom
+
+QUOTE 2:
+EPILOGUE GREAT BY CHOICE
+
+LENGTH: 24 chars
+TAGS: decision
+
+QUOTE 3:
+5 LEADING ABOVE THE DEATH LINE
+
+LENGTH: 30 chars
+TAGS: leadership
+
+QUOTE 4:
+4 FIRE BULLETS, THEN CANNONBALLS
+
+LENGTH: 32 chars
+TAGS: wisdom
+
+QUOTE 5:
+10X leaders figure out when to go fast, and when not to.
+
+LENGTH: 56 chars
+TAGS: leadership
+
+QUOTE 6:
+SPEED AND OUTCOMES: STRYKER, HEALTHCARE COSTS, AND INDUSTRY DISRUPTION
+
+LENGTH: 70 chars
+TAGS: wisdom
+
+--------------------------------------------------------------------------------
+
+BOOK: Hidden Potential: The Science of Achieving Greater Things
+AUTHOR: Adam Grant
+ASIN: B0C5SPWYWD
+
+QUOTE 1:
+Part III SYSTEMS OF OPPORTUNITY
+
+LENGTH: 31 chars
+TAGS: wisdom
+
+QUOTE 2:
+Part II STRUCTURES FOR MOTIVATION
+
+LENGTH: 33 chars
+TAGS: wisdom
+
+QUOTE 3:
+I want to explain how we can improve at improving.
+
+LENGTH: 50 chars
+TAGS: wisdom
+
+QUOTE 4:
+Everyone has hidden potential. This book is about how we unlock it.
+
+LENGTH: 67 chars
+TAGS: reading
+
+QUOTE 5:
+Maurice reminded them they could control only their decisions—not their results.
+
+LENGTH: 80 chars
+TAGS: power, thinking
+
+QUOTE 6:
+ambition is the outcome6 you want to attain. Aspiration is the person you hope to become.
+
+LENGTH: 89 chars
+TAGS: inspiration
+
+--------------------------------------------------------------------------------
+
+BOOK: How To Raise A Venture Capital Fund: The Essential Guide on Fundraising and Understanding Limited Partners
+AUTHOR: Winter Mead
+ASIN: B08S9DTFVQ
+
+QUOTE 1:
+Phase 2: Fundraising
+
+LENGTH: 20 chars
+TAGS: wisdom
+
+QUOTE 2:
+What is the manifesto?
+
+LENGTH: 22 chars
+TAGS: wisdom
+
+QUOTE 3:
+Phase 3: Closing The Fund
+
+LENGTH: 25 chars
+TAGS: wisdom
+
+QUOTE 4:
+What are quarterly letters?
+
+LENGTH: 27 chars
+TAGS: wisdom
+
+QUOTE 5:
+The Data Room What is the data room?
+
+LENGTH: 36 chars
+TAGS: wisdom
+
+QUOTE 6:
+How much information should be shared?
+
+LENGTH: 38 chars
+TAGS: wisdom
+
+--------------------------------------------------------------------------------
+
+BOOK: How To Win Friends and Influence People
+AUTHOR: Dale Carnegie
+ASIN: B08JV3W3VC
+
+QUOTE 1:
+18 What Everybody Wants
+
+LENGTH: 23 chars
+TAGS: wisdom
+
+QUOTE 2:
+8 How to Interest People
+
+LENGTH: 24 chars
+TAGS: life
+
+QUOTE 3:
+14 The Secret of Socrates
+
+LENGTH: 25 chars
+TAGS: wisdom
+
+QUOTE 4:
+16 How to Get Cooperation
+
+LENGTH: 25 chars
+TAGS: wisdom
+
+QUOTE 5:
+28 Give a Dog a Good Name
+
+LENGTH: 25 chars
+TAGS: wisdom
+
+QUOTE 6:
+10 You Can’t Win An Argument
+
+LENGTH: 28 chars
+TAGS: success
+
+--------------------------------------------------------------------------------
+
+BOOK: How to Build a Car: The Autobiography of the World’s Greatest Formula 1 Designer
+AUTHOR: Adrian Newey
+ASIN: B073TS2ZWN
+
+QUOTE 1:
+You might see other cars where it looks as if one person’s designed the front end of the car and somebody else did the back end. If there’s one thing I hope to be remembered for it’s that the cars I’ve been overall responsible for look cohesive.
+
+LENGTH: 245 chars
+TAGS: creativity, inspiration
+
+QUOTE 2:
+Like so many gifted natural drivers, he would adapt his driving to whatever the car was doing and then report what the car was doing once he’d adapted his driving, rather than communicating what the car would do if he drove it the way he wanted to drive it.
+
+LENGTH: 257 chars
+TAGS: wisdom
+YOUR NOTE: Mika Häkkinen
+
+QUOTE 3:
+The FW16, then, was an evolution of the FW15. Just as I always have and always will, I worked on the basis that if you have a car that seems to be a good concept, try to evolve that concept – don’t try to come up with a totally new one unless there is a very good reason.
+
+LENGTH: 271 chars
+TAGS: wisdom
+
+QUOTE 4:
+He stopped. We passed the time of day. And then he complimented me on my work at Leyton House. ‘If you ever want to join McLaren there’s a place for you,’ he concluded, before adding, as we were about to go our separate ways, ‘but please be aware we don’t pay superstar salaries.’
+
+LENGTH: 280 chars
+TAGS: wisdom
+
+QUOTE 5:
+At Red Bull I’ve introduced what I call the 24-hour rule, which is that we sit on an idea for a day or so, throw it around and talk about it, but don’t do anything concrete until it has been critiqued. Does it still stand up after 24 hours? If the answer’s no then we chuck it in the bin.
+
+LENGTH: 288 chars
+TAGS: communication, thinking
+
+--------------------------------------------------------------------------------
+
+BOOK: How to Get Rich
+AUTHOR: Felix Dennis
+ASIN: B005CUSEEC
+
+QUOTE 1:
+14 A PIECE OF THE PIE
+
+LENGTH: 21 chars
+TAGS: wisdom
+
+QUOTE 2:
+15 THE POWER OF FOCUS
+
+LENGTH: 21 chars
+TAGS: discipline, power
+
+QUOTE 3:
+17 A RECAP FOR IDLERS
+
+LENGTH: 21 chars
+TAGS: wisdom
+
+QUOTE 4:
+10 A FEW WORDS ABOUT LUCK
+
+LENGTH: 25 chars
+TAGS: wisdom
+
+QUOTE 5:
+13 THE JOYS OF DELEGATION
+
+LENGTH: 25 chars
+TAGS: happiness
+
+QUOTE 6:
+11 THE ART OF NEGOTIATING
+
+LENGTH: 25 chars
+TAGS: wisdom
+
+--------------------------------------------------------------------------------
+
+BOOK: How to Raise Successful People: Simple Lessons for Radical Results
+AUTHOR: Esther Wojcicki
+ASIN: B07FKDX2C6
+
+QUOTE 1:
+6 Don’t Dictate, Collaborate
+
+LENGTH: 28 chars
+TAGS: wisdom
+
+QUOTE 2:
+3 Your Child Is Not Your Clone
+
+LENGTH: 30 chars
+TAGS: wisdom
+
+QUOTE 3:
+9 Teach Your Child to Give a Damn
+
+LENGTH: 33 chars
+TAGS: learning
+
+QUOTE 4:
+1 The Childhood You Wish You’d Had
+
+LENGTH: 34 chars
+TAGS: wisdom
+
+QUOTE 5:
+2 Trust Yourself, Trust Your Child
+
+LENGTH: 34 chars
+TAGS: wisdom
+
+QUOTE 6:
+8 Kindness: Model It. It’s Contagious
+
+LENGTH: 37 chars
+TAGS: wisdom
+
+--------------------------------------------------------------------------------
+
+BOOK: How to Take Smart Notes: One Simple Technique to Boost Writing,  Learning and Thinking – for Students, Academics and Nonfiction Book Writers
+AUTHOR: Sönke Ahrens
+ASIN: B06WVYW33Y
+
+QUOTE 1:
+11   Take Smart Notes
+
+LENGTH: 21 chars
+TAGS: wisdom
+
+QUOTE 2:
+13   Share Your Insight
+
+LENGTH: 23 chars
+TAGS: wisdom
+
+QUOTE 3:
+6  Simplicity Is Paramount
+
+LENGTH: 26 chars
+TAGS: wisdom
+
+QUOTE 4:
+10   Read for Understanding
+
+LENGTH: 27 chars
+TAGS: reading, wisdom
+
+QUOTE 5:
+2  Everything You Need to Do
+
+LENGTH: 28 chars
+TAGS: wisdom
+
+QUOTE 6:
+1  Everything You Need to Know
+
+LENGTH: 30 chars
+TAGS: wisdom
+
+--------------------------------------------------------------------------------
+
+BOOK: How to Think Like a Roman Emperor: The Stoic Philosophy of Marcus Aurelius
+AUTHOR: Donald Robertson
+ASIN: B07D2C5NNV
+
+QUOTE 1:
+Waste no more time arguing about what a good man should be; just be one.
+
+LENGTH: 72 chars
+TAGS: wisdom
+
+QUOTE 2:
+To learn how to die, according to the Stoics, is to unlearn how to be a slave.
+
+LENGTH: 78 chars
+TAGS: learning
+
+QUOTE 3:
+What matters, in other words, isn’t what we feel but how we respond to those feelings.
+
+LENGTH: 86 chars
+TAGS: wisdom
+
+QUOTE 4:
+He believed that true strength consisted of one’s ability to show kindness, not violence or aggression.
+
+LENGTH: 103 chars
+TAGS: courage
+
+QUOTE 5:
+If your fundamental worldview, by contrast, assumes that your status in the eyes of others is of negligible importance, then it follows that you should be beyond the reach of social anxiety.
+
+LENGTH: 190 chars
+TAGS: wisdom
+
+QUOTE 6:
+Socrates used to say that death is like some prankster in a scary mask, dressed as a bogeyman to frighten small children. The wise man carefully removes the mask and, looking behind it, he finds nothing worth fearing.
+
+LENGTH: 217 chars
+TAGS: courage
+
+--------------------------------------------------------------------------------
+
+BOOK: How to Think More Effectively: A guide to greater productivity, insight and creativity
+AUTHOR: The School of Life
+ASIN: B08429QPMN
+
+QUOTE 1:
+We are so much the poorer if all we can do is agree with the books we read.
+
+LENGTH: 75 chars
+TAGS: reading
+
+QUOTE 2:
+In the privacy of the mind, allow yourself time for some ‘mad’ thinking. • What is
+
+LENGTH: 82 chars
+TAGS: thinking
+
+QUOTE 3:
+Imagine, always and sincerely, that everything you believe to be right might be wrong.
+
+LENGTH: 86 chars
+TAGS: wisdom
+
+QUOTE 4:
+Anxiety Write down what you are anxious about; find at least eight things. Each entry should be only a single word (or just a few words) at this point.
+
+LENGTH: 151 chars
+TAGS: wisdom
+
+QUOTE 5:
+Just like Michelangelo’s stone, there are already all kinds of great thoughts in our heads: we merely need to liberate them from the inert block of our own hesitancy.
+
+LENGTH: 166 chars
+TAGS: reading, thinking
+
+QUOTE 6:
+Effective thinking isn’t about ‘working hard’ in any brute or rote sense; it is about learning to spot, defend, nurture and grow our fleeting, tentative periods of insight.
+
+LENGTH: 172 chars
+TAGS: learning, thinking
+
+--------------------------------------------------------------------------------
+
+BOOK: IKIGAI-KAN: Feel a Life Worth Living
+AUTHOR: Nicholas Kemp
+ASIN: B0BB5DG3ZG
+
+QUOTE 1:
+‘Kaizen is for the workplace only. You must never do kaizen at home. You should relax.’
+
+LENGTH: 87 chars
+TAGS: wisdom
+
+QUOTE 2:
+This is nonsense! This Venn diagram has nothing at all to do with the Japanese conception of ikigai.
+
+LENGTH: 100 chars
+TAGS: wisdom
+
+QUOTE 3:
+For many, the expression of self has become the purpose of the self, and if not expressed life feels unfulfilling.
+
+LENGTH: 114 chars
+TAGS: life
+
+QUOTE 4:
+From her surveys of leprosy patients, Kamiya discovered that existential suffering was caused by feeling insignificant.
+
+LENGTH: 119 chars
+TAGS: wisdom
+YOUR NOTE: This is why I felt energized from starting to work on EGD Fund
+
+QUOTE 5:
+When I walk the track, I practice shinrin-yoku, or forest bathing, walking as slowly as I can and taking in the atmosphere with all my senses.
+
+LENGTH: 142 chars
+TAGS: wisdom
+
+QUOTE 6:
+Kamiya also noted that negative states of mind and emotions like fear, anxiety, and resentment can sabotage life satisfaction and lead us astray.
+
+LENGTH: 145 chars
+TAGS: courage, leadership, life
+
+--------------------------------------------------------------------------------
+
+BOOK: Isabel the Queen: Life and Times (The Middle Ages Series)
+AUTHOR: Peggy K. Liss
+ASIN: B017SGHREU
+
+QUOTE 1:
+advantages of riding with light armor and arms, for he himself
+
+LENGTH: 62 chars
+TAGS: wisdom
+
+QUOTE 2:
+It is revealing that later, as queen, Isabel of Castile enjoyed keeping about her elderly women of good repute and good family.
+
+LENGTH: 127 chars
+TAGS: happiness
+
+QUOTE 3:
+Isabel would see to it that Granada’s mosques came to bear those same holy names, and she would not forget those particular cults in her own devotions.
+
+LENGTH: 151 chars
+TAGS: wisdom
+
+QUOTE 4:
+Part of the experience of growing up for a Castilian child were such spoken or sung poems and veterans’ tales of glorious frontier exploits, hazañas, against the infidel.
+
+LENGTH: 170 chars
+TAGS: success
+
+QUOTE 5:
+Doubtlessly too, she took dynastic pride in her own name, Isabel, repeated through seven generations of royal women and originating in her ancestor Saint Isabel, the thirteenth-century Portuguese queen canonized for her good works and miracles.
+
+LENGTH: 244 chars
+TAGS: wisdom
+
+QUOTE 6:
+That lifelong facade of shared power was imposed by Isabel. It has continued to confound some people who should know better. Thus, the British Library in its subject catalogue as late as 1985 listed her as “Isabella. Queen. Consort of Ferdinand V of Spain.”
+
+LENGTH: 257 chars
+TAGS: life, power
+
+--------------------------------------------------------------------------------
+
+BOOK: Just Keep Buying: Proven ways to save money and build your wealth
+AUTHOR: Nick Maggiulli
+ASIN: B09FYHZXBN
+
+QUOTE 1:
+Conclusion: The Just Keep Buying Rules
+
+LENGTH: 38 chars
+TAGS: wisdom
+
+QUOTE 2:
+How to Mitigate Bad Luck as an Investor
+
+LENGTH: 39 chars
+TAGS: wisdom
+
+QUOTE 3:
+Adequately diversify with enough low-risk assets (e.g., bonds).
+
+LENGTH: 63 chars
+TAGS: courage
+
+QUOTE 4:
+11. What Should You Invest In? There is no one true path to wealth
+
+LENGTH: 66 chars
+TAGS: wisdom
+
+QUOTE 5:
+17. How to Buy During a Crisis Why you should stay calm in a panic
+
+LENGTH: 66 chars
+TAGS: wisdom
+
+QUOTE 6:
+13. How Soon Should You Invest? And why earlier is better than later
+
+LENGTH: 68 chars
+TAGS: wisdom
+
+--------------------------------------------------------------------------------
+
+BOOK: Keep Going: 10 Ways to Stay Creative in Good Times and Bad
+AUTHOR: Austin Kleon
+ASIN: B07GNWXTKV
+
+QUOTE 1:
+You can be woke without waking up to the news.
+
+LENGTH: 46 chars
+TAGS: wisdom
+
+QUOTE 2:
+That’s the key word we can steal from chefs: readiness.
+
+LENGTH: 55 chars
+TAGS: reading
+
+QUOTE 3:
+once you have a starting point the work seems to make itself,”
+
+LENGTH: 62 chars
+TAGS: wisdom
+
+QUOTE 4:
+“How we spend our days is, of course, how we spend our lives.” —Annie Dillard
+
+LENGTH: 77 chars
+TAGS: wisdom
+YOUR NOTE: Quote
+
+QUOTE 5:
+“Practicing an art, no matter how well or badly, is a way to make your soul grow,
+
+LENGTH: 81 chars
+TAGS: love
+YOUR NOTE: Kurt Vonnegut quote
+
+QUOTE 6:
+“I’m making explorations. I don’t know where they’re going to take me.” —Marshall McLuhan
+
+LENGTH: 89 chars
+TAGS: wisdom
+YOUR NOTE: Quote
+
+--------------------------------------------------------------------------------
+
+BOOK: Layered Money: From Gold and Dollars to Bitcoin and Central Bank Digital Currencies
+AUTHOR: Nik Bhatia
+ASIN: B08PS293NT
+
+QUOTE 1:
+The task of clearance, or settling transfers between depositors, was the foundation of central banking.
+
+LENGTH: 103 chars
+TAGS: wisdom
+
+QUOTE 2:
+Bitcoin is nothing like the Dutch tulip mania. Bubbles don’t burst three times in a decade and come back stronger each resurgence, and the investing public is finally waking up to this fact.
+
+LENGTH: 190 chars
+TAGS: wisdom
+
+QUOTE 3:
+First-layer money emerged as a better way to store value over longer periods of time, and second-layer money emerged as a better way to transact because it was more flexible to use than coinage.
+
+LENGTH: 194 chars
+TAGS: wisdom
+
+--------------------------------------------------------------------------------
+
+BOOK: Leadership in Turbulent Times
+AUTHOR: Doris Kearns Goodwin
+ASIN: B079RLPFG7
+
+QUOTE 1:
+“My experience in the NYA,” Johnson recalled, “taught me that when people have a hand in shaping projects, these projects are more likely to be successful than the ones simply handed down from the top.”
+
+LENGTH: 202 chars
+TAGS: life, success
+
+QUOTE 2:
+Lyndon Johnson, like Abraham Lincoln and Franklin Roosevelt, knew that people were “more easily influenced” by stories “than any other way,” that stories were remembered far longer than facts and figures.
+
+LENGTH: 204 chars
+TAGS: life, power
+
+QUOTE 3:
+“This is a day of national consecration.” Clearly, the address he was about to deliver was a civil sermon designed to provide “the larger purposes” that would bind the people together “as a sacred obligation.”
+
+LENGTH: 209 chars
+TAGS: creativity, life
+
+QUOTE 4:
+He kept his speeches short. “A five minute speech,” he pointed out, “with fifteen minutes spent afterward is much more effective than a fifteen minute speech, no matter how inspiring, that leaves only five minutes for handshaking.”
+
+LENGTH: 231 chars
+TAGS: leadership
+
+QUOTE 5:
+It was the philosophic depth in Shakespeare that resonated most meaningfully to the tortured leader in the midst of civil war. “It matters not to me whether Shakespeare be well or ill acted,” Lincoln once said, “with him the thought suffices.”
+
+LENGTH: 243 chars
+TAGS: leadership, thinking
+
+QUOTE 6:
+His work in the legislature and on the stump had taken a toll on his fledgling legal practice. “I am so poor, and make so little headway in the world,” Lincoln acknowledged, “that I drop back in a month of idleness, as much as I gain in a year’s rowing.”
+
+LENGTH: 254 chars
+TAGS: success, wisdom
+
+--------------------------------------------------------------------------------
+
+BOOK: Leading
+AUTHOR: Alex Ferguson
+ASIN: B00UL8GEAQ
+
+QUOTE 1:
+SIR ALEX FERGUSON – THROUGH ANOTHER LENS
+
+LENGTH: 40 chars
+TAGS: leadership
+
+QUOTE 2:
+In the long run principles are just more important than expediency.
+
+LENGTH: 67 chars
+TAGS: wisdom
+
+QUOTE 3:
+preparation had a lot more to do with our success than a few fortunate breaks.
+
+LENGTH: 78 chars
+TAGS: success
+
+QUOTE 4:
+I just wanted them to relax enough so that I could get the measure of who they really were.
+
+LENGTH: 91 chars
+TAGS: leadership
+
+QUOTE 5:
+there are traits that apply to all winners, and to organisations whose leaders aspire to win.
+
+LENGTH: 93 chars
+TAGS: leadership, success
+
+QUOTE 6:
+The last thing David needed was criticism from me, because he had already found himself guilty.
+
+LENGTH: 95 chars
+TAGS: reading
+
+--------------------------------------------------------------------------------
+
+BOOK: Madhouse at the End of the Earth: The Belgica’s Journey into the Dark Antarctic Night
+AUTHOR: Julian Sancton
+ASIN: B08NWWKNVF
+
+QUOTE 1:
+His mind was thousands of miles away, drifting over the icescapes of Antarctica, a destination he’d never stopped fantasizing about.
+
+LENGTH: 132 chars
+TAGS: thinking
+
+QUOTE 2:
+Cook was drawn to the poles as if by magnetism. His wanderlust, his insatiable thirst for adventure and glory, kept him from being satisfied with the comfortable, sedentary life of a family doctor.
+
+LENGTH: 197 chars
+TAGS: life
+
+QUOTE 3:
+Whereas so many of their fellow expeditioners were falling prey to illness and despondency, Cook and Amundsen hoped to come out of the “soul-withering Antarctic with mental magazines loaded with brain buck shot.”
+
+LENGTH: 212 chars
+TAGS: inspiration, love
+
+QUOTE 4:
+Amundsen, however, buzzed with excitement. Between his harrowing climb with Cook and the miserable final night in the shredded tent, his mind was brimming with lessons learned. As soon as he was back on board, he rushed to his cabin to jot them down in his diary.
+
+LENGTH: 263 chars
+TAGS: learning, success, thinking
+
+QUOTE 5:
+Cook planned to mount a polar expedition of his own. In part because he didn’t want to compete with Peary in the North, and in part because he had sensed the same opportunity as de Gerlache would in the South, Cook set his sights on the little-explored Antarctic.
+
+LENGTH: 263 chars
+TAGS: strategy
+
+--------------------------------------------------------------------------------
+
+BOOK: Man Enough: Undefining My Masculinity
+AUTHOR: Justin Baldoni
+ASIN: B08CRCGSKM
+
+QUOTE 1:
+Men want meaningful friendships; we just don’t know how to have them.
+
+LENGTH: 69 chars
+TAGS: wisdom
+
+QUOTE 2:
+what makes us happiest is not having what we want, but wanting what we have.
+
+LENGTH: 76 chars
+TAGS: wisdom
+YOUR NOTE: #Happiness
+
+QUOTE 3:
+the more I understood her why, the more I realized it was what I wanted too.
+
+LENGTH: 76 chars
+TAGS: wisdom
+
+QUOTE 4:
+true success will never be attained when it is dependent on the perception of others.
+
+LENGTH: 85 chars
+TAGS: success
+
+QUOTE 5:
+Failure to get us there on our own in some weird, messed-up way equals failure as a man.
+
+LENGTH: 88 chars
+TAGS: wisdom
+YOUR NOTE: 6% of men ask for directions when lost
+
+QUOTE 6:
+Self-confidence without a sense of self, without self-awareness, is fake and performative.
+
+LENGTH: 90 chars
+TAGS: wisdom
+
+--------------------------------------------------------------------------------
+
+BOOK: Man's Search For Meaning: The classic tribute to hope from the Holocaust
+AUTHOR: Viktor E Frankl
+ASIN: B00EKOC0HI
+
+QUOTE 1:
+self-actualization is possible only as a side-effect of self-transcendence.
+
+LENGTH: 75 chars
+TAGS: wisdom
+
+QUOTE 2:
+In this book, Dr. Frankl explains the experience which led to his discovery of logotherapy.
+
+LENGTH: 91 chars
+TAGS: reading
+
+QUOTE 3:
+Frankl is fond of quoting Nietzsche, “He who has a why to live can bear with almost any how.”
+
+LENGTH: 93 chars
+TAGS: wisdom
+
+QUOTE 4:
+it will try to answer this question: How was everyday life in a concentration camp reflected in the mind of the average prisoner?
+
+LENGTH: 129 chars
+TAGS: life, thinking
+YOUR NOTE: Purpose Of the story
+
+QUOTE 5:
+Pleasure is, and must remain, a side-effect or by-product, and is destroyed and spoiled to the degree to which it is made a goal in itself.
+
+LENGTH: 139 chars
+TAGS: business, strategy
+YOUR NOTE: Well defining.that meaning is primary objective and pleasure is by-product
+
+QUOTE 6:
+Unmasking, however, should stop as soon as one is confronted with what is authentic and genuine in man, e.g., man’s desire for a life that is as meaningful as possible.
+
+LENGTH: 168 chars
+TAGS: life
+YOUR NOTE: Remove masks to uncover genuine meaning
+
+--------------------------------------------------------------------------------
+
+BOOK: Mastery (The Robert Greene Collection)
+AUTHOR: Robert Greene
+ASIN: B009U1U2IU
+
+QUOTE 1:
+1. The Authentic Voice
+
+LENGTH: 22 chars
+TAGS: wisdom
+
+QUOTE 2:
+8. Dimensional Thinking
+
+LENGTH: 23 chars
+TAGS: thinking
+
+QUOTE 3:
+B. ALLOW FOR SERENDIPITY
+
+LENGTH: 24 chars
+TAGS: wisdom
+
+QUOTE 4:
+D. ALTER YOUR PERSPECTIVE
+
+LENGTH: 25 chars
+TAGS: wisdom
+
+QUOTE 5:
+7. The Evolutionary Hijack
+
+LENGTH: 26 chars
+TAGS: wisdom
+
+QUOTE 6:
+2. The Fact of Great Yield
+
+LENGTH: 26 chars
+TAGS: wisdom
+
+--------------------------------------------------------------------------------
+
+BOOK: Meditations for Mortals: Four Weeks to Embrace Your Limitations and Make Time for What Counts
+AUTHOR: Oliver Burkeman
+ASIN: B0CSBPW9F1
+
+QUOTE 1:
+DAY NINE Finish things On the magic of completion
+
+LENGTH: 49 chars
+TAGS: wisdom
+
+QUOTE 2:
+DAY TWENTY-EIGHT What matters On finding your way
+
+LENGTH: 49 chars
+TAGS: wisdom
+
+QUOTE 3:
+DAY TWENTY-SIX Inconceivable On the solace of doubt
+
+LENGTH: 51 chars
+TAGS: wisdom
+
+QUOTE 4:
+DAY TEN Look for the life task On what reality wants
+
+LENGTH: 52 chars
+TAGS: life
+
+QUOTE 5:
+DAY THIRTEEN Three hours On finding focus in the chaos
+
+LENGTH: 54 chars
+TAGS: discipline
+
+QUOTE 6:
+DAY TWELVE Rules that serve life On doing things dailyish
+
+LENGTH: 57 chars
+TAGS: life
+
+--------------------------------------------------------------------------------
+
+BOOK: Midlife: A Philosophical Guide
+AUTHOR: Kieran Setiya
+ASIN: B06ZZRFZ43
+
+QUOTE 1:
+2 IS THAT ALL THERE IS?
+
+LENGTH: 23 chars
+TAGS: wisdom
+
+QUOTE 2:
+6 LIVING IN THE PRESENT
+
+LENGTH: 23 chars
+TAGS: life
+
+QUOTE 3:
+5 SOMETHING TO LOOK FORWARD TO
+
+LENGTH: 30 chars
+TAGS: wisdom
+
+QUOTE 4:
+1 A BRIEF HISTORY OF THE MIDLIFE CRISIS
+
+LENGTH: 39 chars
+TAGS: life, reading
+
+QUOTE 5:
+You can choose to immerse yourself in things you might come to care about and so begin to change your life.
+
+LENGTH: 107 chars
+TAGS: decision, life
+
+QUOTE 6:
+Call it the first rule for preventing a midlife crisis: you have to care about something other than yourself.
+
+LENGTH: 109 chars
+TAGS: life
+
+--------------------------------------------------------------------------------
+
+BOOK: Mindset: The New Psychology of Success
+AUTHOR: Carol S. Dweck
+ASIN: B000FCKPHG
+
+QUOTE 1:
+character grows out of mindset.
+
+LENGTH: 31 chars
+TAGS: thinking
+
+QUOTE 2:
+Beware of success. It can knock you into a fixed mindset:
+
+LENGTH: 57 chars
+TAGS: success, thinking
+
+QUOTE 3:
+“If you work hard at something, you get out what you put in.”
+
+LENGTH: 61 chars
+TAGS: wisdom
+
+QUOTE 4:
+Then he spread the word: This company is about growth, not self-importance.
+
+LENGTH: 75 chars
+TAGS: business, reading
+
+QUOTE 5:
+People with the growth mindset know that it takes time for potential to flower.
+
+LENGTH: 79 chars
+TAGS: life, thinking
+
+QUOTE 6:
+The message: We’re not looking to crown a few princes; we need to work as a team.
+
+LENGTH: 81 chars
+TAGS: leadership
+
+--------------------------------------------------------------------------------
+
+BOOK: Models: Attract Women Through Honesty
+AUTHOR: Mark Manson
+ASIN: B005EOTH24
+
+QUOTE 1:
+constantly in search of a feeling of greatness
+
+LENGTH: 46 chars
+TAGS: wisdom
+YOUR NOTE: Dont do that
+
+QUOTE 2:
+The key to non-neediness is to have both: respect for both oneself and for women.
+
+LENGTH: 81 chars
+TAGS: wisdom
+
+QUOTE 3:
+But with that said, here is my version of “The Rules” to calling and texting women:
+
+LENGTH: 83 chars
+TAGS: wisdom
+
+QUOTE 4:
+If we're blaming others, we're not learning. And if we're not learning, we're not improving.
+
+LENGTH: 92 chars
+TAGS: learning
+
+QUOTE 5:
+the way a man becomes more attractive himself is by investing in himself, in becoming less needy.
+
+LENGTH: 97 chars
+TAGS: wisdom
+
+QUOTE 6:
+Rejection exists for a reason — it’s a means to keep people apart who are not good for each other.
+
+LENGTH: 98 chars
+TAGS: life
+
+--------------------------------------------------------------------------------
+
+BOOK: Moneyball: The Art of Winning an Unfair Game
+AUTHOR: Michael Lewis
+ASIN: B000RH0C8G
+
+QUOTE 1:
+The Boston Red Sox were obsessed with outcomes; he with process.
+
+LENGTH: 64 chars
+TAGS: wisdom
+
+QUOTE 2:
+When he set off on this shopping spree, he kept in mind five simple rules:
+
+LENGTH: 74 chars
+TAGS: thinking
+
+QUOTE 3:
+when a guy looked as funny, and threw as slow, as Chad Bradford—well, you just knew he was doomed.
+
+LENGTH: 98 chars
+TAGS: wisdom
+
+QUOTE 4:
+What I have tried to do with my work is to make baseball more fun. —The Bill James Newsletter, 1985
+
+LENGTH: 99 chars
+TAGS: wisdom
+
+QUOTE 5:
+Baseball—of all things—was an example of how an unscientific culture responds, or fails to respond, to the scientific method.
+
+LENGTH: 125 chars
+TAGS: wisdom
+
+QUOTE 6:
+Billy was forever telling Paul that when you try to explain probability theory to baseball guys, you just end up confusing them.
+
+LENGTH: 128 chars
+TAGS: wisdom
+
+--------------------------------------------------------------------------------
+
+BOOK: Never Enough: From Barista to Billionaire
+AUTHOR: Andrew Wilkinson
+ASIN: B0CKVJS17Z
+
+QUOTE 1:
+This had led me to the epiphany that there is always somebody else who loves the job you hate.
+
+LENGTH: 94 chars
+TAGS: love
+
+QUOTE 2:
+As G. K. Chesterton put it: “To be clever enough to get all that money, one must be stupid enough to want it.”
+
+LENGTH: 110 chars
+TAGS: wisdom
+
+QUOTE 3:
+As Bill Gates put it: “I choose a lazy person to do a hard job. Because a lazy person will find an easy way to do it.”
+
+LENGTH: 118 chars
+TAGS: decision
+
+QUOTE 4:
+Brian taught us the hard way that trust should be earned, and not simply given based on your charisma, credentials, or Gucci briefcase.
+
+LENGTH: 135 chars
+TAGS: wisdom
+
+QUOTE 5:
+He simply loved learning, then applying his knowledge by betting heavily when the odds were in his favor. More about the intellectual pursuit than the private jet.
+
+LENGTH: 163 chars
+TAGS: learning, love, wisdom
+
+QUOTE 6:
+Despite his busy work schedule, he always made time for my brothers and me on weekends. We’d spend hours building Legos, crafting pillow forts, and painting model airplanes.
+
+LENGTH: 173 chars
+TAGS: strategy
+
+--------------------------------------------------------------------------------
+
+BOOK: No Rules Rules: Netflix and the Culture of Reinvention
+AUTHOR: Reed Hastings and Erin Meyer
+ASIN: B082261K3F
+
+QUOTE 1:
+4. ACCEPT OR DISCARD:
+
+LENGTH: 21 chars
+TAGS: wisdom
+
+QUOTE 2:
+4A FEEDBACK GUIDELINES
+
+LENGTH: 22 chars
+TAGS: wisdom
+
+QUOTE 3:
+8 A CIRCLE OF FEEDBACK
+
+LENGTH: 22 chars
+TAGS: wisdom
+
+QUOTE 4:
+3a REMOVE VACATION POLICY
+
+LENGTH: 25 chars
+TAGS: wisdom
+
+QUOTE 5:
+4 PAY TOP OF PERSONAL MARKET
+
+LENGTH: 28 chars
+TAGS: wisdom
+
+QUOTE 6:
+10 BRING IT ALL TO THE WORLD!
+
+LENGTH: 29 chars
+TAGS: wisdom
+
+--------------------------------------------------------------------------------
+
+BOOK: On the Shortness of Life
+AUTHOR: Lucius Seneca
+ASIN: B075THP2VL
+
+QUOTE 1:
+The greatest hindrance to living is expectancy, which depends upon the morrow and wastes to-day.
+
+LENGTH: 96 chars
+TAGS: life
+
+QUOTE 2:
+"The part of life we really live is small." For all the rest of existence is not life, but merely time.
+
+LENGTH: 103 chars
+TAGS: life
+YOUR NOTE: Life = meaning. What is left doesn't have meaning
+
+QUOTE 3:
+It takes the whole of life to learn how to live, and — what will perhaps make you wonder more — it takes the whole of life to learn how to die.
+
+LENGTH: 143 chars
+TAGS: learning, life
+
+QUOTE 4:
+And so there is no reason for you to think that any man has lived long because he has grey hairs or wrinkles; he has not lived long — he has existed long.
+
+LENGTH: 154 chars
+TAGS: thinking
+
+QUOTE 5:
+Reasons for anxiety will never be lacking, whether born of prosperity or of wretchedness; life pushes on in a succession of engrossments.  We shall always pray for leisure, but never enjoy it.
+
+LENGTH: 192 chars
+TAGS: happiness, life, success
+
+QUOTE 6:
+In guarding their fortune men are often close-fisted, yet, when it comes to the matter of wasting time, in the case of the one thing in which it is right to be miserly, they show themselves most prodigal.
+
+LENGTH: 204 chars
+TAGS: wisdom
+
+--------------------------------------------------------------------------------
+
+BOOK: Only the Paranoid Survive: How to Exploit the Crisis Points That Challenge Every Company
+AUTHOR: Andrew S. Grove
+ASIN: B0036S4B2G
+
+QUOTE 1:
+Business success contains the seeds of its own destruction.
+
+LENGTH: 59 chars
+TAGS: business, success
+
+QUOTE 2:
+“Sooner or later, something fundamental in your business world will change.”
+
+LENGTH: 76 chars
+TAGS: business
+
+QUOTE 3:
+People who have no emotional stake in a decision can see what needs to be done sooner.
+
+LENGTH: 86 chars
+TAGS: life
+
+QUOTE 4:
+strategic inflection point is a time in the life of a business when its fundamentals are about to change.
+
+LENGTH: 105 chars
+TAGS: business, life
+
+QUOTE 5:
+Something Changed “New rules prevailed now—and they were powerful enough to cost us nearly half a billion dollars.”
+
+LENGTH: 115 chars
+TAGS: power
+
+QUOTE 6:
+Let Chaos Reign “Resolution comes through experimentation. Only stepping out of the old ruts will bring new insights.”
+
+LENGTH: 118 chars
+TAGS: business
+
+--------------------------------------------------------------------------------
+
+BOOK: Originals: How Non-conformists Change the World
+AUTHOR: Adam Grant and Sheryl Sandberg
+ASIN: B01626YWJ0
+
+QUOTE 1:
+6 Rebel with a Cause
+
+LENGTH: 20 chars
+TAGS: wisdom
+
+QUOTE 2:
+7 Rethinking Groupthink
+
+LENGTH: 23 chars
+TAGS: thinking
+
+QUOTE 3:
+5 Goldilocks and the Trojan Horse
+
+LENGTH: 33 chars
+TAGS: wisdom
+
+QUOTE 4:
+Why Risks Are Like Stock Portfolios
+
+LENGTH: 35 chars
+TAGS: courage
+
+QUOTE 5:
+2 Blind Inventors and One-Eyed Investors
+
+LENGTH: 40 chars
+TAGS: creativity
+
+QUOTE 6:
+8 Rocking the Boat and Keeping It Steady
+
+LENGTH: 40 chars
+TAGS: wisdom
+
+--------------------------------------------------------------------------------
+
+BOOK: Outlive: The Science and Art of Longevity
+AUTHOR: Peter  Attia MD
+ASIN: B0B1BTJLJN
+
+QUOTE 1:
+the more of these you can check off, the better your odds of a good night of sleep.
+
+LENGTH: 83 chars
+TAGS: wisdom
+
+QUOTE 2:
+exercise has the greatest power to determine how you will live out the rest of your life.
+
+LENGTH: 89 chars
+TAGS: life, power
+
+QUOTE 3:
+We now know that sleep is as fundamental to our health as stability is fundamental to strength.
+
+LENGTH: 95 chars
+TAGS: courage
+
+QUOTE 4:
+In this book, we will apply this three-part approach to longevity: objective → strategy → tactics.
+
+LENGTH: 98 chars
+TAGS: reading, strategy
+
+QUOTE 5:
+Scientists who play by someone else’s rules don’t have much chance of making discoveries. —Jack Horner
+
+LENGTH: 102 chars
+TAGS: wisdom
+YOUR NOTE: #EGDQuote
+
+QUOTE 6:
+Great investors do not take on risk blindly; they do so with a thorough knowledge of both risk and reward.
+
+LENGTH: 106 chars
+TAGS: courage, wisdom
+
+--------------------------------------------------------------------------------
+
+BOOK: Peak: How All of Us Can Achieve Extraordinary Things
+AUTHOR: Anders Ericsson and Robert Pool
+ASIN: B019CH3M10
+
+QUOTE 1:
+3 Mental Representations
+
+LENGTH: 24 chars
+TAGS: wisdom
+
+QUOTE 2:
+2 Harnessing Adaptability
+
+LENGTH: 25 chars
+TAGS: wisdom
+
+QUOTE 3:
+7 The Road to extraordinary
+
+LENGTH: 27 chars
+TAGS: wisdom
+
+QUOTE 4:
+9 Where Do We Go from Here?
+
+LENGTH: 27 chars
+TAGS: wisdom
+
+QUOTE 5:
+8 But What about Natural Talent?
+
+LENGTH: 32 chars
+TAGS: wisdom
+
+QUOTE 6:
+1 The Power of Purposeful Practice
+
+LENGTH: 34 chars
+TAGS: power
+
+--------------------------------------------------------------------------------
+
+BOOK: Permission to Feel: Unlocking the Power of Emotions to Help Our Kids, Ourselves, and Our Society Thrive
+AUTHOR: Marc Brackett
+ASIN: B07N69F1W7
+
+QUOTE 1:
+6 L: Labeling Emotion
+
+LENGTH: 21 chars
+TAGS: leadership
+
+QUOTE 2:
+7 E: Expressing Emotion
+
+LENGTH: 23 chars
+TAGS: leadership
+
+QUOTE 3:
+8 R: Regulating Emotion
+
+LENGTH: 23 chars
+TAGS: leadership
+
+QUOTE 4:
+4 R: Recognizing Emotion
+
+LENGTH: 24 chars
+TAGS: leadership
+
+QUOTE 5:
+5 U: Understanding Emotion
+
+LENGTH: 26 chars
+TAGS: wisdom
+
+QUOTE 6:
+3 How to Become an Emotion Scientist
+
+LENGTH: 36 chars
+TAGS: leadership
+
+--------------------------------------------------------------------------------
+
+BOOK: Poor Charlie’s Almanack: The Essential Wit and Wisdom of Charles T. Munger
+AUTHOR: Charles T. Munger, Peter D. Kaufman, John Collison, and Warren Buffett
+ASIN: B0C5TCGPPS
+
+QUOTE 1:
+Six Curiosity tendency
+
+LENGTH: 22 chars
+TAGS: wisdom
+
+QUOTE 2:
+Two Liking/loving tendency
+
+LENGTH: 26 chars
+TAGS: wisdom
+
+QUOTE 3:
+Nine Reciprocation tendency
+
+LENGTH: 27 chars
+TAGS: wisdom
+
+QUOTE 4:
+Eight Envy/jealousy tendency
+
+LENGTH: 28 chars
+TAGS: wisdom
+
+QUOTE 5:
+Four Doubt-avoidance tendency
+
+LENGTH: 29 chars
+TAGS: wisdom
+
+QUOTE 6:
+Twenty-three Twaddle tendency
+
+LENGTH: 29 chars
+TAGS: wisdom
+
+--------------------------------------------------------------------------------
+
+BOOK: Positive Discipline
+AUTHOR: Jane Nelsen
+ASIN: B004QWZJI6
+
+QUOTE 1:
+Begin with compliments.
+
+LENGTH: 23 chars
+TAGS: wisdom
+
+QUOTE 2:
+REVIEW Class-Meeting Guidelines
+
+LENGTH: 31 chars
+TAGS: wisdom
+
+QUOTE 3:
+Read the first item on the agenda.
+
+LENGTH: 34 chars
+TAGS: reading
+
+QUOTE 4:
+William Glasser’s Reality Therapy.
+
+LENGTH: 34 chars
+TAGS: wisdom
+
+QUOTE 5:
+SOME OF THE GOALS OF CLASS MEETINGS
+
+LENGTH: 35 chars
+TAGS: strategy
+
+QUOTE 6:
+4. A Misbehaving Child Is a Discouraged Child
+
+LENGTH: 45 chars
+TAGS: courage
+
+--------------------------------------------------------------------------------
+
+BOOK: Powerful: Building a Culture of Freedom and Responsibility
+AUTHOR: Patty McCord
+ASIN: B077Y4WVPT
+
+QUOTE 1:
+Fast-forward Six Months
+
+LENGTH: 23 chars
+TAGS: leadership
+
+QUOTE 2:
+The Discipline of Freedom and Responsibility
+
+LENGTH: 44 chars
+TAGS: discipline, freedom
+
+QUOTE 3:
+Ensure That Communication Flows Both Up and Down
+
+LENGTH: 48 chars
+TAGS: leadership
+
+QUOTE 4:
+the traditional Hollywood way has been creation by committee, with accountability spread too thin.
+
+LENGTH: 98 chars
+TAGS: reading
+
+QUOTE 5:
+more important than the match of a person’s prior experience was the match of their approach to problem solving.
+
+LENGTH: 112 chars
+TAGS: leadership
+
+QUOTE 6:
+I’ve often said that while I’ve removed the words “policy” and “procedure” from my vocabulary, I love discipline.
+
+LENGTH: 113 chars
+TAGS: discipline, love
+
+--------------------------------------------------------------------------------
+
+BOOK: Powers of Two: How Relationships Drive Creativity
+AUTHOR: Joshua Wolf Shenk
+ASIN: B00E9FYT0O
+
+QUOTE 1:
+3 “Like Two Young Bear Cubs”
+
+LENGTH: 28 chars
+TAGS: leadership
+
+QUOTE 2:
+13 The “Other” of the Psyche
+
+LENGTH: 28 chars
+TAGS: leadership
+
+QUOTE 3:
+9 Jokestein and Structureberg
+
+LENGTH: 29 chars
+TAGS: leadership
+
+QUOTE 4:
+12 “Everything’s the Opposite”
+
+LENGTH: 30 chars
+TAGS: leadership
+
+QUOTE 5:
+10 Inspiration and Perspiration
+
+LENGTH: 31 chars
+TAGS: leadership
+
+QUOTE 6:
+4 Presence → Confidence → Trust
+
+LENGTH: 31 chars
+TAGS: leadership
+
+--------------------------------------------------------------------------------
+
+BOOK: Principles: Life and Work
+AUTHOR: Ray Dalio
+ASIN: B071CTK28D
+
+QUOTE 1:
+1.1 Be a hyperrealist.
+
+LENGTH: 22 chars
+TAGS: wisdom
+
+QUOTE 2:
+4 Get and Stay in Sync
+
+LENGTH: 22 chars
+TAGS: wisdom
+
+QUOTE 3:
+PART II LIFE PRINCIPLES
+
+LENGTH: 23 chars
+TAGS: life, wisdom
+
+QUOTE 4:
+Planning vs. perceiving.
+
+LENGTH: 24 chars
+TAGS: strategy
+
+QUOTE 5:
+c. Thinking vs. feeling.
+
+LENGTH: 24 chars
+TAGS: thinking
+
+QUOTE 6:
+PART III WORK PRINCIPLES
+
+LENGTH: 24 chars
+TAGS: wisdom
+
+--------------------------------------------------------------------------------
+
+BOOK: Radical Candor: How to Get What You Want by Saying What You mean
+AUTHOR: Kim Scott
+ASIN: B01LW1LESC
+
+QUOTE 1:
+It’s bad for morale.
+
+LENGTH: 20 chars
+TAGS: wisdom
+
+QUOTE 2:
+is better than nobody.
+
+LENGTH: 22 chars
+TAGS: wisdom
+
+QUOTE 3:
+“skip level meetings.”
+
+LENGTH: 22 chars
+TAGS: wisdom
+
+QUOTE 4:
+transfer is the answer.
+
+LENGTH: 23 chars
+TAGS: wisdom
+
+QUOTE 5:
+Not every superstar wants to manage
+
+LENGTH: 35 chars
+TAGS: leadership
+
+QUOTE 6:
+This dimension I call “Challenge Directly.”
+
+LENGTH: 43 chars
+TAGS: wisdom
+
+--------------------------------------------------------------------------------
+
+BOOK: Range: Why Generalists Triumph in a Specialized World
+AUTHOR: David Epstein
+ASIN: B07H1ZYWTM
+
+QUOTE 1:
+Deep analogical thinking
+
+LENGTH: 24 chars
+TAGS: thinking
+
+QUOTE 2:
+Their silence was taken as consent.
+
+LENGTH: 35 chars
+TAGS: wisdom
+
+QUOTE 3:
+reaching conclusions from incomplete data,
+
+LENGTH: 42 chars
+TAGS: wisdom
+
+QUOTE 4:
+We have grown up in a world of classification
+
+LENGTH: 45 chars
+TAGS: wisdom
+
+QUOTE 5:
+Trying things is the answer to find your talent.”
+
+LENGTH: 49 chars
+TAGS: wisdom
+
+QUOTE 6:
+the complexity of game play, not the quality of existing graphics.”
+
+LENGTH: 67 chars
+TAGS: wisdom
+
+--------------------------------------------------------------------------------
+
+BOOK: Reboot: Leadership and the Art of Growing Up
+AUTHOR: Jerry Colonna
+ASIN: B0796SNDSK
+
+QUOTE 1:
+Dozens of events shape our careers, our lives.
+
+LENGTH: 46 chars
+TAGS: leadership
+
+QUOTE 2:
+“not the story of the wreck but the wreck itself.”
+
+LENGTH: 50 chars
+TAGS: reading
+
+QUOTE 3:
+Every rise and fall of the roller coaster is life at play.
+
+LENGTH: 58 chars
+TAGS: life
+
+QUOTE 4:
+We need to be vigilant and rigorous in cutting through our delusions.
+
+LENGTH: 69 chars
+TAGS: leadership
+
+QUOTE 5:
+The fingers always pointed at the other; the inquiry never went inward.
+
+LENGTH: 71 chars
+TAGS: leadership
+
+QUOTE 6:
+Such inner work creates alignment, and alignment strengthens purpose and meaning.
+
+LENGTH: 81 chars
+TAGS: courage, creativity
+
+--------------------------------------------------------------------------------
+
+BOOK: Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness
+AUTHOR: Frederic Laloux
+ASIN: B00ICS9VI4
+
+QUOTE 1:
+2. Web of individual contracting
+
+LENGTH: 32 chars
+TAGS: wisdom
+
+QUOTE 2:
+TRANSFORMING AN EXISTING ORGANIZATION
+
+LENGTH: 37 chars
+TAGS: wisdom
+
+QUOTE 3:
+Appendix 3 STRUCTURES OF TEAL ORGANIZATIONS
+
+LENGTH: 43 chars
+TAGS: wisdom
+
+QUOTE 4:
+Introduction THE EMERGENCE OF A NEW ORGANIZATIONAL MODEL
+
+LENGTH: 56 chars
+TAGS: wisdom
+
+QUOTE 5:
+Nothing is as powerful as an idea whose time has come. Victor Hugo
+
+LENGTH: 66 chars
+TAGS: power, thinking
+YOUR NOTE: EGDQuote
+
+QUOTE 6:
+Appendix 4 OVERVIEW OF TEAL ORGANIZATIONS’ STRUCTURES, PRACTICES, AND PROCESSES
+
+LENGTH: 79 chars
+TAGS: wisdom
+
+--------------------------------------------------------------------------------
+
+BOOK: Right Thing, Right Now: Good Values. Good Character. Good Deeds.
+AUTHOR: Ryan Holiday
+ASIN: B0BS771Y46
+
+QUOTE 1:
+Grow a Coaching Tree
+
+LENGTH: 20 chars
+TAGS: wisdom
+
+QUOTE 2:
+Keep Your Hands Clean
+
+LENGTH: 21 chars
+TAGS: wisdom
+
+QUOTE 3:
+Right Thing, Right Now
+
+LENGTH: 22 chars
+TAGS: wisdom
+
+QUOTE 4:
+Realize Your Potential
+
+LENGTH: 22 chars
+TAGS: wisdom
+
+QUOTE 5:
+Integrity Is Everything
+
+LENGTH: 23 chars
+TAGS: wisdom
+
+QUOTE 6:
+Part I The Me (Personal)
+
+LENGTH: 24 chars
+TAGS: wisdom
+
+--------------------------------------------------------------------------------
+
+BOOK: Robert Kennedy: His Life
+AUTHOR: Evan Thomas
+ASIN: B00AHE265Q
+
+QUOTE 1:
+Krulak was just the sort of gung-ho marine RFK admired—bold, irreverent, unorthodox, and intellectual.
+
+LENGTH: 102 chars
+TAGS: wisdom
+
+QUOTE 2:
+Confronting conservative students who found biblical support for apartheid, he asked, “What if God is black?”
+
+LENGTH: 109 chars
+TAGS: wisdom
+
+QUOTE 3:
+The Los Angeles Police Department was nowhere to be seen. The mayor of Los Angeles, Sam Yorty, regarded RFK as a subversive.
+
+LENGTH: 124 chars
+TAGS: wisdom
+
+QUOTE 4:
+He was always changing, goes the argument; he had an experiencing nature that led him to constantly reexamine and transform himself.
+
+LENGTH: 132 chars
+TAGS: wisdom
+
+QUOTE 5:
+Kennedy read Churchill (who wrote that courage is “the first of human qualities because it is the quality which guarantees all others”).
+
+LENGTH: 136 chars
+TAGS: courage, life, reading
+YOUR NOTE: EGDQuote
+
+QUOTE 6:
+Emerson’s Essays, he underlined “It was a high counsel that I once heard given to a young person, ‘Always do what you are afraid to do.’ ”
+
+LENGTH: 138 chars
+TAGS: wisdom
+YOUR NOTE: EGDQuote
+
+--------------------------------------------------------------------------------
+
+BOOK: Same as Ever: A Guide to What Never Changes
+AUTHOR: Morgan Housel
+ASIN: B0C1685PDK
+
+QUOTE 1:
+Trying Too Hard There are no points awarded for difficulty.
+
+LENGTH: 59 chars
+TAGS: wisdom
+
+QUOTE 2:
+Wild Numbers People don’t want accuracy. They want certainty.
+
+LENGTH: 61 chars
+TAGS: life
+
+QUOTE 3:
+Best Story Wins Stories are always more powerful than statistics.
+
+LENGTH: 65 chars
+TAGS: power, reading, success
+
+QUOTE 4:
+Does Not Compute The world is driven by forces that cannot be measured.
+
+LENGTH: 71 chars
+TAGS: wisdom
+
+QUOTE 5:
+Elation and Despair Progress requires optimism and pessimism to coexist.
+
+LENGTH: 72 chars
+TAGS: wisdom
+
+QUOTE 6:
+Tiny and Magnificent When little things compound into extraordinary things.
+
+LENGTH: 75 chars
+TAGS: wisdom
+
+--------------------------------------------------------------------------------
+
+BOOK: Shackleton
+AUTHOR: Sir Ranulph Fiennes
+ASIN: B088SYMXJV
+
+QUOTE 1:
+None had expedition experience, but all seemed suitable personality-wise.
+
+LENGTH: 73 chars
+TAGS: wisdom
+
+QUOTE 2:
+‘The temperament of the various members of the expedition is one of the most serious and important factors in such a case as ours,’
+
+LENGTH: 131 chars
+TAGS: wisdom
+YOUR NOTE: How you get along with crewmates is a life and death question
+
+QUOTE 3:
+key sponsors, give significant brownie points for expeditions with solid scientific research programmes rather than those which are just macho stunts.
+
+LENGTH: 150 chars
+TAGS: wisdom
+
+QUOTE 4:
+‘I feel that the success of our work depends as much on the general attitude of the members to each other as on the work they individually have to do.’
+
+LENGTH: 151 chars
+TAGS: success
+
+QUOTE 5:
+Revealing the stress he was under, he wrote to Elspeth Beardmore, ‘There are 1000 and 1 things I must do and the time seems all too short to do them in.’
+
+LENGTH: 153 chars
+TAGS: wisdom
+
+QUOTE 6:
+Shackleton drew ever more on his deep reserves, refusing to be blamed for holding the party up, the bitter memory of his time with Scott propelling him on.
+
+LENGTH: 155 chars
+TAGS: wisdom
+
+--------------------------------------------------------------------------------
+
+BOOK: Shooting to Kill
+AUTHOR: Christine Vachon
+ASIN: B000W94FL4
+
+QUOTE 1:
+I can’t force a script out of a writer: It’s either done or it isn’t.
+
+LENGTH: 69 chars
+TAGS: wisdom
+
+QUOTE 2:
+The following is a standard questionnaire, which the distributor used for test screenings of Todd Solondz’s film.
+
+LENGTH: 113 chars
+TAGS: success
+
+QUOTE 3:
+The bus scene is not as important location-wise and should have gone on the end of a day instead of the beginning. SHOOT THE MEAT FIRST.
+
+LENGTH: 136 chars
+TAGS: wisdom
+
+QUOTE 4:
+drugs will mess your actor up, serve as a contagion for other actors and creative personnel, and give you a dangerous reputation for tolerance.
+
+LENGTH: 143 chars
+TAGS: creativity
+
+QUOTE 5:
+When I started working in independent films, I thought that the way that you had to run a production was in a state of crisis. That’s what I was taught.
+
+LENGTH: 152 chars
+TAGS: business, freedom, thinking
+
+QUOTE 6:
+We understood her appeal, but we also feared that, because she had so little real acting experience, she’d soak up too much of Todd’s time and energy on the set.
+
+LENGTH: 161 chars
+TAGS: courage
+
+--------------------------------------------------------------------------------
+
+BOOK: Show Your Work!: 10 Ways to Share Your Creativity and Get Discovered
+AUTHOR: Austin Kleon
+ASIN: B00GU2RGGI
+
+QUOTE 1:
+“Work is never finished, only abandoned.” —Paul Valéry
+
+LENGTH: 54 chars
+TAGS: wisdom
+YOUR NOTE: EGDQuote
+
+QUOTE 2:
+in this day and age, if your work isn’t online, it doesn’t exist.
+
+LENGTH: 65 chars
+TAGS: wisdom
+
+QUOTE 3:
+Share what you love, and the people who love the same things will find you.
+
+LENGTH: 75 chars
+TAGS: life, love
+
+QUOTE 4:
+creativity is always, in some sense, a collaboration, the result of a mind connected to other minds.
+
+LENGTH: 100 chars
+TAGS: thinking
+
+QUOTE 5:
+“That’s all any of us are: amateurs. We don’t live long enough to be anything else.” —Charlie Chaplin
+
+LENGTH: 101 chars
+TAGS: wisdom
+YOUR NOTE: EGDQuote
+
+QUOTE 6:
+A daily dispatch is even better than a résumé or a portfolio, because it shows what we’re working on right now.
+
+LENGTH: 111 chars
+TAGS: wisdom
+
+--------------------------------------------------------------------------------
+
+BOOK: Slaying Your Fear: A guide for people who grapple with insecurity
+AUTHOR: Adam Smith
+ASIN: B07S33YGJZ
+
+QUOTE 1:
+Discover your principles and begin living them.
+
+LENGTH: 47 chars
+TAGS: life, wisdom
+
+QUOTE 2:
+In the simplest terms, insecurity is a problem with attachment.
+
+LENGTH: 63 chars
+TAGS: wisdom
+
+QUOTE 3:
+In the secret core of their heart, insecure individuals believe no connection to another human being will ever be truly secure.
+
+LENGTH: 127 chars
+TAGS: life, love
+
+QUOTE 4:
+Attachment styles form as a result of the young mind trying to understand one thing: Will I be loved for who I am, or do I have to earn love?
+
+LENGTH: 141 chars
+TAGS: love, thinking, wisdom
+
+QUOTE 5:
+Ashley fears abandonment every day and believes love must be earned by pleasing the other person and doing anything they want to keep them around.
+
+LENGTH: 146 chars
+TAGS: courage, love
+
+QUOTE 6:
+The detached person unconsciously gravitates toward the most damaged people they can find and makes projects of them as a source of perpetual approval.
+
+LENGTH: 151 chars
+TAGS: life
+
+--------------------------------------------------------------------------------
+
+BOOK: Slow Productivity: The Lost Art of Accomplishment Without Burnout
+AUTHOR: Cal Newport
+ASIN: B0CF16GTW9
+
+QUOTE 1:
+5 Obsess Over Quality
+
+LENGTH: 21 chars
+TAGS: wisdom
+
+QUOTE 2:
+4 Work at a Natural Pace
+
+LENGTH: 24 chars
+TAGS: wisdom
+
+QUOTE 3:
+Proposition: Limit the Big
+
+LENGTH: 26 chars
+TAGS: wisdom
+
+QUOTE 4:
+Proposition: Contain the Small
+
+LENGTH: 30 chars
+TAGS: wisdom
+
+QUOTE 5:
+Proposition: Pull Instead of Push
+
+LENGTH: 33 chars
+TAGS: wisdom
+
+QUOTE 6:
+The use of visible activity as the primary means of approximating actual productive effort.
+
+LENGTH: 91 chars
+TAGS: business
+
+--------------------------------------------------------------------------------
+
+BOOK: Start Something That Matters
+AUTHOR: Blake Mycoskie
+ASIN: B006VTPCP2
+
+QUOTE 1:
+Stories are the most primitive and purest form of communication.
+
+LENGTH: 64 chars
+TAGS: wisdom
+
+QUOTE 2:
+small improvements to their vehicles rather than introducing revolutionary innovation.
+
+LENGTH: 86 chars
+TAGS: creativity
+
+QUOTE 3:
+People who tell the TOMS story are more than just our customers, they’re our supporters.
+
+LENGTH: 88 chars
+TAGS: business, life, reading
+
+QUOTE 4:
+Courtney and brother Carter started VeeV, a spirit with the tagline “A better way to drink.”
+
+LENGTH: 92 chars
+TAGS: wisdom
+
+QUOTE 5:
+One of my favorite stories is that of Sam Walton, one of the most successful businessmen in all of history.
+
+LENGTH: 107 chars
+TAGS: business, reading, success
+
+QUOTE 6:
+But gaining supporters starts with having a story worth supporting. Exxon Mobil can come up with a story if it wants,
+
+LENGTH: 117 chars
+TAGS: reading
+
+--------------------------------------------------------------------------------
+
+BOOK: Startup Studio Playbook: For entrepreneurs, pioneers and creators who want to build ventures faster and with higher chance of success. Master the studio framework and start building.
+AUTHOR: Attila Szigeti
+ASIN: B07NVNYM4C
+
+QUOTE 1:
+Once there is green light for a project, Betaworks spends little money on it, to build a beta, put it out there and see how it works.
+
+LENGTH: 133 chars
+TAGS: wisdom
+
+QUOTE 2:
+500 Startups launched 500 Labs, Techstars is also creating it’s studio. And this is good for everybody, especially entrepreneurs and the investors!
+
+LENGTH: 147 chars
+TAGS: business
+
+QUOTE 3:
+Startup studios are organizations that produce companies. Studios are not purely financial investors or mentors to startups, but are the founders and builders.
+
+LENGTH: 159 chars
+TAGS: business
+
+QUOTE 4:
+because he already had a family, the high-risk startup world was not his best option. On the other hand, the creative environment combined with the safety that Betaworks provided was the ideal playground for him.
+
+LENGTH: 212 chars
+TAGS: business, courage, creativity
+
+QUOTE 5:
+For example he worked on http://getmaid.com/ later acquired by Homejoy. This mentality and an old friendship lead him to work for a startup project under the Betaworks umbrella. One thing led to another, and Daniel ended up in the already successful Hacker-In-Residence program.
+
+LENGTH: 278 chars
+TAGS: business, happiness, leadership
+
+QUOTE 6:
+Betaworks management looks at implicit and explicit criteria. Founder vision, founder - idea fit, technology trends. This is where you need experienced and flexible top management. In Betaworks fortunately each startup has its own milestones and priorities, and the BW team is flexible in this.
+
+LENGTH: 294 chars
+TAGS: business, leadership, strategy
+
+--------------------------------------------------------------------------------
+
+BOOK: Steal Like an Artist: 10 Things Nobody Told You About Being Creative
+AUTHOR: Austin Kleon
+ASIN: B0074QGGK6
+
+QUOTE 1:
+there’s only stuff worth stealing, and stuff that’s not worth stealing.
+
+LENGTH: 71 chars
+TAGS: wisdom
+
+QUOTE 2:
+As the artist Maira Kalman says, “Avoiding work is the way to focus my mind.”
+
+LENGTH: 77 chars
+TAGS: discipline, thinking
+
+QUOTE 3:
+If you ever find that you’re the most talented person in the room, you need to find another room.
+
+LENGTH: 97 chars
+TAGS: wisdom
+
+QUOTE 4:
+Every artist gets asked the question, “Where do you get your ideas?” The honest artist answers, “I steal them.”
+
+LENGTH: 111 chars
+TAGS: thinking
+
+QUOTE 5:
+Jonathan Lethem has said that when people call something “original,” nine out of ten times they just don’t know the references or the original sources involved.
+
+LENGTH: 160 chars
+TAGS: life
+
+QUOTE 6:
+plagiarism is trying to pass someone else’s work off as your own. Copying is about reverse-engineering. It’s like a mechanic taking apart a car to see how it works.
+
+LENGTH: 164 chars
+TAGS: wisdom
+
+--------------------------------------------------------------------------------
+
+BOOK: Stillness Is the Key
+AUTHOR: Ryan Holiday
+ASIN: B07MJ3TDCZ
+
+QUOTE 1:
+GET RID OF YOUR STUFF
+
+LENGTH: 21 chars
+TAGS: wisdom
+
+QUOTE 2:
+THE DOMAIN OF THE BODY
+
+LENGTH: 22 chars
+TAGS: wisdom
+
+QUOTE 3:
+ON TO WHAT’S NEXT . . .
+
+LENGTH: 23 chars
+TAGS: wisdom
+
+QUOTE 4:
+Are you starting to see how this works?
+
+LENGTH: 39 chars
+TAGS: wisdom
+YOUR NOTE: See above. Book writing idea
+
+QUOTE 5:
+It was Cicero who said that to study philosophy is to learn how to die.
+
+LENGTH: 71 chars
+TAGS: learning
+
+QUOTE 6:
+Epicurus: “Nothing is enough for the man to whom enough is too little.”
+
+LENGTH: 71 chars
+TAGS: wisdom
+
+--------------------------------------------------------------------------------
+
+BOOK: The $100K Book Strategy: How to Make a 6-figure Passive Income Writing &#34;How To&#34; Books Even If You&#39;re Not a Writer
+AUTHOR: Gracie Weis
+ASIN: B0BSNZK5TK
+
+QUOTE 1:
+Module 2 Best Seller Secrets
+
+LENGTH: 28 chars
+TAGS: wisdom
+
+QUOTE 2:
+Module 5 From Idea to Published
+
+LENGTH: 31 chars
+TAGS: thinking
+
+QUOTE 3:
+Module 1 Building Your Foundation
+
+LENGTH: 33 chars
+TAGS: wisdom
+
+QUOTE 4:
+Module 8 Building A Raving Fan Base
+
+LENGTH: 35 chars
+TAGS: wisdom
+
+QUOTE 5:
+Module 9 The 6-Figure Launch Blueprint
+
+LENGTH: 38 chars
+TAGS: wisdom
+
+QUOTE 6:
+Module 6 Expertly Outsourcing Your Book
+
+LENGTH: 39 chars
+TAGS: reading
+
+--------------------------------------------------------------------------------
+
+BOOK: The 2-Hour Cocktail Party: How to Build Big Relationships with Small Gatherings
+AUTHOR: Nick Gray
+ASIN: B0B2KW6T7J
+
+QUOTE 1:
+Here’s a typical party:
+
+LENGTH: 23 chars
+TAGS: wisdom
+YOUR NOTE: Could draw a cartoon about the typical party
+
+QUOTE 2:
+This message works well because it
+
+LENGTH: 34 chars
+TAGS: wisdom
+
+QUOTE 3:
+I’ve used this announcement in the past:
+
+LENGTH: 40 chars
+TAGS: wisdom
+YOUR NOTE: Read below
+
+QUOTE 4:
+Don’t let your guests write their own names.
+
+LENGTH: 44 chars
+TAGS: wisdom
+
+QUOTE 5:
+Here’s a sample event description I’ve used for my events:
+
+LENGTH: 58 chars
+TAGS: wisdom
+
+QUOTE 6:
+Make a list of five to ten people who can be in your core group.
+
+LENGTH: 64 chars
+TAGS: life
+
+--------------------------------------------------------------------------------
+
+BOOK: The 48 Laws of Power
+AUTHOR: Robert Greene
+ASIN: B0024CEZR6
+
+QUOTE 1:
+The Shrinking Options.
+
+LENGTH: 22 chars
+TAGS: leadership
+
+QUOTE 2:
+The Horns of a Dilemma.
+
+LENGTH: 23 chars
+TAGS: leadership
+
+QUOTE 3:
+Alter the Playing Field.
+
+LENGTH: 24 chars
+TAGS: leadership
+
+QUOTE 4:
+LAW 25 RE-CREATE YOURSELF
+
+LENGTH: 25 chars
+TAGS: creativity
+
+QUOTE 5:
+LAW 48 ASSUME FORMLESSNESS
+
+LENGTH: 26 chars
+TAGS: leadership
+
+QUOTE 6:
+LAW 26 KEEP YOUR HANDS CLEAN
+
+LENGTH: 28 chars
+TAGS: leadership
+
+--------------------------------------------------------------------------------
+
+BOOK: The 6 Types of Working Genius: A Better Way to Understand Your Gifts, Your Frustrations, and Your Team
+AUTHOR: Patrick M. Lencioni
+ASIN: B09XGPCM36
+
+QUOTE 1:
+The Genius of Invention is all about coming up with new ideas and solutions.
+
+LENGTH: 76 chars
+TAGS: creativity, thinking
+
+QUOTE 2:
+The Genius of Discernment is related to instinct, intuition, and uncanny judgment.
+
+LENGTH: 82 chars
+TAGS: wisdom
+
+QUOTE 3:
+The Genius of Tenacity is about the satisfaction of pushing things across the finish line to completion.
+
+LENGTH: 104 chars
+TAGS: wisdom
+
+QUOTE 4:
+The Genius of Enablement involves providing people with support and assistance in the way that it is needed.
+
+LENGTH: 108 chars
+TAGS: life
+
+QUOTE 5:
+if you’re going to galvanize, this is exactly what I want you to do. Push. Take risks. Make us a little uncomfortable.”
+
+LENGTH: 119 chars
+TAGS: courage
+
+QUOTE 6:
+The Genius of Galvanizing is about rallying, motivating, and provoking people to take action around an idea or an initiative.
+
+LENGTH: 125 chars
+TAGS: life, thinking
+
+--------------------------------------------------------------------------------
+
+BOOK: The Advantage, Enhanced Edition: Why Organizational Health Trumps Everything Else In Business (J-B Lencioni Series)
+AUTHOR: Patrick M. Lencioni
+ASIN: B006ORWT3Y
+
+QUOTE 1:
+RECRUITING AND HIRING
+
+LENGTH: 21 chars
+TAGS: business
+
+QUOTE 2:
+PERFORMANCE MANAGEMENT
+
+LENGTH: 22 chars
+TAGS: leadership
+
+QUOTE 3:
+The Price of Passivity
+
+LENGTH: 22 chars
+TAGS: business
+
+QUOTE 4:
+Identifying Core Values
+
+LENGTH: 23 chars
+TAGS: business
+
+QUOTE 5:
+OVERCOMMUNICATE CLARITY
+
+LENGTH: 23 chars
+TAGS: communication
+
+QUOTE 6:
+COMPENSATION AND REWARDS
+
+LENGTH: 24 chars
+TAGS: business
+
+--------------------------------------------------------------------------------
+
+BOOK: The Almanack of Naval Ravikant: A Guide to Wealth and Happiness
+AUTHOR: Eric Jorgenson, Jack Butcher, and Tim Ferriss
+ASIN: B08FF8MTM6
+
+QUOTE 1:
+Desire is suffering. (Buddha)
+
+LENGTH: 29 chars
+TAGS: wisdom
+YOUR NOTE: Because it doesnt last.and you just move to the next desire
+
+QUOTE 2:
+The more you know, the less you diversify.
+
+LENGTH: 42 chars
+TAGS: wisdom
+YOUR NOTE: Focus on one game. Often it is mucb bigger than imagined.
+
+QUOTE 3:
+Watch every thought. (Ask “Why am I having this thought?”)
+
+LENGTH: 58 chars
+TAGS: thinking
+
+QUOTE 4:
+I would rather be a failed entrepreneur than someone who never tried.
+
+LENGTH: 69 chars
+TAGS: business
+
+QUOTE 5:
+When specific knowledge is taught, it’s through apprenticeships, not schools.
+
+LENGTH: 77 chars
+TAGS: wisdom
+
+QUOTE 6:
+The means of learning are abundant—it’s the desire to learn that is scarce. [3]
+
+LENGTH: 79 chars
+TAGS: learning
+
+--------------------------------------------------------------------------------
+
+BOOK: The Americanization of Benjamin Franklin
+AUTHOR: Gordon S. Wood
+ASIN: B000OCXGHS
+
+QUOTE 1:
+He read everything he could get his hands on,
+
+LENGTH: 45 chars
+TAGS: reading
+
+QUOTE 2:
+he came to believe that to love London was to love life and to love life was to love London.
+
+LENGTH: 92 chars
+TAGS: life, love
+
+QUOTE 3:
+In 1750, he wrote that at the end of his life “I would rather have it said, He lived usefully, than, He died rich.”
+
+LENGTH: 115 chars
+TAGS: life
+
+QUOTE 4:
+In the end Franklin was never quite as self-made as he sometimes implied or as the nineteenth century made him out to be.
+
+LENGTH: 121 chars
+TAGS: wisdom
+
+QUOTE 5:
+That Franklin condoned the Stamp Act in the manner he did clearly reveals just how little he understood American opinion.
+
+LENGTH: 121 chars
+TAGS: wisdom
+
+QUOTE 6:
+He could also teach people patience and timing, so “that man should arrange his conduct so as to suit the whole of a life.”
+
+LENGTH: 123 chars
+TAGS: learning, life
+
+--------------------------------------------------------------------------------
+
+BOOK: The Anxious Generation: How the Great Rewiring of Childhood Is Causing an Epidemic of Mental Illness
+AUTHOR: Jonathan Haidt
+ASIN: B0CGWS3JQ6
+
+QUOTE 1:
+Part 4 COLLECTIVE ACTION FOR HEALTHIER CHILDHOOD
+
+LENGTH: 48 chars
+TAGS: wisdom
+
+QUOTE 2:
+Part 2 THE BACKSTORY THE DECLINE OF THE PLAY-BASED CHILDHOOD
+
+LENGTH: 60 chars
+TAGS: reading
+
+QUOTE 3:
+Part 3 THE GREAT REWIRING THE RISE OF THE PHONE-BASED CHILDHOOD
+
+LENGTH: 63 chars
+TAGS: wisdom
+
+QUOTE 4:
+FOR PARENTS OF CHILDREN AGES 6–13 (ELEMENTARY AND MIDDLE SCHOOL)
+
+LENGTH: 64 chars
+TAGS: wisdom
+
+QUOTE 5:
+Reason #1: Girls Are More Affected by Visual Social Comparison and Perfectionism
+
+LENGTH: 80 chars
+TAGS: wisdom
+
+QUOTE 6:
+Video game play is happening within virtual worlds designed to maximize time spent on the platforms—just like social media.
+
+LENGTH: 123 chars
+TAGS: creativity
+
+--------------------------------------------------------------------------------
+
+BOOK: The Art Of Seduction (The Robert Greene Collection)
+AUTHOR: Robert Greene
+ASIN: B0041G68RI
+
+QUOTE 1:
+Shared moments of exuberance have immense seductive pull.
+
+LENGTH: 57 chars
+TAGS: wisdom
+YOUR NOTE: Moments of lively energy and excitement
+
+QUOTE 2:
+The less he strained for effect, the more sincere he appeared.
+
+LENGTH: 62 chars
+TAGS: wisdom
+
+QUOTE 3:
+That is the key to charm—feeding what has been repressed or denied.
+
+LENGTH: 67 chars
+TAGS: wisdom
+
+QUOTE 4:
+people lack in life is not more reality but illusion, fantasy, play.
+
+LENGTH: 68 chars
+TAGS: life
+
+QUOTE 5:
+The key to both attracting and holding attention is to radiate mystery.
+
+LENGTH: 71 chars
+TAGS: wisdom
+
+QUOTE 6:
+An appeal to the emotions is far more powerful than an appeal to reason.
+
+LENGTH: 72 chars
+TAGS: power
+
+--------------------------------------------------------------------------------
+
+BOOK: The Art of Spending Money: Simple Choices for a Richer Life
+AUTHOR: Morgan Housel
+ASIN: B0F42TZ2FY
+
+QUOTE 1:
+I like you for who you are, not how much money you earn or the car you drive.
+
+LENGTH: 77 chars
+TAGS: wisdom
+
+QUOTE 2:
+Desire is a hidden form of debt that must be repaid before you get to feel any happiness.
+
+LENGTH: 89 chars
+TAGS: wisdom
+
+QUOTE 3:
+let me be clear: Most of this book is reflections I’ve had trying to figure out money and happiness in my own life.
+
+LENGTH: 115 chars
+TAGS: life, reading
+
+QUOTE 4:
+The key is realizing that happiness is the state when nothing is missing, regardless of the lifestyle you’re living.
+
+LENGTH: 116 chars
+TAGS: life
+
+QUOTE 5:
+The most powerful definition of wealth is not what you have. What actually matters is the gap between what you have and what you want.
+
+LENGTH: 134 chars
+TAGS: power
+
+QUOTE 6:
+The Most Valuable Financial Asset Is Not Needing to Impress Anyone The ability to not need to prove yourself to strangers is priceless.
+
+LENGTH: 135 chars
+TAGS: wisdom
+
+--------------------------------------------------------------------------------
+
+BOOK: The Big Leap: Conquer Your Hidden Fear and Take Life to the Next Level
+AUTHOR: Gay Hendricks PhD
+ASIN: B0026772QU
+
+QUOTE 1:
+TWO Making the Leap Dismantling the Foundation of the Problem
+
+LENGTH: 61 chars
+TAGS: wisdom
+
+QUOTE 2:
+ONE Preparing for Your Big Leap The One Problem and How to Solve It
+
+LENGTH: 67 chars
+TAGS: wisdom
+
+QUOTE 3:
+THREE Getting Specific How to Spot the Upper Limit Problem in Daily Life
+
+LENGTH: 72 chars
+TAGS: life
+
+QUOTE 4:
+Solving the Upper Limit Problem is possible only by a leap of consciousness.
+
+LENGTH: 76 chars
+TAGS: wisdom
+
+QUOTE 5:
+I’m at my best when I’m _________ ___________________________________________.
+
+LENGTH: 78 chars
+TAGS: wisdom
+
+QUOTE 6:
+SIX Living in Einstein Time Creating Time for the Full Expression of Your Genius
+
+LENGTH: 80 chars
+TAGS: life
+
+--------------------------------------------------------------------------------
+
+BOOK: The Black Swan: The Impact of the Highly Improbable
+AUTHOR: Nassim Nicholas Taleb
+ASIN: B002RI99IM
+
+QUOTE 1:
+A nerd is simply someone who thinks exceedingly inside the box.
+
+LENGTH: 63 chars
+TAGS: thinking
+
+QUOTE 2:
+the accuracy in your forecast matters far more than the forecast itself.
+
+LENGTH: 72 chars
+TAGS: wisdom
+
+QUOTE 3:
+They are small and they wash out. They are domesticated fluctuations around the mean.
+
+LENGTH: 85 chars
+TAGS: wisdom
+
+QUOTE 4:
+They thought out of the box, like traders, except much better and without fear of introspection.
+
+LENGTH: 96 chars
+TAGS: courage, thinking
+
+QUOTE 5:
+The veins in leaves look like branches; branches look like trees; rocks look like small mountains.
+
+LENGTH: 98 chars
+TAGS: wisdom
+
+QUOTE 6:
+may be even worse for you to make $10 million, then lose back nine, than to making nothing at all!
+
+LENGTH: 98 chars
+TAGS: wisdom
+
+--------------------------------------------------------------------------------
+
+BOOK: The Business of Belonging: How to Make Community your Competitive Advantage
+AUTHOR: David Spinks
+ASIN: B08ZJZM57W
+
+QUOTE 1:
+The Three Levels of Community Strategy
+
+LENGTH: 38 chars
+TAGS: strategy
+
+QUOTE 2:
+Designing a Compelling Onboarding Experience
+
+LENGTH: 44 chars
+TAGS: creativity
+
+QUOTE 3:
+Don't wait for them to engage. Make it happen.
+
+LENGTH: 46 chars
+TAGS: business
+
+QUOTE 4:
+Annually: We host CMX Summit and CMX Global, our two large conferences.
+
+LENGTH: 71 chars
+TAGS: business
+
+QUOTE 5:
+For example, here's how our goals at CMX can be broken down for a given quarter:
+
+LENGTH: 80 chars
+TAGS: strategy
+
+QUOTE 6:
+Quarterly: We do a big study with the community and publish a new research report.
+
+LENGTH: 82 chars
+TAGS: business
+
+--------------------------------------------------------------------------------
+
+BOOK: The Chancellor: The Remarkable Odyssey of Angela Merkel
+AUTHOR: Kati Marton
+ASIN: B08VJMY8KW
+
+QUOTE 1:
+Nothing in life is to be feared. It is only to be understood.” —Marie Curie
+
+LENGTH: 75 chars
+TAGS: courage, life
+YOUR NOTE: EGDQuote
+
+QUOTE 2:
+When asked once who her role model in life was, Merkel answered, “Myself, as often as possible.”
+
+LENGTH: 96 chars
+TAGS: life
+
+QUOTE 3:
+Hubris, Merkel’s behavior suggests, is a male weakness. A woman in power has more urgent business to attend to than her ego.
+
+LENGTH: 124 chars
+TAGS: business, power
+
+QUOTE 4:
+Authenticity was more important to her than stroking needy egos. She wasn’t much good at faking emotions, nor interested in learning how.
+
+LENGTH: 137 chars
+TAGS: learning
+
+QUOTE 5:
+How was this triple outsider—an East German, a scientist, and a woman of that rare European country to never have a queen—able to achieve all this?
+
+LENGTH: 147 chars
+TAGS: success
+
+QUOTE 6:
+Even as multiple crises roiled, her team would make sure that the atmosphere in the chancellery felt as sheltered from turbulence as the Templin vicarage of her childhood.
+
+LENGTH: 171 chars
+TAGS: leadership
+
+--------------------------------------------------------------------------------
+
+BOOK: The Culture Code: The Secrets of Highly Successful Groups
+AUTHOR: Daniel Coyle
+ASIN: B019CGXU68
+
+QUOTE 1:
+Use Flash Mentoring:
+
+LENGTH: 20 chars
+TAGS: wisdom
+
+QUOTE 2:
+9 The Super-Cooperators
+
+LENGTH: 23 chars
+TAGS: wisdom
+
+QUOTE 3:
+The Power of the Harold
+
+LENGTH: 23 chars
+TAGS: power
+
+QUOTE 4:
+Embrace the Discomfort:
+
+LENGTH: 23 chars
+TAGS: wisdom
+
+QUOTE 5:
+8 The Vulnerability Loop
+
+LENGTH: 24 chars
+TAGS: wisdom
+
+QUOTE 6:
+Listen Like a Trampoline:
+
+LENGTH: 25 chars
+TAGS: communication
+
+--------------------------------------------------------------------------------
+
+BOOK: The Culture Map (INTL ED): Decoding How People Think, Lead, and Get Things Done Across Cultures
+AUTHOR: Erin Meyer
+ASIN: B06XCJ125R
+
+QUOTE 1:
+Epilogue Putting the Culture Map to Work
+
+LENGTH: 40 chars
+TAGS: leadership
+
+QUOTE 2:
+5 Big D or Little d Who Decides, and How?
+
+LENGTH: 41 chars
+TAGS: decision
+
+QUOTE 3:
+The result is a decision with a capital D.
+
+LENGTH: 42 chars
+TAGS: leadership
+
+QUOTE 4:
+7 The Needle, Not the Knife Disagreeing Productively
+
+LENGTH: 52 chars
+TAGS: business
+
+QUOTE 5:
+6 The Head or the Heart Two Types of Trust and How They Grow
+
+LENGTH: 60 chars
+TAGS: love
+
+QUOTE 6:
+3 Why Versus How The Art of Persuasion in a Multicultural World
+
+LENGTH: 63 chars
+TAGS: leadership
+
+--------------------------------------------------------------------------------
+
+BOOK: The Dichotomy of Leadership: Balancing the Challenges of Extreme Ownership to Lead and Win
+AUTHOR: Jocko Willink, Leif Babin
+ASIN: B079Y51FC3
+
+QUOTE 1:
+Application to Business
+
+LENGTH: 23 chars
+TAGS: business
+
+QUOTE 2:
+Application to Business
+
+LENGTH: 23 chars
+TAGS: business
+
+QUOTE 3:
+Application to Business
+
+LENGTH: 23 chars
+TAGS: business
+
+QUOTE 4:
+Application to Business
+
+LENGTH: 23 chars
+TAGS: business
+
+QUOTE 5:
+Application to Business
+
+LENGTH: 23 chars
+TAGS: business
+
+QUOTE 6:
+Application to Business
+
+LENGTH: 23 chars
+TAGS: business
+
+--------------------------------------------------------------------------------
+
+BOOK: The Earned Life: Lose Regret, Choose Fulfilment
+AUTHOR: Marshall Goldsmith and Mark Reiter
+ASIN: B09H2NW434
+
+QUOTE 1:
+7. WE HAVE RUN OUT OF RUNWAY
+
+LENGTH: 28 chars
+TAGS: wisdom
+
+QUOTE 2:
+5. WE ARE WINDED BY THE PACE OF CHANGE
+
+LENGTH: 38 chars
+TAGS: success
+
+QUOTE 3:
+6. WE ARE NARCOTIZED BY VICARIOUS LIVING
+
+LENGTH: 40 chars
+TAGS: life
+
+QUOTE 4:
+“Dammit, Mark. When are you going to start living your own life?”
+
+LENGTH: 65 chars
+TAGS: life
+
+QUOTE 5:
+I want to live a life that will increase fulfillment and minimize regret.
+
+LENGTH: 73 chars
+TAGS: life
+
+QUOTE 6:
+(We don’t feel regret because we tried and failed; we regret not trying.)
+
+LENGTH: 73 chars
+TAGS: wisdom
+
+--------------------------------------------------------------------------------
+
+BOOK: The End of Average: How We Succeed in a World That Values Sameness
+AUTHOR: Todd Rose
+ASIN: B00R1JU7P6
+
+QUOTE 1:
+PART III THE AGE OF INDIVIDUALS
+
+LENGTH: 31 chars
+TAGS: wisdom
+
+QUOTE 2:
+PART II THE PRINCIPLES OF INDIVIDUALITY
+
+LENGTH: 39 chars
+TAGS: wisdom
+
+QUOTE 3:
+If you spend the effort thinking through the contextual details of the job, you’re going to be rewarded.”
+
+LENGTH: 105 chars
+TAGS: thinking
+
+QUOTE 4:
+Instead of describing the person they want, Alder tells employers to first describe the job they want done.
+
+LENGTH: 107 chars
+TAGS: wisdom
+
+QUOTE 5:
+“Adler showed us that what really mattered was selecting someone with success performing in similar contexts to the ones at Let’s Go,”
+
+LENGTH: 134 chars
+TAGS: success
+
+QUOTE 6:
+jaggedness principle. This principle holds that we cannot apply one-dimensional thinking to understand something that is complex and “jagged.”
+
+LENGTH: 142 chars
+TAGS: thinking, wisdom
+
+--------------------------------------------------------------------------------
+
+BOOK: The Five Temptations of a CEO, 10th Anniversary Edition: A Leadership Fable (J-B Lencioni Series)
+AUTHOR: Patrick M. Lencioni
+ASIN: B0062OAEWM
+
+QUOTE 1:
+PART THREE The Model
+
+LENGTH: 20 chars
+TAGS: leadership
+
+QUOTE 2:
+PART FOUR Self-Assessment
+
+LENGTH: 25 chars
+TAGS: leadership
+
+QUOTE 3:
+“Wanting to be popular with your direct reports instead of holding them accountable.”
+
+LENGTH: 85 chars
+TAGS: leadership
+YOUR NOTE: People want to hire smarter people than themselves, and then they start to look for popularity
+
+QUOTE 4:
+imagine the basketball coach saying his greatest day was signing a big contract with a team.”
+
+LENGTH: 93 chars
+TAGS: leadership
+
+QUOTE 5:
+my father was a fanatic about performance. People who worked for him knew that they either produced or were gone.”
+
+LENGTH: 114 chars
+TAGS: life
+
+QUOTE 6:
+Kathryn interrupted the Chairman politely but sternly. “I’m not talking about the numbers. I just don’t see a sense of urgency.”
+
+LENGTH: 128 chars
+TAGS: communication
+
+--------------------------------------------------------------------------------
+
+BOOK: The Good Enough Job: What We Gain When We Don’t Put Work First
+AUTHOR: Simone Stolzoff
+ASIN: B0C4SR8RB5
+
+QUOTE 1:
+3 The Love of Labor:On the myth of dream jobs
+
+LENGTH: 45 chars
+TAGS: love
+
+QUOTE 2:
+4 Lose Yourself:On the myth that your work is your worth
+
+LENGTH: 56 chars
+TAGS: wisdom
+
+QUOTE 3:
+5 Working Relationships:On the myth that a workplace can be family
+
+LENGTH: 66 chars
+TAGS: wisdom
+
+QUOTE 4:
+2 The Religion of Workism:On the myth that your job can be your God
+
+LENGTH: 67 chars
+TAGS: wisdom
+
+QUOTE 5:
+6 Off the Clock:On the myth that working more hours always leads to better work
+
+LENGTH: 79 chars
+TAGS: leadership
+
+QUOTE 6:
+when a business comes on hard times, social ties can fray in the face of mounting economic pressure.
+
+LENGTH: 100 chars
+TAGS: business
+
+--------------------------------------------------------------------------------
+
+BOOK: The Great CEO Within: The Tactical Guide to Company Building
+AUTHOR: Matt Mochary, Alex MacCaw, and Misha Talavera
+ASIN: B07ZLGQZYC
+
+QUOTE 1:
+Feeling All Feelings
+
+LENGTH: 20 chars
+TAGS: business
+
+QUOTE 2:
+Part V Collaboration
+
+LENGTH: 20 chars
+TAGS: business
+
+QUOTE 3:
+Part III Group Habits
+
+LENGTH: 21 chars
+TAGS: discipline
+
+QUOTE 4:
+RAPID Decision-Making
+
+LENGTH: 21 chars
+TAGS: business
+
+QUOTE 5:
+Part IV Infrastructure
+
+LENGTH: 22 chars
+TAGS: business
+
+QUOTE 6:
+Write down all processes.
+
+LENGTH: 25 chars
+TAGS: business
+
+--------------------------------------------------------------------------------
+
+BOOK: The Ideal Team Player: How to Recognize and Cultivate The Three Essential Virtues
+AUTHOR: Patrick M. Lencioni
+ASIN: B01B6AEJJ0
+
+QUOTE 1:
+Consider Group Interviews
+
+LENGTH: 25 chars
+TAGS: wisdom
+
+QUOTE 2:
+Defining the Three Virtues
+
+LENGTH: 26 chars
+TAGS: wisdom
+
+QUOTE 3:
+Debrief Each Interview as a Team
+
+LENGTH: 32 chars
+TAGS: leadership
+
+QUOTE 4:
+Humble “Tell me about the most important accomplishments of your career.” Look for more mentions of we than I.
+
+LENGTH: 110 chars
+TAGS: success
+YOUR NOTE: There's so many good questions below
+
+QUOTE 5:
+I mean, the kind who come to practice wanting to work as hard as they can to avoid losing. Coaching them is easy.”
+
+LENGTH: 114 chars
+TAGS: wisdom
+
+QUOTE 6:
+Ask the reference to serve as a consultant, one whose job it is to ensure that there is a fit that will benefit everyone.
+
+LENGTH: 121 chars
+TAGS: wisdom
+
+--------------------------------------------------------------------------------
+
+BOOK: The Inner Game of Tennis: The Classic Guide to the Mental Side of Peak Performance
+AUTHOR: W. Timothy Gallwey
+ASIN: B003T0G9E4
+
+QUOTE 1:
+Discovering Technique
+
+LENGTH: 21 chars
+TAGS: wisdom
+
+QUOTE 2:
+The Meaning of Competition
+
+LENGTH: 26 chars
+TAGS: wisdom
+
+QUOTE 3:
+The Inner Game Off the Court
+
+LENGTH: 28 chars
+TAGS: wisdom
+
+QUOTE 4:
+Games People Play on the Court
+
+LENGTH: 30 chars
+TAGS: life
+
+QUOTE 5:
+The Discovery of the Two Selves
+
+LENGTH: 31 chars
+TAGS: wisdom
+
+QUOTE 6:
+STEP 2   Picture Desired Outcome
+
+LENGTH: 32 chars
+TAGS: wisdom
+
+--------------------------------------------------------------------------------
+
+BOOK: The Innovator's Dilemma: When New Technologies Cause Great Firms to Fail (Management of Innovation and Change)
+AUTHOR: Clayton Christensen
+ASIN: B012BLTM6I
+
+QUOTE 1:
+“Exploring the Limits of the Technology S-Curve.
+
+LENGTH: 48 chars
+TAGS: wisdom
+
+QUOTE 2:
+Part Two MANAGING DISRUPTIVE         TECHNOLOGICAL CHANGE
+
+LENGTH: 57 chars
+TAGS: wisdom
+
+QUOTE 3:
+Leadership in Sustaining Technologies May Not Be Essential
+
+LENGTH: 58 chars
+TAGS: leadership
+
+QUOTE 4:
+when the best firms subsequently failed, it was for the same reasons—they
+
+LENGTH: 73 chars
+TAGS: wisdom
+
+QUOTE 5:
+Principle #2: Small Markets Don’t Solve the Growth Needs of Large Companies
+
+LENGTH: 75 chars
+TAGS: wisdom
+
+QUOTE 6:
+How did the successful managers harness these principles to their advantage?
+
+LENGTH: 76 chars
+TAGS: leadership, success, wisdom
+
+--------------------------------------------------------------------------------
+
+BOOK: The Motive: Why So Many Leaders Abdicate Their Most Important Responsibilities
+AUTHOR: Patrick M. Lencioni
+ASIN: B0851K989D
+
+QUOTE 1:
+“The most painful job.”
+
+LENGTH: 23 chars
+TAGS: leadership
+
+QUOTE 2:
+Imperfection and Vigilance
+
+LENGTH: 26 chars
+TAGS: leadership
+
+QUOTE 3:
+The Surprising Danger of Fun
+
+LENGTH: 28 chars
+TAGS: leadership
+
+QUOTE 4:
+4. Running Great Team Meetings
+
+LENGTH: 30 chars
+TAGS: leadership
+
+QUOTE 5:
+1. Developing the Leadership Team
+
+LENGTH: 33 chars
+TAGS: leadership
+
+QUOTE 6:
+The Five Omissions of Reward-Centered Leaders
+
+LENGTH: 45 chars
+TAGS: leadership
+
+--------------------------------------------------------------------------------
+
+BOOK: The One Thing: The surprisingly simple truth behind extraordinary results
+AUTHOR: Gary Keller
+ASIN: B00D3J2QKW
+
+QUOTE 1:
+14  LIVE BY PRIORITY
+
+LENGTH: 20 chars
+TAGS: wisdom
+
+QUOTE 2:
+17  THE FOUR THIEVES
+
+LENGTH: 20 chars
+TAGS: wisdom
+
+QUOTE 3:
+11  THE SUCCESS HABIT
+
+LENGTH: 21 chars
+TAGS: discipline, success
+
+QUOTE 4:
+6  A DISCIPLINED LIFE
+
+LENGTH: 21 chars
+TAGS: discipline, life
+
+QUOTE 5:
+13  LIVE WITH PURPOSE
+
+LENGTH: 21 chars
+TAGS: wisdom
+
+QUOTE 6:
+10  THE FOCUSING QUESTION
+
+LENGTH: 25 chars
+TAGS: discipline
+
+--------------------------------------------------------------------------------
+
+BOOK: The Pathless Path: Imagining a New Story For Work and Life
+AUTHOR: Paul Millerd
+ASIN: B09QF1ZCT2
+
+QUOTE 1:
+II The Pathless Path
+
+LENGTH: 20 chars
+TAGS: wisdom
+
+QUOTE 2:
+10 Playing the Long Game
+
+LENGTH: 24 chars
+TAGS: wisdom
+
+QUOTE 3:
+First, question the default
+
+LENGTH: 27 chars
+TAGS: wisdom
+
+QUOTE 4:
+First, question the default.
+
+LENGTH: 28 chars
+TAGS: wisdom
+
+QUOTE 5:
+9 The Real Work of Your Life
+
+LENGTH: 28 chars
+TAGS: life
+
+QUOTE 6:
+7 Wisdom of the Pathless Path
+
+LENGTH: 29 chars
+TAGS: wisdom
+
+--------------------------------------------------------------------------------
+
+BOOK: The Power Law: Venture Capital and the Art of Disruption
+AUTHOR: Sebastian Mallaby
+ASIN: B094Q2ZQCV
+
+QUOTE 1:
+Which is better: to try and fail, or to fail to try?
+
+LENGTH: 52 chars
+TAGS: leadership
+
+QUOTE 2:
+John, venture capital, that’s not a real job. It’s like being a real estate agent. —INTEL’S ANDY GROVE, ADDRESSING JOHN DOERR
+
+LENGTH: 125 chars
+TAGS: leadership
+
+QUOTE 3:
+Meituan survived the first phase of the war easily. Most of the contenders were underfunded and naive; they were killed off quickly.
+
+LENGTH: 132 chars
+TAGS: leadership
+YOUR NOTE: Gaming when UA became a weapon
+
+QUOTE 4:
+Founders Fund explicitly ruled out the Qume formula of bringing in an outside CEO. Entrepreneurs should control their own companies, period.
+
+LENGTH: 140 chars
+TAGS: business, leadership, power
+
+QUOTE 5:
+Peter Thiel has written.20 “Venture capital is not even a home-run business,” Bill Gurley of Benchmark Capital once remarked. “It’s a grand-slam business.”21
+
+LENGTH: 157 chars
+TAGS: business
+
+QUOTE 6:
+Perkins’s law: “market risk is inversely proportional to technical risk,” because if you solve a truly difficult technical problem, you will face minimal competition.
+
+LENGTH: 166 chars
+TAGS: courage
+
+--------------------------------------------------------------------------------
+
+BOOK: The Practice: Shipping Creative Work
+AUTHOR: Seth Godin
+ASIN: B088QLT891
+
+QUOTE 1:
+Hubris is the opposite of trust.
+
+LENGTH: 32 chars
+TAGS: wisdom
+
+QUOTE 2:
+Surround yourself with people who have small dreams.
+
+LENGTH: 52 chars
+TAGS: life
+YOUR NOTE: Do the opposite
+
+QUOTE 3:
+Not for applause, not for money. But because we can.
+
+LENGTH: 52 chars
+TAGS: wisdom
+
+QUOTE 4:
+Generosity is the most direct way to find the practice.
+
+LENGTH: 55 chars
+TAGS: wisdom
+
+QUOTE 5:
+The story we tell ourselves leads to the actions we take.
+
+LENGTH: 57 chars
+TAGS: leadership, reading
+
+QUOTE 6:
+Julia Cameron’s morning pages help unlock something inside.
+
+LENGTH: 59 chars
+TAGS: reading
+
+--------------------------------------------------------------------------------
+
+BOOK: The Psychology of Money: Timeless lessons on wealth, greed, and happiness
+AUTHOR: Morgan Housel
+ASIN: B084HJSJJ2
+
+QUOTE 1:
+Kahneman once laid out the path these stories take:
+
+LENGTH: 51 chars
+TAGS: wisdom
+
+QUOTE 2:
+I know a lot less about how the world works than I think I do.
+
+LENGTH: 62 chars
+TAGS: thinking
+
+QUOTE 3:
+The hardest financial skill is getting the goalpost to stop moving.
+
+LENGTH: 67 chars
+TAGS: learning, strategy
+
+QUOTE 4:
+Humility, kindness, and empathy will bring you more respect than horsepower ever will.
+
+LENGTH: 86 chars
+TAGS: power
+
+QUOTE 5:
+Charlie Munger once said “I did not intend to get rich. I just wanted to get independent.”
+
+LENGTH: 90 chars
+TAGS: freedom
+
+QUOTE 6:
+Carl Richards writes: “Risk is what’s left over when you think you’ve thought of everything.”
+
+LENGTH: 93 chars
+TAGS: courage, thinking
+
+--------------------------------------------------------------------------------
+
+BOOK: The Science of Storytelling: Why Stories Make Us Human and How to Tell Them Better
+AUTHOR: Will Storr
+ASIN: B07WXJTR9Q
+
+QUOTE 1:
+This is what storytellers do. They create moments of unexpected change that seize the attention of their protagonists and, by extension, their readers and viewers.
+
+LENGTH: 163 chars
+TAGS: creativity, reading
+
+QUOTE 2:
+Causes and effects should be shown rather than told; suggested rather than explained. If they’re not, curiosity will be extinguished and readers and viewers will become bored.
+
+LENGTH: 175 chars
+TAGS: reading
+
+QUOTE 3:
+Alfred Hitchcock, who was a master at alarming brains by threatening that unexpected change was looming, went as far as to say, ‘There’s no terror in the bang, only in the anticipation of it.’
+
+LENGTH: 192 chars
+TAGS: wisdom
+
+QUOTE 4:
+As the psychologist Professor Brian Little writes, ‘All individuals are essentially scientists erecting and testing their hypotheses about the world and revising them in the light of their experience.’
+
+LENGTH: 201 chars
+TAGS: wisdom
+YOUR NOTE: #EGDQuote
+
+QUOTE 5:
+Unpredictable humans. This is the stuff of story. For modern humans, controlling the world means controlling other people, and that means understanding them. We’re wired to be fascinated by others and get valuable information from their faces.
+
+LENGTH: 243 chars
+TAGS: life, power, reading
+
+QUOTE 6:
+Some of our most successful mass-market storytellers also rely on information gaps. J. J. Abrams is co-creator of the long-form television series Lost, which followed characters who mysteriously manage to survive an airline crash on a South Pacific island.
+
+LENGTH: 256 chars
+TAGS: leadership, reading, strategy
+
+--------------------------------------------------------------------------------
+
+BOOK: The Score Takes Care of Itself: My Philosophy of Leadership
+AUTHOR: Bill Walsh, Steve Jamison, Craig Walsh
+ASIN: B002G54Y04
+
+QUOTE 1:
+one-point-underdog mentality
+
+LENGTH: 28 chars
+TAGS: leadership
+
+QUOTE 2:
+This is an example of sweating the right small stuff.
+
+LENGTH: 53 chars
+TAGS: leadership
+
+QUOTE 3:
+This is an example of sweating the wrong small stuff.
+
+LENGTH: 53 chars
+TAGS: leadership
+
+QUOTE 4:
+put the team’s welfare and priorities ahead of my own;
+
+LENGTH: 54 chars
+TAGS: leadership
+
+QUOTE 5:
+honor the direct connection between details and improvement,
+
+LENGTH: 60 chars
+TAGS: leadership
+
+QUOTE 6:
+My checklist for keeping good staff members on the same page:
+
+LENGTH: 61 chars
+TAGS: reading
+
+--------------------------------------------------------------------------------
+
+BOOK: The Snowball: Warren Buffett and the Business of Life
+AUTHOR: Alice Schroeder
+ASIN: B009MYD9F8
+
+QUOTE 1:
+5 The Urge to Preach
+
+LENGTH: 20 chars
+TAGS: business
+
+QUOTE 2:
+And that, it seemed, was the simple, ordinary life of a megabillionaire.
+
+LENGTH: 72 chars
+TAGS: life
+
+QUOTE 3:
+“Frankly, I’m kind of disappointed that the Buffett family was not shorting horses throughout this entire period. There are always losers.”
+
+LENGTH: 139 chars
+TAGS: business
+
+QUOTE 4:
+Yet even though Buffett had now officially joined the CEO club, he had no desire to acquire most of their habits—collecting wine or art, buying a yacht.
+
+LENGTH: 152 chars
+TAGS: discipline, leadership, success
+
+QUOTE 5:
+The Sanborn deal set a new high-water mark: Buffett could use his brains and his partnerships’ money to alter the course of even a stubborn and unwilling company.
+
+LENGTH: 162 chars
+TAGS: business
+
+QUOTE 6:
+Buffett explained that he wanted the Blumkins to stay on as partners. He told Louie that he would get involved in only two things: capital allocation and selecting and compensating the “top man.”
+
+LENGTH: 195 chars
+TAGS: business
+
+--------------------------------------------------------------------------------
+
+BOOK: The Subtle Art of Not Giving a F*ck: A Counterintuitive Approach to Living a Good Life
+AUTHOR: Mark Manson
+ASIN: B019MMUA8S
+
+QUOTE 1:
+Action isn’t just the effect of motivation; it’s also the cause of it.
+
+LENGTH: 70 chars
+TAGS: wisdom
+
+QUOTE 2:
+They say, “Fuck it,” not to everything in life, but rather to everything unimportant in life.
+
+LENGTH: 93 chars
+TAGS: life
+
+QUOTE 3:
+Subtlety #3: Whether you realize it or not, you are always choosing what to give a fuck about.
+
+LENGTH: 94 chars
+TAGS: wisdom
+
+QUOTE 4:
+Evil people never believe that they are evil; rather, they believe that everyone else is evil.
+
+LENGTH: 94 chars
+TAGS: life
+
+QUOTE 5:
+we, individually, are responsible for everything in our lives, no matter the external circumstances.
+
+LENGTH: 100 chars
+TAGS: wisdom
+
+QUOTE 6:
+As Freud once said, “One day, in retrospect, the years of struggle will strike you as the most beautiful.”
+
+LENGTH: 106 chars
+TAGS: wisdom
+
+--------------------------------------------------------------------------------
+
+BOOK: The Underdog Paradox: Secrets to Battling Adversity and Stories of Real Life Superheroes
+AUTHOR: Jamie Russo
+ASIN: B08Q76F2SZ
+
+QUOTE 1:
+Underdogs don’t think, “I can’t.” They think, “I’m going to prove I can.”
+
+LENGTH: 73 chars
+TAGS: thinking
+
+QUOTE 2:
+In life’s most challenging moments, we discover our greatest source of learning.
+
+LENGTH: 80 chars
+TAGS: learning, life
+
+QUOTE 3:
+Against all odds, underdogs win because they have a greater sense of commitment and a higher threshold for pain.
+
+LENGTH: 112 chars
+TAGS: success
+
+QUOTE 4:
+The purpose of setting goals is to win the game. The purpose of building systems is to continue playing the game.
+
+LENGTH: 113 chars
+TAGS: strategy, success
+
+QUOTE 5:
+When leaders establish interdependence within a group, it drives individuals to be effective in a high-performing manner.
+
+LENGTH: 121 chars
+TAGS: leadership
+
+QUOTE 6:
+Grit has two components: passion and perseverance. Passion and enthusiasm are common. Perseverance and endurance are rare.
+
+LENGTH: 122 chars
+TAGS: love
+
+--------------------------------------------------------------------------------
+
+BOOK: The Upside of Stress: Why stress is good for you (and how to get good at it)
+AUTHOR: Kelly McGonigal
+ASIN: B00RWKN8T6
+
+QUOTE 1:
+exercise here is a good place to start.
+
+LENGTH: 39 chars
+TAGS: wisdom
+YOUR NOTE: Link
+
+QUOTE 2:
+What Does It Mean to Be Good at Stress?
+
+LENGTH: 39 chars
+TAGS: wisdom
+
+QUOTE 3:
+they still view stress as more harmful than helpful.
+
+LENGTH: 52 chars
+TAGS: wisdom
+
+QUOTE 4:
+one that primes you more for self-defense than for success.
+
+LENGTH: 59 chars
+TAGS: success
+YOUR NOTE: Threat response
+
+QUOTE 5:
+The intervention did not reduce stress; it transformed stress.
+
+LENGTH: 62 chars
+TAGS: wisdom
+
+QUOTE 6:
+Consider whether you see any signs of these benefits in yourself:
+
+LENGTH: 65 chars
+TAGS: wisdom
+
+--------------------------------------------------------------------------------
+
+BOOK: The Value of Others: Understanding the Economic Model of Relationships to Get (and Keep) More of What You Want in the Sexual Marketplace
+AUTHOR: Orion Taraban
+ASIN: B0D1Q5LHNV
+
+QUOTE 1:
+Charm functions through the manipulation of hope.
+
+LENGTH: 49 chars
+TAGS: inspiration
+
+QUOTE 2:
+Pity functions through the manipulation of disgust.
+
+LENGTH: 51 chars
+TAGS: wisdom
+
+QUOTE 3:
+Authority functions through the manipulation of awe.
+
+LENGTH: 52 chars
+TAGS: wisdom
+
+QUOTE 4:
+Seduction functions through the manipulation of desire.
+
+LENGTH: 55 chars
+TAGS: wisdom
+
+QUOTE 5:
+Intimidation functions through the manipulation of fear.
+
+LENGTH: 56 chars
+TAGS: courage
+
+QUOTE 6:
+Humiliation functions through the manipulation of shame.
+
+LENGTH: 56 chars
+TAGS: wisdom
+
+--------------------------------------------------------------------------------
+
+BOOK: The Warrior Ethos
+AUTHOR: Steven Pressfield
+ASIN: B004S7JHY6
+
+QUOTE 1:
+A shame-based culture is the opposite. In a shame-based culture, “face” is everything.
+
+LENGTH: 86 chars
+TAGS: wisdom
+
+QUOTE 2:
+Honor is the psychological salary of any elite unit. Pride is the possession of honor.
+
+LENGTH: 86 chars
+TAGS: wisdom
+
+QUOTE 3:
+This is another key element of the Warrior Ethos: the willing and eager embracing of adversity.
+
+LENGTH: 95 chars
+TAGS: wisdom
+
+QUOTE 4:
+The Marine Corps is shame-based. So were the Romans, Alexander’s Macedonians and the ancient Spartans.
+
+LENGTH: 102 chars
+TAGS: wisdom
+
+QUOTE 5:
+The Spartan youth receives his shield, the paratrooper is awarded his wings, the Afghan boy is handed his AK-47.
+
+LENGTH: 112 chars
+TAGS: success
+
+QUOTE 6:
+“soft lands make soft people.” His answer became famous throughout the world: Better to live in a rugged land and rule than to cultivate rich plains and be a slave.
+
+LENGTH: 164 chars
+TAGS: life
+
+--------------------------------------------------------------------------------
+
+BOOK: The Wealth Ladder: Proven Strategies for Every Step of Your Financial Life
+AUTHOR: Nick Maggiulli
+ASIN: B0DKXPRH5X
+
+QUOTE 1:
+what makes life mean something is purpose. A goal. The battle. The struggle. Even if you don’t win it.”13
+
+LENGTH: 105 chars
+TAGS: life, strategy, success
+
+QUOTE 2:
+If increasing your income is the way up the Wealth Ladder in Level 3, then not controlling your spending is the way down.
+
+LENGTH: 121 chars
+TAGS: power
+
+QUOTE 3:
+You must be mindful of the other types of wealth in your life. That’s how you ensure that your journey up the Wealth Ladder will have been worth it.
+
+LENGTH: 148 chars
+TAGS: life, thinking
+
+QUOTE 4:
+Just go ask a lottery winner or a trust fund baby how “successful” they feel and you’ll see what I mean. You can’t find mental wealth in a bank balance.
+
+LENGTH: 152 chars
+TAGS: success
+
+QUOTE 5:
+CAPITAL SUMMARY Pros: You can build wealth more quickly by using other people’s money. Cons: Demands a specific skill set, especially in sales and emotional regulation. Heightened financial risk.
+
+LENGTH: 195 chars
+TAGS: courage, learning, life
+
+QUOTE 6:
+If I had to guess, most successful business owners in Level 5 see themselves as temporary visitors on their way to Level 6. As the saying goes, “Every senator looks in the mirror and sees a president.”
+
+LENGTH: 201 chars
+TAGS: business, success
+
+--------------------------------------------------------------------------------
+
+BOOK: The Whole-Brain Child: 12 Revolutionary Strategies to Nurture Your Child's Developing Mind
+AUTHOR: Daniel J. Siegel, Tina Payne Bryson
+ASIN: B004J4X32U
+
+QUOTE 1:
+CONCLUSION Bringing it All Together
+
+LENGTH: 35 chars
+TAGS: wisdom
+
+QUOTE 2:
+Remind kids that feelings come and go; they are temporary states, not enduring traits.
+
+LENGTH: 86 chars
+TAGS: thinking
+
+QUOTE 3:
+Mindsight practices teach children to calm themselves and focus their attention where they want.
+
+LENGTH: 96 chars
+TAGS: discipline, learning, thinking
+
+QUOTE 4:
+In this way, Doug helped his daughter name her fears and emotions so that she could then tame them.
+
+LENGTH: 99 chars
+TAGS: courage
+
+QUOTE 5:
+• SIFT: Help your children pay attention to the Sensations, Images, Feelings, and Thoughts within them.
+
+LENGTH: 103 chars
+TAGS: thinking
+
+QUOTE 6:
+The next time your children need help calming down or regaining control, look for ways to get them moving.
+
+LENGTH: 106 chars
+TAGS: power
+
+--------------------------------------------------------------------------------
+
+BOOK: The Wright Brothers
+AUTHOR: David McCullough
+ASIN: B00LD1RWP6
+
+QUOTE 1:
+“The best dividends on the labor invested have invariably come from seeking more knowledge rather than more power.”
+
+LENGTH: 115 chars
+TAGS: power, wisdom
+
+QUOTE 2:
+The hen hawk can rise faster than the buzzard and its motion is steadier. It displays less effort in maintaining its balance.
+
+LENGTH: 125 chars
+TAGS: wisdom
+YOUR NOTE: Product people need to observe, compare and take notes
+
+QUOTE 3:
+“The best dividends on the labor invested,” they said, “have invariably come from seeking more knowledge rather than more power.”
+
+LENGTH: 129 chars
+TAGS: power, wisdom
+YOUR NOTE: Brute force never works
+
+QUOTE 4:
+“Learning the secret of flight from a bird,” Orville would say, “was a good deal like learning the secret of magic from a magician.”
+
+LENGTH: 132 chars
+TAGS: learning
+
+QUOTE 5:
+Ever enterprising, incapable of remaining idle, the brothers now turned their off-hours to redoing the interior of 7 Hawthorn Street.
+
+LENGTH: 133 chars
+TAGS: wisdom
+
+QUOTE 6:
+Lilienthal had started gliding as early as 1869, and from the start he had been joined in his aviation experiments by a younger brother, which could only have given Wilbur and Orville a feeling of something in common.
+
+LENGTH: 217 chars
+TAGS: wisdom
+
+--------------------------------------------------------------------------------
+
+BOOK: Think Again: The Power of Knowing What You Don't Know
+AUTHOR: Adam Grant
+ASIN: B087ZC68VN
+
+QUOTE 1:
+If knowledge is power, knowing what we don’t know is wisdom.
+
+LENGTH: 60 chars
+TAGS: power, success, wisdom
+
+QUOTE 2:
+Who you are should be a question of what you value, not what you believe.
+
+LENGTH: 73 chars
+TAGS: leadership
+
+QUOTE 3:
+They give the critical feedback we might not want to hear, but need to hear.
+
+LENGTH: 76 chars
+TAGS: leadership
+
+QUOTE 4:
+Knowing what you don’t know is often the first step toward developing expertise.
+
+LENGTH: 80 chars
+TAGS: success
+
+QUOTE 5:
+the purpose of learning isn’t to affirm our beliefs; it’s to evolve our beliefs.
+
+LENGTH: 80 chars
+TAGS: learning
+
+QUOTE 6:
+When people have a chance to express themselves out loud, they often discover new thoughts.
+
+LENGTH: 91 chars
+TAGS: life, thinking
+
+--------------------------------------------------------------------------------
+
+BOOK: Thinking in Bets: Making Smarter Decisions When You Don't Have All the Facts
+AUTHOR: Annie Duke
+ASIN: B074DG9LQF
+
+QUOTE 1:
+Most bets are bets against ourselves
+
+LENGTH: 36 chars
+TAGS: wisdom
+
+QUOTE 2:
+“I’m not sure”: using uncertainty to our advantage
+
+LENGTH: 50 chars
+TAGS: wisdom
+
+QUOTE 3:
+being wrong hurts us more than being right feels good.
+
+LENGTH: 54 chars
+TAGS: wisdom
+
+QUOTE 4:
+We can’t just “absorb” experiences and expect to learn.
+
+LENGTH: 55 chars
+TAGS: learning
+
+QUOTE 5:
+Quick or dead: our brains weren’t built for rationality
+
+LENGTH: 55 chars
+TAGS: wisdom
+
+QUOTE 6:
+We can work to change the bell we ring, substituting what makes us salivate.
+
+LENGTH: 76 chars
+TAGS: wisdom
+
+--------------------------------------------------------------------------------
+
+BOOK: Tribe of Mentors: Short Life Advice from the Best in the World
+AUTHOR: Timothy Ferriss
+ASIN: B071KJ7PTB
+
+QUOTE 1:
+City of Thieves by David Benioff
+
+LENGTH: 32 chars
+TAGS: wisdom
+
+QUOTE 2:
+All I know is what worked for me.
+
+LENGTH: 33 chars
+TAGS: wisdom
+
+QUOTE 3:
+and nationals in wrestling, feeling
+
+LENGTH: 35 chars
+TAGS: wisdom
+
+QUOTE 4:
+“If you set your goals ridiculously
+
+LENGTH: 35 chars
+TAGS: strategy
+
+QUOTE 5:
+that exceed the rate of metabolism in
+
+LENGTH: 37 chars
+TAGS: wisdom
+
+QUOTE 6:
+Awaken the Giant Within by Tony Robbins
+
+LENGTH: 39 chars
+TAGS: wisdom
+
+--------------------------------------------------------------------------------
+
+BOOK: Turning the Flywheel: A Monograph to Accompany Good to Great
+AUTHOR: Jim Collins
+ASIN: B07JFT5G7N
+
+QUOTE 1:
+Productive change begins when you have the discipline to confront the brutal facts.
+
+LENGTH: 83 chars
+TAGS: business, discipline
+
+QUOTE 2:
+step 5: Enhance the school’s reputation, not just for results but also as a great place to teach.
+
+LENGTH: 97 chars
+TAGS: learning
+
+QUOTE 3:
+You’ll find the flywheel effect in the most successful long-term investors and in the most impactful philanthropists.
+
+LENGTH: 117 chars
+TAGS: success
+
+QUOTE 4:
+One of the biggest, and most common, strategic mistakes lies in failing to aggressively and persistently make the most of victories.
+
+LENGTH: 132 chars
+TAGS: business
+
+QUOTE 5:
+whether business or social, you must achieve top-flight results. To use an analogy, if you’re a sports team, you must win championships;
+
+LENGTH: 136 chars
+TAGS: business, leadership, success
+
+QUOTE 6:
+In studying the horrifying fall of once-great companies, we see them abandoning the key principles that made them great in the first place.
+
+LENGTH: 139 chars
+TAGS: wisdom
+
+--------------------------------------------------------------------------------
+
+BOOK: What You Do Is Who You Are: How to Create Your Business Culture
+AUTHOR: Ben Horowitz
+ASIN: B07NVN4QCM
+
+QUOTE 1:
+disagree and commit.
+
+LENGTH: 20 chars
+TAGS: business
+
+QUOTE 2:
+What you measure is what you value.
+
+LENGTH: 35 chars
+TAGS: business
+
+QUOTE 3:
+You must start from first principles.
+
+LENGTH: 37 chars
+TAGS: wisdom
+
+QUOTE 4:
+Your own perspective on the culture is not that relevant.
+
+LENGTH: 57 chars
+TAGS: business
+
+QUOTE 5:
+(qualifying the buyer by validating their need and budget;
+
+LENGTH: 58 chars
+TAGS: business
+
+QUOTE 6:
+Ultimately, loyalty is about the quality of your relationships.
+
+LENGTH: 63 chars
+TAGS: business
+
+--------------------------------------------------------------------------------
+
+BOOK: When Breath Becomes Air
+AUTHOR: Paul Kalanithi
+ASIN: B0165X8WN2
+
+QUOTE 1:
+What happened to Paul was tragic, but he was not a tragedy.
+
+LENGTH: 59 chars
+TAGS: wisdom
+
+QUOTE 2:
+Death may be a one-time event, but living with terminal illness is a process.
+
+LENGTH: 77 chars
+TAGS: life
+
+QUOTE 3:
+If the unexamined life was not worth living, was the unlived life worth examining?
+
+LENGTH: 82 chars
+TAGS: life
+
+QUOTE 4:
+For much of his life, Paul wondered about death—and whether he could face it with integrity. In the end, the answer was yes.
+
+LENGTH: 124 chars
+TAGS: life
+
+QUOTE 5:
+Paul is gone, and I miss him acutely nearly every moment, but I somehow feel I’m still taking part in the life we created together.
+
+LENGTH: 131 chars
+TAGS: creativity, life
+
+QUOTE 6:
+Years ago, it had occurred to me that Darwin and Nietzsche agreed on one thing: the defining characteristic of the organism is striving.
+
+LENGTH: 136 chars
+TAGS: success
+
+--------------------------------------------------------------------------------
+
+BOOK: Why I Write (Orwell's Essays Book 1)
+AUTHOR: George Orwell
+ASIN: B08S1ZQ856
+
+QUOTE 1:
+(iii) Historical impulse: Desire to see things as they are, to find out true facts and store them up for the use of posterity.
+
+LENGTH: 126 chars
+TAGS: wisdom
+
+QUOTE 2:
+(ii) Aesthetic enthusiasm: Perception of beauty in the external world, or, on the other hand, in words and their right arrangement.
+
+LENGTH: 131 chars
+TAGS: wisdom
+
+QUOTE 3:
+(i) Sheer egoism: Desire to seem clever, to be talked about, to be remembered after death, to get your own back on the grown-ups who snubbed you in childhood, etc., etc.
+
+LENGTH: 169 chars
+TAGS: communication
+
+QUOTE 4:
+(iv) Political purpose (using the word ‘political’ in the widest possible sense): Desire to push the world in a certain direction, to alter other people’s idea of the kind of society that they should strive after.
+
+LENGTH: 213 chars
+TAGS: life, thinking
+
+QUOTE 5:
+looking back through my work, I see that it is invariably where I lacked a political purpose that I wrote lifeless books and was betrayed into purple passages, sentences without meaning, decorative adjectives and humbug generally.
+
+LENGTH: 230 chars
+TAGS: life, reading
+
+QUOTE 6:
+Putting aside the need to earn a living, I think there are four great motives for writing – at any rate, for writing prose. They exist in different degrees in every writer, and in any one writer the proportions will vary from time to time, according to the atmosphere in which he is living.
+
+LENGTH: 290 chars
+TAGS: life, thinking
+
+--------------------------------------------------------------------------------
+
+BOOK: Will
+AUTHOR: Will Smith and Mark Manson
+ASIN: B093PF9F5G
+
+QUOTE 1:
+I think the corporal punishment of my childhood just convinced me I was bad.
+
+LENGTH: 76 chars
+TAGS: thinking
+
+QUOTE 2:
+It’s respectable to lose to the universe. It’s a tragedy to lose to yourself.
+
+LENGTH: 77 chars
+TAGS: wisdom
+
+QUOTE 3:
+I read Chödrön’s How to Meditate: A Practical Guide to Making Friends with Your Mind.
+
+LENGTH: 85 chars
+TAGS: reading, thinking
+
+QUOTE 4:
+The bigger the fantasy you live, the more painful the inevitable collision with reality.
+
+LENGTH: 88 chars
+TAGS: wisdom
+
+QUOTE 5:
+How we decide to respond to our fears, that is the person we become. I decided to be funny.
+
+LENGTH: 91 chars
+TAGS: courage, decision
+
+QUOTE 6:
+And it dawned on me, If I don’t want to be with me, why the fuck would anybody else wanna be with me?
+
+LENGTH: 101 chars
+TAGS: wisdom
+
+--------------------------------------------------------------------------------
+
+BOOK: Working Backwards: Insights, Stories, and Secrets from Inside Amazon
+AUTHOR: Colin Bryar and Bill Carr
+ASIN: B08BYCQBZN
+
+QUOTE 1:
+Introduction to Part Two
+
+LENGTH: 24 chars
+TAGS: wisdom
+
+QUOTE 2:
+Amazon’s Leadership Principles
+
+LENGTH: 30 chars
+TAGS: leadership, wisdom
+
+QUOTE 3:
+Appendix A Interview Feedback Examples
+
+LENGTH: 38 chars
+TAGS: wisdom
+
+QUOTE 4:
+Six-Pagers Vary in Structure and Content
+
+LENGTH: 40 chars
+TAGS: reading
+
+QUOTE 5:
+Conclusion Being Amazonian Beyond Amazon
+
+LENGTH: 40 chars
+TAGS: wisdom
+
+QUOTE 6:
+2 Hiring Amazon’s Unique Bar Raiser Process
+
+LENGTH: 43 chars
+TAGS: wisdom
+
+--------------------------------------------------------------------------------
+
+BOOK: Write Useful Books: A modern approach to designing and refining recommendable nonfiction
+AUTHOR: Rob Fitzpatrick und Adam  Rosen
+ASIN: B0983HFQX7
+
+QUOTE 1:
+Self-publishing checklist
+
+LENGTH: 25 chars
+TAGS: wisdom
+
+QUOTE 2:
+Improve your book before you’ve written it
+
+LENGTH: 42 chars
+TAGS: reading
+
+QUOTE 3:
+Make a clear promise and put it on the cover
+
+LENGTH: 44 chars
+TAGS: wisdom
+
+QUOTE 4:
+Three helpful lines of questioning to strengthen your scope:
+
+LENGTH: 60 chars
+TAGS: courage
+
+QUOTE 5:
+As a book, the restructured Reader Experience now looks like this:
+
+LENGTH: 66 chars
+TAGS: reading
+
+QUOTE 6:
+You want insights into their life, not opinions about your idea.[7]
+
+LENGTH: 67 chars
+TAGS: life, thinking
+
+--------------------------------------------------------------------------------
+
+BOOK: Writing on Purpose: An Essential Guide to Writing a Book That Matters
+AUTHOR: Sara Stibitz and Faith Smith-Place
+ASIN: B0DVMWQ9BC
+
+QUOTE 1:
+Part 1 foundation work
+
+LENGTH: 22 chars
+TAGS: wisdom
+
+QUOTE 2:
+In Part 2, we'll help you create your teaching frameworks and book structures.
+
+LENGTH: 78 chars
+TAGS: creativity, learning, reading
+
+QUOTE 3:
+We'll talk about motives and goals, publishing paths, audiences, and the premise and promise of your book.
+
+LENGTH: 106 chars
+TAGS: communication, reading, strategy
+
+QUOTE 4:
+In Part 3, we'll talk about how to navigate the creative journey by setting reasonable goals, creating a workable writing plan, and busting through creative blocks.
+
+LENGTH: 164 chars
+TAGS: communication, creativity, strategy
+
+QUOTE 5:
+This book is meant for those writing nonfiction books with the goal of sharing life experiences (via memoir) or knowledge and wisdom about a specific topic (via how-to, self-help, education, etc.).
+
+LENGTH: 197 chars
+TAGS: learning, life, reading
+
+QUOTE 6:
+When you’re studied in multiple areas, you can help your reader learn by making connections between concepts they may never have considered before. That confluence is where creativity, deep learning, and understanding take place.
+
+LENGTH: 229 chars
+TAGS: learning, reading, wisdom
+
+--------------------------------------------------------------------------------
+
