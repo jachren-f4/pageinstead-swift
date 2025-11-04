@@ -3,39 +3,88 @@ import FamilyControls
 
 struct ContentView: View {
     @ObservedObject private var screenTimeService = ScreenTimeService.shared
+    @ObservedObject private var restrictionManager = SelfRestrictionManager.shared
     @State private var isAuthorizing = false
+    @State private var selectedTab = 0
+    @State private var showingLockedAlert = false
+    @State private var showingPasscodeEntry = false
+    @State private var showOnboarding = false
+    @Environment(\.scenePhase) private var scenePhase
 
     var body: some View {
         if #available(iOS 16.0, *) {
-            if screenTimeService.isAuthorized {
-                // Show main app interface
-                TabView {
-                    // Current Quote - The hero feature
-                    CurrentQuoteView()
-                        .tabItem {
-                            Label("Current Quote", systemImage: "quote.bubble.fill")
+            if showOnboarding {
+                // Show onboarding flow
+                OnboardingCoordinator(showOnboarding: $showOnboarding)
+            } else if screenTimeService.isAuthorized {
+                // Show main app interface with custom Liquid Glass tab bar
+                LiquidGlassTabContainer(
+                    selectedTab: $selectedTab,
+                    items: [
+                        TabBarItem(id: 0, icon: "quote.bubble.fill", label: "Quote"),
+                        TabBarItem(id: 1, icon: "shield.fill", label: "Groups"),
+                        TabBarItem(id: 2, icon: "book.fill", label: "Books"),
+                        TabBarItem(id: 3, icon: "clock.arrow.circlepath", label: "History"),
+                        TabBarItem(id: 4, icon: "gearshape.fill", label: "Settings")
+                    ]
+                ) { tab in
+                    // Display content based on selected tab
+                    Group {
+                        switch tab {
+                        case 0:
+                            CurrentQuoteView()
+                        case 1:
+                            AppGroupsListView()
+                        case 2:
+                            BooksView()
+                        case 3:
+                            QuoteHistoryView()
+                        case 4:
+                            SettingsView(showOnboarding: $showOnboarding)
+                        default:
+                            CurrentQuoteView()
                         }
-                        .toolbarBackground(.ultraThinMaterial, for: .tabBar)
-
-                    AppSelectionView()
-                        .tabItem {
-                            Label("Block Apps", systemImage: "shield")
-                        }
-                        .toolbarBackground(.ultraThinMaterial, for: .tabBar)
-
-                    BooksPlaceholderView()
-                        .tabItem {
-                            Label("Books", systemImage: "book")
-                        }
-                        .toolbarBackground(.ultraThinMaterial, for: .tabBar)
-
-                    QuoteHistoryView()
-                        .tabItem {
-                            Label("History", systemImage: "clock.arrow.circlepath")
-                        }
-                        .toolbarBackground(.ultraThinMaterial, for: .tabBar)
+                    }
                 }
-                .tint(.blue)
+                .onChange(of: selectedTab) { newValue in
+                    // Check if tabs are locked and trying to navigate away from Current Quote
+                    if newValue != 0 {
+                        // Check timer lock first
+                        if restrictionManager.areTabsLocked() {
+                            selectedTab = 0
+                            showingLockedAlert = true
+                            return
+                        }
+
+                        // Check passcode lock
+                        if restrictionManager.isNavigationLockedByPasscode() {
+                            selectedTab = 0
+                            showingPasscodeEntry = true
+                            return
+                        }
+                    }
+                }
+                .alert("Lock Timer Enabled", isPresented: $showingLockedAlert) {
+                    Button("OK", role: .cancel) { }
+                } message: {
+                    Text("Navigation is locked. Time remaining: \(restrictionManager.formattedTimeRemaining())")
+                }
+                .sheet(isPresented: $showingPasscodeEntry) {
+                    PasscodeEntryView(isPresented: $showingPasscodeEntry) {
+                        // Passcode verified successfully
+                        // Navigation is now unlocked for this session
+                    }
+                }
+                .onAppear {
+                    restrictionManager.onAppLaunch()
+                }
+                .onChange(of: scenePhase) { newPhase in
+                    if newPhase == .active {
+                        // Refresh shields when app becomes active
+                        // This picks up any unlocks that happened in ShieldAction extension
+                        screenTimeService.refreshShields()
+                    }
+                }
             } else {
                 // Show authorization screen
                 AuthorizationView(isAuthorizing: $isAuthorizing)
