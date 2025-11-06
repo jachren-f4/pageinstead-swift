@@ -49,13 +49,15 @@ xcodebuild -project PageInstead.xcodeproj -scheme PageInstead \
 - **Book descriptions**: 4-line descriptions with book info (cover, title, author, category tags)
 
 ### Restrictions
-- **Timer lock**: 5-120s on app launch
+- **Timer lock**: 5-120s countdown when accessing lock button or Settings
+  - On completion: 0.3s delay → passcode check → navigate to destination
 - **Passcode lock**: 4-digit PIN + Keychain storage
 
 ### Onboarding
 - **11-screen guided setup** with automatic trigger for new users
 - **Mandatory app selection** on Screen 8 (no skip option)
 - **SwiftUI permission dialog mockup** with animated arrow indicator
+- **Direct to main screen**: Skips authorization screen after install, goes straight to quote screen
 - Reset via Settings → Development → "Reset & Show Onboarding"
 
 ### Design

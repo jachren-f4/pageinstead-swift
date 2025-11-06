@@ -136,9 +136,24 @@
 ## Self-Restriction
 
 ### Timer Lock
-- Triggers on app launch (`ContentView.onAppear`)
+- Triggers when user taps lock button or Settings tab (NOT on app launch)
 - Locks all tabs except Current Quote (tab 0)
 - Simulator: bypassed automatically
+- **Timer completion navigation**:
+  - **ALWAYS** add `onTimerComplete` callback to `TimerLockSheet`
+  - **MUST** include 0.3s delay before navigation (`DispatchQueue.main.asyncAfter`)
+  - Pattern:
+    ```swift
+    onTimerComplete: {
+        if restrictionManager.isNavigationLockedByPasscode() {
+            showPasscodeEntry = true
+        } else {
+            // Navigate to destination
+        }
+    }
+    ```
+  - Both lock button (CurrentQuoteView) and Settings tab (ContentView) need separate implementations
+  - Location: `PageInstead/Core/DesignSystem/Components/TimerLockSheet.swift`
 
 ### Passcode Lock
 - **4 digits** (not 6) - `maxLength = 4`
@@ -184,6 +199,7 @@
 - **Provisioning**: Check entitlements match requirements
 - **Screen Time simulator**: Use `#if targetEnvironment(simulator)` bypass
 - **StreakService not found in monitor**: Add StreakService.swift to DeviceActivityMonitor target
+- **Authorization screen shows**: App goes directly to main interface (no auth screen)
 
 ### Glass UI
 - **Borders inconsistent**: Use 0.2 opacity (not 0.08 or gradient)
