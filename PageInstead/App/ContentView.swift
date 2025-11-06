@@ -4,7 +4,6 @@ import FamilyControls
 struct ContentView: View {
     @ObservedObject private var screenTimeService = ScreenTimeService.shared
     @ObservedObject private var restrictionManager = SelfRestrictionManager.shared
-    @State private var isAuthorizing = false
     @State private var selectedTab = 0
     @State private var showingTimerLockSheet = false
     @State private var showingPasscodeEntry = false
@@ -22,7 +21,7 @@ struct ContentView: View {
             if showOnboarding {
                 // Show onboarding flow
                 OnboardingCoordinator(showOnboarding: $showOnboarding)
-            } else if screenTimeService.isAuthorized {
+            } else {
                 // Show main app interface with native iOS 18 TabView
                 // iOS 18+ automatically applies liquid glass styling to TabView
                 TabView(selection: $selectedTab) {
@@ -105,9 +104,6 @@ struct ContentView: View {
                         screenTimeService.refreshShields()
                     }
                 }
-            } else {
-                // Show authorization screen
-                AuthorizationView(isAuthorizing: $isAuthorizing)
             }
         } else {
             // iOS 15 and below not supported
