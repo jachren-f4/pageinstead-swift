@@ -15,7 +15,11 @@
         "leadership"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about Elon Musk's relentless innovation through triumphs and turmoil"
+      "bookDescription": "Book about Elon Musk's relentless innovation through triumphs and turmoil",
+      "categories": [
+        "Business & Leadership",
+        "Self-help & Growth"
+      ]
     },
     {
       "id": 2,
@@ -30,7 +34,11 @@
         "success"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about Phil Jackson's mindful leadership philosophy for winning championships"
+      "bookDescription": "Book about Phil Jackson's mindful leadership philosophy for winning championships",
+      "categories": [
+        "Business & Leadership",
+        "Philosophy & Mindfulness"
+      ]
     },
     {
       "id": 3,
@@ -45,7 +53,11 @@
         "life"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about spending wealth on life experiences instead of inheritance"
+      "bookDescription": "Book about spending wealth on life experiences instead of inheritance",
+      "categories": [
+        "Philosophy & Mindfulness",
+        "Self-help & Growth"
+      ]
     },
     {
       "id": 4,
@@ -62,7 +74,11 @@
         "wisdom"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about doing creative work by shipping art and trusting"
+      "bookDescription": "Book about doing creative work by shipping art and trusting",
+      "categories": [
+        "Creativity & Art",
+        "Self-help & Growth"
+      ]
     },
     {
       "id": 5,
@@ -77,7 +93,11 @@
         "success"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about Angela Merkel's transformative leadership in modern European politics"
+      "bookDescription": "Book about Angela Merkel's transformative leadership in modern European politics",
+      "categories": [
+        "Business & Leadership",
+        "Women's Empowerment"
+      ]
     },
     {
       "id": 6,
@@ -92,7 +112,11 @@
         "reading"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about aviation pioneers who achieved humanity's first powered flight"
+      "bookDescription": "Book about aviation pioneers who achieved humanity's first powered flight",
+      "categories": [
+        "Classics & Literature",
+        "Business & Leadership"
+      ]
     },
     {
       "id": 7,
@@ -107,7 +131,11 @@
         "learning"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about achieving peak performance by quieting your inner critic"
+      "bookDescription": "Book about achieving peak performance by quieting your inner critic",
+      "categories": [
+        "Self-help & Growth",
+        "Psychology & Relationships"
+      ]
     },
     {
       "id": 8,
@@ -124,7 +152,10 @@
         "wisdom"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about playing life as infinite game for continuation"
+      "bookDescription": "Book about playing life as infinite game for continuation",
+      "categories": [
+        "Philosophy & Mindfulness"
+      ]
     },
     {
       "id": 9,
@@ -139,7 +170,11 @@
         "thinking"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about unconventional wealth building from entrepreneur Felix Dennis's experience"
+      "bookDescription": "Book about unconventional wealth building from entrepreneur Felix Dennis's experience",
+      "categories": [
+        "Business & Leadership",
+        "Self-help & Growth"
+      ]
     },
     {
       "id": 10,
@@ -154,7 +189,10 @@
         "wisdom"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about creating purpose-driven self-managing organizations with new principles"
+      "bookDescription": "Book about creating purpose-driven self-managing organizations with new principles",
+      "categories": [
+        "Business & Leadership"
+      ]
     },
     {
       "id": 11,
@@ -169,7 +207,11 @@
         "wisdom"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about dating advice focusing on honesty vulnerability and authentic attraction principles"
+      "bookDescription": "Book about dating advice focusing on honesty vulnerability and authentic attraction principles",
+      "categories": [
+        "Psychology & Relationships",
+        "Self-help & Growth"
+      ]
     },
     {
       "id": 12,
@@ -184,7 +226,11 @@
         "success"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about rare unpredictable events shape history more than ordinary occurrences"
+      "bookDescription": "Book about rare unpredictable events shape history more than ordinary occurrences",
+      "categories": [
+        "Philosophy & Mindfulness",
+        "Business & Leadership"
+      ]
     },
     {
       "id": 13,
@@ -199,7 +245,11 @@
         "wisdom"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about neuroscience-based strategies for raising emotionally intelligent resilient children daily"
+      "bookDescription": "Book about neuroscience-based strategies for raising emotionally intelligent resilient children daily",
+      "categories": [
+        "Psychology & Relationships",
+        "Self-help & Growth"
+      ]
     },
     {
       "id": 14,
@@ -214,7 +264,11 @@
         "wisdom"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about science-backed strategies for extending lifespan and improving healthspan significantly today"
+      "bookDescription": "Book about science-backed strategies for extending lifespan and improving healthspan significantly today",
+      "categories": [
+        "Science & Nature",
+        "Self-help & Growth"
+      ]
     },
     {
       "id": 15,
@@ -231,7 +285,11 @@
         "love"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about how to use wealth wisely for happiness purpose fulfillment"
+      "bookDescription": "Book about how to use wealth wisely for happiness purpose fulfillment",
+      "categories": [
+        "Business & Leadership",
+        "Philosophy & Mindfulness"
+      ]
     },
     {
       "id": 16,
@@ -247,7 +305,10 @@
         "courage"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about venture capital's exponential returns drive innovation and startup ecosystem growth"
+      "bookDescription": "Book about venture capital's exponential returns drive innovation and startup ecosystem growth",
+      "categories": [
+        "Business & Leadership"
+      ]
     },
     {
       "id": 17,
@@ -263,7 +324,11 @@
         "strategy"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about reverse engineering success by studying and replicating expert performance patterns"
+      "bookDescription": "Book about reverse engineering success by studying and replicating expert performance patterns",
+      "categories": [
+        "Self-help & Growth",
+        "Productivity & Focus"
+      ]
     },
     {
       "id": 18,
@@ -278,7 +343,11 @@
         "life"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about focus on single most important task eliminates distractions drives success"
+      "bookDescription": "Book about focus on single most important task eliminates distractions drives success",
+      "categories": [
+        "Productivity & Focus",
+        "Self-help & Growth"
+      ]
     },
     {
       "id": 19,
@@ -294,7 +363,11 @@
         "thinking"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about ten ways to stay creative focused in good and bad"
+      "bookDescription": "Book about ten ways to stay creative focused in good and bad",
+      "categories": [
+        "Creativity & Art",
+        "Self-help & Growth"
+      ]
     },
     {
       "id": 20,
@@ -309,7 +382,11 @@
         "life"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about philosophical guide to finding meaning purpose during middle age transitions"
+      "bookDescription": "Book about philosophical guide to finding meaning purpose during middle age transitions",
+      "categories": [
+        "Philosophy & Mindfulness",
+        "Psychology & Relationships"
+      ]
     },
     {
       "id": 21,
@@ -325,7 +402,11 @@
         "thinking"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about orwell's essays on political writing language truth and literary craft"
+      "bookDescription": "Book about orwell's essays on political writing language truth and literary craft",
+      "categories": [
+        "Creativity & Art",
+        "Classics & Literature"
+      ]
     },
     {
       "id": 22,
@@ -340,7 +421,11 @@
         "wisdom"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about generalists triumph in specialized world through diverse experience and perspective"
+      "bookDescription": "Book about generalists triumph in specialized world through diverse experience and perspective",
+      "categories": [
+        "Self-help & Growth",
+        "Productivity & Focus"
+      ]
     },
     {
       "id": 23,
@@ -355,7 +440,10 @@
         "wisdom"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about Alex Ferguson's leadership lessons from managing Manchester United to greatness"
+      "bookDescription": "Book about Alex Ferguson's leadership lessons from managing Manchester United to greatness",
+      "categories": [
+        "Business & Leadership"
+      ]
     },
     {
       "id": 24,
@@ -370,7 +458,11 @@
         "learning"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about focused concentration produces valuable work in distracted world achieving excellence"
+      "bookDescription": "Book about focused concentration produces valuable work in distracted world achieving excellence",
+      "categories": [
+        "Productivity & Focus",
+        "Self-help & Growth"
+      ]
     },
     {
       "id": 25,
@@ -385,7 +477,11 @@
         "reading"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about neuroscience reveals why stories captivate brains and change minds effectively"
+      "bookDescription": "Book about neuroscience reveals why stories captivate brains and change minds effectively",
+      "categories": [
+        "Creativity & Art",
+        "Science & Nature"
+      ]
     },
     {
       "id": 26,
@@ -401,7 +497,11 @@
         "success"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about overcome upper limit problem to achieve your full potential"
+      "bookDescription": "Book about overcome upper limit problem to achieve your full potential",
+      "categories": [
+        "Self-help & Growth",
+        "Psychology & Relationships"
+      ]
     },
     {
       "id": 27,
@@ -418,7 +518,11 @@
         "thinking"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about practical framework for writing meaningful content with clarity and intention"
+      "bookDescription": "Book about practical framework for writing meaningful content with clarity and intention",
+      "categories": [
+        "Creativity & Art",
+        "Business & Leadership"
+      ]
     },
     {
       "id": 28,
@@ -433,7 +537,11 @@
         "business"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about Tony Fadell's lessons building iPod iPhone Nest and revolutionary products"
+      "bookDescription": "Book about Tony Fadell's lessons building iPod iPhone Nest and revolutionary products",
+      "categories": [
+        "Business & Leadership",
+        "Creativity & Art"
+      ]
     },
     {
       "id": 29,
@@ -449,7 +557,11 @@
         "wisdom"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about classic principles for building relationships and influencing others positively daily"
+      "bookDescription": "Book about classic principles for building relationships and influencing others positively daily",
+      "categories": [
+        "Psychology & Relationships",
+        "Self-help & Growth"
+      ]
     },
     {
       "id": 30,
@@ -464,7 +576,11 @@
         "wisdom"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about reset brain's reward system by eliminating overstimulation and distractions"
+      "bookDescription": "Book about reset brain's reward system by eliminating overstimulation and distractions",
+      "categories": [
+        "Self-help & Growth",
+        "Productivity & Focus"
+      ]
     },
     {
       "id": 31,
@@ -479,7 +595,10 @@
         "strategy"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about understanding interpersonal dynamics relationships and human behavior patterns clearly"
+      "bookDescription": "Book about understanding interpersonal dynamics relationships and human behavior patterns clearly",
+      "categories": [
+        "Psychology & Relationships"
+      ]
     },
     {
       "id": 32,
@@ -495,7 +614,11 @@
         "strategy"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about blueprint for writing profitable books that generate sustainable income streams"
+      "bookDescription": "Book about blueprint for writing profitable books that generate sustainable income streams",
+      "categories": [
+        "Business & Leadership",
+        "Creativity & Art"
+      ]
     },
     {
       "id": 33,
@@ -511,7 +634,11 @@
         "reading"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about practical guide for creating helpful books readers actually want badly"
+      "bookDescription": "Book about practical guide for creating helpful books readers actually want badly",
+      "categories": [
+        "Creativity & Art",
+        "Business & Leadership"
+      ]
     },
     {
       "id": 34,
@@ -526,7 +653,10 @@
         "business"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about culture defines organizations more than strategy statements or mission values"
+      "bookDescription": "Book about culture defines organizations more than strategy statements or mission values",
+      "categories": [
+        "Business & Leadership"
+      ]
     },
     {
       "id": 35,
@@ -543,7 +673,11 @@
         "love"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about self-discipline unlocks potential controls fate builds lasting success daily"
+      "bookDescription": "Book about self-discipline unlocks potential controls fate builds lasting success daily",
+      "categories": [
+        "Philosophy & Mindfulness",
+        "Self-help & Growth"
+      ]
     },
     {
       "id": 36,
@@ -560,7 +694,11 @@
         "strategy"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about wealth management depends more on behavior than knowledge or intelligence"
+      "bookDescription": "Book about wealth management depends more on behavior than knowledge or intelligence",
+      "categories": [
+        "Business & Leadership",
+        "Psychology & Relationships"
+      ]
     },
     {
       "id": 37,
@@ -576,7 +714,11 @@
         "life"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about simple evidence-based wealth-building through consistent investing over time"
+      "bookDescription": "Book about simple evidence-based wealth-building through consistent investing over time",
+      "categories": [
+        "Business & Leadership",
+        "Self-help & Growth"
+      ]
     },
     {
       "id": 38,
@@ -591,7 +733,11 @@
         "wisdom"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about asynchronous communication boosts productivity reduces stress increases deep work"
+      "bookDescription": "Book about asynchronous communication boosts productivity reduces stress increases deep work",
+      "categories": [
+        "Productivity & Focus",
+        "Business & Leadership"
+      ]
     },
     {
       "id": 39,
@@ -607,7 +753,11 @@
         "life"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about redefining work beyond hustle culture for sustainable fulfilling career"
+      "bookDescription": "Book about redefining work beyond hustle culture for sustainable fulfilling career",
+      "categories": [
+        "Business & Leadership",
+        "Self-help & Growth"
+      ]
     },
     {
       "id": 40,
@@ -622,7 +772,10 @@
         "business"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about successful companies fail by ignoring disruptive innovations from below"
+      "bookDescription": "Book about successful companies fail by ignoring disruptive innovations from below",
+      "categories": [
+        "Business & Leadership"
+      ]
     },
     {
       "id": 41,
@@ -638,7 +791,10 @@
         "wisdom"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about research on companies that transformed from mediocrity to sustained excellence"
+      "bookDescription": "Book about research on companies that transformed from mediocrity to sustained excellence",
+      "categories": [
+        "Business & Leadership"
+      ]
     },
     {
       "id": 42,
@@ -653,7 +809,11 @@
         "thinking"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about biography of Charlie Munger's wisdom investing philosophy and life principles"
+      "bookDescription": "Book about biography of Charlie Munger's wisdom investing philosophy and life principles",
+      "categories": [
+        "Business & Leadership",
+        "Philosophy & Mindfulness"
+      ]
     },
     {
       "id": 43,
@@ -668,7 +828,10 @@
         "wisdom"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about inside story of cryptocurrency culture hype and speculative mania"
+      "bookDescription": "Book about inside story of cryptocurrency culture hype and speculative mania",
+      "categories": [
+        "Business & Leadership"
+      ]
     },
     {
       "id": 44,
@@ -685,7 +848,10 @@
         "wisdom"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about amazon's innovative principles for customer-obsessed product development and leadership"
+      "bookDescription": "Book about amazon's innovative principles for customer-obsessed product development and leadership",
+      "categories": [
+        "Business & Leadership"
+      ]
     },
     {
       "id": 45,
@@ -700,7 +866,10 @@
         "leadership"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about balance competing leadership principles for effective team management success"
+      "bookDescription": "Book about balance competing leadership principles for effective team management success",
+      "categories": [
+        "Business & Leadership"
+      ]
     },
     {
       "id": 46,
@@ -716,7 +885,11 @@
         "wisdom"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about counterintuitive approach to living good life by caring less"
+      "bookDescription": "Book about counterintuitive approach to living good life by caring less",
+      "categories": [
+        "Self-help & Growth",
+        "Philosophy & Mindfulness"
+      ]
     },
     {
       "id": 47,
@@ -731,7 +904,11 @@
         "courage"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about redefining masculinity through vulnerability authenticity and emotional growth honestly"
+      "bookDescription": "Book about redefining masculinity through vulnerability authenticity and emotional growth honestly",
+      "categories": [
+        "Psychology & Relationships",
+        "Self-help & Growth"
+      ]
     },
     {
       "id": 48,
@@ -746,7 +923,11 @@
         "thinking"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about inner peace and stillness unlock clarity performance and wisdom"
+      "bookDescription": "Book about inner peace and stillness unlock clarity performance and wisdom",
+      "categories": [
+        "Philosophy & Mindfulness",
+        "Self-help & Growth"
+      ]
     },
     {
       "id": 49,
@@ -761,7 +942,11 @@
         "courage"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about living regret-free by aligning daily actions with personal values"
+      "bookDescription": "Book about living regret-free by aligning daily actions with personal values",
+      "categories": [
+        "Self-help & Growth",
+        "Philosophy & Mindfulness"
+      ]
     },
     {
       "id": 50,
@@ -777,7 +962,11 @@
         "thinking"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about zettelkasten note-taking system for better thinking writing and learning"
+      "bookDescription": "Book about zettelkasten note-taking system for better thinking writing and learning",
+      "categories": [
+        "Productivity & Focus",
+        "Self-help & Growth"
+      ]
     },
     {
       "id": 51,
@@ -792,7 +981,11 @@
         "wisdom"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about emotional intelligence guide for understanding and managing feelings effectively daily"
+      "bookDescription": "Book about emotional intelligence guide for understanding and managing feelings effectively daily",
+      "categories": [
+        "Psychology & Relationships",
+        "Self-help & Growth"
+      ]
     },
     {
       "id": 52,
@@ -809,7 +1002,11 @@
         "thinking"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about neurosurgeon faces death reflects on life meaning mortality beautifully"
+      "bookDescription": "Book about neurosurgeon faces death reflects on life meaning mortality beautifully",
+      "categories": [
+        "Philosophy & Mindfulness",
+        "Spirituality & Meaning"
+      ]
     },
     {
       "id": 53,
@@ -825,7 +1022,11 @@
         "strategy"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about historical strategies for gaining maintaining and defending power effectively"
+      "bookDescription": "Book about historical strategies for gaining maintaining and defending power effectively",
+      "categories": [
+        "Business & Leadership",
+        "Psychology & Relationships"
+      ]
     },
     {
       "id": 54,
@@ -840,7 +1041,10 @@
         "wisdom"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about disciplined consistency beats genius in uncertain chaotic business environments"
+      "bookDescription": "Book about disciplined consistency beats genius in uncertain chaotic business environments",
+      "categories": [
+        "Business & Leadership"
+      ]
     },
     {
       "id": 55,
@@ -855,7 +1059,11 @@
         "communication"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about individual uniqueness matters more than statistical averages in design"
+      "bookDescription": "Book about individual uniqueness matters more than statistical averages in design",
+      "categories": [
+        "Psychology & Relationships",
+        "Science & Nature"
+      ]
     },
     {
       "id": 56,
@@ -870,7 +1078,11 @@
         "business"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about how illogical ideas create disproportionate value in business and marketing"
+      "bookDescription": "Book about how illogical ideas create disproportionate value in business and marketing",
+      "categories": [
+        "Business & Leadership",
+        "Creativity & Art"
+      ]
     },
     {
       "id": 57,
@@ -887,7 +1099,11 @@
         "reading"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about respectful parenting builds responsibility cooperation through encouragement not punishment"
+      "bookDescription": "Book about respectful parenting builds responsibility cooperation through encouragement not punishment",
+      "categories": [
+        "Psychology & Relationships",
+        "Self-help & Growth"
+      ]
     },
     {
       "id": 58,
@@ -902,7 +1118,10 @@
         "business"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about warren Buffett's biography reveals investing wisdom and personal life journey"
+      "bookDescription": "Book about warren Buffett's biography reveals investing wisdom and personal life journey",
+      "categories": [
+        "Business & Leadership"
+      ]
     },
     {
       "id": 59,
@@ -917,7 +1136,11 @@
         "wisdom"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about creative partnerships drive innovation more than solo genius does"
+      "bookDescription": "Book about creative partnerships drive innovation more than solo genius does",
+      "categories": [
+        "Creativity & Art",
+        "Psychology & Relationships"
+      ]
     },
     {
       "id": 60,
@@ -933,7 +1156,10 @@
         "success"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about four presidents' leadership lessons during America's greatest crises and challenges"
+      "bookDescription": "Book about four presidents' leadership lessons during America's greatest crises and challenges",
+      "categories": [
+        "Business & Leadership"
+      ]
     },
     {
       "id": 61,
@@ -948,7 +1174,11 @@
         "life"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about osho's teachings on fearlessness living authentically beyond social conditioning"
+      "bookDescription": "Book about osho's teachings on fearlessness living authentically beyond social conditioning",
+      "categories": [
+        "Philosophy & Mindfulness",
+        "Self-help & Growth"
+      ]
     },
     {
       "id": 62,
@@ -964,7 +1194,11 @@
         "love"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about embracing chaos uncertainty for breakthrough creativity and innovation flourishing"
+      "bookDescription": "Book about embracing chaos uncertainty for breakthrough creativity and innovation flourishing",
+      "categories": [
+        "Creativity & Art",
+        "Psychology & Relationships"
+      ]
     },
     {
       "id": 63,
@@ -979,7 +1213,11 @@
         "communication"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about entrepreneur's journey through extreme wealth success and existential emptiness"
+      "bookDescription": "Book about entrepreneur's journey through extreme wealth success and existential emptiness",
+      "categories": [
+        "Business & Leadership",
+        "Psychology & Relationships"
+      ]
     },
     {
       "id": 64,
@@ -994,7 +1232,11 @@
         "wisdom"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about holocaust survivor finds meaning through suffering using logotherapy principles clearly"
+      "bookDescription": "Book about holocaust survivor finds meaning through suffering using logotherapy principles clearly",
+      "categories": [
+        "Philosophy & Mindfulness",
+        "Spirituality & Meaning"
+      ]
     },
     {
       "id": 65,
@@ -1010,7 +1252,11 @@
         "leadership"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about understanding natural talents improves teamwork and job satisfaction immensely"
+      "bookDescription": "Book about understanding natural talents improves teamwork and job satisfaction immensely",
+      "categories": [
+        "Business & Leadership",
+        "Psychology & Relationships"
+      ]
     },
     {
       "id": 66,
@@ -1026,7 +1272,11 @@
         "wisdom"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about discovering purpose drives meaningful decisions and inspired action daily"
+      "bookDescription": "Book about discovering purpose drives meaningful decisions and inspired action daily",
+      "categories": [
+        "Self-help & Growth",
+        "Philosophy & Mindfulness"
+      ]
     },
     {
       "id": 67,
@@ -1041,7 +1291,11 @@
         "wisdom"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about charlie Munger's wisdom on mental models investing and rational thinking"
+      "bookDescription": "Book about charlie Munger's wisdom on mental models investing and rational thinking",
+      "categories": [
+        "Business & Leadership",
+        "Philosophy & Mindfulness"
+      ]
     },
     {
       "id": 68,
@@ -1057,7 +1311,11 @@
         "wisdom"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about leaving default career path to design meaningful unconventional work"
+      "bookDescription": "Book about leaving default career path to design meaningful unconventional work",
+      "categories": [
+        "Self-help & Growth",
+        "Philosophy & Mindfulness"
+      ]
     },
     {
       "id": 69,
@@ -1072,7 +1330,11 @@
         "thinking"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about rethinking opinions improves decisions relationships and adaptive thinking skills"
+      "bookDescription": "Book about rethinking opinions improves decisions relationships and adaptive thinking skills",
+      "categories": [
+        "Self-help & Growth",
+        "Psychology & Relationships"
+      ]
     },
     {
       "id": 70,
@@ -1088,7 +1350,11 @@
         "success"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about accepting human limitations leads to peace productivity and contentment"
+      "bookDescription": "Book about accepting human limitations leads to peace productivity and contentment",
+      "categories": [
+        "Philosophy & Mindfulness",
+        "Self-help & Growth"
+      ]
     },
     {
       "id": 71,
@@ -1103,7 +1369,11 @@
         "life"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about bipolar founder's memoir building Bonobos battling mental illness honestly"
+      "bookDescription": "Book about bipolar founder's memoir building Bonobos battling mental illness honestly",
+      "categories": [
+        "Business & Leadership",
+        "Psychology & Relationships"
+      ]
     },
     {
       "id": 72,
@@ -1118,7 +1388,10 @@
         "wisdom"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about historical seduction strategies and psychology for influence and attraction"
+      "bookDescription": "Book about historical seduction strategies and psychology for influence and attraction",
+      "categories": [
+        "Psychology & Relationships"
+      ]
     },
     {
       "id": 73,
@@ -1134,7 +1407,11 @@
         "learning"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about life of America's founding father inventor diplomat and polymath genius"
+      "bookDescription": "Book about life of America's founding father inventor diplomat and polymath genius",
+      "categories": [
+        "Business & Leadership",
+        "Classics & Literature"
+      ]
     },
     {
       "id": 74,
@@ -1149,7 +1426,11 @@
         "wisdom"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about high-performing teams built on safety vulnerability and shared purpose"
+      "bookDescription": "Book about high-performing teams built on safety vulnerability and shared purpose",
+      "categories": [
+        "Business & Leadership",
+        "Psychology & Relationships"
+      ]
     },
     {
       "id": 75,
@@ -1166,7 +1447,10 @@
         "success"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about five common leadership pitfalls destroy teams and organizational success"
+      "bookDescription": "Book about five common leadership pitfalls destroy teams and organizational success",
+      "categories": [
+        "Business & Leadership"
+      ]
     },
     {
       "id": 76,
@@ -1183,7 +1467,11 @@
         "love"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about ancient warrior codes honor courage and brotherhood inspire modern action"
+      "bookDescription": "Book about ancient warrior codes honor courage and brotherhood inspire modern action",
+      "categories": [
+        "Philosophy & Mindfulness",
+        "Self-help & Growth"
+      ]
     },
     {
       "id": 77,
@@ -1199,7 +1487,11 @@
         "freedom"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about social media and overprotection harm mental health of Gen Z"
+      "bookDescription": "Book about social media and overprotection harm mental health of Gen Z",
+      "categories": [
+        "Psychology & Relationships",
+        "Science & Nature"
+      ]
     },
     {
       "id": 78,
@@ -1215,7 +1507,11 @@
         "success"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about thoughts shape character circumstances destiny through consistent mental patterns"
+      "bookDescription": "Book about thoughts shape character circumstances destiny through consistent mental patterns",
+      "categories": [
+        "Philosophy & Mindfulness",
+        "Self-help & Growth"
+      ]
     },
     {
       "id": 79,
@@ -1230,7 +1526,11 @@
         "success"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about intentional daily design maximizes productivity purpose and life satisfaction"
+      "bookDescription": "Book about intentional daily design maximizes productivity purpose and life satisfaction",
+      "categories": [
+        "Productivity & Focus",
+        "Self-help & Growth"
+      ]
     },
     {
       "id": 80,
@@ -1245,7 +1545,11 @@
         "life"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about constraints and disadvantages can become unexpected competitive advantages surprisingly"
+      "bookDescription": "Book about constraints and disadvantages can become unexpected competitive advantages surprisingly",
+      "categories": [
+        "Business & Leadership",
+        "Self-help & Growth"
+      ]
     },
     {
       "id": 81,
@@ -1261,7 +1565,11 @@
         "reading"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about practical guide leveraging AI for writing productivity and creativity"
+      "bookDescription": "Book about practical guide leveraging AI for writing productivity and creativity",
+      "categories": [
+        "Productivity & Focus",
+        "Creativity & Art"
+      ]
     },
     {
       "id": 82,
@@ -1277,7 +1585,10 @@
         "strategy"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about strategic investing framework for building wealth across life stages"
+      "bookDescription": "Book about strategic investing framework for building wealth across life stages",
+      "categories": [
+        "Business & Leadership"
+      ]
     },
     {
       "id": 83,
@@ -1292,7 +1603,10 @@
         "business"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about seven strategic advantages create lasting competitive moats for businesses"
+      "bookDescription": "Book about seven strategic advantages create lasting competitive moats for businesses",
+      "categories": [
+        "Business & Leadership"
+      ]
     },
     {
       "id": 84,
@@ -1307,7 +1621,10 @@
         "wisdom"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about paranoia helps leaders detect inflection points navigate industry disruption"
+      "bookDescription": "Book about paranoia helps leaders detect inflection points navigate industry disruption",
+      "categories": [
+        "Business & Leadership"
+      ]
     },
     {
       "id": 85,
@@ -1323,7 +1640,10 @@
         "reading"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about will Smith's memoir journey from poverty to superstardom through determination"
+      "bookDescription": "Book about will Smith's memoir journey from poverty to superstardom through determination",
+      "categories": [
+        "Self-help & Growth"
+      ]
     },
     {
       "id": 86,
@@ -1339,7 +1659,11 @@
         "learning"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about long apprenticeship devoted practice leads to creative mastery genius"
+      "bookDescription": "Book about long apprenticeship devoted practice leads to creative mastery genius",
+      "categories": [
+        "Self-help & Growth",
+        "Creativity & Art"
+      ]
     },
     {
       "id": 87,
@@ -1354,7 +1678,11 @@
         "life"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about building communities that drive brand loyalty and business growth"
+      "bookDescription": "Book about building communities that drive brand loyalty and business growth",
+      "categories": [
+        "Business & Leadership",
+        "Psychology & Relationships"
+      ]
     },
     {
       "id": 88,
@@ -1369,7 +1697,10 @@
         "wisdom"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about data analytics revolutionized baseball strategy challenged conventional scouting wisdom"
+      "bookDescription": "Book about data analytics revolutionized baseball strategy challenged conventional scouting wisdom",
+      "categories": [
+        "Business & Leadership"
+      ]
     },
     {
       "id": 89,
@@ -1386,7 +1717,10 @@
         "thinking"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about principles of visionary companies that thrive for decades beyond founders"
+      "bookDescription": "Book about principles of visionary companies that thrive for decades beyond founders",
+      "categories": [
+        "Business & Leadership"
+      ]
     },
     {
       "id": 90,
@@ -1401,7 +1735,11 @@
         "wisdom"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about collected wisdom on wealth and happiness from successful entrepreneur philosopher"
+      "bookDescription": "Book about collected wisdom on wealth and happiness from successful entrepreneur philosopher",
+      "categories": [
+        "Business & Leadership",
+        "Philosophy & Mindfulness"
+      ]
     },
     {
       "id": 91,
@@ -1417,7 +1755,11 @@
         "creativity"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about seven comedy habits for delivering engaging memorable presentations that captivate"
+      "bookDescription": "Book about seven comedy habits for delivering engaging memorable presentations that captivate",
+      "categories": [
+        "Business & Leadership",
+        "Creativity & Art"
+      ]
     },
     {
       "id": 92,
@@ -1433,7 +1775,11 @@
         "wisdom"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about navigating cultural differences improves global business communication and collaboration"
+      "bookDescription": "Book about navigating cultural differences improves global business communication and collaboration",
+      "categories": [
+        "Business & Leadership",
+        "Psychology & Relationships"
+      ]
     },
     {
       "id": 93,
@@ -1448,7 +1794,11 @@
         "life"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about marcus Aurelius's Stoic philosophy for resilience wisdom and leadership"
+      "bookDescription": "Book about marcus Aurelius's Stoic philosophy for resilience wisdom and leadership",
+      "categories": [
+        "Philosophy & Mindfulness",
+        "Self-help & Growth"
+      ]
     },
     {
       "id": 94,
@@ -1464,7 +1814,11 @@
         "success"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about seneca argues life is long if used wisely purposefully"
+      "bookDescription": "Book about seneca argues life is long if used wisely purposefully",
+      "categories": [
+        "Philosophy & Mindfulness",
+        "Classics & Literature"
+      ]
     },
     {
       "id": 95,
@@ -1479,7 +1833,11 @@
         "thinking"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about digital note-taking system organizes knowledge amplifies creative thinking output"
+      "bookDescription": "Book about digital note-taking system organizes knowledge amplifies creative thinking output",
+      "categories": [
+        "Productivity & Focus",
+        "Self-help & Growth"
+      ]
     },
     {
       "id": 96,
@@ -1494,7 +1852,11 @@
         "success"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about redefining meaningful work beyond traditional career paths and expectations"
+      "bookDescription": "Book about redefining meaningful work beyond traditional career paths and expectations",
+      "categories": [
+        "Business & Leadership",
+        "Self-help & Growth"
+      ]
     },
     {
       "id": 97,
@@ -1509,7 +1871,10 @@
         "wisdom"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about beyond entrepreneurship principles for building enduring great companies intentionally"
+      "bookDescription": "Book about beyond entrepreneurship principles for building enduring great companies intentionally",
+      "categories": [
+        "Business & Leadership"
+      ]
     },
     {
       "id": 98,
@@ -1524,7 +1889,11 @@
         "reading"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about disciplined pursuit of less but better focusing on what truly matters"
+      "bookDescription": "Book about disciplined pursuit of less but better focusing on what truly matters",
+      "categories": [
+        "Productivity & Focus",
+        "Self-help & Growth"
+      ]
     },
     {
       "id": 99,
@@ -1539,7 +1908,11 @@
         "business"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about finite time demands choosing what truly matters accepting limitations"
+      "bookDescription": "Book about finite time demands choosing what truly matters accepting limitations",
+      "categories": [
+        "Philosophy & Mindfulness",
+        "Productivity & Focus"
+      ]
     },
     {
       "id": 100,
@@ -1554,7 +1927,11 @@
         "wisdom"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about sustainable output through fewer priorities natural pace quality obsession"
+      "bookDescription": "Book about sustainable output through fewer priorities natural pace quality obsession",
+      "categories": [
+        "Productivity & Focus",
+        "Philosophy & Mindfulness"
+      ]
     },
     {
       "id": 101,
@@ -1569,7 +1946,11 @@
         "wisdom"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about revised biography shows Jobs's growth maturity beyond earlier portrayals"
+      "bookDescription": "Book about revised biography shows Jobs's growth maturity beyond earlier portrayals",
+      "categories": [
+        "Business & Leadership",
+        "Self-help & Growth"
+      ]
     },
     {
       "id": 102,
@@ -1585,7 +1966,10 @@
         "leadership"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about leadership motive matters responsibility beats personal reward and ego"
+      "bookDescription": "Book about leadership motive matters responsibility beats personal reward and ego",
+      "categories": [
+        "Business & Leadership"
+      ]
     },
     {
       "id": 103,
@@ -1602,7 +1986,11 @@
         "reading"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about build business that profits serves and solves real problems"
+      "bookDescription": "Book about build business that profits serves and solves real problems",
+      "categories": [
+        "Business & Leadership",
+        "Self-help & Growth"
+      ]
     },
     {
       "id": 104,
@@ -1617,7 +2005,10 @@
         "success"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about antarctic explorer's legendary leadership during impossible survival against odds"
+      "bookDescription": "Book about antarctic explorer's legendary leadership during impossible survival against odds",
+      "categories": [
+        "Business & Leadership"
+      ]
     },
     {
       "id": 105,
@@ -1634,7 +2025,11 @@
         "thinking"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about software eats world through decentralized innovation and economic transformation"
+      "bookDescription": "Book about software eats world through decentralized innovation and economic transformation",
+      "categories": [
+        "Business & Leadership",
+        "Science & Nature"
+      ]
     },
     {
       "id": 106,
@@ -1650,7 +2045,11 @@
         "leadership"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about humble hungry smart three virtues create ideal collaborative team"
+      "bookDescription": "Book about humble hungry smart three virtues create ideal collaborative team",
+      "categories": [
+        "Business & Leadership",
+        "Psychology & Relationships"
+      ]
     },
     {
       "id": 107,
@@ -1666,7 +2065,11 @@
         "success"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about parenting philosophy emphasizing trust respect independence and self-confidence building"
+      "bookDescription": "Book about parenting philosophy emphasizing trust respect independence and self-confidence building",
+      "categories": [
+        "Psychology & Relationships",
+        "Self-help & Growth"
+      ]
     },
     {
       "id": 108,
@@ -1681,7 +2084,10 @@
         "learning"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about momentum builds through consistent disciplined effort not dramatic breakthroughs"
+      "bookDescription": "Book about momentum builds through consistent disciplined effort not dramatic breakthroughs",
+      "categories": [
+        "Business & Leadership"
+      ]
     },
     {
       "id": 109,
@@ -1698,7 +2104,11 @@
         "success"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about five-step creative process generates ideas through mental digestion patterns"
+      "bookDescription": "Book about five-step creative process generates ideas through mental digestion patterns",
+      "categories": [
+        "Creativity & Art",
+        "Business & Leadership"
+      ]
     },
     {
       "id": 110,
@@ -1715,7 +2125,11 @@
         "thinking"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about nonconformists drive innovation by championing novel ideas against resistance"
+      "bookDescription": "Book about nonconformists drive innovation by championing novel ideas against resistance",
+      "categories": [
+        "Business & Leadership",
+        "Creativity & Art"
+      ]
     },
     {
       "id": 111,
@@ -1732,7 +2146,11 @@
         "success"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about care personally challenge directly for effective leadership and honest feedback"
+      "bookDescription": "Book about care personally challenge directly for effective leadership and honest feedback",
+      "categories": [
+        "Business & Leadership",
+        "Psychology & Relationships"
+      ]
     },
     {
       "id": 112,
@@ -1749,7 +2167,10 @@
         "life"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about netflix culture deck radical honesty context freedom and responsibility"
+      "bookDescription": "Book about netflix culture deck radical honesty context freedom and responsibility",
+      "categories": [
+        "Business & Leadership"
+      ]
     },
     {
       "id": 113,
@@ -1764,7 +2185,11 @@
         "reading"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about mental tools for clearer reasoning better decisions creative breakthroughs"
+      "bookDescription": "Book about mental tools for clearer reasoning better decisions creative breakthroughs",
+      "categories": [
+        "Philosophy & Mindfulness",
+        "Self-help & Growth"
+      ]
     },
     {
       "id": 114,
@@ -1779,7 +2204,11 @@
         "communication"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about japanese concept finding purpose where passion meets world's needs beautifully"
+      "bookDescription": "Book about japanese concept finding purpose where passion meets world's needs beautifully",
+      "categories": [
+        "Philosophy & Mindfulness",
+        "Self-help & Growth"
+      ]
     },
     {
       "id": 115,
@@ -1794,7 +2223,10 @@
         "business"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about practical guide for emerging venture capital fund managers today"
+      "bookDescription": "Book about practical guide for emerging venture capital fund managers today",
+      "categories": [
+        "Business & Leadership"
+      ]
     },
     {
       "id": 116,
@@ -1810,7 +2242,11 @@
         "decision"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about stoic wisdom on overcoming fear acting courageously despite obstacles"
+      "bookDescription": "Book about stoic wisdom on overcoming fear acting courageously despite obstacles",
+      "categories": [
+        "Philosophy & Mindfulness",
+        "Self-help & Growth"
+      ]
     },
     {
       "id": 117,
@@ -1827,7 +2263,10 @@
         "creativity"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about building company-building factories that systematically create validate startups"
+      "bookDescription": "Book about building company-building factories that systematically create validate startups",
+      "categories": [
+        "Business & Leadership"
+      ]
     },
     {
       "id": 118,
@@ -1843,7 +2282,11 @@
         "wisdom"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about deliberate practice principles unlock expert performance in any field"
+      "bookDescription": "Book about deliberate practice principles unlock expert performance in any field",
+      "categories": [
+        "Self-help & Growth",
+        "Productivity & Focus"
+      ]
     },
     {
       "id": 119,
@@ -1858,7 +2301,11 @@
         "learning"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about stoic justice principles for ethical decision-making in modern life"
+      "bookDescription": "Book about stoic justice principles for ethical decision-making in modern life",
+      "categories": [
+        "Philosophy & Mindfulness",
+        "Self-help & Growth"
+      ]
     },
     {
       "id": 120,
@@ -1874,7 +2321,10 @@
         "thinking"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about 24-step framework transforms ideas into successful thriving businesses"
+      "bookDescription": "Book about 24-step framework transforms ideas into successful thriving businesses",
+      "categories": [
+        "Business & Leadership"
+      ]
     },
     {
       "id": 121,
@@ -1889,7 +2339,10 @@
         "wisdom"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about operating manual for startup CEOs covering all essential leadership"
+      "bookDescription": "Book about operating manual for startup CEOs covering all essential leadership",
+      "categories": [
+        "Business & Leadership"
+      ]
     },
     {
       "id": 122,
@@ -1905,7 +2358,10 @@
         "wisdom"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about organizational health matters more than strategy intelligence combined always"
+      "bookDescription": "Book about organizational health matters more than strategy intelligence combined always",
+      "categories": [
+        "Business & Leadership"
+      ]
     },
     {
       "id": 123,
@@ -1922,7 +2378,11 @@
         "reading"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about growth mindset unlocks potential by embracing challenges versus fixed limitations"
+      "bookDescription": "Book about growth mindset unlocks potential by embracing challenges versus fixed limitations",
+      "categories": [
+        "Psychology & Relationships",
+        "Self-help & Growth"
+      ]
     },
     {
       "id": 124,
@@ -1937,7 +2397,11 @@
         "learning"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about making better decisions under uncertainty by embracing probabilistic thinking daily"
+      "bookDescription": "Book about making better decisions under uncertainty by embracing probabilistic thinking daily",
+      "categories": [
+        "Business & Leadership",
+        "Psychology & Relationships"
+      ]
     },
     {
       "id": 125,
@@ -1952,7 +2416,11 @@
         "business"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about timeless patterns of human behavior that never change through history"
+      "bookDescription": "Book about timeless patterns of human behavior that never change through history",
+      "categories": [
+        "Psychology & Relationships",
+        "Philosophy & Mindfulness"
+      ]
     },
     {
       "id": 126,
@@ -1969,7 +2437,11 @@
         "wisdom"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about practical strategies for overcoming fear anxiety achieving personal goals"
+      "bookDescription": "Book about practical strategies for overcoming fear anxiety achieving personal goals",
+      "categories": [
+        "Self-help & Growth",
+        "Psychology & Relationships"
+      ]
     },
     {
       "id": 127,
@@ -1985,7 +2457,11 @@
         "happiness"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about creative work builds on influences remix ideas embrace your inspirations"
+      "bookDescription": "Book about creative work builds on influences remix ideas embrace your inspirations",
+      "categories": [
+        "Creativity & Art",
+        "Self-help & Growth"
+      ]
     },
     {
       "id": 128,
@@ -2002,7 +2478,10 @@
         "reading"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about Bill Walsh's standard of performance principles for winning excellence"
+      "bookDescription": "Book about Bill Walsh's standard of performance principles for winning excellence",
+      "categories": [
+        "Business & Leadership"
+      ]
     },
     {
       "id": 129,
@@ -2017,7 +2496,10 @@
         "wisdom"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about franklin transformed from British subject to American revolutionary icon"
+      "bookDescription": "Book about franklin transformed from British subject to American revolutionary icon",
+      "categories": [
+        "Classics & Literature"
+      ]
     },
     {
       "id": 130,
@@ -2033,7 +2515,11 @@
         "reading"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about share creative process publicly to build audience find opportunities"
+      "bookDescription": "Book about share creative process publicly to build audience find opportunities",
+      "categories": [
+        "Creativity & Art",
+        "Self-help & Growth"
+      ]
     },
     {
       "id": 131,
@@ -2048,7 +2534,11 @@
         "communication"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about c.S. Lewis and Inklings collaborative creative genius influenced each other"
+      "bookDescription": "Book about c.S. Lewis and Inklings collaborative creative genius influenced each other",
+      "categories": [
+        "Creativity & Art",
+        "Classics & Literature"
+      ]
     },
     {
       "id": 132,
@@ -2063,7 +2553,11 @@
         "creativity"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about leadership coaching about inner work compassion and personal transformation"
+      "bookDescription": "Book about leadership coaching about inner work compassion and personal transformation",
+      "categories": [
+        "Business & Leadership",
+        "Psychology & Relationships"
+      ]
     },
     {
       "id": 133,
@@ -2078,7 +2572,11 @@
         "wisdom"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about money evolved through technological layers from gold to Bitcoin"
+      "bookDescription": "Book about money evolved through technological layers from gold to Bitcoin",
+      "categories": [
+        "Business & Leadership",
+        "Science & Nature"
+      ]
     },
     {
       "id": 134,
@@ -2093,7 +2591,11 @@
         "creativity"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about life advice from world-class performers on success habits wisdom"
+      "bookDescription": "Book about life advice from world-class performers on success habits wisdom",
+      "categories": [
+        "Self-help & Growth",
+        "Business & Leadership"
+      ]
     },
     {
       "id": 135,
@@ -2110,7 +2612,11 @@
         "thinking"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about biography of RFK's transformation from cold operative to compassionate"
+      "bookDescription": "Book about biography of RFK's transformation from cold operative to compassionate",
+      "categories": [
+        "Classics & Literature",
+        "Business & Leadership"
+      ]
     },
     {
       "id": 136,
@@ -2126,7 +2632,11 @@
         "life"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about unlock abilities through character skills learning systems not talent"
+      "bookDescription": "Book about unlock abilities through character skills learning systems not talent",
+      "categories": [
+        "Self-help & Growth",
+        "Psychology & Relationships"
+      ]
     },
     {
       "id": 137,
@@ -2141,7 +2651,11 @@
         "life"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about examining human freedom through tribe warfare survival and social bonds"
+      "bookDescription": "Book about examining human freedom through tribe warfare survival and social bonds",
+      "categories": [
+        "Philosophy & Mindfulness",
+        "Psychology & Relationships"
+      ]
     },
     {
       "id": 138,
@@ -2156,7 +2670,10 @@
         "wisdom"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about john Cleese's practical wisdom on nurturing creativity through playful processes"
+      "bookDescription": "Book about john Cleese's practical wisdom on nurturing creativity through playful processes",
+      "categories": [
+        "Creativity & Art"
+      ]
     },
     {
       "id": 139,
@@ -2171,7 +2688,11 @@
         "wisdom"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about independent film producing requires passion perseverance and creative problem solving"
+      "bookDescription": "Book about independent film producing requires passion perseverance and creative problem solving",
+      "categories": [
+        "Creativity & Art",
+        "Business & Leadership"
+      ]
     },
     {
       "id": 140,
@@ -2186,7 +2707,11 @@
         "happiness"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about biography of Queen Isabella who unified Spain sponsored Columbus"
+      "bookDescription": "Book about biography of Queen Isabella who unified Spain sponsored Columbus",
+      "categories": [
+        "Classics & Literature",
+        "Women's Empowerment"
+      ]
     },
     {
       "id": 141,
@@ -2202,7 +2727,10 @@
         "wisdom"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about jason Calacanis's guide to angel investing startup world success"
+      "bookDescription": "Book about jason Calacanis's guide to angel investing startup world success",
+      "categories": [
+        "Business & Leadership"
+      ]
     },
     {
       "id": 142,
@@ -2217,7 +2745,10 @@
         "life"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about survival horror aboard 1897 Belgian Antarctic expedition facing madness"
+      "bookDescription": "Book about survival horror aboard 1897 Belgian Antarctic expedition facing madness",
+      "categories": [
+        "Classics & Literature"
+      ]
     },
     {
       "id": 143,
@@ -2234,7 +2765,11 @@
         "reading"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about embracing stress enhances performance health and growth resilience"
+      "bookDescription": "Book about embracing stress enhances performance health and growth resilience",
+      "categories": [
+        "Psychology & Relationships",
+        "Self-help & Growth"
+      ]
     },
     {
       "id": 144,
@@ -2250,7 +2785,10 @@
         "communication"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about netflix culture radical candor freedom responsibility over process control"
+      "bookDescription": "Book about netflix culture radical candor freedom responsibility over process control",
+      "categories": [
+        "Business & Leadership"
+      ]
     },
     {
       "id": 145,
@@ -2265,7 +2803,11 @@
         "courage"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about formula for hosting engaging memorable social gatherings and connections"
+      "bookDescription": "Book about formula for hosting engaging memorable social gatherings and connections",
+      "categories": [
+        "Psychology & Relationships",
+        "Self-help & Growth"
+      ]
     },
     {
       "id": 146,
@@ -2281,7 +2823,11 @@
         "inspiration"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about formula One designer Adrian Newey's engineering racing memoir story"
+      "bookDescription": "Book about formula One designer Adrian Newey's engineering racing memoir story",
+      "categories": [
+        "Creativity & Art",
+        "Business & Leadership"
+      ]
     },
     {
       "id": 147,
@@ -2296,7 +2842,11 @@
         "wisdom"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about ray Dalio's life and work principles for decision making success"
+      "bookDescription": "Book about ray Dalio's life and work principles for decision making success",
+      "categories": [
+        "Business & Leadership",
+        "Self-help & Growth"
+      ]
     },
     {
       "id": 148,
@@ -2311,7 +2861,11 @@
         "reading"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about biography of RFK's transformation from cold operative to compassionate"
+      "bookDescription": "Book about biography of RFK's transformation from cold operative to compassionate",
+      "categories": [
+        "Classics & Literature",
+        "Business & Leadership"
+      ]
     },
     {
       "id": 149,
@@ -2326,7 +2880,11 @@
         "discipline"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about unlock abilities through character skills learning systems not talent"
+      "bookDescription": "Book about unlock abilities through character skills learning systems not talent",
+      "categories": [
+        "Self-help & Growth",
+        "Psychology & Relationships"
+      ]
     },
     {
       "id": 150,
@@ -2343,7 +2901,11 @@
         "reading"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about practical strategies for overcoming fear anxiety achieving personal goals"
+      "bookDescription": "Book about practical strategies for overcoming fear anxiety achieving personal goals",
+      "categories": [
+        "Self-help & Growth",
+        "Psychology & Relationships"
+      ]
     },
     {
       "id": 151,
@@ -2358,7 +2920,11 @@
         "communication"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about orwell's essays on political writing language truth and literary craft"
+      "bookDescription": "Book about orwell's essays on political writing language truth and literary craft",
+      "categories": [
+        "Creativity & Art",
+        "Classics & Literature"
+      ]
     },
     {
       "id": 152,
@@ -2373,7 +2939,11 @@
         "life"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about software eats world through decentralized innovation and economic transformation"
+      "bookDescription": "Book about software eats world through decentralized innovation and economic transformation",
+      "categories": [
+        "Business & Leadership",
+        "Science & Nature"
+      ]
     },
     {
       "id": 153,
@@ -2390,7 +2960,11 @@
         "life"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about ray Dalio's life and work principles for decision making success"
+      "bookDescription": "Book about ray Dalio's life and work principles for decision making success",
+      "categories": [
+        "Business & Leadership",
+        "Self-help & Growth"
+      ]
     },
     {
       "id": 154,
@@ -2405,7 +2979,11 @@
         "leadership"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about Tony Fadell's lessons building iPod iPhone Nest and revolutionary products"
+      "bookDescription": "Book about Tony Fadell's lessons building iPod iPhone Nest and revolutionary products",
+      "categories": [
+        "Business & Leadership",
+        "Creativity & Art"
+      ]
     },
     {
       "id": 155,
@@ -2421,7 +2999,10 @@
         "happiness"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about john Cleese's practical wisdom on nurturing creativity through playful processes"
+      "bookDescription": "Book about john Cleese's practical wisdom on nurturing creativity through playful processes",
+      "categories": [
+        "Creativity & Art"
+      ]
     },
     {
       "id": 156,
@@ -2436,7 +3017,11 @@
         "life"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about rethinking opinions improves decisions relationships and adaptive thinking skills"
+      "bookDescription": "Book about rethinking opinions improves decisions relationships and adaptive thinking skills",
+      "categories": [
+        "Self-help & Growth",
+        "Psychology & Relationships"
+      ]
     },
     {
       "id": 157,
@@ -2451,7 +3036,10 @@
         "life"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about antarctic explorer's legendary leadership during impossible survival against odds"
+      "bookDescription": "Book about antarctic explorer's legendary leadership during impossible survival against odds",
+      "categories": [
+        "Business & Leadership"
+      ]
     },
     {
       "id": 158,
@@ -2467,7 +3055,10 @@
         "strategy"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about beyond entrepreneurship principles for building enduring great companies intentionally"
+      "bookDescription": "Book about beyond entrepreneurship principles for building enduring great companies intentionally",
+      "categories": [
+        "Business & Leadership"
+      ]
     },
     {
       "id": 159,
@@ -2482,7 +3073,11 @@
         "life"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about how illogical ideas create disproportionate value in business and marketing"
+      "bookDescription": "Book about how illogical ideas create disproportionate value in business and marketing",
+      "categories": [
+        "Business & Leadership",
+        "Creativity & Art"
+      ]
     },
     {
       "id": 160,
@@ -2497,7 +3092,11 @@
         "decision"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about mental tools for clearer reasoning better decisions creative breakthroughs"
+      "bookDescription": "Book about mental tools for clearer reasoning better decisions creative breakthroughs",
+      "categories": [
+        "Philosophy & Mindfulness",
+        "Self-help & Growth"
+      ]
     },
     {
       "id": 161,
@@ -2512,7 +3111,11 @@
         "freedom"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about examining human freedom through tribe warfare survival and social bonds"
+      "bookDescription": "Book about examining human freedom through tribe warfare survival and social bonds",
+      "categories": [
+        "Philosophy & Mindfulness",
+        "Psychology & Relationships"
+      ]
     },
     {
       "id": 162,
@@ -2527,7 +3130,10 @@
         "business"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about operating manual for startup CEOs covering all essential leadership"
+      "bookDescription": "Book about operating manual for startup CEOs covering all essential leadership",
+      "categories": [
+        "Business & Leadership"
+      ]
     },
     {
       "id": 163,
@@ -2542,7 +3148,11 @@
         "inspiration"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about spending wealth on life experiences instead of inheritance"
+      "bookDescription": "Book about spending wealth on life experiences instead of inheritance",
+      "categories": [
+        "Philosophy & Mindfulness",
+        "Self-help & Growth"
+      ]
     },
     {
       "id": 164,
@@ -2557,7 +3167,11 @@
         "wisdom"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about social media and overprotection harm mental health of Gen Z"
+      "bookDescription": "Book about social media and overprotection harm mental health of Gen Z",
+      "categories": [
+        "Psychology & Relationships",
+        "Science & Nature"
+      ]
     },
     {
       "id": 165,
@@ -2573,7 +3187,11 @@
         "thinking"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about understanding natural talents improves teamwork and job satisfaction immensely"
+      "bookDescription": "Book about understanding natural talents improves teamwork and job satisfaction immensely",
+      "categories": [
+        "Business & Leadership",
+        "Psychology & Relationships"
+      ]
     },
     {
       "id": 166,
@@ -2590,7 +3208,10 @@
         "love"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about data analytics revolutionized baseball strategy challenged conventional scouting wisdom"
+      "bookDescription": "Book about data analytics revolutionized baseball strategy challenged conventional scouting wisdom",
+      "categories": [
+        "Business & Leadership"
+      ]
     },
     {
       "id": 167,
@@ -2605,7 +3226,11 @@
         "success"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about practical guide leveraging AI for writing productivity and creativity"
+      "bookDescription": "Book about practical guide leveraging AI for writing productivity and creativity",
+      "categories": [
+        "Productivity & Focus",
+        "Creativity & Art"
+      ]
     },
     {
       "id": 168,
@@ -2620,7 +3245,10 @@
         "life"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about warren Buffett's biography reveals investing wisdom and personal life journey"
+      "bookDescription": "Book about warren Buffett's biography reveals investing wisdom and personal life journey",
+      "categories": [
+        "Business & Leadership"
+      ]
     },
     {
       "id": 169,
@@ -2635,7 +3263,11 @@
         "business"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about revised biography shows Jobs's growth maturity beyond earlier portrayals"
+      "bookDescription": "Book about revised biography shows Jobs's growth maturity beyond earlier portrayals",
+      "categories": [
+        "Business & Leadership",
+        "Self-help & Growth"
+      ]
     },
     {
       "id": 170,
@@ -2652,7 +3284,10 @@
         "life"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about Alex Ferguson's leadership lessons from managing Manchester United to greatness"
+      "bookDescription": "Book about Alex Ferguson's leadership lessons from managing Manchester United to greatness",
+      "categories": [
+        "Business & Leadership"
+      ]
     },
     {
       "id": 171,
@@ -2667,7 +3302,11 @@
         "learning"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about long apprenticeship devoted practice leads to creative mastery genius"
+      "bookDescription": "Book about long apprenticeship devoted practice leads to creative mastery genius",
+      "categories": [
+        "Self-help & Growth",
+        "Creativity & Art"
+      ]
     },
     {
       "id": 172,
@@ -2682,7 +3321,11 @@
         "reading"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about practical guide for creating helpful books readers actually want badly"
+      "bookDescription": "Book about practical guide for creating helpful books readers actually want badly",
+      "categories": [
+        "Creativity & Art",
+        "Business & Leadership"
+      ]
     },
     {
       "id": 173,
@@ -2697,7 +3340,11 @@
         "wisdom"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about emotional intelligence guide for understanding and managing feelings effectively daily"
+      "bookDescription": "Book about emotional intelligence guide for understanding and managing feelings effectively daily",
+      "categories": [
+        "Psychology & Relationships",
+        "Self-help & Growth"
+      ]
     },
     {
       "id": 174,
@@ -2712,7 +3359,11 @@
         "success"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about living regret-free by aligning daily actions with personal values"
+      "bookDescription": "Book about living regret-free by aligning daily actions with personal values",
+      "categories": [
+        "Self-help & Growth",
+        "Philosophy & Mindfulness"
+      ]
     },
     {
       "id": 175,
@@ -2727,7 +3378,11 @@
         "success"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about reverse engineering success by studying and replicating expert performance patterns"
+      "bookDescription": "Book about reverse engineering success by studying and replicating expert performance patterns",
+      "categories": [
+        "Self-help & Growth",
+        "Productivity & Focus"
+      ]
     },
     {
       "id": 176,
@@ -2742,7 +3397,11 @@
         "courage"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about seneca argues life is long if used wisely purposefully"
+      "bookDescription": "Book about seneca argues life is long if used wisely purposefully",
+      "categories": [
+        "Philosophy & Mindfulness",
+        "Classics & Literature"
+      ]
     },
     {
       "id": 177,
@@ -2759,7 +3418,10 @@
         "love"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about netflix culture deck radical honesty context freedom and responsibility"
+      "bookDescription": "Book about netflix culture deck radical honesty context freedom and responsibility",
+      "categories": [
+        "Business & Leadership"
+      ]
     },
     {
       "id": 178,
@@ -2776,7 +3438,11 @@
         "reading"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about neuroscience reveals why stories captivate brains and change minds effectively"
+      "bookDescription": "Book about neuroscience reveals why stories captivate brains and change minds effectively",
+      "categories": [
+        "Creativity & Art",
+        "Science & Nature"
+      ]
     },
     {
       "id": 179,
@@ -2791,7 +3457,11 @@
         "learning"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about wealth management depends more on behavior than knowledge or intelligence"
+      "bookDescription": "Book about wealth management depends more on behavior than knowledge or intelligence",
+      "categories": [
+        "Business & Leadership",
+        "Psychology & Relationships"
+      ]
     },
     {
       "id": 180,
@@ -2806,7 +3476,11 @@
         "wisdom"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about creative partnerships drive innovation more than solo genius does"
+      "bookDescription": "Book about creative partnerships drive innovation more than solo genius does",
+      "categories": [
+        "Creativity & Art",
+        "Psychology & Relationships"
+      ]
     },
     {
       "id": 181,
@@ -2821,7 +3495,11 @@
         "communication"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about rare unpredictable events shape history more than ordinary occurrences"
+      "bookDescription": "Book about rare unpredictable events shape history more than ordinary occurrences",
+      "categories": [
+        "Philosophy & Mindfulness",
+        "Business & Leadership"
+      ]
     },
     {
       "id": 182,
@@ -2836,7 +3514,11 @@
         "love"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about generalists triumph in specialized world through diverse experience and perspective"
+      "bookDescription": "Book about generalists triumph in specialized world through diverse experience and perspective",
+      "categories": [
+        "Self-help & Growth",
+        "Productivity & Focus"
+      ]
     },
     {
       "id": 183,
@@ -2851,7 +3533,10 @@
         "thinking"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about survival horror aboard 1897 Belgian Antarctic expedition facing madness"
+      "bookDescription": "Book about survival horror aboard 1897 Belgian Antarctic expedition facing madness",
+      "categories": [
+        "Classics & Literature"
+      ]
     },
     {
       "id": 184,
@@ -2866,7 +3551,11 @@
         "business"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about bipolar founder's memoir building Bonobos battling mental illness honestly"
+      "bookDescription": "Book about bipolar founder's memoir building Bonobos battling mental illness honestly",
+      "categories": [
+        "Business & Leadership",
+        "Psychology & Relationships"
+      ]
     },
     {
       "id": 185,
@@ -2881,7 +3570,11 @@
         "wisdom"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about reset brain's reward system by eliminating overstimulation and distractions"
+      "bookDescription": "Book about reset brain's reward system by eliminating overstimulation and distractions",
+      "categories": [
+        "Self-help & Growth",
+        "Productivity & Focus"
+      ]
     },
     {
       "id": 186,
@@ -2897,7 +3590,11 @@
         "life"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about leaving default career path to design meaningful unconventional work"
+      "bookDescription": "Book about leaving default career path to design meaningful unconventional work",
+      "categories": [
+        "Self-help & Growth",
+        "Philosophy & Mindfulness"
+      ]
     },
     {
       "id": 187,
@@ -2912,7 +3609,11 @@
         "life"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about build business that profits serves and solves real problems"
+      "bookDescription": "Book about build business that profits serves and solves real problems",
+      "categories": [
+        "Business & Leadership",
+        "Self-help & Growth"
+      ]
     },
     {
       "id": 188,
@@ -2927,7 +3628,11 @@
         "wisdom"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about leadership coaching about inner work compassion and personal transformation"
+      "bookDescription": "Book about leadership coaching about inner work compassion and personal transformation",
+      "categories": [
+        "Business & Leadership",
+        "Psychology & Relationships"
+      ]
     },
     {
       "id": 189,
@@ -2942,7 +3647,10 @@
         "business"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about jason Calacanis's guide to angel investing startup world success"
+      "bookDescription": "Book about jason Calacanis's guide to angel investing startup world success",
+      "categories": [
+        "Business & Leadership"
+      ]
     },
     {
       "id": 190,
@@ -2958,7 +3666,11 @@
         "thinking"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about redefining masculinity through vulnerability authenticity and emotional growth honestly"
+      "bookDescription": "Book about redefining masculinity through vulnerability authenticity and emotional growth honestly",
+      "categories": [
+        "Psychology & Relationships",
+        "Self-help & Growth"
+      ]
     },
     {
       "id": 191,
@@ -2974,7 +3686,11 @@
         "thinking"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about growth mindset unlocks potential by embracing challenges versus fixed limitations"
+      "bookDescription": "Book about growth mindset unlocks potential by embracing challenges versus fixed limitations",
+      "categories": [
+        "Psychology & Relationships",
+        "Self-help & Growth"
+      ]
     },
     {
       "id": 192,
@@ -2990,7 +3706,10 @@
         "strategy"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about paranoia helps leaders detect inflection points navigate industry disruption"
+      "bookDescription": "Book about paranoia helps leaders detect inflection points navigate industry disruption",
+      "categories": [
+        "Business & Leadership"
+      ]
     },
     {
       "id": 193,
@@ -3006,7 +3725,11 @@
         "life"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about humble hungry smart three virtues create ideal collaborative team"
+      "bookDescription": "Book about humble hungry smart three virtues create ideal collaborative team",
+      "categories": [
+        "Business & Leadership",
+        "Psychology & Relationships"
+      ]
     },
     {
       "id": 194,
@@ -3021,7 +3744,11 @@
         "thinking"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about creative work builds on influences remix ideas embrace your inspirations"
+      "bookDescription": "Book about creative work builds on influences remix ideas embrace your inspirations",
+      "categories": [
+        "Creativity & Art",
+        "Self-help & Growth"
+      ]
     },
     {
       "id": 195,
@@ -3037,7 +3764,10 @@
         "discipline"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about momentum builds through consistent disciplined effort not dramatic breakthroughs"
+      "bookDescription": "Book about momentum builds through consistent disciplined effort not dramatic breakthroughs",
+      "categories": [
+        "Business & Leadership"
+      ]
     },
     {
       "id": 196,
@@ -3054,7 +3784,11 @@
         "thinking"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about nonconformists drive innovation by championing novel ideas against resistance"
+      "bookDescription": "Book about nonconformists drive innovation by championing novel ideas against resistance",
+      "categories": [
+        "Business & Leadership",
+        "Creativity & Art"
+      ]
     },
     {
       "id": 197,
@@ -3069,7 +3803,11 @@
         "wisdom"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about unconventional wealth building from entrepreneur Felix Dennis's experience"
+      "bookDescription": "Book about unconventional wealth building from entrepreneur Felix Dennis's experience",
+      "categories": [
+        "Business & Leadership",
+        "Self-help & Growth"
+      ]
     },
     {
       "id": 198,
@@ -3085,7 +3823,11 @@
         "power"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about life advice from world-class performers on success habits wisdom"
+      "bookDescription": "Book about life advice from world-class performers on success habits wisdom",
+      "categories": [
+        "Self-help & Growth",
+        "Business & Leadership"
+      ]
     },
     {
       "id": 199,
@@ -3100,7 +3842,11 @@
         "reading"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about discovering purpose drives meaningful decisions and inspired action daily"
+      "bookDescription": "Book about discovering purpose drives meaningful decisions and inspired action daily",
+      "categories": [
+        "Self-help & Growth",
+        "Philosophy & Mindfulness"
+      ]
     },
     {
       "id": 200,
@@ -3116,7 +3862,11 @@
         "thinking"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about five-step creative process generates ideas through mental digestion patterns"
+      "bookDescription": "Book about five-step creative process generates ideas through mental digestion patterns",
+      "categories": [
+        "Creativity & Art",
+        "Business & Leadership"
+      ]
     },
     {
       "id": 201,
@@ -3133,7 +3883,11 @@
         "reading"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about blueprint for writing profitable books that generate sustainable income streams"
+      "bookDescription": "Book about blueprint for writing profitable books that generate sustainable income streams",
+      "categories": [
+        "Business & Leadership",
+        "Creativity & Art"
+      ]
     },
     {
       "id": 202,
@@ -3148,7 +3902,11 @@
         "wisdom"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about money evolved through technological layers from gold to Bitcoin"
+      "bookDescription": "Book about money evolved through technological layers from gold to Bitcoin",
+      "categories": [
+        "Business & Leadership",
+        "Science & Nature"
+      ]
     },
     {
       "id": 203,
@@ -3163,7 +3921,11 @@
         "life"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about stoic justice principles for ethical decision-making in modern life"
+      "bookDescription": "Book about stoic justice principles for ethical decision-making in modern life",
+      "categories": [
+        "Philosophy & Mindfulness",
+        "Self-help & Growth"
+      ]
     },
     {
       "id": 204,
@@ -3179,7 +3941,10 @@
         "thinking"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about strategic investing framework for building wealth across life stages"
+      "bookDescription": "Book about strategic investing framework for building wealth across life stages",
+      "categories": [
+        "Business & Leadership"
+      ]
     },
     {
       "id": 205,
@@ -3194,7 +3959,11 @@
         "thinking"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about Angela Merkel's transformative leadership in modern European politics"
+      "bookDescription": "Book about Angela Merkel's transformative leadership in modern European politics",
+      "categories": [
+        "Business & Leadership",
+        "Women's Empowerment"
+      ]
     },
     {
       "id": 206,
@@ -3209,7 +3978,11 @@
         "thinking"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about inner peace and stillness unlock clarity performance and wisdom"
+      "bookDescription": "Book about inner peace and stillness unlock clarity performance and wisdom",
+      "categories": [
+        "Philosophy & Mindfulness",
+        "Self-help & Growth"
+      ]
     },
     {
       "id": 207,
@@ -3224,7 +3997,11 @@
         "success"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about overcome upper limit problem to achieve your full potential"
+      "bookDescription": "Book about overcome upper limit problem to achieve your full potential",
+      "categories": [
+        "Self-help & Growth",
+        "Psychology & Relationships"
+      ]
     },
     {
       "id": 208,
@@ -3241,7 +4018,11 @@
         "strategy"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about intentional daily design maximizes productivity purpose and life satisfaction"
+      "bookDescription": "Book about intentional daily design maximizes productivity purpose and life satisfaction",
+      "categories": [
+        "Productivity & Focus",
+        "Self-help & Growth"
+      ]
     },
     {
       "id": 209,
@@ -3256,7 +4037,11 @@
         "thinking"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about formula for hosting engaging memorable social gatherings and connections"
+      "bookDescription": "Book about formula for hosting engaging memorable social gatherings and connections",
+      "categories": [
+        "Psychology & Relationships",
+        "Self-help & Growth"
+      ]
     },
     {
       "id": 210,
@@ -3271,7 +4056,11 @@
         "life"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about counterintuitive approach to living good life by caring less"
+      "bookDescription": "Book about counterintuitive approach to living good life by caring less",
+      "categories": [
+        "Self-help & Growth",
+        "Philosophy & Mindfulness"
+      ]
     },
     {
       "id": 211,
@@ -3286,7 +4075,11 @@
         "wisdom"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about embracing chaos uncertainty for breakthrough creativity and innovation flourishing"
+      "bookDescription": "Book about embracing chaos uncertainty for breakthrough creativity and innovation flourishing",
+      "categories": [
+        "Creativity & Art",
+        "Psychology & Relationships"
+      ]
     },
     {
       "id": 212,
@@ -3301,7 +4094,11 @@
         "life"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about japanese concept finding purpose where passion meets world's needs beautifully"
+      "bookDescription": "Book about japanese concept finding purpose where passion meets world's needs beautifully",
+      "categories": [
+        "Philosophy & Mindfulness",
+        "Self-help & Growth"
+      ]
     },
     {
       "id": 213,
@@ -3317,7 +4114,10 @@
         "life"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about four presidents' leadership lessons during America's greatest crises and challenges"
+      "bookDescription": "Book about four presidents' leadership lessons during America's greatest crises and challenges",
+      "categories": [
+        "Business & Leadership"
+      ]
     },
     {
       "id": 214,
@@ -3333,7 +4133,10 @@
         "thinking"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about research on companies that transformed from mediocrity to sustained excellence"
+      "bookDescription": "Book about research on companies that transformed from mediocrity to sustained excellence",
+      "categories": [
+        "Business & Leadership"
+      ]
     },
     {
       "id": 215,
@@ -3349,7 +4152,11 @@
         "wisdom"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about sustainable output through fewer priorities natural pace quality obsession"
+      "bookDescription": "Book about sustainable output through fewer priorities natural pace quality obsession",
+      "categories": [
+        "Productivity & Focus",
+        "Philosophy & Mindfulness"
+      ]
     },
     {
       "id": 216,
@@ -3364,7 +4171,11 @@
         "wisdom"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about c.S. Lewis and Inklings collaborative creative genius influenced each other"
+      "bookDescription": "Book about c.S. Lewis and Inklings collaborative creative genius influenced each other",
+      "categories": [
+        "Creativity & Art",
+        "Classics & Literature"
+      ]
     },
     {
       "id": 217,
@@ -3381,7 +4192,10 @@
         "thinking"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about five common leadership pitfalls destroy teams and organizational success"
+      "bookDescription": "Book about five common leadership pitfalls destroy teams and organizational success",
+      "categories": [
+        "Business & Leadership"
+      ]
     },
     {
       "id": 218,
@@ -3397,7 +4211,11 @@
         "reading"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about building communities that drive brand loyalty and business growth"
+      "bookDescription": "Book about building communities that drive brand loyalty and business growth",
+      "categories": [
+        "Business & Leadership",
+        "Psychology & Relationships"
+      ]
     },
     {
       "id": 219,
@@ -3412,7 +4230,11 @@
         "wisdom"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about biography of Charlie Munger's wisdom investing philosophy and life principles"
+      "bookDescription": "Book about biography of Charlie Munger's wisdom investing philosophy and life principles",
+      "categories": [
+        "Business & Leadership",
+        "Philosophy & Mindfulness"
+      ]
     },
     {
       "id": 220,
@@ -3428,7 +4250,10 @@
         "learning"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about balance competing leadership principles for effective team management success"
+      "bookDescription": "Book about balance competing leadership principles for effective team management success",
+      "categories": [
+        "Business & Leadership"
+      ]
     },
     {
       "id": 221,
@@ -3445,7 +4270,11 @@
         "success"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about charlie Munger's wisdom on mental models investing and rational thinking"
+      "bookDescription": "Book about charlie Munger's wisdom on mental models investing and rational thinking",
+      "categories": [
+        "Business & Leadership",
+        "Philosophy & Mindfulness"
+      ]
     },
     {
       "id": 222,
@@ -3460,7 +4289,11 @@
         "leadership"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about parenting philosophy emphasizing trust respect independence and self-confidence building"
+      "bookDescription": "Book about parenting philosophy emphasizing trust respect independence and self-confidence building",
+      "categories": [
+        "Psychology & Relationships",
+        "Self-help & Growth"
+      ]
     },
     {
       "id": 223,
@@ -3475,7 +4308,11 @@
         "life"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about focused concentration produces valuable work in distracted world achieving excellence"
+      "bookDescription": "Book about focused concentration produces valuable work in distracted world achieving excellence",
+      "categories": [
+        "Productivity & Focus",
+        "Self-help & Growth"
+      ]
     },
     {
       "id": 224,
@@ -3490,7 +4327,11 @@
         "wisdom"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about self-discipline unlocks potential controls fate builds lasting success daily"
+      "bookDescription": "Book about self-discipline unlocks potential controls fate builds lasting success daily",
+      "categories": [
+        "Philosophy & Mindfulness",
+        "Self-help & Growth"
+      ]
     },
     {
       "id": 225,
@@ -3505,7 +4346,10 @@
         "learning"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about playing life as infinite game for continuation"
+      "bookDescription": "Book about playing life as infinite game for continuation",
+      "categories": [
+        "Philosophy & Mindfulness"
+      ]
     },
     {
       "id": 226,
@@ -3521,7 +4365,11 @@
         "love"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about embracing stress enhances performance health and growth resilience"
+      "bookDescription": "Book about embracing stress enhances performance health and growth resilience",
+      "categories": [
+        "Psychology & Relationships",
+        "Self-help & Growth"
+      ]
     },
     {
       "id": 227,
@@ -3536,7 +4384,11 @@
         "wisdom"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about finite time demands choosing what truly matters accepting limitations"
+      "bookDescription": "Book about finite time demands choosing what truly matters accepting limitations",
+      "categories": [
+        "Philosophy & Mindfulness",
+        "Productivity & Focus"
+      ]
     },
     {
       "id": 228,
@@ -3551,7 +4403,11 @@
         "wisdom"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about focus on single most important task eliminates distractions drives success"
+      "bookDescription": "Book about focus on single most important task eliminates distractions drives success",
+      "categories": [
+        "Productivity & Focus",
+        "Self-help & Growth"
+      ]
     },
     {
       "id": 229,
@@ -3566,7 +4422,11 @@
         "wisdom"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about neurosurgeon faces death reflects on life meaning mortality beautifully"
+      "bookDescription": "Book about neurosurgeon faces death reflects on life meaning mortality beautifully",
+      "categories": [
+        "Philosophy & Mindfulness",
+        "Spirituality & Meaning"
+      ]
     },
     {
       "id": 230,
@@ -3581,7 +4441,10 @@
         "wisdom"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about franklin transformed from British subject to American revolutionary icon"
+      "bookDescription": "Book about franklin transformed from British subject to American revolutionary icon",
+      "categories": [
+        "Classics & Literature"
+      ]
     },
     {
       "id": 231,
@@ -3596,7 +4459,11 @@
         "wisdom"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about independent film producing requires passion perseverance and creative problem solving"
+      "bookDescription": "Book about independent film producing requires passion perseverance and creative problem solving",
+      "categories": [
+        "Creativity & Art",
+        "Business & Leadership"
+      ]
     },
     {
       "id": 232,
@@ -3611,7 +4478,11 @@
         "love"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about entrepreneur's journey through extreme wealth success and existential emptiness"
+      "bookDescription": "Book about entrepreneur's journey through extreme wealth success and existential emptiness",
+      "categories": [
+        "Business & Leadership",
+        "Psychology & Relationships"
+      ]
     },
     {
       "id": 233,
@@ -3627,7 +4498,11 @@
         "life"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about philosophical guide to finding meaning purpose during middle age transitions"
+      "bookDescription": "Book about philosophical guide to finding meaning purpose during middle age transitions",
+      "categories": [
+        "Philosophy & Mindfulness",
+        "Psychology & Relationships"
+      ]
     },
     {
       "id": 234,
@@ -3642,7 +4517,11 @@
         "power"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about disciplined pursuit of less but better focusing on what truly matters"
+      "bookDescription": "Book about disciplined pursuit of less but better focusing on what truly matters",
+      "categories": [
+        "Productivity & Focus",
+        "Self-help & Growth"
+      ]
     },
     {
       "id": 235,
@@ -3657,7 +4536,11 @@
         "wisdom"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about zettelkasten note-taking system for better thinking writing and learning"
+      "bookDescription": "Book about zettelkasten note-taking system for better thinking writing and learning",
+      "categories": [
+        "Productivity & Focus",
+        "Self-help & Growth"
+      ]
     },
     {
       "id": 236,
@@ -3672,7 +4555,10 @@
         "wisdom"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about venture capital's exponential returns drive innovation and startup ecosystem growth"
+      "bookDescription": "Book about venture capital's exponential returns drive innovation and startup ecosystem growth",
+      "categories": [
+        "Business & Leadership"
+      ]
     },
     {
       "id": 237,
@@ -3687,7 +4573,11 @@
         "wisdom"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about thoughts shape character circumstances destiny through consistent mental patterns"
+      "bookDescription": "Book about thoughts shape character circumstances destiny through consistent mental patterns",
+      "categories": [
+        "Philosophy & Mindfulness",
+        "Self-help & Growth"
+      ]
     },
     {
       "id": 238,
@@ -3702,7 +4592,11 @@
         "wisdom"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about science-backed strategies for extending lifespan and improving healthspan significantly today"
+      "bookDescription": "Book about science-backed strategies for extending lifespan and improving healthspan significantly today",
+      "categories": [
+        "Science & Nature",
+        "Self-help & Growth"
+      ]
     },
     {
       "id": 239,
@@ -3717,7 +4611,10 @@
         "wisdom"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about leadership motive matters responsibility beats personal reward and ego"
+      "bookDescription": "Book about leadership motive matters responsibility beats personal reward and ego",
+      "categories": [
+        "Business & Leadership"
+      ]
     },
     {
       "id": 240,
@@ -3732,7 +4629,10 @@
         "wisdom"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about will Smith's memoir journey from poverty to superstardom through determination"
+      "bookDescription": "Book about will Smith's memoir journey from poverty to superstardom through determination",
+      "categories": [
+        "Self-help & Growth"
+      ]
     },
     {
       "id": 241,
@@ -3749,7 +4649,11 @@
         "reading"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about practical framework for writing meaningful content with clarity and intention"
+      "bookDescription": "Book about practical framework for writing meaningful content with clarity and intention",
+      "categories": [
+        "Creativity & Art",
+        "Business & Leadership"
+      ]
     },
     {
       "id": 242,
@@ -3765,7 +4669,11 @@
         "thinking"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about share creative process publicly to build audience find opportunities"
+      "bookDescription": "Book about share creative process publicly to build audience find opportunities",
+      "categories": [
+        "Creativity & Art",
+        "Self-help & Growth"
+      ]
     },
     {
       "id": 243,
@@ -3782,7 +4690,11 @@
         "thinking"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about respectful parenting builds responsibility cooperation through encouragement not punishment"
+      "bookDescription": "Book about respectful parenting builds responsibility cooperation through encouragement not punishment",
+      "categories": [
+        "Psychology & Relationships",
+        "Self-help & Growth"
+      ]
     },
     {
       "id": 244,
@@ -3797,7 +4709,10 @@
         "wisdom"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about practical guide for emerging venture capital fund managers today"
+      "bookDescription": "Book about practical guide for emerging venture capital fund managers today",
+      "categories": [
+        "Business & Leadership"
+      ]
     },
     {
       "id": 245,
@@ -3812,7 +4727,11 @@
         "life"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about classic principles for building relationships and influencing others positively daily"
+      "bookDescription": "Book about classic principles for building relationships and influencing others positively daily",
+      "categories": [
+        "Psychology & Relationships",
+        "Self-help & Growth"
+      ]
     },
     {
       "id": 246,
@@ -3827,7 +4746,11 @@
         "success"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about simple evidence-based wealth-building through consistent investing over time"
+      "bookDescription": "Book about simple evidence-based wealth-building through consistent investing over time",
+      "categories": [
+        "Business & Leadership",
+        "Self-help & Growth"
+      ]
     },
     {
       "id": 247,
@@ -3842,7 +4765,11 @@
         "courage"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about Elon Musk's relentless innovation through triumphs and turmoil"
+      "bookDescription": "Book about Elon Musk's relentless innovation through triumphs and turmoil",
+      "categories": [
+        "Business & Leadership",
+        "Self-help & Growth"
+      ]
     },
     {
       "id": 248,
@@ -3858,7 +4785,10 @@
         "leadership"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about seven strategic advantages create lasting competitive moats for businesses"
+      "bookDescription": "Book about seven strategic advantages create lasting competitive moats for businesses",
+      "categories": [
+        "Business & Leadership"
+      ]
     },
     {
       "id": 249,
@@ -3873,7 +4803,10 @@
         "life"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about culture defines organizations more than strategy statements or mission values"
+      "bookDescription": "Book about culture defines organizations more than strategy statements or mission values",
+      "categories": [
+        "Business & Leadership"
+      ]
     },
     {
       "id": 250,
@@ -3888,7 +4821,11 @@
         "learning"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about making better decisions under uncertainty by embracing probabilistic thinking daily"
+      "bookDescription": "Book about making better decisions under uncertainty by embracing probabilistic thinking daily",
+      "categories": [
+        "Business & Leadership",
+        "Psychology & Relationships"
+      ]
     },
     {
       "id": 251,
@@ -3903,7 +4840,11 @@
         "love"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about osho's teachings on fearlessness living authentically beyond social conditioning"
+      "bookDescription": "Book about osho's teachings on fearlessness living authentically beyond social conditioning",
+      "categories": [
+        "Philosophy & Mindfulness",
+        "Self-help & Growth"
+      ]
     },
     {
       "id": 252,
@@ -3918,7 +4859,11 @@
         "wisdom"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about doing creative work by shipping art and trusting"
+      "bookDescription": "Book about doing creative work by shipping art and trusting",
+      "categories": [
+        "Creativity & Art",
+        "Self-help & Growth"
+      ]
     },
     {
       "id": 253,
@@ -3934,7 +4879,11 @@
         "thinking"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about digital note-taking system organizes knowledge amplifies creative thinking output"
+      "bookDescription": "Book about digital note-taking system organizes knowledge amplifies creative thinking output",
+      "categories": [
+        "Productivity & Focus",
+        "Self-help & Growth"
+      ]
     },
     {
       "id": 254,
@@ -3949,7 +4898,10 @@
         "wisdom"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about netflix culture radical candor freedom responsibility over process control"
+      "bookDescription": "Book about netflix culture radical candor freedom responsibility over process control",
+      "categories": [
+        "Business & Leadership"
+      ]
     },
     {
       "id": 255,
@@ -3965,7 +4917,11 @@
         "life"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about accepting human limitations leads to peace productivity and contentment"
+      "bookDescription": "Book about accepting human limitations leads to peace productivity and contentment",
+      "categories": [
+        "Philosophy & Mindfulness",
+        "Self-help & Growth"
+      ]
     },
     {
       "id": 256,
@@ -3980,7 +4936,11 @@
         "reading"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about collected wisdom on wealth and happiness from successful entrepreneur philosopher"
+      "bookDescription": "Book about collected wisdom on wealth and happiness from successful entrepreneur philosopher",
+      "categories": [
+        "Business & Leadership",
+        "Philosophy & Mindfulness"
+      ]
     },
     {
       "id": 257,
@@ -3995,7 +4955,11 @@
         "wisdom"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about aviation pioneers who achieved humanity's first powered flight"
+      "bookDescription": "Book about aviation pioneers who achieved humanity's first powered flight",
+      "categories": [
+        "Classics & Literature",
+        "Business & Leadership"
+      ]
     },
     {
       "id": 258,
@@ -4010,7 +4974,10 @@
         "love"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about inside story of cryptocurrency culture hype and speculative mania"
+      "bookDescription": "Book about inside story of cryptocurrency culture hype and speculative mania",
+      "categories": [
+        "Business & Leadership"
+      ]
     },
     {
       "id": 259,
@@ -4026,7 +4993,11 @@
         "strategy"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about redefining meaningful work beyond traditional career paths and expectations"
+      "bookDescription": "Book about redefining meaningful work beyond traditional career paths and expectations",
+      "categories": [
+        "Business & Leadership",
+        "Self-help & Growth"
+      ]
     },
     {
       "id": 260,
@@ -4043,7 +5014,11 @@
         "success"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about high-performing teams built on safety vulnerability and shared purpose"
+      "bookDescription": "Book about high-performing teams built on safety vulnerability and shared purpose",
+      "categories": [
+        "Business & Leadership",
+        "Psychology & Relationships"
+      ]
     },
     {
       "id": 261,
@@ -4059,7 +5034,10 @@
         "thinking"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about organizational health matters more than strategy intelligence combined always"
+      "bookDescription": "Book about organizational health matters more than strategy intelligence combined always",
+      "categories": [
+        "Business & Leadership"
+      ]
     },
     {
       "id": 262,
@@ -4075,7 +5053,11 @@
         "power"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about ancient warrior codes honor courage and brotherhood inspire modern action"
+      "bookDescription": "Book about ancient warrior codes honor courage and brotherhood inspire modern action",
+      "categories": [
+        "Philosophy & Mindfulness",
+        "Self-help & Growth"
+      ]
     },
     {
       "id": 263,
@@ -4090,7 +5072,11 @@
         "wisdom"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about neuroscience-based strategies for raising emotionally intelligent resilient children daily"
+      "bookDescription": "Book about neuroscience-based strategies for raising emotionally intelligent resilient children daily",
+      "categories": [
+        "Psychology & Relationships",
+        "Self-help & Growth"
+      ]
     },
     {
       "id": 264,
@@ -4105,7 +5091,11 @@
         "wisdom"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about biography of Queen Isabella who unified Spain sponsored Columbus"
+      "bookDescription": "Book about biography of Queen Isabella who unified Spain sponsored Columbus",
+      "categories": [
+        "Classics & Literature",
+        "Women's Empowerment"
+      ]
     },
     {
       "id": 265,
@@ -4120,7 +5110,11 @@
         "success"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about holocaust survivor finds meaning through suffering using logotherapy principles clearly"
+      "bookDescription": "Book about holocaust survivor finds meaning through suffering using logotherapy principles clearly",
+      "categories": [
+        "Philosophy & Mindfulness",
+        "Spirituality & Meaning"
+      ]
     },
     {
       "id": 266,
@@ -4135,7 +5129,10 @@
         "wisdom"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about understanding interpersonal dynamics relationships and human behavior patterns clearly"
+      "bookDescription": "Book about understanding interpersonal dynamics relationships and human behavior patterns clearly",
+      "categories": [
+        "Psychology & Relationships"
+      ]
     },
     {
       "id": 267,
@@ -4150,7 +5147,11 @@
         "wisdom"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about asynchronous communication boosts productivity reduces stress increases deep work"
+      "bookDescription": "Book about asynchronous communication boosts productivity reduces stress increases deep work",
+      "categories": [
+        "Productivity & Focus",
+        "Business & Leadership"
+      ]
     },
     {
       "id": 268,
@@ -4167,7 +5168,10 @@
         "leadership"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about principles of visionary companies that thrive for decades beyond founders"
+      "bookDescription": "Book about principles of visionary companies that thrive for decades beyond founders",
+      "categories": [
+        "Business & Leadership"
+      ]
     },
     {
       "id": 269,
@@ -4182,7 +5186,11 @@
         "learning"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about marcus Aurelius's Stoic philosophy for resilience wisdom and leadership"
+      "bookDescription": "Book about marcus Aurelius's Stoic philosophy for resilience wisdom and leadership",
+      "categories": [
+        "Philosophy & Mindfulness",
+        "Self-help & Growth"
+      ]
     },
     {
       "id": 270,
@@ -4198,7 +5206,11 @@
         "life"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about how to use wealth wisely for happiness purpose fulfillment"
+      "bookDescription": "Book about how to use wealth wisely for happiness purpose fulfillment",
+      "categories": [
+        "Business & Leadership",
+        "Philosophy & Mindfulness"
+      ]
     },
     {
       "id": 271,
@@ -4213,7 +5225,10 @@
         "wisdom"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about building company-building factories that systematically create validate startups"
+      "bookDescription": "Book about building company-building factories that systematically create validate startups",
+      "categories": [
+        "Business & Leadership"
+      ]
     },
     {
       "id": 272,
@@ -4229,7 +5244,10 @@
         "leadership"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about Bill Walsh's standard of performance principles for winning excellence"
+      "bookDescription": "Book about Bill Walsh's standard of performance principles for winning excellence",
+      "categories": [
+        "Business & Leadership"
+      ]
     },
     {
       "id": 273,
@@ -4244,7 +5262,10 @@
         "leadership"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about creating purpose-driven self-managing organizations with new principles"
+      "bookDescription": "Book about creating purpose-driven self-managing organizations with new principles",
+      "categories": [
+        "Business & Leadership"
+      ]
     },
     {
       "id": 274,
@@ -4259,7 +5280,11 @@
         "inspiration"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about constraints and disadvantages can become unexpected competitive advantages surprisingly"
+      "bookDescription": "Book about constraints and disadvantages can become unexpected competitive advantages surprisingly",
+      "categories": [
+        "Business & Leadership",
+        "Self-help & Growth"
+      ]
     },
     {
       "id": 275,
@@ -4274,7 +5299,10 @@
         "business"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about disciplined consistency beats genius in uncertain chaotic business environments"
+      "bookDescription": "Book about disciplined consistency beats genius in uncertain chaotic business environments",
+      "categories": [
+        "Business & Leadership"
+      ]
     },
     {
       "id": 276,
@@ -4291,7 +5319,10 @@
         "success"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about 24-step framework transforms ideas into successful thriving businesses"
+      "bookDescription": "Book about 24-step framework transforms ideas into successful thriving businesses",
+      "categories": [
+        "Business & Leadership"
+      ]
     },
     {
       "id": 277,
@@ -4306,7 +5337,11 @@
         "life"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about dating advice focusing on honesty vulnerability and authentic attraction principles"
+      "bookDescription": "Book about dating advice focusing on honesty vulnerability and authentic attraction principles",
+      "categories": [
+        "Psychology & Relationships",
+        "Self-help & Growth"
+      ]
     },
     {
       "id": 278,
@@ -4323,7 +5358,10 @@
         "success"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about successful companies fail by ignoring disruptive innovations from below"
+      "bookDescription": "Book about successful companies fail by ignoring disruptive innovations from below",
+      "categories": [
+        "Business & Leadership"
+      ]
     },
     {
       "id": 279,
@@ -4340,7 +5378,11 @@
         "success"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about Phil Jackson's mindful leadership philosophy for winning championships"
+      "bookDescription": "Book about Phil Jackson's mindful leadership philosophy for winning championships",
+      "categories": [
+        "Business & Leadership",
+        "Philosophy & Mindfulness"
+      ]
     },
     {
       "id": 280,
@@ -4355,7 +5397,10 @@
         "success"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about historical seduction strategies and psychology for influence and attraction"
+      "bookDescription": "Book about historical seduction strategies and psychology for influence and attraction",
+      "categories": [
+        "Psychology & Relationships"
+      ]
     },
     {
       "id": 281,
@@ -4371,7 +5416,11 @@
         "leadership"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about navigating cultural differences improves global business communication and collaboration"
+      "bookDescription": "Book about navigating cultural differences improves global business communication and collaboration",
+      "categories": [
+        "Business & Leadership",
+        "Psychology & Relationships"
+      ]
     },
     {
       "id": 282,
@@ -4387,7 +5436,11 @@
         "life"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about care personally challenge directly for effective leadership and honest feedback"
+      "bookDescription": "Book about care personally challenge directly for effective leadership and honest feedback",
+      "categories": [
+        "Business & Leadership",
+        "Psychology & Relationships"
+      ]
     },
     {
       "id": 283,
@@ -4403,7 +5456,11 @@
         "love"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about redefining work beyond hustle culture for sustainable fulfilling career"
+      "bookDescription": "Book about redefining work beyond hustle culture for sustainable fulfilling career",
+      "categories": [
+        "Business & Leadership",
+        "Self-help & Growth"
+      ]
     },
     {
       "id": 284,
@@ -4420,7 +5477,11 @@
         "success"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about seven comedy habits for delivering engaging memorable presentations that captivate"
+      "bookDescription": "Book about seven comedy habits for delivering engaging memorable presentations that captivate",
+      "categories": [
+        "Business & Leadership",
+        "Creativity & Art"
+      ]
     },
     {
       "id": 285,
@@ -4436,7 +5497,11 @@
         "thinking"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about deliberate practice principles unlock expert performance in any field"
+      "bookDescription": "Book about deliberate practice principles unlock expert performance in any field",
+      "categories": [
+        "Self-help & Growth",
+        "Productivity & Focus"
+      ]
     },
     {
       "id": 286,
@@ -4451,7 +5516,11 @@
         "wisdom"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about stoic wisdom on overcoming fear acting courageously despite obstacles"
+      "bookDescription": "Book about stoic wisdom on overcoming fear acting courageously despite obstacles",
+      "categories": [
+        "Philosophy & Mindfulness",
+        "Self-help & Growth"
+      ]
     },
     {
       "id": 287,
@@ -4466,7 +5535,11 @@
         "wisdom"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about timeless patterns of human behavior that never change through history"
+      "bookDescription": "Book about timeless patterns of human behavior that never change through history",
+      "categories": [
+        "Psychology & Relationships",
+        "Philosophy & Mindfulness"
+      ]
     },
     {
       "id": 288,
@@ -4483,7 +5556,11 @@
         "strategy"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about historical strategies for gaining maintaining and defending power effectively"
+      "bookDescription": "Book about historical strategies for gaining maintaining and defending power effectively",
+      "categories": [
+        "Business & Leadership",
+        "Psychology & Relationships"
+      ]
     },
     {
       "id": 289,
@@ -4498,7 +5575,11 @@
         "wisdom"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about ten ways to stay creative focused in good and bad"
+      "bookDescription": "Book about ten ways to stay creative focused in good and bad",
+      "categories": [
+        "Creativity & Art",
+        "Self-help & Growth"
+      ]
     },
     {
       "id": 290,
@@ -4515,7 +5596,10 @@
         "leadership"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about amazon's innovative principles for customer-obsessed product development and leadership"
+      "bookDescription": "Book about amazon's innovative principles for customer-obsessed product development and leadership",
+      "categories": [
+        "Business & Leadership"
+      ]
     },
     {
       "id": 291,
@@ -4532,7 +5616,11 @@
         "thinking"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about achieving peak performance by quieting your inner critic"
+      "bookDescription": "Book about achieving peak performance by quieting your inner critic",
+      "categories": [
+        "Self-help & Growth",
+        "Psychology & Relationships"
+      ]
     },
     {
       "id": 292,
@@ -4548,7 +5636,11 @@
         "power"
       ],
       "dateAdded": "2025-10-30",
-      "bookDescription": "Book about individual uniqueness matters more than statistical averages in design"
+      "bookDescription": "Book about individual uniqueness matters more than statistical averages in design",
+      "categories": [
+        "Psychology & Relationships",
+        "Science & Nature"
+      ]
     },
     {
       "id": 293,
@@ -4566,7 +5658,10 @@
         "female"
       ],
       "dateAdded": "2025-11-03",
-      "bookDescription": "Book about humorous self-help guide to overcome doubts and live boldly"
+      "bookDescription": "Book about humorous self-help guide to overcome doubts and live boldly",
+      "categories": [
+        "Self-help & Growth"
+      ]
     },
     {
       "id": 294,
@@ -4584,7 +5679,11 @@
         "female"
       ],
       "dateAdded": "2025-11-03",
-      "bookDescription": "Book about empowering women to take responsibility for their happiness and growth"
+      "bookDescription": "Book about empowering women to take responsibility for their happiness and growth",
+      "categories": [
+        "Women's Empowerment",
+        "Self-help & Growth"
+      ]
     },
     {
       "id": 295,
@@ -4602,7 +5701,11 @@
         "female"
       ],
       "dateAdded": "2025-11-03",
-      "bookDescription": "Book about memoir about breaking free from expectations and embracing authenticity boldly"
+      "bookDescription": "Book about memoir about breaking free from expectations and embracing authenticity boldly",
+      "categories": [
+        "Women's Empowerment",
+        "Self-help & Growth"
+      ]
     }
   ]
 }

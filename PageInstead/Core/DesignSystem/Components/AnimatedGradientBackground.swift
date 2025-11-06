@@ -16,7 +16,7 @@ struct AnimatedGradientBackground: View {
 
     var body: some View {
         ZStack {
-            // Base purple gradient
+            // Base purple gradient - Opus HTML mockup colors
             LinearGradient(
                 colors: [
                     Color(hex: "1a0033"), // Dark purple

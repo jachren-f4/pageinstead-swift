@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "text": "If you’re serious about changing your life, you’ll find a way. If you’re not, you’ll find an excuse.",
+    "author": "Jen Sincero",
+    "bookTitle": "You Are a Badass",
+    "bookId": "you-are-a-badass-jen-sincero",
+    "asin": "B00EXAMPLE1",
+    "coverImageURL": "https://m.media-amazon.com/images/P/B00EXAMPLE1.jpg",
+    "isActive": true,
+    "tags": [
+      "self-help",
+      "empowerment",
+      "mindset"
+    ],
+    "dateAdded": "2025-11-03"
+  },
+  {
+    "id": 2,
+    "text": "You, and only you, are ultimately responsible for who you become and how happy you are.",
+    "author": "Rachel Hollis",
+    "bookTitle": "Girl, Wash Your Face",
+    "bookId": "girl,-wash-your-face-rachel-hollis",
+    "asin": "B077G9D8H1",
+    "coverImageURL": "https://m.media-amazon.com/images/P/B077G9D8H1.jpg",
+    "isActive": true,
+    "tags": [
+      "confidence",
+      "women",
+      "self-worth"
+    ],
+    "dateAdded": "2025-11-03"
+  },
+  {
+    "id": 3,
+    "text": "The braver I am, the luckier I get.",
+    "author": "Glennon Doyle",
+    "bookTitle": "Untamed",
+    "bookId": "untamed-glennon-doyle",
+    "asin": "B084J4QQFT",
+    "coverImageURL": "https://m.media-amazon.com/images/P/B084J4QQFT.jpg",
+    "isActive": true,
+    "tags": [
+      "authenticity",
+      "self-discovery",
+      "freedom"
+    ],
+    "dateAdded": "2025-11-03"
+  }
+]

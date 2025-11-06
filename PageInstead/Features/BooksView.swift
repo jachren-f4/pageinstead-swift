@@ -6,8 +6,9 @@ struct BooksView: View {
 
     var body: some View {
         ZStack {
-            // Animated gradient background
+            // Animated gradient background - extends behind tab bar for iOS 18+ liquid glass effect
             AnimatedGradientBackground.standard()
+                .ignoresSafeArea()
 
             if viewModel.bookmarkedBooks.isEmpty {
                 // Empty state
@@ -16,9 +17,25 @@ struct BooksView: View {
                 // Bookmarks content
                 ScrollView {
                     VStack(spacing: 24) {
-                        // Top spacing to account for fixed header
+                        // Top spacing
                         Spacer()
-                            .frame(height: 120)
+                            .frame(height: 20)
+
+                        // Header - scrollable
+                        VStack(spacing: 12) {
+                            Text("Books")
+                                .font(.system(size: 48, weight: .bold))
+                                .foregroundColor(.white)
+                                .frame(maxWidth: .infinity, alignment: .leading)
+
+                            Text(viewModel.bookmarkedBooks.isEmpty
+                                 ? "Your bookmarked quotes organized by book"
+                                 : "\(viewModel.bookmarkedBooks.count) book\(viewModel.bookmarkedBooks.count == 1 ? "" : "s") bookmarked")
+                                .font(.system(size: 16))
+                                .foregroundColor(.white.opacity(0.7))
+                                .frame(maxWidth: .infinity, alignment: .leading)
+                        }
+                        .padding(.horizontal)
 
                         // Book groups
                         ForEach(viewModel.bookmarkedBooks) { book in
@@ -32,35 +49,11 @@ struct BooksView: View {
                 }
                 .scrollFadeOverlay()
             }
-
-            // Fixed header overlay
-            VStack {
-                VStack(spacing: 12) {
-                    HStack {
-                        Text("Books")
-                            .font(.system(size: 48, weight: .bold))
-                            .foregroundColor(.white)
-
-                        Spacer()
-                    }
-
-                    HStack {
-                        Text(viewModel.bookmarkedBooks.isEmpty
-                             ? "Your bookmarked quotes organized by book"
-                             : "\(viewModel.totalBookmarks) bookmarked quote\(viewModel.totalBookmarks == 1 ? "" : "s") across \(viewModel.bookmarkedBooks.count) book\(viewModel.bookmarkedBooks.count == 1 ? "" : "s")")
-                            .font(.system(size: 16))
-                            .foregroundColor(.white.opacity(0.7))
-
-                        Spacer()
-                    }
-                }
-                .padding(.horizontal)
-                .padding(.top, 5)
-
-                Spacer()
-            }
         }
         .onAppear {
+            viewModel.loadBookmarks()
+        }
+        .onReceive(NotificationCenter.default.publisher(for: NSNotification.Name("BookmarksChanged"))) { _ in
             viewModel.loadBookmarks()
         }
     }
@@ -80,8 +73,8 @@ struct BooksView: View {
 
                     // Title
                     Text("No bookmarks yet")
-                        .font(.system(size: 22, weight: .semibold))
-                        .foregroundColor(.white)
+                        .font(.system(size: 20, weight: .medium))
+                        .foregroundColor(.white.opacity(0.7))
 
                     // Description
                     Text("Tap the bookmark icon on any quote to save it here.\nYour collection of inspiring wisdom will appear on this page.")
@@ -103,12 +96,33 @@ struct BooksView: View {
 
 struct BookGroupCard: View {
     let book: BookmarkedBook
+    @State private var showingRemoveConfirmation = false
 
     var body: some View {
         GlassCard(standard: {
             VStack(spacing: 20) {
-                // Book header
-                bookHeader
+                // Book header with bookmark button
+                HStack(alignment: .top, spacing: 12) {
+                    bookHeader
+
+                    // Bookmark button
+                    Button(action: {
+                        showingRemoveConfirmation = true
+                    }) {
+                        Image(systemName: "bookmark.fill")
+                            .font(.system(size: 20, weight: .medium))
+                            .foregroundColor(Color(red: 1.0, green: 0.84, blue: 0.0))
+                            .frame(width: 44, height: 44)
+                            .background(
+                                RoundedRectangle(cornerRadius: 12)
+                                    .fill(Color(red: 1.0, green: 0.84, blue: 0.0).opacity(0.15))
+                            )
+                            .overlay(
+                                RoundedRectangle(cornerRadius: 12)
+                                    .strokeBorder(Color(red: 1.0, green: 0.84, blue: 0.0).opacity(0.4), lineWidth: 1)
+                            )
+                    }
+                }
 
                 Divider()
                     .background(Color.white.opacity(0.1))
@@ -133,18 +147,26 @@ struct BookGroupCard: View {
                     openAffiliateLink(for: book)
                 }) {
                     Text("Get this book")
-                        .font(.system(size: 15.5, weight: .medium))
-                        .foregroundColor(.white.opacity(0.7))
+                        .font(.system(size: 17.5, weight: .medium))
+                        .foregroundColor(.white)
                         .frame(maxWidth: .infinity)
                         .padding(.vertical, 12)
                         .liquidGlassSoftGhostButton()
                 }
             }
         })
+        .alert("Remove Bookmarks", isPresented: $showingRemoveConfirmation) {
+            Button("Cancel", role: .cancel) { }
+            Button("Remove", role: .destructive) {
+                removeAllBookmarks()
+            }
+        } message: {
+            Text("Remove all \(book.quotes.count) bookmark\(book.quotes.count == 1 ? "" : "s") from \"\(book.title)\"?")
+        }
     }
 
     private var bookHeader: some View {
-        HStack(spacing: 16) {
+        HStack(alignment: .top, spacing: 16) {
             // Book cover
             if let coverURL = book.coverImageURL, let url = URL(string: coverURL) {
                 AsyncImage(url: url) { phase in
@@ -170,40 +192,44 @@ struct BookGroupCard: View {
 
             // Book info
             VStack(alignment: .leading, spacing: 6) {
+                // Title
                 Text(book.title)
                     .font(.system(size: 18, weight: .semibold))
                     .foregroundColor(.white)
+                    .lineLimit(2)
 
+                // Author
                 Text(book.author)
                     .font(.system(size: 14))
-                    .foregroundColor(.white.opacity(0.7))
+                    .foregroundColor(.white.opacity(0.85))
+                    .lineLimit(1)
 
-                // Stats row
-                HStack(spacing: 12) {
-                    HStack(spacing: 6) {
-                        Image(systemName: "bookmark")
-                            .font(.system(size: 12, weight: .medium))
-                            .foregroundColor(.white)
+                // Book description
+                if let description = book.bookDescription {
+                    Text(description)
+                        .font(.system(size: 13))
+                        .foregroundColor(.white.opacity(0.65))
+                        .lineSpacing(2)
+                        .lineLimit(4)
+                        .padding(.top, 2)
+                }
 
-                        Text("\(book.quotes.count) bookmark\(book.quotes.count == 1 ? "" : "s")")
-                            .font(.system(size: 13))
-                            .foregroundColor(.white.opacity(0.6))
-                    }
-
-                    // Category tags
-                    if !book.tags.isEmpty {
-                        Text("•")
-                            .foregroundColor(.white.opacity(0.6))
-                            .font(.system(size: 13))
-
-                        Text(book.tags.first ?? "")
-                            .font(.system(size: 13))
-                            .foregroundColor(.white.opacity(0.6))
-                    }
+                // Category tag (similar to Quote History style)
+                if let category = book.categories.first {
+                    Text(category)
+                        .font(.system(size: 10, weight: .medium))
+                        .foregroundColor(Color(red: 196/255, green: 181/255, blue: 253/255))
+                        .padding(.horizontal, 8)
+                        .padding(.vertical, 3)
+                        .background(
+                            RoundedRectangle(cornerRadius: 4)
+                                .fill(Color(red: 139/255, green: 92/255, blue: 246/255).opacity(0.15))
+                        )
+                        .padding(.top, 2)
                 }
             }
 
-            Spacer()
+            Spacer(minLength: 0)
         }
     }
 
@@ -229,6 +255,29 @@ struct BookGroupCard: View {
         print("🔗 Opening affiliate link for \(book.title): \(url)")
         UIApplication.shared.open(url)
     }
+
+    private func removeAllBookmarks() {
+        // Get all quote IDs for this book
+        let quoteIds = book.quotes.map { $0.id }
+
+        // Load existing bookmarks
+        guard let data = UserDefaults.standard.data(forKey: "bookmarked_quotes"),
+              var bookmarks = try? JSONDecoder().decode(Set<Int>.self, from: data) else {
+            return
+        }
+
+        // Remove all quote IDs for this book
+        quoteIds.forEach { bookmarks.remove($0) }
+
+        // Save updated bookmarks
+        if let updatedData = try? JSONEncoder().encode(bookmarks) {
+            UserDefaults.standard.set(updatedData, forKey: "bookmarked_quotes")
+            print("🔖 Removed \(quoteIds.count) bookmark(s) from \"\(book.title)\"")
+
+            // Notify BooksView to reload
+            NotificationCenter.default.post(name: NSNotification.Name("BookmarksChanged"), object: nil)
+        }
+    }
 }
 
 // MARK: - Quote Item
@@ -240,17 +289,11 @@ struct QuoteItem: View {
 
     var body: some View {
         VStack(alignment: .leading, spacing: 8) {
-            // Quote header
-            HStack {
+            // Quote header - only show if more than 1 quote
+            if total > 1 {
                 Text("QUOTE \(index) OF \(total)")
                     .font(.system(size: 12, weight: .semibold))
                     .foregroundColor(.white.opacity(0.5))
-
-                Spacer()
-
-                Image(systemName: "bookmark")
-                    .font(.system(size: 16))
-                    .foregroundColor(.white)
             }
 
             // Quote text
@@ -264,7 +307,7 @@ struct QuoteItem: View {
         .cornerRadius(12)
         .overlay(
             RoundedRectangle(cornerRadius: 12)
-                .strokeBorder(Color.white.opacity(0.08), lineWidth: 1)
+                .stroke(Color.white.opacity(0.2), lineWidth: 1)
         )
     }
 
@@ -340,6 +383,8 @@ class BooksViewModel: ObservableObject {
                 author: firstQuote.author,
                 asin: firstQuote.asin,
                 coverImageURL: firstQuote.coverImageURL,
+                bookDescription: firstQuote.bookDescription,
+                categories: firstQuote.categories,
                 tags: Array(Set(bookQuotes.flatMap { $0.tags })),
                 quotes: bookQuotes.sorted { $0.id < $1.id }
             )
@@ -370,6 +415,8 @@ struct BookmarkedBook: Identifiable {
     let author: String
     let asin: String?
     let coverImageURL: String?
+    let bookDescription: String?
+    let categories: [String]
     let tags: [String]
     let quotes: [BookQuote]
 }

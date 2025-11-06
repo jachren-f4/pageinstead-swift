@@ -46,15 +46,9 @@ struct CircularProgressRing: View {
 
             // Center content
             if showPercentage {
-                VStack(spacing: 2) {
-                    Text("\(Int(progress * 100))")
-                        .font(.system(size: size * 0.28, weight: .bold, design: .rounded))
-                        .foregroundColor(.white)
-
-                    Text("%")
-                        .font(.system(size: size * 0.12, weight: .semibold))
-                        .foregroundColor(.white.opacity(0.6))
-                }
+                Text("\(Int(progress * 100))%")
+                    .font(.system(size: size * 0.28, weight: .bold, design: .rounded))
+                    .foregroundColor(.white)
             }
         }
         .frame(width: size, height: size)
@@ -87,7 +81,7 @@ extension CircularProgressRing {
         )
     }
 
-    /// Progress ring with focus time gradient (blue-purple)
+    /// Progress ring with solid iOS blue (Opus mockup)
     static func focus(
         progress: Double,
         lineWidth: CGFloat = 8,
@@ -98,8 +92,8 @@ extension CircularProgressRing {
             progress: progress,
             gradient: LinearGradient(
                 colors: [
-                    Color(hex: "4facfe"),
-                    Color(hex: "00f2fe")
+                    Color(hex: "007AFF"), // iOS system blue
+                    Color(hex: "007AFF")  // Solid color (no gradient)
                 ],
                 startPoint: .topLeading,
                 endPoint: .bottomTrailing
@@ -133,7 +127,7 @@ extension CircularProgressRing {
         )
     }
 
-    /// Progress ring with success gradient (green)
+    /// Progress ring with solid green (Opus mockup)
     static func success(
         progress: Double,
         lineWidth: CGFloat = 8,
@@ -144,8 +138,31 @@ extension CircularProgressRing {
             progress: progress,
             gradient: LinearGradient(
                 colors: [
-                    Color(hex: "4ADE80"),
-                    Color(hex: "22C55E")
+                    Color(hex: "4CD964"), // iOS system green
+                    Color(hex: "4CD964")  // Solid color (no gradient)
+                ],
+                startPoint: .topLeading,
+                endPoint: .bottomTrailing
+            ),
+            lineWidth: lineWidth,
+            showPercentage: showPercentage,
+            size: size
+        )
+    }
+
+    /// Progress ring with light purple gradient (for unlock streak)
+    static func streak(
+        progress: Double,
+        lineWidth: CGFloat = 8,
+        showPercentage: Bool = true,
+        size: CGFloat = 100
+    ) -> CircularProgressRing {
+        CircularProgressRing(
+            progress: progress,
+            gradient: LinearGradient(
+                colors: [
+                    Color(hex: "A78BFA"), // Light purple
+                    Color(hex: "8B5CF6")  // Medium purple
                 ],
                 startPoint: .topLeading,
                 endPoint: .bottomTrailing

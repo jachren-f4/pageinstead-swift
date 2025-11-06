@@ -2,7 +2,7 @@ import Foundation
 
 // MARK: - Book Quote Model
 
-struct BookQuote: Codable {
+struct BookQuote: Codable, Identifiable {
     let id: Int
     let text: String
     let author: String
@@ -10,9 +10,11 @@ struct BookQuote: Codable {
     let bookId: String
     let asin: String?
     let coverImageURL: String?
+    let bookDescription: String?
     let isActive: Bool
     let tags: [String]
     let dateAdded: String
+    let categories: [String]
 
     // MARK: - Fallback Quotes (if JSON fails to load)
     static let fallbackQuotes: [BookQuote] = [
@@ -24,9 +26,11 @@ struct BookQuote: Codable {
             bookId: "twain_001",
             asin: "B00IWUKUVE",
             coverImageURL: nil,
+            bookDescription: "Classic collection of Mark Twain's witty humorous writings essays",
             isActive: true,
             tags: ["reading", "education", "wisdom"],
-            dateAdded: "2025-01-29"
+            dateAdded: "2025-01-29",
+            categories: ["Classics & Literature"]
         ),
         BookQuote(
             id: 2,
@@ -36,9 +40,11 @@ struct BookQuote: Codable {
             bookId: "martin_001",
             asin: "B004XISI4A",
             coverImageURL: nil,
+            bookDescription: "Epic fantasy novel continuing the Game of Thrones saga",
             isActive: true,
             tags: ["reading", "life", "imagination"],
-            dateAdded: "2025-01-29"
+            dateAdded: "2025-01-29",
+            categories: ["Classics & Literature"]
         ),
         BookQuote(
             id: 3,
@@ -48,9 +54,11 @@ struct BookQuote: Codable {
             bookId: "hemingway_001",
             asin: "B00P42WY5S",
             coverImageURL: nil,
+            bookDescription: "Hemingway's nonfiction account of African safari hunting adventure experiences",
             isActive: true,
             tags: ["reading", "friendship", "wisdom"],
-            dateAdded: "2025-01-29"
+            dateAdded: "2025-01-29",
+            categories: ["Classics & Literature"]
         ),
         BookQuote(
             id: 4,
@@ -60,9 +68,11 @@ struct BookQuote: Codable {
             bookId: "king_001",
             asin: "B000FC0SIM",
             coverImageURL: nil,
+            bookDescription: "Stephen King's memoir and guide to writing craft success",
             isActive: true,
             tags: ["reading", "magic", "inspiration"],
-            dateAdded: "2025-01-29"
+            dateAdded: "2025-01-29",
+            categories: ["Creativity & Art", "Self-help & Growth"]
         ),
         BookQuote(
             id: 5,
@@ -72,9 +82,11 @@ struct BookQuote: Codable {
             bookId: "rohn_001",
             asin: "B09N1191LJ",
             coverImageURL: nil,
+            bookDescription: "Personal development principles for achieving extraordinary success in life",
             isActive: true,
             tags: ["reading", "motivation", "success"],
-            dateAdded: "2025-01-29"
+            dateAdded: "2025-01-29",
+            categories: ["Self-help & Growth"]
         ),
         BookQuote(
             id: 6,
@@ -84,9 +96,11 @@ struct BookQuote: Codable {
             bookId: "seuss_001",
             asin: "0394839129",
             coverImageURL: nil,
+            bookDescription: "Children's book celebrating reading imagination and limitless learning possibilities",
             isActive: true,
             tags: ["reading", "learning", "education"],
-            dateAdded: "2025-01-29"
+            dateAdded: "2025-01-29",
+            categories: ["Classics & Literature"]
         ),
         BookQuote(
             id: 7,
@@ -96,9 +110,11 @@ struct BookQuote: Codable {
             bookId: "fuller_001",
             asin: "B00A62Y8QO",
             coverImageURL: nil,
+            bookDescription: "Feminist manifesto advocating women's equality intellectual freedom rights",
             isActive: true,
             tags: ["reading", "leadership", "motivation"],
-            dateAdded: "2025-01-29"
+            dateAdded: "2025-01-29",
+            categories: ["Women's Empowerment", "Philosophy & Mindfulness"]
         ),
         BookQuote(
             id: 8,
@@ -108,9 +124,11 @@ struct BookQuote: Codable {
             bookId: "addison_001",
             asin: "B09QBSS8NB",
             coverImageURL: nil,
+            bookDescription: "18th century essays on manners morals society and culture",
             isActive: true,
             tags: ["reading", "mind", "health"],
-            dateAdded: "2025-01-29"
+            dateAdded: "2025-01-29",
+            categories: ["Classics & Literature"]
         ),
         BookQuote(
             id: 9,
@@ -120,9 +138,11 @@ struct BookQuote: Codable {
             bookId: "seuss_002",
             asin: "B077BLF2QW",
             coverImageURL: nil,
+            bookDescription: "Classic children's story about mischievous cat bringing chaos fun",
             isActive: true,
             tags: ["reading", "magic", "relaxation"],
-            dateAdded: "2025-01-29"
+            dateAdded: "2025-01-29",
+            categories: ["Classics & Literature"]
         ),
         BookQuote(
             id: 10,
@@ -132,9 +152,11 @@ struct BookQuote: Codable {
             bookId: "lebowitz_001",
             asin: "B004C43ETY",
             coverImageURL: nil,
+            bookDescription: "Satirical witty essays on modern American life culture society",
             isActive: true,
             tags: ["reading", "wisdom", "thinking"],
-            dateAdded: "2025-01-29"
+            dateAdded: "2025-01-29",
+            categories: ["Philosophy & Mindfulness"]
         )
     ]
 }

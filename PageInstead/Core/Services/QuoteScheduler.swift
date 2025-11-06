@@ -38,7 +38,7 @@ class QuoteScheduler {
     /// - Returns: The quote for that time window
     func getQuote(at date: Date) -> BookQuote {
         let windowIndex = calculateWindowIndex(at: date)
-        let allQuotes = QuoteService.shared.getActiveQuotes()
+        let allQuotes = getFilteredQuotes()
 
         guard !allQuotes.isEmpty else {
             print("⚠️ QuoteScheduler: No active quotes available, using fallback")
@@ -95,6 +95,42 @@ class QuoteScheduler {
         }
 
         return windows
+    }
+
+    // MARK: - Private Filtering Methods
+
+    /// Get quotes filtered by user's selected categories
+    /// - Returns: Array of quotes matching user's category preferences
+    private func getFilteredQuotes() -> [BookQuote] {
+        let allActiveQuotes = QuoteService.shared.getActiveQuotes()
+
+        // Read categories from App Group UserDefaults (accessible by both main app and extensions)
+        guard let appGroupDefaults = UserDefaults(suiteName: "group.com.pageinstead"),
+              let categoriesArray = appGroupDefaults.array(forKey: "book_categories") as? [String],
+              !categoriesArray.isEmpty else {
+            print("📚 QuoteScheduler: No categories selected, using all \(allActiveQuotes.count) quotes")
+            return allActiveQuotes
+        }
+
+        let selectedCategories = Set(categoriesArray)
+
+        // Filter quotes that have at least one matching category
+        let filteredQuotes = allActiveQuotes.filter { quote in
+            // Check if quote has any category that matches user's selection
+            let hasMatchingCategory = quote.categories.contains { category in
+                selectedCategories.contains(category)
+            }
+            return hasMatchingCategory
+        }
+
+        // Safety: if filtered list is empty (shouldn't happen), return all quotes
+        if filteredQuotes.isEmpty {
+            print("⚠️ QuoteScheduler: No quotes match selected categories, using all quotes as fallback")
+            return allActiveQuotes
+        }
+
+        print("📚 QuoteScheduler: Filtered to \(filteredQuotes.count) quotes from \(selectedCategories.count) selected categories")
+        return filteredQuotes
     }
 
     // MARK: - Private Calculation Methods
@@ -164,6 +200,12 @@ class QuoteScheduler {
         let info = getCurrentWindowInfo()
         let secondsSinceStart = getSecondsSinceWindowStart(at: Date())
         let quote = getCurrentQuote()
+        let filteredQuotes = getFilteredQuotes()
+        let totalActiveQuotes = QuoteService.shared.getActiveQuotes().count
+
+        // Read categories from App Group UserDefaults
+        let appGroupDefaults = UserDefaults(suiteName: "group.com.pageinstead")
+        let categoriesArray = appGroupDefaults?.array(forKey: "book_categories") as? [String] ?? []
 
         let dateFormatter = DateFormatter()
         dateFormatter.dateFormat = "HH:mm:ss"
@@ -182,9 +224,13 @@ class QuoteScheduler {
         Text: "\(quote.text)"
         Author: \(quote.author)
         Book: \(quote.bookTitle)
+        Categories: \(quote.categories.joined(separator: ", "))
 
-        Total Active Quotes: \(QuoteService.shared.getActiveQuotes().count)
-        Daily Repetitions: ~\(String(format: "%.2f", 288.0 / Double(QuoteService.shared.getActiveQuotes().count)))
+        Quote Pool:
+        Total Active Quotes: \(totalActiveQuotes)
+        Selected Categories: \(categoriesArray.isEmpty ? "All" : "\(categoriesArray.count)")
+        Filtered Quotes: \(filteredQuotes.count)
+        Daily Repetitions: ~\(String(format: "%.2f", 288.0 / Double(filteredQuotes.count)))
         """
 
         return debug

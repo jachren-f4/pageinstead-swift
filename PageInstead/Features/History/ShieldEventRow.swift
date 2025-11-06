@@ -47,9 +47,11 @@ struct ShieldEventRow_Previews: PreviewProvider {
             bookId: "twain_001",
             asin: "B00IWUKUVE",
             coverImageURL: nil,
+            bookDescription: nil,
             isActive: true,
             tags: ["reading", "education"],
-            dateAdded: "2025-01-29"
+            dateAdded: "2025-01-29",
+            categories: ["Classics & Literature"]
         )
 
         let sampleEvent = ShieldEvent(

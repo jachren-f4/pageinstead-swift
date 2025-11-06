@@ -75,6 +75,23 @@ extension View {
             )
     }
 
+    /// Soft ghost button - ultra minimal with subtle appearance
+    /// 3% background opacity, 10% border, white text
+    /// Perfect for secondary actions that should recede into the background
+    func liquidGlassSoftGhostButton(cornerRadius: CGFloat = 20) -> some View {
+        self
+            .background(
+                RoundedRectangle(cornerRadius: cornerRadius)
+                    .fill(Color.white.opacity(0.03))
+                    .allowsHitTesting(false)
+            )
+            .overlay(
+                RoundedRectangle(cornerRadius: cornerRadius)
+                    .strokeBorder(Color.white.opacity(0.1), lineWidth: 1)
+                    .allowsHitTesting(false)
+            )
+    }
+
     // MARK: - Glass Pills & Badges
 
     /// Small glass pill for tags or badges

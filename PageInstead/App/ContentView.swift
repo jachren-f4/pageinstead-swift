@@ -6,9 +6,15 @@ struct ContentView: View {
     @ObservedObject private var restrictionManager = SelfRestrictionManager.shared
     @State private var isAuthorizing = false
     @State private var selectedTab = 0
-    @State private var showingLockedAlert = false
+    @State private var showingTimerLockSheet = false
     @State private var showingPasscodeEntry = false
-    @State private var showOnboarding = false
+    @State private var showOnboarding: Bool = {
+        #if targetEnvironment(simulator)
+        return false  // Skip onboarding in simulator
+        #else
+        return !OnboardingData.shared.isOnboardingCompleted
+        #endif
+    }()
     @Environment(\.scenePhase) private var scenePhase
 
     var body: some View {
@@ -17,42 +23,46 @@ struct ContentView: View {
                 // Show onboarding flow
                 OnboardingCoordinator(showOnboarding: $showOnboarding)
             } else if screenTimeService.isAuthorized {
-                // Show main app interface with custom Liquid Glass tab bar
-                LiquidGlassTabContainer(
-                    selectedTab: $selectedTab,
-                    items: [
-                        TabBarItem(id: 0, icon: "quote.bubble.fill", label: "Quote"),
-                        TabBarItem(id: 1, icon: "shield.fill", label: "Groups"),
-                        TabBarItem(id: 2, icon: "book.fill", label: "Books"),
-                        TabBarItem(id: 3, icon: "clock.arrow.circlepath", label: "History"),
-                        TabBarItem(id: 4, icon: "gearshape.fill", label: "Settings")
-                    ]
-                ) { tab in
-                    // Display content based on selected tab
-                    Group {
-                        switch tab {
-                        case 0:
-                            CurrentQuoteView()
-                        case 1:
-                            AppGroupsListView()
-                        case 2:
-                            BooksView()
-                        case 3:
-                            QuoteHistoryView()
-                        case 4:
-                            SettingsView(showOnboarding: $showOnboarding)
-                        default:
-                            CurrentQuoteView()
+                // Show main app interface with native iOS 18 TabView
+                // iOS 18+ automatically applies liquid glass styling to TabView
+                TabView(selection: $selectedTab) {
+                    CurrentQuoteView()
+                        .tabItem {
+                            Label("Quote", systemImage: "quote.bubble.fill")
                         }
-                    }
+                        .tag(0)
+
+                    AppGroupsListView()
+                        .tabItem {
+                            Label("Groups", systemImage: "shield.fill")
+                        }
+                        .tag(1)
+
+                    BooksView()
+                        .tabItem {
+                            Label("Books", systemImage: "book.fill")
+                        }
+                        .tag(2)
+
+                    QuoteHistoryView()
+                        .tabItem {
+                            Label("History", systemImage: "clock.arrow.circlepath")
+                        }
+                        .tag(3)
+
+                    SettingsView(showOnboarding: $showOnboarding)
+                        .tabItem {
+                            Label("Settings", systemImage: "gearshape.fill")
+                        }
+                        .tag(4)
                 }
                 .onChange(of: selectedTab) { newValue in
-                    // Check if tabs are locked and trying to navigate away from Current Quote
-                    if newValue != 0 {
+                    // Check if trying to access Settings tab (tag 4)
+                    if newValue == 4 {
                         // Check timer lock first
                         if restrictionManager.areTabsLocked() {
                             selectedTab = 0
-                            showingLockedAlert = true
+                            showingTimerLockSheet = true
                             return
                         }
 
@@ -64,10 +74,11 @@ struct ContentView: View {
                         }
                     }
                 }
-                .alert("Lock Timer Enabled", isPresented: $showingLockedAlert) {
-                    Button("OK", role: .cancel) { }
-                } message: {
-                    Text("Navigation is locked. Time remaining: \(restrictionManager.formattedTimeRemaining())")
+                .fullScreenCover(isPresented: $showingTimerLockSheet) {
+                    TimerLockSheet(
+                        isPresented: $showingTimerLockSheet,
+                        targetName: "Settings"
+                    )
                 }
                 .sheet(isPresented: $showingPasscodeEntry) {
                     PasscodeEntryView(isPresented: $showingPasscodeEntry) {
