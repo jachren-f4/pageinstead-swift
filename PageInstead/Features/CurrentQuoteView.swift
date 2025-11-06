@@ -444,8 +444,8 @@ struct CurrentQuoteView: View {
     // MARK: - Lock Button Handler
 
     private func handleLockButtonTap() {
-        // Check timer lock first
-        if restrictionManager.areTabsLocked() {
+        // Check timer lock first - this will start timer if needed
+        if restrictionManager.shouldActivateTimer() {
             showTimerLockSheet = true
             return
         }

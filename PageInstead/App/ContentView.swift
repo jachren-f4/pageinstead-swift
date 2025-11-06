@@ -59,8 +59,8 @@ struct ContentView: View {
                 .onChange(of: selectedTab) { newValue in
                     // Check if trying to access Settings tab (tag 4)
                     if newValue == 4 {
-                        // Check timer lock first
-                        if restrictionManager.areTabsLocked() {
+                        // Check timer lock first - this will start timer if needed
+                        if restrictionManager.shouldActivateTimer() {
                             selectedTab = 0
                             showingTimerLockSheet = true
                             return

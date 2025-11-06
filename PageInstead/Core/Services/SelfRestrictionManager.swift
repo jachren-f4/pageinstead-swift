@@ -17,6 +17,8 @@ class SelfRestrictionManager: ObservableObject {
     private var timerCancellable: AnyCancellable?
     private let keychainHelper = KeychainHelper.shared
     private let passcodeHasher = PasscodeHasher.shared
+    private var lastTimerInteractionTime: Date?
+    private let timerResetThresholdMinutes: TimeInterval = 30 // Reset timer if no interaction for 30 min
 
     // MARK: - Initialization
     private init() {
@@ -48,14 +50,15 @@ class SelfRestrictionManager: ObservableObject {
 
     // MARK: - Timer Lock
 
-    /// Check and start timer when app launches
+    /// Called when app launches - no longer auto-starts timer
     func onAppLaunch() {
-        guard settings.isTimerLockEnabled else {
+        // Timer now only starts when user tries to access lock button or settings
+        // Just ensure overlay is cleared if feature is disabled
+        if !settings.isTimerLockEnabled {
             showTimerOverlay = false
-            return
+            timerCancellable?.cancel()
+            timerCancellable = nil
         }
-
-        startTimer()
     }
 
     private func startTimer() {
@@ -78,6 +81,37 @@ class SelfRestrictionManager: ObservableObject {
         showTimerOverlay = false
         timerCancellable?.cancel()
         timerCancellable = nil
+    }
+
+    /// Check if timer should be active when user tries to access lock/settings
+    /// Returns true if timer should block access
+    func shouldActivateTimer() -> Bool {
+        guard settings.isTimerLockEnabled else {
+            return false
+        }
+
+        // Check if timer is already running
+        if showTimerOverlay && timerRemainingSeconds > 0 {
+            // Timer is active, update last interaction time
+            lastTimerInteractionTime = Date()
+            return true
+        }
+
+        // Check if enough time has passed since last interaction
+        if let lastInteraction = lastTimerInteractionTime {
+            let timeSinceLastInteraction = Date().timeIntervalSince(lastInteraction)
+            let thresholdSeconds = timerResetThresholdMinutes * 60
+
+            if timeSinceLastInteraction < thresholdSeconds {
+                // Still within 30-minute window, timer should remain active or completed
+                return showTimerOverlay
+            }
+        }
+
+        // Need to start a new timer
+        lastTimerInteractionTime = Date()
+        startTimer()
+        return true
     }
 
     /// Check if tabs should be locked
