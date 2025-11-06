@@ -4,6 +4,7 @@ import SwiftUI
 struct TimerLockSheet: View {
     @Binding var isPresented: Bool
     let targetName: String  // "Unlock Screen" or "Settings"
+    let onTimerComplete: () -> Void  // Called when timer reaches zero
     @ObservedObject private var restrictionManager = SelfRestrictionManager.shared
 
     @State private var timeRemaining: TimeInterval = 0
@@ -137,9 +138,13 @@ struct TimerLockSheet: View {
         timer = Timer.scheduledTimer(withTimeInterval: 0.1, repeats: true) { _ in
             updateTimeRemaining()
 
-            // Auto-dismiss when timer expires
+            // Auto-dismiss when timer expires and navigate to destination
             if timeRemaining <= 0 {
                 isPresented = false
+                // Call completion handler after a brief delay to allow sheet to dismiss
+                DispatchQueue.main.asyncAfter(deadline: .now() + 0.3) {
+                    onTimerComplete()
+                }
             }
         }
     }
@@ -153,6 +158,7 @@ struct TimerLockSheet: View {
 #Preview {
     TimerLockSheet(
         isPresented: .constant(true),
-        targetName: "Unlock Screen"
+        targetName: "Unlock Screen",
+        onTimerComplete: {}
     )
 }

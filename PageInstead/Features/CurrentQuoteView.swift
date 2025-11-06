@@ -333,7 +333,15 @@ struct CurrentQuoteView: View {
         .fullScreenCover(isPresented: $showTimerLockSheet) {
             TimerLockSheet(
                 isPresented: $showTimerLockSheet,
-                targetName: "Unlock Screen"
+                targetName: "Unlock Screen",
+                onTimerComplete: {
+                    // Timer completed, now check passcode and proceed to unlock screen
+                    if restrictionManager.isNavigationLockedByPasscode() {
+                        showPasscodeEntry = true
+                    } else {
+                        showUnlockScreen = true
+                    }
+                }
             )
         }
         .sheet(isPresented: $showPasscodeEntry) {

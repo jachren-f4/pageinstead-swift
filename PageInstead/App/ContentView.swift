@@ -77,13 +77,22 @@ struct ContentView: View {
                 .fullScreenCover(isPresented: $showingTimerLockSheet) {
                     TimerLockSheet(
                         isPresented: $showingTimerLockSheet,
-                        targetName: "Settings"
+                        targetName: "Settings",
+                        onTimerComplete: {
+                            // Timer completed, check passcode and proceed to Settings
+                            if restrictionManager.isNavigationLockedByPasscode() {
+                                showingPasscodeEntry = true
+                            } else {
+                                selectedTab = 4
+                            }
+                        }
                     )
                 }
                 .sheet(isPresented: $showingPasscodeEntry) {
                     PasscodeEntryView(isPresented: $showingPasscodeEntry) {
                         // Passcode verified successfully
-                        // Navigation is now unlocked for this session
+                        // Navigate to Settings tab
+                        selectedTab = 4
                     }
                 }
                 .onAppear {
