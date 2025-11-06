@@ -13,6 +13,10 @@ struct CurrentQuoteView: View {
     @State private var showTimerLockSheet = false
     @State private var showPasscodeEntry = false
 
+    // Tutorial state
+    @State private var showTutorial: Bool = false
+    @State private var showHelp = false
+
     // Particle Dissolve animation state
     @State private var animationOpacity: Double = 1.0
     @State private var animationScale: CGFloat = 1.0
@@ -91,6 +95,7 @@ struct CurrentQuoteView: View {
                             }
                             .scaleEffect(viewModel.bookmarkAnimationScale)
                             .animation(.spring(response: 0.3, dampingFraction: 0.6), value: viewModel.isBookmarked)
+                            .tutorialAnchor(id: "bookmarkButton")
 
                             // Get this book button
                             Button(action: viewModel.openAffiliateLink) {
@@ -176,6 +181,7 @@ struct CurrentQuoteView: View {
                         .brightness(animationBrightness)
                     })
                     .padding(.horizontal)
+                    .tutorialAnchor(id: "quoteCard")
 
                     // Stats cards grid
                     HStack(spacing: 16) {
@@ -242,6 +248,7 @@ struct CurrentQuoteView: View {
                         })
                     }
                     .padding(.horizontal)
+                    .tutorialAnchor(id: "metricsSection")
 
                     // Bottom spacing to allow stats cards to be visible above floating tab bar
                     Spacer(minLength: 120)
@@ -253,17 +260,33 @@ struct CurrentQuoteView: View {
             VStack {
                 HStack {
                     // Help button (top-left)
+                    Button(action: {
+                        showHelp = true
+                    }) {
+                        Image(systemName: "questionmark.circle")
+                            .font(.system(size: 20))
+                            .foregroundColor(.white.opacity(0.6))
+                            .frame(width: 44, height: 44)
+                    }
+
                     Spacer()
 
                     // Lock button (top-right)
                     LockButton(isUnlocked: unlockManager.isUnlocked) {
                         handleLockButtonTap()
                     }
+                    .tutorialAnchor(id: "lockButton")
                 }
                 .padding(.horizontal)
                 .padding(.top, 5)
 
                 Spacer()
+            }
+        }
+        .overlayPreferenceValue(TutorialAnchorKey.self) { anchors in
+            // Tutorial overlay reads preference values here
+            if showTutorial {
+                HybridTutorialOverlay(isPresented: $showTutorial, anchors: anchors)
             }
         }
         .onAppear {
@@ -272,13 +295,23 @@ struct CurrentQuoteView: View {
             QuoteHistoryService.shared.addQuoteView(viewModel.currentQuote)
             // Fallback: Check if date changed (in case monitor didn't fire)
             viewModel.checkStreakDailyFallback()
+
+            // Check if tutorial should be shown
+            checkAndShowTutorial()
         }
         .onReceive(Timer.publish(every: 10, on: .main, in: .common).autoconnect()) { time in
             currentTime = time
             checkAndRefreshQuoteWithAnimation()
         }
+        .onReceive(NotificationCenter.default.publisher(for: Notification.Name("ReplayQuoteTutorial"))) { _ in
+            print("🎓 CurrentQuoteView: Received ReplayQuoteTutorial notification")
+            showTutorial = true
+        }
         .sheet(isPresented: $showUnlockScreen) {
             UnlockScreen()
+        }
+        .sheet(isPresented: $showHelp) {
+            QuoteHelpSheet(showTutorial: $showTutorial)
         }
         .sheet(isPresented: $showHealthScoreDetail) {
             HealthScoreDetailSheet(
@@ -426,6 +459,25 @@ struct CurrentQuoteView: View {
         // No locks active, show unlock screen
         showUnlockScreen = true
     }
+
+    // MARK: - Tutorial Functions
+
+    private func checkAndShowTutorial() {
+        let hasSeenTutorial = UserDefaults.standard.bool(forKey: "hasSeenQuoteTutorial")
+        print("🎓 CurrentQuoteView: Checking tutorial status - hasSeenTutorial: \(hasSeenTutorial)")
+
+        if !hasSeenTutorial {
+            print("🎓 CurrentQuoteView: Tutorial not seen yet, scheduling to show in 1 second")
+            // Show tutorial after a delay to let the view and anchors settle
+            DispatchQueue.main.asyncAfter(deadline: .now() + 1.0) {
+                print("🎓 CurrentQuoteView: Setting showTutorial = true")
+                self.showTutorial = true
+            }
+        } else {
+            print("🎓 CurrentQuoteView: Tutorial already seen, skipping")
+        }
+    }
+
 }
 
 // MARK: - ViewModel

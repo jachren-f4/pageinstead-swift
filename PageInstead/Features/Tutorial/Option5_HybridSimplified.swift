@@ -19,6 +19,9 @@ struct ElementAnchorKey: PreferenceKey {
     }
 }
 
+// NOTE: tutorialAnchor extension commented out to avoid duplicate definition
+// The active implementation is in TutorialAnchorSystem.swift
+/*
 extension View {
     /// Marks this view for tutorial highlighting
     func tutorialAnchor(id: String) -> some View {
@@ -35,6 +38,7 @@ extension View {
         )
     }
 }
+*/
 
 // MARK: - Simplified Tutorial Overlay
 
