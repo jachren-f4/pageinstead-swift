@@ -6,6 +6,7 @@ import SwiftUI
 struct QuoteHistoryView: View {
     @State private var recentWindows: [(time: Date, quote: BookQuote)] = []
     @State private var windowCount: Int = 50 // Show last ~4 hours
+    @State private var selectedQuote: BookQuote?
 
     var body: some View {
         ZStack {
@@ -17,6 +18,9 @@ struct QuoteHistoryView: View {
             } else {
                 historyListView
             }
+        }
+        .sheet(item: $selectedQuote) { quote in
+            QuoteDetailSheet(quote: quote)
         }
         .onAppear {
             loadRecentQuotes()
@@ -66,8 +70,8 @@ struct QuoteHistoryView: View {
             VStack(spacing: 24) {
                 // Header
                 HStack {
-                    Text("Quote History")
-                        .font(.system(size: 42, weight: .bold))
+                    Text("History")
+                        .font(.system(size: 48, weight: .bold))
                         .foregroundColor(.white)
 
                     Spacer()
@@ -89,10 +93,6 @@ struct QuoteHistoryView: View {
                 .padding(.horizontal)
                 .padding(.top, 60)
 
-                // Info header
-                infoHeaderView
-                    .padding(.horizontal)
-
                 // Window list
                 VStack(spacing: 20) {
                     ForEach(Array(groupedByDay.keys.sorted(by: >)), id: \.self) { dateString in
@@ -106,7 +106,9 @@ struct QuoteHistoryView: View {
                             // Quotes for this day
                             VStack(spacing: 1) {
                                 ForEach(groupedByDay[dateString] ?? [], id: \.time) { window in
-                                    WindowRow(time: window.time, quote: window.quote)
+                                    WindowRow(time: window.time, quote: window.quote) {
+                                        selectedQuote = window.quote
+                                    }
                                 }
                             }
                             .background(Color.white.opacity(0.04))
@@ -123,67 +125,6 @@ struct QuoteHistoryView: View {
 
                 Spacer(minLength: 80)
             }
-        }
-    }
-
-    // MARK: - Info Header
-    private var infoHeaderView: some View {
-        HStack(spacing: 16) {
-            // Recent Windows count
-            VStack(alignment: .leading, spacing: 8) {
-                Image(systemName: "clock.arrow.circlepath")
-                    .font(.system(size: 24))
-                    .foregroundColor(Color(hex: "6CC8FF"))
-
-                Spacer()
-
-                VStack(alignment: .leading, spacing: 4) {
-                    Text("\(recentWindows.count)")
-                        .font(.system(size: 32, weight: .bold))
-                        .foregroundColor(.white)
-
-                    Text("windows")
-                        .font(.system(size: 13, weight: .medium))
-                        .foregroundColor(.white.opacity(0.6))
-                }
-            }
-            .frame(maxWidth: .infinity, alignment: .leading)
-            .padding(20)
-            .background(Color.white.opacity(0.06))
-            .background(.ultraThinMaterial)
-            .cornerRadius(20)
-            .overlay(
-                RoundedRectangle(cornerRadius: 20)
-                    .stroke(Color.white.opacity(0.08), lineWidth: 1)
-            )
-
-            // Time Duration
-            VStack(alignment: .leading, spacing: 8) {
-                Image(systemName: "timer")
-                    .font(.system(size: 24))
-                    .foregroundColor(Color(hex: "6CC8FF"))
-
-                Spacer()
-
-                VStack(alignment: .leading, spacing: 4) {
-                    Text("~\(windowCount * 5)")
-                        .font(.system(size: 32, weight: .bold))
-                        .foregroundColor(.white)
-
-                    Text("minutes")
-                        .font(.system(size: 13, weight: .medium))
-                        .foregroundColor(.white.opacity(0.6))
-                }
-            }
-            .frame(maxWidth: .infinity, alignment: .leading)
-            .padding(20)
-            .background(Color.white.opacity(0.06))
-            .background(.ultraThinMaterial)
-            .cornerRadius(20)
-            .overlay(
-                RoundedRectangle(cornerRadius: 20)
-                    .stroke(Color.white.opacity(0.08), lineWidth: 1)
-            )
         }
     }
 
@@ -226,9 +167,11 @@ struct QuoteHistoryView: View {
 struct WindowRow: View {
     let time: Date
     let quote: BookQuote
+    let onTap: () -> Void
 
     var body: some View {
-        HStack(alignment: .center, spacing: 16) {
+        Button(action: onTap) {
+            HStack(alignment: .center, spacing: 16) {
             // Time
             VStack(alignment: .leading, spacing: 2) {
                 Text(time, style: .time)
@@ -279,10 +222,11 @@ struct WindowRow: View {
             }
 
             Spacer(minLength: 0)
+            }
+            .padding(.vertical, 16)
+            .padding(.horizontal, 20)
         }
-        .padding(.vertical, 16)
-        .padding(.horizontal, 20)
-        .contentShape(Rectangle())
+        .buttonStyle(.plain)
     }
 }
 
