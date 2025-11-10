@@ -3,6 +3,7 @@ import SwiftUI
 /// Books screen showing all bookmarked quotes grouped by book
 struct BooksView: View {
     @StateObject private var viewModel = BooksViewModel()
+    @Environment(\.scenePhase) private var scenePhase
 
     var body: some View {
         ZStack {
@@ -39,7 +40,7 @@ struct BooksView: View {
 
                         // Book groups
                         ForEach(viewModel.bookmarkedBooks) { book in
-                            BookGroupCard(book: book)
+                            BookGroupCard(book: book, scenePhase: scenePhase)
                                 .padding(.horizontal)
                         }
 
@@ -96,6 +97,7 @@ struct BooksView: View {
 
 struct BookGroupCard: View {
     let book: BookmarkedBook
+    let scenePhase: ScenePhase
     @State private var showingRemoveConfirmation = false
 
     var body: some View {
@@ -168,27 +170,21 @@ struct BookGroupCard: View {
     private var bookHeader: some View {
         HStack(alignment: .top, spacing: 16) {
             // Book cover
-            if let coverURL = book.coverImageURL, let url = URL(string: coverURL) {
-                AsyncImage(url: url) { phase in
-                    switch phase {
-                    case .empty:
-                        bookCoverPlaceholder
-                    case .success(let image):
-                        image
-                            .resizable()
-                            .aspectRatio(contentMode: .fit)
-                            .frame(width: 80, height: 120)
-                            .cornerRadius(8)
-                            .shadow(color: .black.opacity(0.4), radius: 8)
-                    case .failure:
-                        bookCoverPlaceholder
-                    @unknown default:
-                        bookCoverPlaceholder
-                    }
+            CachedAsyncImage(
+                url: book.coverImageURL.flatMap { URL(string: $0) },
+                content: { image in
+                    image
+                        .resizable()
+                        .aspectRatio(contentMode: .fit)
+                        .frame(width: 80, height: 120)
+                        .cornerRadius(8)
+                        .shadow(color: .black.opacity(0.4), radius: 8)
+                },
+                placeholder: {
+                    bookCoverPlaceholder
                 }
-            } else {
-                bookCoverPlaceholder
-            }
+            )
+            .reloadOnAppear(scenePhase: scenePhase)
 
             // Book info
             VStack(alignment: .leading, spacing: 6) {

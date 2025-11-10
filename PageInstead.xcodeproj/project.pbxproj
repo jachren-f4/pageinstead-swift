@@ -25,6 +25,7 @@
 		26C638072F9A15F6B430573D /* OnboardingButtonStyles.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E8FF41CB6C4E92407715ADC /* OnboardingButtonStyles.swift */; };
 		26D1E4FFC8B3296298788FA0 /* OnboardingOptionButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 138213D945E98DC6657E9609 /* OnboardingOptionButton.swift */; };
 		270F0C2CD71F104E14753DDE /* quotes.json in Resources */ = {isa = PBXBuildFile; fileRef = D2111186955160EA92DCF67A /* quotes.json */; };
+		E16B0BFE87084669A008548D /* video.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = E87B9320E0C9432B850D2025 /* video.mp4 */; };
 		2BA889CC160244F2DD82C6F2 /* DeviceActivity.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4ED9FF1DC53014EEA9FBFB06 /* DeviceActivity.framework */; };
 		302D87B4A4C4EE14590B0B14 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C7153A9A32D33285F8F7221E /* Foundation.framework */; };
 		31F57B356491446E28C6B211 /* OnboardingScreen3_HowItWorks.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3C7584680C1B46DF85E67079 /* OnboardingScreen3_HowItWorks.swift */; };
@@ -76,6 +77,7 @@
 		A099EA6174100716321509EC /* AppGroup.swift in Sources */ = {isa = PBXBuildFile; fileRef = 624AF587B80044E0A7F99949 /* AppGroup.swift */; };
 		A539D2635A7326DB7BD4AB4A /* AppGroup.swift in Sources */ = {isa = PBXBuildFile; fileRef = 624AF587B80044E0A7F99949 /* AppGroup.swift */; };
 		A652E6F1934796726F0FC854 /* CategorySelectionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 38FE20A6F7FE7F28D6A8A107 /* CategorySelectionView.swift */; };
+		8C2317C92C054024B159B6E2 /* FairUseAttributionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B0F4F8C525074857B8C76B93 /* FairUseAttributionView.swift */; };
 		A9E0CC53070DB9451DE8CA6D /* BiometricAuthService.swift in Sources */ = {isa = PBXBuildFile; fileRef = B6810D16ED9B7BAD138C20E0 /* BiometricAuthService.swift */; };
 		ACEFC82ECAEC7E509F939540 /* DeviceActivityMonitorExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = B280B3A24BB2498659A05BE6 /* DeviceActivityMonitorExtension.swift */; };
 		AECED8F9FCFD6B31706D3616 /* LiquidGlassTabBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6ABA01FCD30BF5B2051AA837 /* LiquidGlassTabBar.swift */; };
@@ -188,6 +190,7 @@
 		316BA05F26081CAFB7C952F9 /* PasscodeEntryView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = PasscodeEntryView.swift; sourceTree = "<group>"; };
 		387D10C5E3E5B9D294B0AD42 /* PermissionDialogMockup.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = PermissionDialogMockup.swift; sourceTree = "<group>"; };
 		38FE20A6F7FE7F28D6A8A107 /* CategorySelectionView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = CategorySelectionView.swift; sourceTree = "<group>"; };
+		B0F4F8C525074857B8C76B93 /* FairUseAttributionView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = FairUseAttributionView.swift; sourceTree = "<group>"; };
 		39074A85C796E9C0D050FF42 /* ScrollFadeOverlay.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = ScrollFadeOverlay.swift; sourceTree = "<group>"; };
 		395BB210AFFF40B2539A0D9D /* FamilyControls.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = FamilyControls.framework; sourceTree = "<group>"; };
 		3C359D55F882AEF137209DCC /* UnlockScreen.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = UnlockScreen.swift; sourceTree = "<group>"; };
@@ -254,6 +257,7 @@
 		CFADE3A5F21327801B0CC33B /* HealthScoreDetailSheet.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = HealthScoreDetailSheet.swift; sourceTree = "<group>"; };
 		D0CBA4223F3F1807952A07D0 /* AppGroupManager.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = AppGroupManager.swift; sourceTree = "<group>"; };
 		D2111186955160EA92DCF67A /* quotes.json */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.json; path = quotes.json; sourceTree = "<group>"; };
+		E87B9320E0C9432B850D2025 /* video.mp4 */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = file; path = video.mp4; sourceTree = "<group>"; };
 		D6E64B332315BCF41E0C52FF /* OnboardingCategoryChip.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = OnboardingCategoryChip.swift; sourceTree = "<group>"; };
 		D969EA577D06F4762520DD7F /* QuoteScheduler.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = QuoteScheduler.swift; sourceTree = "<group>"; };
 		DA0E1A3FE7BC2EDFE76F669A /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -409,6 +413,7 @@
 				7B9BCC542C6C58451F07D987 /* Components */,
 				0F3AD96822485AC2FE83D930 /* Passcode */,
 				38FE20A6F7FE7F28D6A8A107 /* CategorySelectionView.swift */,
+				B0F4F8C525074857B8C76B93 /* FairUseAttributionView.swift */,
 			);
 			path = Settings;
 			sourceTree = "<group>";
@@ -678,6 +683,7 @@
 			isa = PBXGroup;
 			children = (
 				D2111186955160EA92DCF67A /* quotes.json */,
+				E87B9320E0C9432B850D2025 /* video.mp4 */,
 				102A42A2D0BB11702003E5AF /* affiliate-config.json */,
 			);
 			name = Assets;
@@ -819,6 +825,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				270F0C2CD71F104E14753DDE /* quotes.json in Resources */,
+				E16B0BFE87084669A008548D /* video.mp4 in Resources */,
 				25C6C45CB08549A063E1D774 /* affiliate-config.json in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -837,7 +844,8 @@
 				6CD77B4B384F51AFBCA35424 /* Assets.xcassets in Resources */,
 				C9F9E0363EA1D7849CE11FDD /* quotes.json in Resources */,
 				8A4239F818A8D84804EFDEA4 /* affiliate-config.json in Resources */,
-			);
+			
+				E16B0BFE87084669A008548D /* video.mp4 in Resources */,);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
@@ -955,6 +963,7 @@
 				78DF5D0311AD7B4E2C47E407 /* HealthScoreDetailSheet.swift in Sources */,
 				CBAE53A5B4A50764F94CA19E /* StreakDetailSheet.swift in Sources */,
 				A652E6F1934796726F0FC854 /* CategorySelectionView.swift in Sources */,
+				8C2317C92C054024B159B6E2 /* FairUseAttributionView.swift in Sources */,
 				C6CB3D89EC9E85CEE31D91BB /* PermissionDialogMockup.swift in Sources */,
 				CA7A6055C4511ED7BAE0A514 /* QuoteDetailSheet.swift in Sources */,
 			);

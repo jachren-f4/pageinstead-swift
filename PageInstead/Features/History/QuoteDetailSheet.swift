@@ -5,6 +5,7 @@ import SwiftUI
 struct QuoteDetailSheet: View {
     let quote: BookQuote
     @Environment(\.dismiss) private var dismiss
+    @Environment(\.scenePhase) private var scenePhase
     @State private var isBookmarked: Bool = false
     @State private var bookmarkAnimationScale: CGFloat = 1.0
 
@@ -88,23 +89,21 @@ struct QuoteDetailSheet: View {
                     .padding(.horizontal)
 
                     // Book cover
-                    if let coverURL = quote.coverImageURL, let url = URL(string: coverURL) {
-                        AsyncImage(url: url) { phase in
-                            switch phase {
-                            case .success(let image):
-                                image
-                                    .resizable()
-                                    .aspectRatio(contentMode: .fit)
-                                    .frame(width: 120, height: 180)
-                                    .cornerRadius(8)
-                                    .shadow(color: .black.opacity(0.4), radius: 20, y: 10)
-                            default:
-                                bookCoverPlaceholder
-                            }
+                    CachedAsyncImage(
+                        url: quote.coverImageURL.flatMap { URL(string: $0) },
+                        content: { image in
+                            image
+                                .resizable()
+                                .aspectRatio(contentMode: .fit)
+                                .frame(width: 120, height: 180)
+                                .cornerRadius(8)
+                                .shadow(color: .black.opacity(0.4), radius: 20, y: 10)
+                        },
+                        placeholder: {
+                            bookCoverPlaceholder
                         }
-                    } else {
-                        bookCoverPlaceholder
-                    }
+                    )
+                    .reloadOnAppear(scenePhase: scenePhase)
 
                     // Quote card
                     VStack(spacing: 16) {

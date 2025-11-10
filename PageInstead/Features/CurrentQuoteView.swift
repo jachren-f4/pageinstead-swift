@@ -6,6 +6,7 @@ struct CurrentQuoteView: View {
     @StateObject private var viewModel = CurrentQuoteViewModel()
     @StateObject private var unlockManager = UnlockManager.shared
     @ObservedObject private var restrictionManager = SelfRestrictionManager.shared
+    @Environment(\.scenePhase) private var scenePhase
     @State private var currentTime = Date()
     @State private var showUnlockScreen = false
     @State private var showHealthScoreDetail = false
@@ -16,6 +17,8 @@ struct CurrentQuoteView: View {
     // Tutorial state
     @State private var showTutorial: Bool = false
     @State private var showHelp = false
+    @State private var tutorialScrollProxy: ScrollViewProxy? = nil
+    @State private var tutorialCurrentStep: Int = 0
 
     // Particle Dissolve animation state
     @State private var animationOpacity: Double = 1.0
@@ -63,11 +66,13 @@ struct CurrentQuoteView: View {
             AnimatedGradientBackground.standard()
                 .ignoresSafeArea()
 
-            ScrollView {
-                VStack(spacing: 24) {
-                    // Top spacing to account for fixed lock button
-                    Spacer()
-                        .frame(height: 60)
+            ScrollViewReader { proxy in
+                ScrollView {
+                    VStack(spacing: 24) {
+                        // Top spacing to account for fixed lock button
+                        Spacer()
+                            .frame(height: 60)
+                            .id("topSpacer")
 
                     // Scrollable header: "Quote" title and action buttons
                     HStack(alignment: .center) {
@@ -126,32 +131,23 @@ struct CurrentQuoteView: View {
                             // Book attribution
                             HStack(spacing: 16) {
                                 // Book cover (tap to preview animation)
-                                if let coverURL = viewModel.currentQuote.coverImageURL, let url = URL(string: coverURL) {
-                                    AsyncImage(url: url) { phase in
-                                        switch phase {
-                                        case .empty:
-                                            bookCoverPlaceholder
-                                        case .success(let image):
-                                            image
-                                                .resizable()
-                                                .aspectRatio(contentMode: .fit)
-                                                .frame(width: 60, height: 90)
-                                                .cornerRadius(8)
-                                                .shadow(color: .black.opacity(0.4), radius: 8)
-                                        case .failure:
-                                            bookCoverPlaceholder
-                                        @unknown default:
-                                            bookCoverPlaceholder
-                                        }
+                                CachedAsyncImage(
+                                    url: viewModel.currentQuote.coverImageURL.flatMap { URL(string: $0) },
+                                    content: { image in
+                                        image
+                                            .resizable()
+                                            .aspectRatio(contentMode: .fit)
+                                            .frame(width: 60, height: 90)
+                                            .cornerRadius(8)
+                                            .shadow(color: .black.opacity(0.4), radius: 8)
+                                    },
+                                    placeholder: {
+                                        bookCoverPlaceholder
                                     }
-                                    .onTapGesture {
-                                        triggerAnimationPreview()
-                                    }
-                                } else {
-                                    bookCoverPlaceholder
-                                        .onTapGesture {
-                                            triggerAnimationPreview()
-                                        }
+                                )
+                                .reloadOnAppear(scenePhase: scenePhase)
+                                .onTapGesture {
+                                    triggerAnimationPreview()
                                 }
 
                                 // Book details
@@ -249,12 +245,17 @@ struct CurrentQuoteView: View {
                     }
                     .padding(.horizontal)
                     .tutorialAnchor(id: "metricsSection")
+                    .id("metricsSection")
 
                     // Bottom spacing to allow stats cards to be visible above floating tab bar
                     Spacer(minLength: 120)
                 }
+                .onAppear {
+                    tutorialScrollProxy = proxy
+                }
             }
             .scrollFadeOverlay()
+            }
 
             // Fixed lock button and help button overlay (top corners)
             VStack {
@@ -286,7 +287,14 @@ struct CurrentQuoteView: View {
         .overlayPreferenceValue(TutorialAnchorKey.self) { anchors in
             // Tutorial overlay reads preference values here
             if showTutorial {
-                HybridTutorialOverlay(isPresented: $showTutorial, anchors: anchors)
+                HybridTutorialOverlay(
+                    isPresented: $showTutorial,
+                    anchors: anchors,
+                    currentStep: $tutorialCurrentStep,
+                    onStepChange: { step in
+                        handleTutorialStepChange(step: step)
+                    }
+                )
             }
         }
         .onAppear {
@@ -483,6 +491,23 @@ struct CurrentQuoteView: View {
             }
         } else {
             print("🎓 CurrentQuoteView: Tutorial already seen, skipping")
+        }
+    }
+
+    private func handleTutorialStepChange(step: Int) {
+        print("🎓 CurrentQuoteView: Tutorial step changed to \(step)")
+        tutorialCurrentStep = step
+
+        // Step 3 is the metricsSection (0-indexed, so step 3 is the 4th tooltip)
+        if step == 3 {
+            print("🎓 CurrentQuoteView: Scrolling to metricsSection for step 4")
+            // Scroll to ensure metrics section has enough clearance above tab bar
+            // Use smooth animation and delay slightly to ensure smooth transition
+            DispatchQueue.main.asyncAfter(deadline: .now() + 0.15) {
+                withAnimation(.easeInOut(duration: 0.4)) {
+                    tutorialScrollProxy?.scrollTo("metricsSection", anchor: .center)
+                }
+            }
         }
     }
 

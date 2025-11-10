@@ -98,8 +98,12 @@ class ScreenTimeService: ObservableObject {
         // in ShieldAction extension
 
         let excludedCount = allAppTokens.count - filteredAppTokens.count
-        if excludedCount > 0 {
-            print("✅ ScreenTimeService: Shields applied - \(filteredAppTokens.count) apps (\(excludedCount) unlocked), \(filteredWebTokens.count) domains")
+        let excludedDomainsCount = allWebTokens.count - filteredWebTokens.count
+
+        if excludedCount > 0 || excludedDomainsCount > 0 {
+            print("✅ ScreenTimeService: Shields applied - \(filteredAppTokens.count) apps (\(excludedCount) unlocked), \(filteredWebTokens.count) domains (\(excludedDomainsCount) unlocked)")
+            print("   Unlocked apps: \(unlockedApps)")
+            print("   Unlocked domains: \(unlockedDomains)")
         } else {
             print("✅ ScreenTimeService: Shields applied for \(groups.count) group(s) - \(filteredAppTokens.count) apps, \(filteredWebTokens.count) domains")
         }

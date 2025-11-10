@@ -82,10 +82,7 @@ struct AppGroupRulesView: View {
         }
         .familyActivityPicker(
             isPresented: $isPickerPresented,
-            selection: Binding(
-                get: { group.selection },
-                set: { group.selection = $0 }
-            )
+            selection: $group.selection
         )
         .alert("Edit Group Name", isPresented: $showNameAlert) {
             TextField("Group Name", text: $editedName)
@@ -125,7 +122,7 @@ struct AppGroupRulesView: View {
                 .foregroundColor(Color(hex: "6CC8FF"))
             }
 
-            Text("Group Rules")
+            Text(group.name)
                 .font(.system(size: 34, weight: .bold))
                 .foregroundColor(.white)
         }

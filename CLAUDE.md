@@ -81,10 +81,21 @@
 - Apps in ONE group only (conflict detection)
 - Timestamp-based pause (not live countdown - Shield is stateless)
 
+### App Group Cards
+- Use `Label(token).labelStyle(.iconOnly)` to display real app icons
+- **NO programmatic access** to bundle IDs or app names (privacy by design)
+- Show max 5 icons, then "+X" badge for remainder
+- Convert Set to Array for iteration: `Array(tokens.prefix(maxCount))`
+
 ### DeviceActivityMonitor
 - Daily reset at midnight (`intervalDidEnd`)
 - Streak calculation: yesterday=increment, today=unchanged, missed=reset
 - Keys: `usage_{groupID}_{token}_{date}`, `pause_{groupID}_{token}`
+
+### SwiftUI State Pattern
+- Nested struct property changes (e.g., `group.selection = X` modifying `applicationTokens`) don't trigger `@State` updates
+- Pattern: Use direct `$group.selection` binding for FamilyActivityPicker (SwiftUI handles updates automatically)
+- Location: AppGroupRulesView.swift:85 (FamilyActivityPicker binding)
 
 ## Design System
 
@@ -161,6 +172,20 @@
 - Session-based (resets on background)
 - Simulator bypass: "0000"
 
+## Tutorial
+
+### Quote Screen Tutorial
+- **4-step overlay** on first launch (quoteCard → bookmark → lock → metrics)
+- **Step 4 auto-scrolls** metrics to center (prevents tooltip behind tab bar)
+- Pattern: ScrollViewReader + `.id("metricsSection")` + step change callback
+- Location: `PageInstead/Features/Tutorial/HybridTutorialOverlay.swift`
+
+### Implementation Requirements
+- Tutorial overlay needs `@Binding var currentStep` + `onStepChange: (Int) -> Void`
+- Parent view must capture `ScrollViewProxy` via `ScrollViewReader`
+- Scrollable elements need `.id()` for targeting
+- Step 4 triggers: 0.15s delay → 0.4s scroll to center
+
 ## Onboarding
 
 ### Trigger
@@ -192,6 +217,30 @@
 - Screen 11: Use scene phase detection (`.onChange(of: scenePhase)`)
 - **ALWAYS include `bookDescription: nil`** in preview BookQuote inits
 
+## Video Onboarding (Screen 1)
+
+### Critical Rules
+- **Video file MUST be in main PageInstead target** - NOT in extension targets
+- Check Resources build phase if video doesn't load
+- Current video: `PageInstead/Resources/video.mp4` (27MB, H.264/AAC)
+
+### VideoPlayerView Implementation
+- **ALWAYS set frame in BOTH places**:
+  1. `makeUIView`: `DispatchQueue.main.async { playerLayer.frame = view.bounds }`
+  2. `updateUIView`: `playerLayer.frame = uiView.bounds; uiView.layoutIfNeeded()`
+- Missing `layoutIfNeeded()` = zero-size frame = video plays but invisible
+- Use `videoGravity = .resizeAspectFill` for full coverage
+
+### Design Pattern
+- Gradient veil (150px, 4-stop gradient) fades video → purple background
+- Text in separate ZStack layer on top (not behind)
+- Video takes top 50% of screen height
+
+### Common Issues
+- **Video not showing but playing (rate: 1.0)**: Missing frame setup in `updateUIView`
+- **Video not found**: Check it's in main app target, not ShieldConfiguration
+- **Black screen**: playerLayer frame = .zero, add `layoutIfNeeded()`
+
 ## Common Issues
 
 ### Build & Setup
@@ -213,6 +262,7 @@
 - **Text wrapping**: Add `.lineLimit(1)` + `.fixedSize(horizontal: true, vertical: false)`
 - **Tab bar not transparent**: Missing `.ignoresSafeArea()` on backgrounds
 - **CategorySelectionView pattern**: Everything in single ScrollView with bottom padding (140pt). DON'T use overlapping ZStack layers or safeAreaInset
+- **Tutorial tooltips cut off**: Missing ScrollViewReader + scroll callback in tutorial overlay invocation
 
 ### Data & State
 - **Bookmarks not syncing**: Call `checkBookmarkStatus()` on init/quote change
@@ -221,6 +271,12 @@
 - **Pause doesn't break streak**: Missing hook in UnlockMonitorService (lines 183, 223)
 - **Groups not persisting**: Check App Group entitlements
 - **Streaks not updating**: Only DeviceActivityMonitor updates at midnight
+- **App count not updating in Group Rules**: Use direct `$group.selection` binding (not custom Binding with setter) - SwiftUI handles nested struct updates automatically
+
+### Quotes
+- **Category imbalance**: Now resolved - most categories have 30+ quotes
+- **Adding new quotes**: Always use next sequential ID (current max: 369), never skip numbers
+- **File size concern**: 369 quotes = ~290KB, still performant (can scale to 1000+)
 
 ### Quotes & Animation
 - **Quote not refreshing**: Add `.id(quote.id)` to Text view and `objectWillChange.send()` before updating @Published quote property
@@ -236,6 +292,31 @@
 - **Stuck at 75%**: In 3-day calibration period
 - **Not counting**: Shield Extension must increment in `configuration(shielding:)`
 - **Not updating**: Check install_date >24h, verify calibration complete
+
+### Unlock & Shield
+- **Direct shield removal fails**: NEVER set `store.shield.applications = nil` directly in UnlockManager
+- **Correct pattern**: Write to `temporarily_unlocked_apps` in App Groups, then call `ScreenTimeService.shared.refreshShields()`
+- **Why**: ScreenTimeService auto-reapplies shields via Combine subscriber - must use filtering exclusion pattern
+- **Both unlock flows use same mechanism**: Manual unlock (UnlockManager) and pause timer unlock (UnlockMonitorService)
+- **Re-lock**: Clear temporary unlock keys from App Groups, then `refreshShields()`
+
+## Image Loading
+
+### Implementation Rules
+- Use `CachedAsyncImage` NOT `AsyncImage` for book covers
+- ALWAYS pass `scenePhase` to child components using images
+- Pattern: `.reloadOnAppear(scenePhase: scenePhase)` after CachedAsyncImage
+- ImageLoader `url` property MUST be internal (for CachedAsyncImage access)
+
+### iOS 16/17 Compatibility
+- `onChange(of:initial:_:)` requires iOS 17+ check
+- Use older `onChange(of:_:)` API for iOS 16 fallback
+- Location: PageInsteadApp.swift:212-235
+
+### Common Errors
+- **"cannot find 'scenePhase'"**: Add `@Environment(\.scenePhase) private var scenePhase` to parent view
+- **"call to main actor-isolated deinit"**: Use `nonisolated deinit` for ImageLoader
+- **Images fail after background**: Check `.reloadOnAppear(scenePhase:)` is present
 
 ## Build Commands
 
@@ -258,6 +339,7 @@ Core:
 - PageInstead/Core/Services/AppGroupManager.swift
 - PageInstead/Core/Services/HealthScoreService.swift
 - PageInstead/Core/Services/UnlockReminderService.swift
+- PageInstead/App/PageInsteadApp.swift (ImageLoader at lines 37-236)
 
 Metrics:
 - PageInstead/Core/Services/StreakService.swift
@@ -270,7 +352,17 @@ Views:
 - PageInstead/Features/History/QuoteHistoryView.swift
 - PageInstead/Features/History/QuoteDetailSheet.swift
 - PageInstead/Features/Settings/SettingsView.swift
+- PageInstead/Features/Settings/FairUseAttributionView.swift
 - PageInstead/Features/AppGroups/AppGroupsListView.swift
+
+Tutorial:
+- PageInstead/Features/Tutorial/HybridTutorialOverlay.swift
+- PageInstead/Features/Tutorial/QuoteHelpSheet.swift
+
+Unlock:
+- PageInstead/Features/UnlockAppsView.swift (UnlockManager at lines 106-193)
+- PageInstead/Features/UnlockScreen.swift (full-screen UI)
+- PageInstead/Core/Services/UnlockMonitorService.swift (pause timer unlocks)
 
 Onboarding:
 - PageInstead/Features/Onboarding/OnboardingCoordinator.swift
@@ -290,5 +382,17 @@ Design:
 - PageInstead/Core/DesignSystem/Components/GlassCard.swift
 
 Data:
-- PageInstead/Resources/quotes.json
+- PageInstead/Resources/quotes.json (369 quotes as of 2025-11-10)
 ```
+
+## Quote Library Status
+
+**Current:** 369 quotes from 147+ books (as of 2025-11-10)
+- 8/10 categories have 30+ quotes ✅
+- Science & Nature (24) and Spirituality & Meaning (24) slightly under goal
+
+**Adding Quotes:**
+- IDs must be sequential (current max: 369)
+- All quotes need: id, text, author, bookTitle, bookId, asin, coverImageURL, isActive, tags[], dateAdded, bookDescription, categories[]
+- Update `lastUpdated` field when modifying quotes.json
+- File location: `PageInstead/Resources/quotes.json`

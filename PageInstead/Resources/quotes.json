@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2025-11-03",
+  "lastUpdated": "2025-11-10",
   "quotes": [
     {
       "id": 1,
@@ -565,8 +565,8 @@
     },
     {
       "id": 30,
-      "text": "ask yourself this question: If I could complete only one task today before taking a month off, what would that task be? You’ll notice that your most important tasks are often the ones you want to do the least.",
-      "author": "thibaut  meurisse",
+      "text": "ask yourself this question: If I could complete only one task today before taking a month off, what would that task be? You'll notice that your most important tasks are often the ones you want to do the least.",
+      "author": "Thibaut Meurisse",
       "bookTitle": "Dopamine Detox",
       "bookId": "thibaut__meurisse_8629",
       "asin": "B098MHBF23",
@@ -3559,8 +3559,8 @@
     },
     {
       "id": 185,
-      "text": "Whenever you check your email, you’re expecting a reward, which could be a message from a friend or some exciting news.",
-      "author": "thibaut  meurisse",
+      "text": "Whenever you check your email, you're expecting a reward, which could be a message from a friend or some exciting news.",
+      "author": "Thibaut Meurisse",
       "bookTitle": "Dopamine Detox",
       "bookId": "thibaut__meurisse_8629",
       "asin": "B098MHBF23",
@@ -5705,6 +5705,1480 @@
       "categories": [
         "Women's Empowerment",
         "Self-help & Growth"
+      ]
+    },
+    {
+      "id": 296,
+      "text": "And, when you want something, all the universe conspires in helping you to achieve it.",
+      "author": "Paulo Coelho",
+      "bookTitle": "The Alchemist",
+      "bookId": "paulo_coelho_alchemist",
+      "asin": "B000FCKC4C",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B000FCKC4C.jpg",
+      "isActive": true,
+      "tags": [
+        "inspiration",
+        "dreams"
+      ],
+      "dateAdded": "2025-11-10",
+      "bookDescription": "Book about a shepherd's journey to find treasure and discover his personal legend",
+      "categories": [
+        "Spirituality & Meaning",
+        "Self-help & Growth"
+      ]
+    },
+    {
+      "id": 297,
+      "text": "There is only one thing that makes a dream impossible to achieve: the fear of failure.",
+      "author": "Paulo Coelho",
+      "bookTitle": "The Alchemist",
+      "bookId": "paulo_coelho_alchemist",
+      "asin": "B000FCKC4C",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B000FCKC4C.jpg",
+      "isActive": true,
+      "tags": [
+        "courage",
+        "fear"
+      ],
+      "dateAdded": "2025-11-10",
+      "bookDescription": "Book about a shepherd's journey to find treasure and discover his personal legend",
+      "categories": [
+        "Spirituality & Meaning",
+        "Self-help & Growth"
+      ]
+    },
+    {
+      "id": 298,
+      "text": "Everything can be taken from a man but one thing: the last of the human freedoms—to choose one's attitude in any given set of circumstances, to choose one's own way.",
+      "author": "Viktor E. Frankl",
+      "bookTitle": "Man's Search for Meaning",
+      "bookId": "viktor_frankl_meaning",
+      "asin": "B009U9S6FI",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B009U9S6FI.jpg",
+      "isActive": true,
+      "tags": [
+        "freedom",
+        "choice"
+      ],
+      "dateAdded": "2025-11-10",
+      "bookDescription": "Book about finding purpose in suffering through experiences in Nazi concentration camps",
+      "categories": [
+        "Spirituality & Meaning",
+        "Philosophy & Mindfulness"
+      ]
+    },
+    {
+      "id": 299,
+      "text": "Between stimulus and response there is a space. In that space is our power to choose our response.",
+      "author": "Viktor E. Frankl",
+      "bookTitle": "Man's Search for Meaning",
+      "bookId": "viktor_frankl_meaning",
+      "asin": "B009U9S6FI",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B009U9S6FI.jpg",
+      "isActive": true,
+      "tags": [
+        "choice",
+        "wisdom"
+      ],
+      "dateAdded": "2025-11-10",
+      "bookDescription": "Book about finding purpose in suffering through experiences in Nazi concentration camps",
+      "categories": [
+        "Spirituality & Meaning",
+        "Philosophy & Mindfulness"
+      ]
+    },
+    {
+      "id": 300,
+      "text": "Becoming isn't about arriving somewhere or achieving a certain aim. I see it instead as forward motion, a means of evolving, a way to reach continuously toward a better self. The journey doesn't end.",
+      "author": "Michelle Obama",
+      "bookTitle": "Becoming",
+      "bookId": "michelle_obama_becoming",
+      "asin": "B0773HNPLP",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B0773HNPLP.jpg",
+      "isActive": true,
+      "tags": [
+        "growth",
+        "journey"
+      ],
+      "dateAdded": "2025-11-10",
+      "bookDescription": "Book about Michelle Obama's journey from Chicago's South Side to the White House",
+      "categories": [
+        "Women's Empowerment",
+        "Self-help & Growth"
+      ]
+    },
+    {
+      "id": 301,
+      "text": "If you don't get out there and define yourself, you'll be quickly and inaccurately defined by others.",
+      "author": "Michelle Obama",
+      "bookTitle": "Becoming",
+      "bookId": "michelle_obama_becoming",
+      "asin": "B0773HNPLP",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B0773HNPLP.jpg",
+      "isActive": true,
+      "tags": [
+        "identity",
+        "authenticity"
+      ],
+      "dateAdded": "2025-11-10",
+      "bookDescription": "Book about Michelle Obama's journey from Chicago's South Side to the White House",
+      "categories": [
+        "Women's Empowerment",
+        "Self-help & Growth"
+      ]
+    },
+    {
+      "id": 302,
+      "text": "When a woman finally learns that pleasing the world is impossible, she becomes free to learn how to please herself.",
+      "author": "Glennon Doyle",
+      "bookTitle": "Untamed",
+      "bookId": "glennon_doyle_untamed",
+      "asin": "B07YFF7FQD",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B07YFF7FQD.jpg",
+      "isActive": true,
+      "tags": [
+        "freedom",
+        "authenticity"
+      ],
+      "dateAdded": "2025-11-10",
+      "bookDescription": "Book about breaking free from expectations and finding your authentic self",
+      "categories": [
+        "Women's Empowerment",
+        "Self-help & Growth"
+      ]
+    },
+    {
+      "id": 303,
+      "text": "This life is mine alone, so I have stopped asking people for directions to places they've never been.",
+      "author": "Glennon Doyle",
+      "bookTitle": "Untamed",
+      "bookId": "glennon_doyle_untamed",
+      "asin": "B07YFF7FQD",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B07YFF7FQD.jpg",
+      "isActive": true,
+      "tags": [
+        "independence",
+        "self-trust"
+      ],
+      "dateAdded": "2025-11-10",
+      "bookDescription": "Book about breaking free from expectations and finding your authentic self",
+      "categories": [
+        "Women's Empowerment",
+        "Self-help & Growth"
+      ]
+    },
+    {
+      "id": 304,
+      "text": "Every action you take is a vote for the type of person you wish to become. No single instance will transform your beliefs, but as the votes build up, so does the evidence of your new identity.",
+      "author": "James Clear",
+      "bookTitle": "Atomic Habits",
+      "bookId": "james_clear_atomic_habits",
+      "asin": "B07D23CFGR",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B07D23CFGR.jpg",
+      "isActive": true,
+      "tags": [
+        "habits",
+        "identity"
+      ],
+      "dateAdded": "2025-11-10",
+      "bookDescription": "Book about building good habits and breaking bad ones through tiny changes",
+      "categories": [
+        "Productivity & Focus",
+        "Self-help & Growth"
+      ]
+    },
+    {
+      "id": 305,
+      "text": "You do not rise to the level of your goals. You fall to the level of your systems.",
+      "author": "James Clear",
+      "bookTitle": "Atomic Habits",
+      "bookId": "james_clear_atomic_habits",
+      "asin": "B07D23CFGR",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B07D23CFGR.jpg",
+      "isActive": true,
+      "tags": [
+        "systems",
+        "success"
+      ],
+      "dateAdded": "2025-11-10",
+      "bookDescription": "Book about building good habits and breaking bad ones through tiny changes",
+      "categories": [
+        "Productivity & Focus",
+        "Self-help & Growth"
+      ]
+    },
+    {
+      "id": 306,
+      "text": "A meaningful life can be extremely satisfying even in the midst of hardship, whereas a meaningless life is a terrible ordeal no matter how comfortable it is.",
+      "author": "Yuval Noah Harari",
+      "bookTitle": "Sapiens",
+      "bookId": "yuval_harari_sapiens",
+      "asin": "B00ICN066A",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B00ICN066A.jpg",
+      "isActive": true,
+      "tags": [
+        "meaning",
+        "wisdom"
+      ],
+      "dateAdded": "2025-11-10",
+      "bookDescription": "Book about the history of humankind from the Stone Age to modern times",
+      "categories": [
+        "Science & Nature",
+        "Philosophy & Mindfulness"
+      ]
+    },
+    {
+      "id": 307,
+      "text": "We study history not to know the future but to widen our horizons, to understand that our present situation is neither natural nor inevitable, and that we consequently have many more possibilities before us than we imagine.",
+      "author": "Yuval Noah Harari",
+      "bookTitle": "Sapiens",
+      "bookId": "yuval_harari_sapiens",
+      "asin": "B00ICN066A",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B00ICN066A.jpg",
+      "isActive": true,
+      "tags": [
+        "wisdom",
+        "possibility"
+      ],
+      "dateAdded": "2025-11-10",
+      "bookDescription": "Book about the history of humankind from the Stone Age to modern times",
+      "categories": [
+        "Science & Nature",
+        "Philosophy & Mindfulness"
+      ]
+    },
+    {
+      "id": 308,
+      "text": "There is a stubbornness about me that never can bear to be frightened at the will of others. My courage always rises at every attempt to intimidate me.",
+      "author": "Jane Austen",
+      "bookTitle": "Pride and Prejudice",
+      "bookId": "jane_austen_pride",
+      "asin": "B08TWZFDNR",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B08TWZFDNR.jpg",
+      "isActive": true,
+      "tags": [
+        "courage",
+        "strength"
+      ],
+      "dateAdded": "2025-11-10",
+      "bookDescription": "Book about love, class, and character in Regency England",
+      "categories": [
+        "Classics & Literature"
+      ]
+    },
+    {
+      "id": 309,
+      "text": "Vanity and pride are different things, though the words are often used synonymously. A person may be proud without being vain. Pride relates more to our opinion of ourselves, vanity to what we would have others think of us.",
+      "author": "Jane Austen",
+      "bookTitle": "Pride and Prejudice",
+      "bookId": "jane_austen_pride",
+      "asin": "B08TWZFDNR",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B08TWZFDNR.jpg",
+      "isActive": true,
+      "tags": [
+        "wisdom",
+        "self-awareness"
+      ],
+      "dateAdded": "2025-11-10",
+      "bookDescription": "Book about love, class, and character in Regency England",
+      "categories": [
+        "Classics & Literature"
+      ]
+    },
+    {
+      "id": 310,
+      "text": "Knowledge can be communicated, but not wisdom. One can find it, live it, do wonders through it, but one cannot communicate and teach it.",
+      "author": "Hermann Hesse",
+      "bookTitle": "Siddhartha",
+      "bookId": "hermann_hesse_siddhartha",
+      "asin": "B09V23W9FG",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B09V23W9FG.jpg",
+      "isActive": true,
+      "tags": [
+        "wisdom",
+        "enlightenment"
+      ],
+      "dateAdded": "2025-11-10",
+      "bookDescription": "Book about a spiritual journey to enlightenment in ancient India",
+      "categories": [
+        "Spirituality & Meaning",
+        "Philosophy & Mindfulness"
+      ]
+    },
+    {
+      "id": 311,
+      "text": "I think it is only important to love the world, not to despise it, not for us to hate each other, but to be able to regard the world and ourselves and all beings with love, admiration and respect.",
+      "author": "Hermann Hesse",
+      "bookTitle": "Siddhartha",
+      "bookId": "hermann_hesse_siddhartha",
+      "asin": "B09V23W9FG",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B09V23W9FG.jpg",
+      "isActive": true,
+      "tags": [
+        "love",
+        "compassion"
+      ],
+      "dateAdded": "2025-11-10",
+      "bookDescription": "Book about a spiritual journey to enlightenment in ancient India",
+      "categories": [
+        "Spirituality & Meaning",
+        "Philosophy & Mindfulness"
+      ]
+    },
+    {
+      "id": 312,
+      "text": "Realize deeply that the present moment is all you have. Make the NOW the primary focus of your life.",
+      "author": "Eckhart Tolle",
+      "bookTitle": "The Power of Now",
+      "bookId": "eckhart_tolle_power_now",
+      "asin": "B00GPTJ77K",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B00GPTJ77K.jpg",
+      "isActive": true,
+      "tags": [
+        "mindfulness",
+        "presence"
+      ],
+      "dateAdded": "2025-11-10",
+      "bookDescription": "Book about spiritual enlightenment through living in the present moment",
+      "categories": [
+        "Spirituality & Meaning",
+        "Philosophy & Mindfulness"
+      ]
+    },
+    {
+      "id": 313,
+      "text": "It is not uncommon for people to spend their whole life waiting to start living.",
+      "author": "Eckhart Tolle",
+      "bookTitle": "The Power of Now",
+      "bookId": "eckhart_tolle_power_now",
+      "asin": "B00GPTJ77K",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B00GPTJ77K.jpg",
+      "isActive": true,
+      "tags": [
+        "awareness",
+        "action"
+      ],
+      "dateAdded": "2025-11-10",
+      "bookDescription": "Book about spiritual enlightenment through living in the present moment",
+      "categories": [
+        "Spirituality & Meaning",
+        "Philosophy & Mindfulness"
+      ]
+    },
+    {
+      "id": 314,
+      "text": "My life was narrated for me by others. Their voices were forceful, emphatic, absolute. It had never occurred to me that my voice might be as strong as theirs.",
+      "author": "Tara Westover",
+      "bookTitle": "Educated",
+      "bookId": "tara_westover_educated",
+      "asin": "B072BLVM83",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B072BLVM83.jpg",
+      "isActive": true,
+      "tags": [
+        "voice",
+        "empowerment"
+      ],
+      "dateAdded": "2025-11-10",
+      "bookDescription": "Book about self-invention through education despite an isolated upbringing",
+      "categories": [
+        "Women's Empowerment",
+        "Self-help & Growth"
+      ]
+    },
+    {
+      "id": 315,
+      "text": "An education is not so much about making a living as making a person.",
+      "author": "Tara Westover",
+      "bookTitle": "Educated",
+      "bookId": "tara_westover_educated",
+      "asin": "B072BLVM83",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B072BLVM83.jpg",
+      "isActive": true,
+      "tags": [
+        "education",
+        "growth"
+      ],
+      "dateAdded": "2025-11-10",
+      "bookDescription": "Book about self-invention through education despite an isolated upbringing",
+      "categories": [
+        "Women's Empowerment",
+        "Self-help & Growth"
+      ]
+    },
+    {
+      "id": 316,
+      "text": "What would you do if you weren't afraid?",
+      "author": "Sheryl Sandberg",
+      "bookTitle": "Lean In",
+      "bookId": "sheryl_sandberg_lean_in",
+      "asin": "B009LMTDL0",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B009LMTDL0.jpg",
+      "isActive": true,
+      "tags": [
+        "courage",
+        "fear"
+      ],
+      "dateAdded": "2025-11-10",
+      "bookDescription": "Book about women, work, and the will to lead in professional settings",
+      "categories": [
+        "Women's Empowerment",
+        "Business & Leadership"
+      ]
+    },
+    {
+      "id": 317,
+      "text": "Done is better than perfect.",
+      "author": "Sheryl Sandberg",
+      "bookTitle": "Lean In",
+      "bookId": "sheryl_sandberg_lean_in",
+      "asin": "B009LMTDL0",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B009LMTDL0.jpg",
+      "isActive": true,
+      "tags": [
+        "action",
+        "productivity"
+      ],
+      "dateAdded": "2025-11-10",
+      "bookDescription": "Book about women, work, and the will to lead in professional settings",
+      "categories": [
+        "Women's Empowerment",
+        "Business & Leadership"
+      ]
+    },
+    {
+      "id": 318,
+      "text": "The problem with gender is that it prescribes how we should be rather than recognizing how we are.",
+      "author": "Chimamanda Ngozi Adichie",
+      "bookTitle": "We Should All Be Feminists",
+      "bookId": "adichie_feminists",
+      "asin": "B00L0F01KG",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B00L0F01KG.jpg",
+      "isActive": true,
+      "tags": [
+        "feminism",
+        "identity"
+      ],
+      "dateAdded": "2025-11-10",
+      "bookDescription": "Book about why we all need feminism adapted from a viral TED talk",
+      "categories": [
+        "Women's Empowerment",
+        "Philosophy & Mindfulness"
+      ]
+    },
+    {
+      "id": 319,
+      "text": "A feminist is a man or a woman who says, yes, there's a problem with gender as it is today and we must fix it, we must do better.",
+      "author": "Chimamanda Ngozi Adichie",
+      "bookTitle": "We Should All Be Feminists",
+      "bookId": "adichie_feminists",
+      "asin": "B00L0F01KG",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B00L0F01KG.jpg",
+      "isActive": true,
+      "tags": [
+        "feminism",
+        "equality"
+      ],
+      "dateAdded": "2025-11-10",
+      "bookDescription": "Book about why we all need feminism adapted from a viral TED talk",
+      "categories": [
+        "Women's Empowerment",
+        "Philosophy & Mindfulness"
+      ]
+    },
+    {
+      "id": 320,
+      "text": "I would rather be a bad feminist than no feminist at all.",
+      "author": "Roxane Gay",
+      "bookTitle": "Bad Feminist",
+      "bookId": "roxane_gay_bad_feminist",
+      "asin": "B00IOBT9X4",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B00IOBT9X4.jpg",
+      "isActive": true,
+      "tags": [
+        "feminism",
+        "authenticity"
+      ],
+      "dateAdded": "2025-11-10",
+      "bookDescription": "Book about embracing imperfect feminism through cultural criticism and personal essays",
+      "categories": [
+        "Women's Empowerment",
+        "Philosophy & Mindfulness"
+      ]
+    },
+    {
+      "id": 321,
+      "text": "Salvation is certainly among the reasons I read. Reading and writing have always pulled me out of the darkest experiences in my life.",
+      "author": "Roxane Gay",
+      "bookTitle": "Bad Feminist",
+      "bookId": "roxane_gay_bad_feminist",
+      "asin": "B00IOBT9X4",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B00IOBT9X4.jpg",
+      "isActive": true,
+      "tags": [
+        "reading",
+        "healing"
+      ],
+      "dateAdded": "2025-11-10",
+      "bookDescription": "Book about embracing imperfect feminism through cultural criticism and personal essays",
+      "categories": [
+        "Women's Empowerment",
+        "Philosophy & Mindfulness"
+      ]
+    },
+    {
+      "id": 322,
+      "text": "Sometimes all that's needed to lift women up is to stop pulling them down.",
+      "author": "Melinda French Gates",
+      "bookTitle": "The Moment of Lift",
+      "bookId": "melinda_gates_lift",
+      "asin": "B07GMLVTLZ",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B07GMLVTLZ.jpg",
+      "isActive": true,
+      "tags": [
+        "empowerment",
+        "equality"
+      ],
+      "dateAdded": "2025-11-10",
+      "bookDescription": "Book about how empowering women changes the world through global health initiatives",
+      "categories": [
+        "Women's Empowerment",
+        "Business & Leadership"
+      ]
+    },
+    {
+      "id": 323,
+      "text": "Whenever you include a group that's been excluded, you benefit everyone.",
+      "author": "Melinda French Gates",
+      "bookTitle": "The Moment of Lift",
+      "bookId": "melinda_gates_lift",
+      "asin": "B07GMLVTLZ",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B07GMLVTLZ.jpg",
+      "isActive": true,
+      "tags": [
+        "inclusion",
+        "equity"
+      ],
+      "dateAdded": "2025-11-10",
+      "bookDescription": "Book about how empowering women changes the world through global health initiatives",
+      "categories": [
+        "Women's Empowerment",
+        "Business & Leadership"
+      ]
+    },
+    {
+      "id": 324,
+      "text": "You never really understand a person until you consider things from his point of view... Until you climb inside of his skin and walk around in it.",
+      "author": "Harper Lee",
+      "bookTitle": "To Kill a Mockingbird",
+      "bookId": "harper_lee_mockingbird",
+      "asin": "B00K0OI42W",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B00K0OI42W.jpg",
+      "isActive": true,
+      "tags": [
+        "empathy",
+        "understanding"
+      ],
+      "dateAdded": "2025-11-10",
+      "bookDescription": "Book about justice, morality, and empathy in the racially divided American South",
+      "categories": [
+        "Classics & Literature",
+        "Philosophy & Mindfulness"
+      ]
+    },
+    {
+      "id": 325,
+      "text": "I wanted you to see what real courage is, instead of getting the idea that courage is a man with a gun in his hand. It's when you know you're licked before you begin, but you begin anyway and see it through no matter what.",
+      "author": "Harper Lee",
+      "bookTitle": "To Kill a Mockingbird",
+      "bookId": "harper_lee_mockingbird",
+      "asin": "B00K0OI42W",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B00K0OI42W.jpg",
+      "isActive": true,
+      "tags": [
+        "courage",
+        "perseverance"
+      ],
+      "dateAdded": "2025-11-10",
+      "bookDescription": "Book about justice, morality, and empathy in the racially divided American South",
+      "categories": [
+        "Classics & Literature",
+        "Philosophy & Mindfulness"
+      ]
+    },
+    {
+      "id": 326,
+      "text": "Perhaps one did not want to be loved so much as to be understood.",
+      "author": "George Orwell",
+      "bookTitle": "1984",
+      "bookId": "george_orwell_1984",
+      "asin": "B003JTHWKU",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B003JTHWKU.jpg",
+      "isActive": true,
+      "tags": [
+        "understanding",
+        "connection"
+      ],
+      "dateAdded": "2025-11-10",
+      "bookDescription": "Book about totalitarianism and the struggle for truth in a dystopian future",
+      "categories": [
+        "Classics & Literature",
+        "Philosophy & Mindfulness"
+      ]
+    },
+    {
+      "id": 327,
+      "text": "Freedom is the freedom to say that two plus two make four. If that is granted, all else follows.",
+      "author": "George Orwell",
+      "bookTitle": "1984",
+      "bookId": "george_orwell_1984",
+      "asin": "B003JTHWKU",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B003JTHWKU.jpg",
+      "isActive": true,
+      "tags": [
+        "freedom",
+        "truth"
+      ],
+      "dateAdded": "2025-11-10",
+      "bookDescription": "Book about totalitarianism and the struggle for truth in a dystopian future",
+      "categories": [
+        "Classics & Literature",
+        "Philosophy & Mindfulness"
+      ]
+    },
+    {
+      "id": 328,
+      "text": "So we beat on, boats against the current, borne back ceaselessly into the past.",
+      "author": "F. Scott Fitzgerald",
+      "bookTitle": "The Great Gatsby",
+      "bookId": "fitzgerald_gatsby",
+      "asin": "B000FC0PDA",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B000FC0PDA.jpg",
+      "isActive": true,
+      "tags": [
+        "perseverance",
+        "nostalgia"
+      ],
+      "dateAdded": "2025-11-10",
+      "bookDescription": "Book about the American Dream and moral emptiness in the Jazz Age",
+      "categories": [
+        "Classics & Literature"
+      ]
+    },
+    {
+      "id": 329,
+      "text": "Whenever you feel like criticizing any one, just remember that all the people in this world haven't had the advantages that you've had.",
+      "author": "F. Scott Fitzgerald",
+      "bookTitle": "The Great Gatsby",
+      "bookId": "fitzgerald_gatsby",
+      "asin": "B000FC0PDA",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B000FC0PDA.jpg",
+      "isActive": true,
+      "tags": [
+        "empathy",
+        "privilege"
+      ],
+      "dateAdded": "2025-11-10",
+      "bookDescription": "Book about the American Dream and moral emptiness in the Jazz Age",
+      "categories": [
+        "Classics & Literature"
+      ]
+    },
+    {
+      "id": 330,
+      "text": "You can't ever reach perfection, but you can believe in an asymptote toward which you are ceaselessly striving.",
+      "author": "Paul Kalanithi",
+      "bookTitle": "When Breath Becomes Air",
+      "bookId": "paul_kalanithi_breath",
+      "asin": "B00XSSYR50",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B00XSSYR50.jpg",
+      "isActive": true,
+      "tags": [
+        "growth",
+        "excellence"
+      ],
+      "dateAdded": "2025-11-10",
+      "bookDescription": "Book about life, death, and meaning from a neurosurgeon facing terminal cancer",
+      "categories": [
+        "Spirituality & Meaning",
+        "Philosophy & Mindfulness"
+      ]
+    },
+    {
+      "id": 331,
+      "text": "Science may provide the most useful way to organize empirical, reproducible data, but its power to do so is predicated on its inability to grasp the most central aspects of human life: hope, fear, love, hate, beauty, envy, honor, weakness, striving, suffering, virtue.",
+      "author": "Paul Kalanithi",
+      "bookTitle": "When Breath Becomes Air",
+      "bookId": "paul_kalanithi_breath",
+      "asin": "B00XSSYR50",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B00XSSYR50.jpg",
+      "isActive": true,
+      "tags": [
+        "wisdom",
+        "meaning"
+      ],
+      "dateAdded": "2025-11-10",
+      "bookDescription": "Book about life, death, and meaning from a neurosurgeon facing terminal cancer",
+      "categories": [
+        "Spirituality & Meaning",
+        "Philosophy & Mindfulness"
+      ]
+    },
+    {
+      "id": 332,
+      "text": "We are made of starstuff.",
+      "author": "Carl Sagan",
+      "bookTitle": "Cosmos",
+      "bookId": "carl_sagan_cosmos",
+      "asin": "B004W0HZN6",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B004W0HZN6.jpg",
+      "isActive": true,
+      "tags": [
+        "wonder",
+        "connection"
+      ],
+      "dateAdded": "2025-11-10",
+      "bookDescription": "Book about the universe and our place in the cosmos across 15 billion years",
+      "categories": [
+        "Science & Nature",
+        "Philosophy & Mindfulness"
+      ]
+    },
+    {
+      "id": 333,
+      "text": "We make our world significant by the courage of our questions and the depth of our answers.",
+      "author": "Carl Sagan",
+      "bookTitle": "Cosmos",
+      "bookId": "carl_sagan_cosmos",
+      "asin": "B004W0HZN6",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B004W0HZN6.jpg",
+      "isActive": true,
+      "tags": [
+        "curiosity",
+        "wisdom"
+      ],
+      "dateAdded": "2025-11-10",
+      "bookDescription": "Book about the universe and our place in the cosmos across 15 billion years",
+      "categories": [
+        "Science & Nature",
+        "Philosophy & Mindfulness"
+      ]
+    },
+    {
+      "id": 334,
+      "text": "You give but little when you give of your possessions. It is when you give of yourself that you truly give.",
+      "author": "Kahlil Gibran",
+      "bookTitle": "The Prophet",
+      "bookId": "kahlil_gibran_prophet",
+      "asin": "B08TMD4PHR",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B08TMD4PHR.jpg",
+      "isActive": true,
+      "tags": [
+        "generosity",
+        "love"
+      ],
+      "dateAdded": "2025-11-10",
+      "bookDescription": "Book about timeless spiritual wisdom on life's big questions through poetic prose",
+      "categories": [
+        "Spirituality & Meaning",
+        "Philosophy & Mindfulness"
+      ]
+    },
+    {
+      "id": 335,
+      "text": "The deeper that sorrow carves into your being, the more joy you can contain.",
+      "author": "Kahlil Gibran",
+      "bookTitle": "The Prophet",
+      "bookId": "kahlil_gibran_prophet",
+      "asin": "B08TMD4PHR",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B08TMD4PHR.jpg",
+      "isActive": true,
+      "tags": [
+        "joy",
+        "sorrow"
+      ],
+      "dateAdded": "2025-11-10",
+      "bookDescription": "Book about timeless spiritual wisdom on life's big questions through poetic prose",
+      "categories": [
+        "Spirituality & Meaning",
+        "Philosophy & Mindfulness"
+      ]
+    },
+    {
+      "id": 336,
+      "text": "Nothing other people do is because of you.",
+      "author": "Don Miguel Ruiz",
+      "bookTitle": "The Four Agreements",
+      "bookId": "miguel_ruiz_agreements",
+      "asin": "B005BRS8Z6",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B005BRS8Z6.jpg",
+      "isActive": true,
+      "tags": [
+        "freedom",
+        "wisdom"
+      ],
+      "dateAdded": "2025-11-10",
+      "bookDescription": "Book about ancient Toltec wisdom for personal freedom and transformation",
+      "categories": [
+        "Spirituality & Meaning",
+        "Self-help & Growth"
+      ]
+    },
+    {
+      "id": 337,
+      "text": "Be impeccable with your word.",
+      "author": "Don Miguel Ruiz",
+      "bookTitle": "The Four Agreements",
+      "bookId": "miguel_ruiz_agreements",
+      "asin": "B005BRS8Z6",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B005BRS8Z6.jpg",
+      "isActive": true,
+      "tags": [
+        "integrity",
+        "communication"
+      ],
+      "dateAdded": "2025-11-10",
+      "bookDescription": "Book about ancient Toltec wisdom for personal freedom and transformation",
+      "categories": [
+        "Spirituality & Meaning",
+        "Self-help & Growth"
+      ]
+    },
+    {
+      "id": 338,
+      "text": "Who you are, what you think, feel, and do, what you love—is the sum of what you focus on.",
+      "author": "Cal Newport",
+      "bookTitle": "Deep Work",
+      "bookId": "cal_newport_deep_work",
+      "asin": "B00X47ZVXM",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B00X47ZVXM.jpg",
+      "isActive": true,
+      "tags": [
+        "focus",
+        "identity"
+      ],
+      "dateAdded": "2025-11-10",
+      "bookDescription": "Book about achieving focused success in a distracted world through deep work",
+      "categories": [
+        "Productivity & Focus",
+        "Self-help & Growth"
+      ]
+    },
+    {
+      "id": 339,
+      "text": "The ability to perform deep work is becoming increasingly rare at exactly the same time it is becoming increasingly valuable in our economy.",
+      "author": "Cal Newport",
+      "bookTitle": "Deep Work",
+      "bookId": "cal_newport_deep_work",
+      "asin": "B00X47ZVXM",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B00X47ZVXM.jpg",
+      "isActive": true,
+      "tags": [
+        "focus",
+        "productivity"
+      ],
+      "dateAdded": "2025-11-10",
+      "bookDescription": "Book about achieving focused success in a distracted world through deep work",
+      "categories": [
+        "Productivity & Focus",
+        "Self-help & Growth"
+      ]
+    },
+    {
+      "id": 340,
+      "text": "A tree can be only as strong as the forest that surrounds it.",
+      "author": "Peter Wohlleben",
+      "bookTitle": "The Hidden Life of Trees",
+      "bookId": "peter_wohlleben_trees",
+      "asin": "B01C9116AK",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B01C9116AK.jpg",
+      "isActive": true,
+      "tags": [
+        "connection",
+        "community"
+      ],
+      "dateAdded": "2025-11-10",
+      "bookDescription": "Book about how trees communicate and care for each other in forests",
+      "categories": [
+        "Science & Nature",
+        "Philosophy & Mindfulness"
+      ]
+    },
+    {
+      "id": 341,
+      "text": "The most astonishing thing about trees is how social they are. The trees in a forest care for each other, sometimes even going so far as to nourish the stump of a felled tree for centuries after it was cut down.",
+      "author": "Peter Wohlleben",
+      "bookTitle": "The Hidden Life of Trees",
+      "bookId": "peter_wohlleben_trees",
+      "asin": "B01C9116AK",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B01C9116AK.jpg",
+      "isActive": true,
+      "tags": [
+        "nature",
+        "cooperation"
+      ],
+      "dateAdded": "2025-11-10",
+      "bookDescription": "Book about how trees communicate and care for each other in forests",
+      "categories": [
+        "Science & Nature",
+        "Philosophy & Mindfulness"
+      ]
+    },
+    {
+      "id": 342,
+      "text": "Nolite te bastardes carborundorum. Don't let the bastards grind you down.",
+      "author": "Margaret Atwood",
+      "bookTitle": "The Handmaid's Tale",
+      "bookId": "margaret_atwood_handmaid",
+      "asin": "B003JFJHTS",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B003JFJHTS.jpg",
+      "isActive": true,
+      "tags": [
+        "resistance",
+        "strength"
+      ],
+      "dateAdded": "2025-11-10",
+      "bookDescription": "Book about a dystopian future where women's rights are stripped away",
+      "categories": [
+        "Women's Empowerment",
+        "Classics & Literature"
+      ]
+    },
+    {
+      "id": 343,
+      "text": "Better never means better for everyone... It always means worse, for some.",
+      "author": "Margaret Atwood",
+      "bookTitle": "The Handmaid's Tale",
+      "bookId": "margaret_atwood_handmaid",
+      "asin": "B003JFJHTS",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B003JFJHTS.jpg",
+      "isActive": true,
+      "tags": [
+        "wisdom",
+        "power"
+      ],
+      "dateAdded": "2025-11-10",
+      "bookDescription": "Book about a dystopian future where women's rights are stripped away",
+      "categories": [
+        "Women's Empowerment",
+        "Classics & Literature"
+      ]
+    },
+    {
+      "id": 344,
+      "text": "I survived because I remained soft, because I listened, because I wrote.",
+      "author": "Chanel Miller",
+      "bookTitle": "Know My Name",
+      "bookId": "chanel_miller_know_my_name",
+      "asin": "B07MNJKBVL",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B07MNJKBVL.jpg",
+      "isActive": true,
+      "tags": [
+        "resilience",
+        "strength"
+      ],
+      "dateAdded": "2025-11-10",
+      "bookDescription": "Book about reclaiming identity and finding power after trauma",
+      "categories": [
+        "Women's Empowerment"
+      ]
+    },
+    {
+      "id": 345,
+      "text": "Stay tender with your power.",
+      "author": "Chanel Miller",
+      "bookTitle": "Know My Name",
+      "bookId": "chanel_miller_know_my_name",
+      "asin": "B07MNJKBVL",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B07MNJKBVL.jpg",
+      "isActive": true,
+      "tags": [
+        "empowerment",
+        "compassion"
+      ],
+      "dateAdded": "2025-11-10",
+      "bookDescription": "Book about reclaiming identity and finding power after trauma",
+      "categories": [
+        "Women's Empowerment"
+      ]
+    },
+    {
+      "id": 346,
+      "text": "There is no greater agony than bearing an untold story inside you.",
+      "author": "Maya Angelou",
+      "bookTitle": "I Know Why the Caged Bird Sings",
+      "bookId": "maya_angelou_caged_bird",
+      "asin": "B0026772VK",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B0026772VK.jpg",
+      "isActive": true,
+      "tags": [
+        "voice",
+        "expression"
+      ],
+      "dateAdded": "2025-11-10",
+      "bookDescription": "Book about overcoming racism and trauma through self-love and literature",
+      "categories": [
+        "Women's Empowerment",
+        "Classics & Literature"
+      ]
+    },
+    {
+      "id": 347,
+      "text": "Pursue the things you love doing, and then do them so well that people can't take their eyes off you.",
+      "author": "Maya Angelou",
+      "bookTitle": "I Know Why the Caged Bird Sings",
+      "bookId": "maya_angelou_caged_bird",
+      "asin": "B0026772VK",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B0026772VK.jpg",
+      "isActive": true,
+      "tags": [
+        "excellence",
+        "passion"
+      ],
+      "dateAdded": "2025-11-10",
+      "bookDescription": "Book about overcoming racism and trauma through self-love and literature",
+      "categories": [
+        "Women's Empowerment",
+        "Classics & Literature"
+      ]
+    },
+    {
+      "id": 348,
+      "text": "How wild it was, to let it be.",
+      "author": "Cheryl Strayed",
+      "bookTitle": "Wild",
+      "bookId": "cheryl_strayed_wild",
+      "asin": "B00BPDHGUI",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B00BPDHGUI.jpg",
+      "isActive": true,
+      "tags": [
+        "acceptance",
+        "freedom"
+      ],
+      "dateAdded": "2025-11-10",
+      "bookDescription": "Book about self-discovery while hiking the Pacific Crest Trail alone",
+      "categories": [
+        "Women's Empowerment",
+        "Self-help & Growth"
+      ]
+    },
+    {
+      "id": 349,
+      "text": "Fear, to a great extent, is born of a story we tell ourselves, and so I chose to tell myself a different story from the one women are told.",
+      "author": "Cheryl Strayed",
+      "bookTitle": "Wild",
+      "bookId": "cheryl_strayed_wild",
+      "asin": "B00BPDHGUI",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B00BPDHGUI.jpg",
+      "isActive": true,
+      "tags": [
+        "courage",
+        "reframing"
+      ],
+      "dateAdded": "2025-11-10",
+      "bookDescription": "Book about self-discovery while hiking the Pacific Crest Trail alone",
+      "categories": [
+        "Women's Empowerment",
+        "Self-help & Growth"
+      ]
+    },
+    {
+      "id": 350,
+      "text": "I am smart, I am talented, I take advantage of the opportunities that come my way and I work really, really hard. Don't call me lucky. Call me a badass.",
+      "author": "Shonda Rhimes",
+      "bookTitle": "Year of Yes",
+      "bookId": "shonda_rhimes_year_of_yes",
+      "asin": "B00O74GXLS",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B00O74GXLS.jpg",
+      "isActive": true,
+      "tags": [
+        "confidence",
+        "achievement"
+      ],
+      "dateAdded": "2025-11-10",
+      "bookDescription": "Book about saying yes to everything that scares you for one year",
+      "categories": [
+        "Women's Empowerment",
+        "Self-help & Growth"
+      ]
+    },
+    {
+      "id": 351,
+      "text": "Happiness comes from living as you need to, as you want to. As your inner voice tells you to.",
+      "author": "Shonda Rhimes",
+      "bookTitle": "Year of Yes",
+      "bookId": "shonda_rhimes_year_of_yes",
+      "asin": "B00O74GXLS",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B00O74GXLS.jpg",
+      "isActive": true,
+      "tags": [
+        "authenticity",
+        "happiness"
+      ],
+      "dateAdded": "2025-11-10",
+      "bookDescription": "Book about saying yes to everything that scares you for one year",
+      "categories": [
+        "Women's Empowerment",
+        "Self-help & Growth"
+      ]
+    },
+    {
+      "id": 352,
+      "text": "I am no bird; and no net ensnares me: I am a free human being with an independent will.",
+      "author": "Charlotte Brontë",
+      "bookTitle": "Jane Eyre",
+      "bookId": "charlotte_bronte_jane_eyre",
+      "asin": "B0BRKNRJJH",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B0BRKNRJJH.jpg",
+      "isActive": true,
+      "tags": [
+        "freedom",
+        "independence"
+      ],
+      "dateAdded": "2025-11-10",
+      "bookDescription": "Book about a woman's journey to independence and self-respect in Victorian England",
+      "categories": [
+        "Women's Empowerment",
+        "Classics & Literature"
+      ]
+    },
+    {
+      "id": 353,
+      "text": "I care for myself. The more solitary, the more friendless, the more unsustained I am, the more I will respect myself.",
+      "author": "Charlotte Brontë",
+      "bookTitle": "Jane Eyre",
+      "bookId": "charlotte_bronte_jane_eyre",
+      "asin": "B0BRKNRJJH",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B0BRKNRJJH.jpg",
+      "isActive": true,
+      "tags": [
+        "self-respect",
+        "independence"
+      ],
+      "dateAdded": "2025-11-10",
+      "bookDescription": "Book about a woman's journey to independence and self-respect in Victorian England",
+      "categories": [
+        "Women's Empowerment",
+        "Classics & Literature"
+      ]
+    },
+    {
+      "id": 354,
+      "text": "When we see others as separate, they become a threat. When we see others as part of us, as connected, as interdependent, then there is no challenge we cannot face—together.",
+      "author": "Dalai Lama & Desmond Tutu",
+      "bookTitle": "The Book of Joy",
+      "bookId": "dalai_lama_book_of_joy",
+      "asin": "B01AXWGBVI",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B01AXWGBVI.jpg",
+      "isActive": true,
+      "tags": [
+        "connection",
+        "unity"
+      ],
+      "dateAdded": "2025-11-10",
+      "bookDescription": "Book about finding lasting happiness through conversations between two spiritual leaders",
+      "categories": [
+        "Spirituality & Meaning",
+        "Philosophy & Mindfulness"
+      ]
+    },
+    {
+      "id": 355,
+      "text": "We are fragile creatures, and it is from this weakness, not despite it, that we discover the possibility of true joy.",
+      "author": "Desmond Tutu",
+      "bookTitle": "The Book of Joy",
+      "bookId": "dalai_lama_book_of_joy",
+      "asin": "B01AXWGBVI",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B01AXWGBVI.jpg",
+      "isActive": true,
+      "tags": [
+        "vulnerability",
+        "joy"
+      ],
+      "dateAdded": "2025-11-10",
+      "bookDescription": "Book about finding lasting happiness through conversations between two spiritual leaders",
+      "categories": [
+        "Spirituality & Meaning",
+        "Philosophy & Mindfulness"
+      ]
+    },
+    {
+      "id": 356,
+      "text": "There is nothing more important to true growth than realizing that you are not the voice of the mind - you are the one who hears it.",
+      "author": "Michael A. Singer",
+      "bookTitle": "The Untethered Soul",
+      "bookId": "michael_singer_untethered",
+      "asin": "B003TU29WA",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B003TU29WA.jpg",
+      "isActive": true,
+      "tags": [
+        "awareness",
+        "consciousness"
+      ],
+      "dateAdded": "2025-11-10",
+      "bookDescription": "Book about the journey beyond yourself into spiritual consciousness",
+      "categories": [
+        "Spirituality & Meaning",
+        "Philosophy & Mindfulness"
+      ]
+    },
+    {
+      "id": 357,
+      "text": "Only you can take inner freedom away from yourself, or give it to yourself. Nobody else can.",
+      "author": "Michael A. Singer",
+      "bookTitle": "The Untethered Soul",
+      "bookId": "michael_singer_untethered",
+      "asin": "B003TU29WA",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B003TU29WA.jpg",
+      "isActive": true,
+      "tags": [
+        "freedom",
+        "responsibility"
+      ],
+      "dateAdded": "2025-11-10",
+      "bookDescription": "Book about the journey beyond yourself into spiritual consciousness",
+      "categories": [
+        "Spirituality & Meaning",
+        "Philosophy & Mindfulness"
+      ]
+    },
+    {
+      "id": 358,
+      "text": "You may control a mad elephant; You may shut the mouth of the bear and the tiger; Ride the lion and play with the cobra... But control of the mind is better and more difficult.",
+      "author": "Paramahansa Yogananda",
+      "bookTitle": "Autobiography of a Yogi",
+      "bookId": "yogananda_autobiography",
+      "asin": "B004GHNOPC",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B004GHNOPC.jpg",
+      "isActive": true,
+      "tags": [
+        "mind",
+        "discipline"
+      ],
+      "dateAdded": "2025-11-10",
+      "bookDescription": "Book about a yogi's life journey and introduction to Eastern spirituality",
+      "categories": [
+        "Spirituality & Meaning",
+        "Philosophy & Mindfulness"
+      ]
+    },
+    {
+      "id": 359,
+      "text": "Live quietly in the moment and see the beauty of all before you. The future will take care of itself.",
+      "author": "Paramahansa Yogananda",
+      "bookTitle": "Autobiography of a Yogi",
+      "bookId": "yogananda_autobiography",
+      "asin": "B004GHNOPC",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B004GHNOPC.jpg",
+      "isActive": true,
+      "tags": [
+        "presence",
+        "beauty"
+      ],
+      "dateAdded": "2025-11-10",
+      "bookDescription": "Book about a yogi's life journey and introduction to Eastern spirituality",
+      "categories": [
+        "Spirituality & Meaning",
+        "Philosophy & Mindfulness"
+      ]
+    },
+    {
+      "id": 360,
+      "text": "What is it that breathes fire into the equations and makes a universe for them to describe?",
+      "author": "Stephen Hawking",
+      "bookTitle": "A Brief History of Time",
+      "bookId": "stephen_hawking_time",
+      "asin": "B0031RDVMI",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B0031RDVMI.jpg",
+      "isActive": true,
+      "tags": [
+        "wonder",
+        "philosophy"
+      ],
+      "dateAdded": "2025-11-10",
+      "bookDescription": "Book about the universe from the Big Bang to black holes",
+      "categories": [
+        "Science & Nature",
+        "Philosophy & Mindfulness"
+      ]
+    },
+    {
+      "id": 361,
+      "text": "If time travel is possible, where are the tourists from the future?",
+      "author": "Stephen Hawking",
+      "bookTitle": "A Brief History of Time",
+      "bookId": "stephen_hawking_time",
+      "asin": "B0031RDVMI",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B0031RDVMI.jpg",
+      "isActive": true,
+      "tags": [
+        "curiosity",
+        "paradox"
+      ],
+      "dateAdded": "2025-11-10",
+      "bookDescription": "Book about the universe from the Big Bang to black holes",
+      "categories": [
+        "Science & Nature",
+        "Philosophy & Mindfulness"
+      ]
+    },
+    {
+      "id": 362,
+      "text": "No other creature has ever managed this, and it will, unfortunately, be our most enduring legacy.",
+      "author": "Elizabeth Kolbert",
+      "bookTitle": "The Sixth Extinction",
+      "bookId": "elizabeth_kolbert_sixth",
+      "asin": "B00DMCVNTQ",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B00DMCVNTQ.jpg",
+      "isActive": true,
+      "tags": [
+        "legacy",
+        "responsibility"
+      ],
+      "dateAdded": "2025-11-10",
+      "bookDescription": "Book about humanity's role in the current mass extinction event",
+      "categories": [
+        "Science & Nature",
+        "Philosophy & Mindfulness"
+      ]
+    },
+    {
+      "id": 363,
+      "text": "Right now we are in the midst of the Sixth Extinction, this time caused solely by humanity's transformation of the ecological landscape.",
+      "author": "Elizabeth Kolbert",
+      "bookTitle": "The Sixth Extinction",
+      "bookId": "elizabeth_kolbert_sixth",
+      "asin": "B00DMCVNTQ",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B00DMCVNTQ.jpg",
+      "isActive": true,
+      "tags": [
+        "awareness",
+        "ecology"
+      ],
+      "dateAdded": "2025-11-10",
+      "bookDescription": "Book about humanity's role in the current mass extinction event",
+      "categories": [
+        "Science & Nature",
+        "Philosophy & Mindfulness"
+      ]
+    },
+    {
+      "id": 364,
+      "text": "Even a wounded world holds us, giving us moments of wonder and joy. I choose joy over despair.",
+      "author": "Robin Wall Kimmerer",
+      "bookTitle": "Braiding Sweetgrass",
+      "bookId": "robin_kimmerer_sweetgrass",
+      "asin": "B013TTKQXM",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B013TTKQXM.jpg",
+      "isActive": true,
+      "tags": [
+        "hope",
+        "joy"
+      ],
+      "dateAdded": "2025-11-10",
+      "bookDescription": "Book about indigenous wisdom and scientific knowledge of the natural world",
+      "categories": [
+        "Science & Nature",
+        "Philosophy & Mindfulness"
+      ]
+    },
+    {
+      "id": 365,
+      "text": "As we work to heal the earth, the earth heals us.",
+      "author": "Robin Wall Kimmerer",
+      "bookTitle": "Braiding Sweetgrass",
+      "bookId": "robin_kimmerer_sweetgrass",
+      "asin": "B013TTKQXM",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B013TTKQXM.jpg",
+      "isActive": true,
+      "tags": [
+        "healing",
+        "reciprocity"
+      ],
+      "dateAdded": "2025-11-10",
+      "bookDescription": "Book about indigenous wisdom and scientific knowledge of the natural world",
+      "categories": [
+        "Science & Nature",
+        "Philosophy & Mindfulness"
+      ]
+    },
+    {
+      "id": 366,
+      "text": "It is not down on any map; true places never are.",
+      "author": "Herman Melville",
+      "bookTitle": "Moby-Dick",
+      "bookId": "herman_melville_moby_dick",
+      "asin": "B08VMXLNXW",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B08VMXLNXW.jpg",
+      "isActive": true,
+      "tags": [
+        "wisdom",
+        "mystery"
+      ],
+      "dateAdded": "2025-11-10",
+      "bookDescription": "Book about obsession and humanity's struggle against nature",
+      "categories": [
+        "Classics & Literature",
+        "Philosophy & Mindfulness"
+      ]
+    },
+    {
+      "id": 367,
+      "text": "I know not all that may be coming, but be it what it will, I'll go to it laughing.",
+      "author": "Herman Melville",
+      "bookTitle": "Moby-Dick",
+      "bookId": "herman_melville_moby_dick",
+      "asin": "B08VMXLNXW",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B08VMXLNXW.jpg",
+      "isActive": true,
+      "tags": [
+        "courage",
+        "acceptance"
+      ],
+      "dateAdded": "2025-11-10",
+      "bookDescription": "Book about obsession and humanity's struggle against nature",
+      "categories": [
+        "Classics & Literature",
+        "Philosophy & Mindfulness"
+      ]
+    },
+    {
+      "id": 368,
+      "text": "Beware; for I am fearless, and therefore powerful.",
+      "author": "Mary Shelley",
+      "bookTitle": "Frankenstein",
+      "bookId": "mary_shelley_frankenstein",
+      "asin": "B08C9KLJXW",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B08C9KLJXW.jpg",
+      "isActive": true,
+      "tags": [
+        "power",
+        "courage"
+      ],
+      "dateAdded": "2025-11-10",
+      "bookDescription": "Book about creation, responsibility, and the consequences of playing God",
+      "categories": [
+        "Classics & Literature",
+        "Philosophy & Mindfulness"
+      ]
+    },
+    {
+      "id": 369,
+      "text": "I was benevolent and good; misery made me a fiend. Make me happy, and I shall again be virtuous.",
+      "author": "Mary Shelley",
+      "bookTitle": "Frankenstein",
+      "bookId": "mary_shelley_frankenstein",
+      "asin": "B08C9KLJXW",
+      "coverImageURL": "https://m.media-amazon.com/images/P/B08C9KLJXW.jpg",
+      "isActive": true,
+      "tags": [
+        "nature",
+        "compassion"
+      ],
+      "dateAdded": "2025-11-10",
+      "bookDescription": "Book about creation, responsibility, and the consequences of playing God",
+      "categories": [
+        "Classics & Literature",
+        "Philosophy & Mindfulness"
       ]
     }
   ]

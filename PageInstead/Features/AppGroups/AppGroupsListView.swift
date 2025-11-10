@@ -37,8 +37,8 @@ struct AppGroupsListView: View {
                                 showingRulesSheet = true
                             }) {
                                 AppGroupCard(group: group)
-                                    .padding(.horizontal)
                             }
+                            .padding(.horizontal)
                         }
 
                         // Add Button

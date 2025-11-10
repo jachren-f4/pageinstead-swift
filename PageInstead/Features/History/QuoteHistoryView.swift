@@ -1,19 +1,23 @@
 import SwiftUI
 
-/// Shows recent time windows and their quotes
+/// Shows recent quotes from the last hour (12 quotes, one per 5-minute window)
 /// No event tracking needed - calculates quotes from time
 @available(iOS 16.0, *)
 struct QuoteHistoryView: View {
-    @State private var recentWindows: [(time: Date, quote: BookQuote)] = []
-    @State private var windowCount: Int = 50 // Show last ~4 hours
+    @Environment(\.scenePhase) private var scenePhase
+    @State private var recentQuotes: [BookQuote] = []
     @State private var selectedQuote: BookQuote?
+    @State private var bookmarkedQuoteIds: Set<Int> = []
+
+    private let bookmarksKey = "bookmarked_quotes"
 
     var body: some View {
         ZStack {
-            // Animated gradient background
+            // Animated gradient background - extends behind tab bar for iOS 18+ liquid glass effect
             AnimatedGradientBackground.standard()
+                .ignoresSafeArea()
 
-            if recentWindows.isEmpty {
+            if recentQuotes.isEmpty {
                 emptyStateView
             } else {
                 historyListView
@@ -24,211 +28,292 @@ struct QuoteHistoryView: View {
         }
         .onAppear {
             loadRecentQuotes()
+            loadBookmarks()
+        }
+        .onReceive(NotificationCenter.default.publisher(for: NSNotification.Name("BookmarksChanged"))) { _ in
+            loadBookmarks()
         }
     }
 
     // MARK: - Empty State
     private var emptyStateView: some View {
-        VStack(spacing: 32) {
-            Image(systemName: "clock.arrow.circlepath")
-                .font(.system(size: 60))
-                .foregroundColor(Color(hex: "6CC8FF").opacity(0.8))
+        VStack(spacing: 24) {
+            Spacer()
 
-            VStack(spacing: 12) {
-                Text("Recent Quote Schedule")
-                    .font(.system(size: 28, weight: .bold))
-                    .foregroundColor(.white)
+            GlassCard(standard: {
+                VStack(spacing: 20) {
+                    // Clock icon
+                    Image(systemName: "clock.arrow.circlepath")
+                        .font(.system(size: 64))
+                        .foregroundColor(.white.opacity(0.3))
 
-                Text("See which quotes appeared in recent time windows. Every quote changes every 5 minutes.")
-                    .font(.system(size: 16))
-                    .foregroundColor(.white.opacity(0.7))
-                    .multilineTextAlignment(.center)
-                    .padding(.horizontal, 40)
-            }
+                    // Title
+                    Text("No recent quotes yet")
+                        .font(.system(size: 20, weight: .medium))
+                        .foregroundColor(.white.opacity(0.7))
 
-            Button("Load Recent Quotes") {
-                loadRecentQuotes()
-            }
-            .font(.system(size: 17, weight: .semibold))
-            .foregroundColor(Color(hex: "6CC8FF"))
-            .frame(maxWidth: 200)
-            .padding(.vertical, 18)
-            .background(Color(hex: "6CC8FF").opacity(0.2))
-            .background(.ultraThinMaterial)
-            .cornerRadius(18)
-            .overlay(
-                RoundedRectangle(cornerRadius: 18)
-                    .stroke(Color(hex: "6CC8FF").opacity(0.4), lineWidth: 1)
-            )
+                    // Description
+                    Text("Your recent quotes from the last hour will appear here.\nCome back after the app blocks some distractions.")
+                        .font(.system(size: 16))
+                        .foregroundColor(.white.opacity(0.7))
+                        .multilineTextAlignment(.center)
+                        .lineSpacing(4)
+                }
+                .padding(.vertical, 40)
+            })
+            .padding(.horizontal)
+
+            Spacer()
         }
-        .padding()
     }
 
     // MARK: - History List
     private var historyListView: some View {
         ScrollView {
             VStack(spacing: 24) {
-                // Header
-                HStack {
-                    Text("History")
+                // Top spacing
+                Spacer()
+                    .frame(height: 20)
+
+                // Header - scrollable
+                VStack(spacing: 12) {
+                    Text("Recent Quotes")
                         .font(.system(size: 48, weight: .bold))
                         .foregroundColor(.white)
+                        .frame(maxWidth: .infinity, alignment: .leading)
 
-                    Spacer()
-
-                    Button(action: loadRecentQuotes) {
-                        Image(systemName: "arrow.clockwise")
-                            .font(.system(size: 20))
-                            .foregroundColor(Color(hex: "6CC8FF"))
-                            .frame(width: 44, height: 44)
-                            .background(Color(hex: "6CC8FF").opacity(0.2))
-                            .background(.ultraThinMaterial)
-                            .clipShape(Circle())
-                            .overlay(
-                                Circle()
-                                    .stroke(Color(hex: "6CC8FF").opacity(0.4), lineWidth: 1)
-                            )
-                    }
+                    Text("\(recentQuotes.count) quotes from the last hour")
+                        .font(.system(size: 16))
+                        .foregroundColor(.white.opacity(0.7))
+                        .frame(maxWidth: .infinity, alignment: .leading)
                 }
                 .padding(.horizontal)
-                .padding(.top, 60)
 
-                // Window list
-                VStack(spacing: 20) {
-                    ForEach(Array(groupedByDay.keys.sorted(by: >)), id: \.self) { dateString in
-                        VStack(alignment: .leading, spacing: 12) {
-                            // Day header
-                            Text(dateString)
-                                .font(.system(size: 20, weight: .semibold))
-                                .foregroundColor(.white)
-                                .padding(.horizontal)
-
-                            // Quotes for this day
-                            VStack(spacing: 1) {
-                                ForEach(groupedByDay[dateString] ?? [], id: \.time) { window in
-                                    WindowRow(time: window.time, quote: window.quote) {
-                                        selectedQuote = window.quote
-                                    }
-                                }
-                            }
-                            .background(Color.white.opacity(0.04))
-                            .background(.ultraThinMaterial)
-                            .cornerRadius(20)
-                            .overlay(
-                                RoundedRectangle(cornerRadius: 20)
-                                    .stroke(Color.white.opacity(0.08), lineWidth: 1)
-                            )
-                            .padding(.horizontal)
+                // Quote cards
+                ForEach(recentQuotes, id: \.id) { quote in
+                    QuoteCard(
+                        quote: quote,
+                        isBookmarked: bookmarkedQuoteIds.contains(quote.id),
+                        scenePhase: scenePhase,
+                        onTap: {
+                            selectedQuote = quote
+                        },
+                        onBookmark: {
+                            toggleBookmark(quote: quote)
                         }
-                    }
+                    )
+                    .padding(.horizontal)
                 }
 
-                Spacer(minLength: 80)
+                // Bottom spacing to allow content to be visible above floating tab bar
+                Spacer(minLength: 120)
             }
         }
+        .scrollFadeOverlay()
     }
 
-    // MARK: - Grouped by day
-    private var groupedByDay: [String: [(time: Date, quote: BookQuote)]] {
-        let calendar = Calendar.current
-        let dateFormatter = DateFormatter()
-        dateFormatter.dateStyle = .medium
-        dateFormatter.timeStyle = .none
+    // MARK: - Data Loading
 
-        var grouped: [String: [(time: Date, quote: BookQuote)]] = [:]
-
-        for window in recentWindows {
-            let dateString: String
-            if calendar.isDateInToday(window.time) {
-                dateString = "Today"
-            } else if calendar.isDateInYesterday(window.time) {
-                dateString = "Yesterday"
-            } else {
-                dateString = dateFormatter.string(from: window.time)
-            }
-
-            if grouped[dateString] == nil {
-                grouped[dateString] = []
-            }
-            grouped[dateString]?.append(window)
-        }
-
-        return grouped
-    }
-
-    // MARK: - Load Recent Quotes
     private func loadRecentQuotes() {
-        recentWindows = QuoteScheduler.shared.getRecentWindows(count: windowCount)
+        // Get last 12 windows (1 hour: 12 × 5 minutes = 60 minutes)
+        let windows = QuoteScheduler.shared.getRecentWindows(count: 12)
+
+        // Extract unique quotes (one per window)
+        recentQuotes = windows.map { $0.quote }
+
+        print("📚 QuoteHistoryView: Loaded \(recentQuotes.count) recent quotes")
+    }
+
+    private func loadBookmarks() {
+        if let data = UserDefaults.standard.data(forKey: bookmarksKey),
+           let bookmarks = try? JSONDecoder().decode(Set<Int>.self, from: data) {
+            bookmarkedQuoteIds = bookmarks
+        }
+    }
+
+    private func toggleBookmark(quote: BookQuote) {
+        var bookmarks = bookmarkedQuoteIds
+
+        if bookmarks.contains(quote.id) {
+            bookmarks.remove(quote.id)
+            print("🔖 Removed bookmark for quote #\(quote.id) from History")
+        } else {
+            bookmarks.insert(quote.id)
+            print("🔖 Bookmarked quote #\(quote.id) from History")
+        }
+
+        // Save to UserDefaults
+        if let data = try? JSONEncoder().encode(bookmarks) {
+            UserDefaults.standard.set(data, forKey: bookmarksKey)
+        }
+
+        // Update local state
+        bookmarkedQuoteIds = bookmarks
+
+        // Notify other views (Books tab)
+        NotificationCenter.default.post(name: NSNotification.Name("BookmarksChanged"), object: nil)
     }
 }
 
-// MARK: - Window Row
+// MARK: - Quote Card
 
-struct WindowRow: View {
-    let time: Date
+struct QuoteCard: View {
     let quote: BookQuote
+    let isBookmarked: Bool
+    let scenePhase: ScenePhase
     let onTap: () -> Void
+    let onBookmark: () -> Void
+
+    @State private var bookmarkAnimationScale: CGFloat = 1.0
+
+    /// Format quote text with proper punctuation
+    private var formattedQuoteText: String {
+        let text = quote.text
+
+        // Check if quote already has opening quote marks
+        let hasOpeningQuotes = text.hasPrefix("\"") || text.hasPrefix("\u{201C}") || text.hasPrefix("\u{201D}")
+
+        // Check if quote already has closing quote marks
+        let hasClosingQuotes = text.hasSuffix("\"") || text.hasSuffix("\u{201C}") || text.hasSuffix("\u{201D}")
+
+        // If both opening and closing quotes exist, return as-is
+        if hasOpeningQuotes && hasClosingQuotes {
+            return text
+        }
+
+        var result = text
+
+        // Check if first character is lowercase (indicates mid-sentence quote)
+        if let firstChar = text.first, firstChar.isLowercase {
+            result = "..." + result
+        }
+
+        // Add quotes if not present
+        if !hasOpeningQuotes && !hasClosingQuotes {
+            result = "\"\(result)\""
+        } else if !hasOpeningQuotes {
+            result = "\"\(result)"
+        } else if !hasClosingQuotes {
+            result = "\(result)\""
+        }
+
+        return result
+    }
 
     var body: some View {
         Button(action: onTap) {
-            HStack(alignment: .center, spacing: 16) {
-            // Time
-            VStack(alignment: .leading, spacing: 2) {
-                Text(time, style: .time)
-                    .font(.system(size: 16, weight: .semibold))
-                    .foregroundColor(Color(hex: "6CC8FF"))
+            GlassCard(standard: {
+                HStack(alignment: .top, spacing: 16) {
+                    // Book cover
+                    CachedAsyncImage(
+                        url: quote.coverImageURL.flatMap { URL(string: $0) },
+                        content: { image in
+                            image
+                                .resizable()
+                                .aspectRatio(contentMode: .fit)
+                                .frame(width: 100, height: 150)
+                                .cornerRadius(8)
+                                .shadow(color: .black.opacity(0.4), radius: 8)
+                        },
+                        placeholder: {
+                            bookCoverPlaceholder
+                        }
+                    )
+                    .reloadOnAppear(scenePhase: scenePhase)
 
-                Text("5 min")
-                    .font(.system(size: 11, weight: .medium))
-                    .foregroundColor(.white.opacity(0.4))
-            }
-            .frame(width: 60, alignment: .leading)
+                    // Quote content
+                    VStack(alignment: .leading, spacing: 8) {
+                        // Quote text
+                        Text(formattedQuoteText)
+                            .font(.system(size: 16))
+                            .foregroundColor(.white)
+                            .lineSpacing(4)
+                            .lineLimit(4)
+                            .multilineTextAlignment(.leading)
 
-            // Book cover thumbnail
-            if let coverURL = quote.coverImageURL, let url = URL(string: coverURL) {
-                AsyncImage(url: url) { phase in
-                    switch phase {
-                    case .success(let image):
-                        image
-                            .resizable()
-                            .aspectRatio(contentMode: .fit)
-                            .frame(width: 28, height: 42)
-                            .cornerRadius(4)
-                            .shadow(color: .black.opacity(0.3), radius: 4)
-                    default:
-                        ZStack {
-                            RoundedRectangle(cornerRadius: 4)
-                                .fill(Color.white.opacity(0.1))
-                                .frame(width: 28, height: 42)
+                        Spacer()
 
-                            Image(systemName: "book.fill")
-                                .font(.system(size: 12))
-                                .foregroundColor(.white.opacity(0.3))
+                        // Author
+                        Text(quote.author)
+                            .font(.system(size: 14, weight: .semibold))
+                            .foregroundColor(.white.opacity(0.85))
+
+                        // Book title
+                        Text(quote.bookTitle)
+                            .font(.system(size: 12))
+                            .foregroundColor(.white.opacity(0.65))
+
+                        // Category tag
+                        if let category = quote.categories.first {
+                            Text(category)
+                                .font(.system(size: 10, weight: .medium))
+                                .foregroundColor(Color(red: 196/255, green: 181/255, blue: 253/255))
+                                .padding(.horizontal, 8)
+                                .padding(.vertical, 3)
+                                .background(
+                                    RoundedRectangle(cornerRadius: 4)
+                                        .fill(Color(red: 139/255, green: 92/255, blue: 246/255).opacity(0.15))
+                                )
+                                .padding(.top, 2)
                         }
                     }
+                    .frame(maxWidth: .infinity, alignment: .leading)
                 }
-            }
-
-            // Quote Preview
-            VStack(alignment: .leading, spacing: 6) {
-                Text(quote.text)
-                    .font(.system(size: 15))
-                    .foregroundColor(.white.opacity(0.9))
-                    .lineLimit(2)
-
-                Text(quote.author)
-                    .font(.system(size: 13, weight: .medium))
-                    .foregroundColor(.white.opacity(0.5))
-            }
-
-            Spacer(minLength: 0)
-            }
-            .padding(.vertical, 16)
-            .padding(.horizontal, 20)
+                .overlay(alignment: .topTrailing) {
+                    // Bookmark button
+                    Button(action: handleBookmarkTap) {
+                        Image(systemName: isBookmarked ? "bookmark.fill" : "bookmark")
+                            .font(.system(size: 20, weight: .medium))
+                            .foregroundColor(isBookmarked ? Color(red: 1.0, green: 0.84, blue: 0.0) : .white.opacity(0.7))
+                            .frame(width: 44, height: 44)
+                            .background(
+                                RoundedRectangle(cornerRadius: 12)
+                                    .fill(isBookmarked ? Color(red: 1.0, green: 0.84, blue: 0.0).opacity(0.15) : Color.white.opacity(0.03))
+                            )
+                            .overlay(
+                                RoundedRectangle(cornerRadius: 12)
+                                    .strokeBorder(isBookmarked ? Color(red: 1.0, green: 0.84, blue: 0.0).opacity(0.4) : Color.white.opacity(0.1), lineWidth: 1)
+                            )
+                    }
+                    .scaleEffect(bookmarkAnimationScale)
+                    .animation(.spring(response: 0.3, dampingFraction: 0.6), value: isBookmarked)
+                    .contentShape(Rectangle())
+                }
+            })
         }
         .buttonStyle(.plain)
     }
+
+    private var bookCoverPlaceholder: some View {
+        ZStack {
+            RoundedRectangle(cornerRadius: 8)
+                .fill(Color.white.opacity(0.1))
+                .frame(width: 100, height: 150)
+
+            Image(systemName: "book.fill")
+                .font(.system(size: 40))
+                .foregroundColor(.white.opacity(0.3))
+        }
+    }
+
+    private func handleBookmarkTap() {
+        // Animate the bookmark button
+        withAnimation(.spring(response: 0.3, dampingFraction: 0.6)) {
+            bookmarkAnimationScale = 1.2
+        }
+
+        DispatchQueue.main.asyncAfter(deadline: .now() + 0.15) {
+            withAnimation(.spring(response: 0.3, dampingFraction: 0.6)) {
+                bookmarkAnimationScale = 1.0
+            }
+        }
+
+        // Call the bookmark handler
+        onBookmark()
+    }
 }
+
+// MARK: - Preview
 
 @available(iOS 16.0, *)
 struct QuoteHistoryView_Previews: PreviewProvider {

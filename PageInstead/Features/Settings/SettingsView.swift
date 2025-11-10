@@ -123,6 +123,69 @@ struct SettingsView: View {
                         })
                         .padding(.horizontal)
 
+                        // About Quotes section
+                        GlassCard(standard: {
+                            VStack(spacing: 20) {
+                                // Section title
+                                Text("About Quotes")
+                                    .font(.system(size: 20, weight: .medium))
+                                    .foregroundColor(.white.opacity(0.7))
+                                    .frame(maxWidth: .infinity, alignment: .leading)
+
+                                // Fair Use & Attribution navigation
+                                NavigationLink(destination: FairUseAttributionView()) {
+                                    VStack(spacing: 8) {
+                                        // Header with title and chevron
+                                        HStack {
+                                            Text("Fair Use & Attribution")
+                                                .font(.system(size: 17, weight: .medium))
+                                                .foregroundColor(.white)
+
+                                            Spacer()
+
+                                            Image(systemName: "chevron.right")
+                                                .font(.system(size: 14, weight: .semibold))
+                                                .foregroundColor(.white.opacity(0.4))
+                                        }
+
+                                        // Description
+                                        Text("How we source and attribute quotes")
+                                            .font(.system(size: 14))
+                                            .foregroundColor(.white.opacity(0.5))
+                                            .frame(maxWidth: .infinity, alignment: .leading)
+                                    }
+                                    .padding(.vertical, 16)
+                                    .padding(.horizontal, 18)
+                                    .background(
+                                        ZStack {
+                                            // Subtle glass background
+                                            RoundedRectangle(cornerRadius: 16)
+                                                .fill(Color.white.opacity(0.03))
+
+                                            // Gradient overlay
+                                            RoundedRectangle(cornerRadius: 16)
+                                                .fill(
+                                                    LinearGradient(
+                                                        colors: [
+                                                            Color(red: 139/255, green: 92/255, blue: 246/255).opacity(0.08),
+                                                            Color(red: 124/255, green: 58/255, blue: 237/255).opacity(0.05)
+                                                        ],
+                                                        startPoint: .topLeading,
+                                                        endPoint: .bottomTrailing
+                                                    )
+                                                )
+                                        }
+                                    )
+                                    .overlay(
+                                        RoundedRectangle(cornerRadius: 16)
+                                            .stroke(Color.white.opacity(0.2), lineWidth: 1)
+                                    )
+                                    .shadow(color: Color.black.opacity(0.1), radius: 4, x: 0, y: 2)
+                                }
+                            }
+                        })
+                        .padding(.horizontal)
+
                         // Lock Settings section
                     GlassCard(standard: {
                         VStack(spacing: 24) {

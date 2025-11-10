@@ -5,7 +5,8 @@ import SwiftUI
 struct HybridTutorialOverlay: View {
     @Binding var isPresented: Bool
     let anchors: [String: CGPoint]
-    @State private var currentStep = 0
+    @Binding var currentStep: Int
+    let onStepChange: (Int) -> Void
 
     private let steps: [TutorialStepData] = [
         TutorialStepData(
@@ -180,6 +181,7 @@ struct HybridTutorialOverlay: View {
     private func nextStep() {
         if currentStep < steps.count - 1 {
             currentStep += 1
+            onStepChange(currentStep)
         } else {
             UserDefaults.standard.set(true, forKey: "hasSeenQuoteTutorial")
             isPresented = false

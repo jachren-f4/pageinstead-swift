@@ -28,8 +28,11 @@ xcodebuild -project PageInstead.xcodeproj -scheme PageInstead \
 ## Features
 
 ### Core
-- **Time-synced quotes**: 5-minute windows, 292 quotes from 147 books
+- **Time-synced quotes**: 5-minute windows, 369 quotes from 147+ books across 10 balanced categories
 - **App groups**: Custom rules per group (pause timer, daily limit, schedule)
+  - Shows up to 5 actual app icons using iOS native rendering
+  - Remaining apps shown with "+X" badge
+  - App count displayed below icons (e.g., "7 apps")
 - **Unlock system**: Main app unlock with 30s window (no shield buttons)
 - **Unlock reminder**: 1-hour push notification after unlocking blocked apps
   - Message: "You left your apps unblocked. Come back and block them again."
@@ -47,6 +50,11 @@ xcodebuild -project PageInstead.xcodeproj -scheme PageInstead \
 - **Books screen**: Groups bookmarked quotes by book, shows book count, yellow bookmark button for removal with confirmation, formatted quotes with "..." prefix for lowercase starts, quote counter hidden for single-quote books
 - **Quote history**: Last 10 viewed quotes with stats card (today's count + streak), detail sheets with bookmark functionality, formatted quotes matching Quote screen style
 - **Book descriptions**: 4-line descriptions with book info (cover, title, author, category tags)
+- **Fair Use & Attribution**: Settings screen includes legal transparency section
+  - Explains fair use doctrine and transformative purpose
+  - Shows full attribution details (author, book, cover, Amazon link)
+  - Publisher contact for quote removal requests: `support@pageinstead.com`
+  - Access via: Settings → About Quotes → Fair Use & Attribution
 
 ### Restrictions
 - **Timer lock**: 5-120s countdown when accessing lock button or Settings
@@ -114,13 +122,43 @@ Tracks consecutive days without accessing blocked apps.
 - Timestamp-based pause timers (stateless Shield)
 - Daily reset + streak tracking at midnight
 
-## Adding Quotes
+### Image Loading & Caching
+Book cover images use a custom loader with retry logic and aggressive caching to handle network issues after app background suspension.
+
+**Features:**
+- 50MB memory cache + 200MB disk cache
+- 15s timeout (vs 60s default) for faster failure detection
+- Auto-retry: Up to 2 retries with exponential backoff (0.5s, 1.0s, 1.5s)
+- App resume handling: Failed images reload when app returns to foreground
+- iOS 16/17 compatible
+
+**Implementation:** `PageInsteadApp.swift:37-236` (ImageLoader + CachedAsyncImage)
+
+## Quote Library (Updated Nov 2025)
+
+**369 quotes** from **147+ books** across 10 categories with balanced representation:
+
+**Category Distribution:**
+- Business & Leadership (154 quotes)
+- Self-help & Growth (137 quotes)
+- Philosophy & Mindfulness (102 quotes)
+- Psychology & Relationships (72 quotes)
+- Creativity & Art (43 quotes)
+- Classics & Literature (35 quotes)
+- Women's Empowerment (32 quotes)
+- Productivity & Focus (32 quotes)
+- Science & Nature (24 quotes)
+- Spirituality & Meaning (24 quotes)
+
+**Recent Additions (Nov 2025):** 37 books added including *The Alchemist*, *Becoming*, *Sapiens*, *The Handmaid's Tale*, *Cosmos*, *Jane Eyre*, and more.
+
+### Adding Quotes
 
 Edit `PageInstead/Resources/quotes.json`:
 
 ```json
 {
-  "id": 296,
+  "id": 370,
   "text": "Your quote text here",
   "author": "Author Name",
   "bookTitle": "Book Title",
@@ -144,6 +182,8 @@ Edit `PageInstead/Resources/quotes.json`:
 **Quotes repeat**: Check QuoteScheduler has day-of-year offset: `(dayOfYear * 37)`.
 
 **Health score stuck at 75%**: You're in 3-day calibration. Wait until Day 4.
+
+**Images not loading**: After long background periods, images auto-retry when app resumes. Check console for `📸 ImageLoader` logs. Cache persists in `book_covers` directory.
 
 **Tab bar not transparent**: Missing `.ignoresSafeArea()` on tab backgrounds.
 

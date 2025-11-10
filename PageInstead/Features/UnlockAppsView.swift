@@ -123,9 +123,42 @@ class UnlockManager: ObservableObject {
         // Schedule 1-hour reminder notification
         UnlockReminderService.shared.scheduleReminderAfterUnlock()
 
-        // Remove all shields
-        store.shield.applications = nil
-        store.shield.webDomains = nil
+        // Get all apps from all groups
+        let groups = AppGroupManager.shared.groups
+        var allAppTokens: [String] = []
+        var allWebTokens: [String] = []
+
+        for group in groups {
+            for token in group.applicationTokens {
+                allAppTokens.append(String(describing: token))
+            }
+            for token in group.webDomainTokens {
+                allWebTokens.append(String(describing: token))
+            }
+        }
+
+        // Add all apps to temporary unlock list in App Groups
+        guard let defaults = UserDefaults(suiteName: appGroupID) else {
+            print("⚠️ UnlockManager: Could not access App Groups")
+            return
+        }
+
+        // Save unlocked apps list
+        if let encoded = try? JSONEncoder().encode(allAppTokens) {
+            defaults.set(encoded, forKey: "temporarily_unlocked_apps")
+        }
+
+        // Save unlocked domains list
+        if let encoded = try? JSONEncoder().encode(allWebTokens) {
+            defaults.set(encoded, forKey: "temporarily_unlocked_domains")
+        }
+
+        defaults.synchronize()
+
+        print("🔓 UnlockManager: Added \(allAppTokens.count) apps and \(allWebTokens.count) domains to temporary unlock list")
+
+        // Trigger ScreenTimeService to refresh shields (which will exclude unlocked apps)
+        ScreenTimeService.shared.refreshShields()
 
         isUnlocked = true
 
@@ -138,6 +171,18 @@ class UnlockManager: ObservableObject {
 
     func lockApps() {
         print("🔒 UnlockManager: Re-applying shields")
+
+        // Clear temporary unlock lists in App Groups
+        guard let defaults = UserDefaults(suiteName: appGroupID) else {
+            print("⚠️ UnlockManager: Could not access App Groups")
+            return
+        }
+
+        defaults.removeObject(forKey: "temporarily_unlocked_apps")
+        defaults.removeObject(forKey: "temporarily_unlocked_domains")
+        defaults.synchronize()
+
+        print("🔒 UnlockManager: Cleared temporary unlock lists")
 
         // Reapply shields by refreshing from ScreenTimeService
         ScreenTimeService.shared.refreshShields()
